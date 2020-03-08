@@ -1,36 +1,8 @@
-# Copyright (c) 2016-2020 Martin Donath <martin.donath@squidfunk.com>
-
-# Permission is hereby granted, free of charge, to any person obtaining a copy
-# of this software and associated documentation files (the "Software"), to
-# deal in the Software without restriction, including without limitation the
-# rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-# sell copies of the Software, and to permit persons to whom the Software is
-# furnished to do so, subject to the following conditions:
-
-# The above copyright notice and this permission notice shall be included in
-# all copies or substantial portions of the Software.
-
-# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-# FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-# FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-# IN THE SOFTWARE.
-
 # Project information
-site_name: Material for MkDocs
-site_description: A Material Design theme for MkDocs
-site_author: Martin Donath
-site_url: https://squidfunk.github.io/mkdocs-material/
-
-# Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
-edit_uri: ""
-
-# Copyright
-copyright: 'Copyright &copy; 2016 - 2020 Martin Donath'
+site_name: SFH Foundation
+site_description: Self, Soul, and Joyful Surrender
+site_url: http://sfhfoundation.com/site/
+site_dir: public/site
 
 # Configuration
 theme:
@@ -50,7 +22,7 @@ theme:
   feature:
     tabs: true
   palette:
-    primary: indigo
+    primary: orange
     accent: indigo
   font:
     text: Roboto
@@ -58,6 +30,8 @@ theme:
   favicon: assets/images/favicon.png
   logo:
     icon: "\uE80C"
+
+extra_css: [extra.css]
 
 # Plugins
 plugins:
@@ -68,14 +42,10 @@ plugins:
 # Customization
 extra:
   social:
-    - type: globe
-      link: http://struct.cc
-    - type: github-alt
-      link: https://github.com/squidfunk
-    - type: twitter
-      link: https://twitter.com/squidfunk
-    - type: linkedin
-      link: https://www.linkedin.com/in/squidfunk/
+    - type: 'github'
+      link: 'https://github.com/SFH-Foundation/sfhfoundation'
+    - type: 'twitter'
+      link: 'https://twitter.com/cryptowanderer'
 
 # Extensions
 markdown_extensions:
@@ -98,39 +68,88 @@ markdown_extensions:
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.inlinehilite
   - pymdownx.keys
-  - pymdownx.magiclink:
-      repo_url_shorthand: true
-      user: squidfunk
-      repo: mkdocs-material
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
-  - pymdownx.tilde
+  - pymdownx.extra
 
 # Page tree
 nav:
-  - Material: index.md
-  - Getting started: getting-started.md
-  - Extensions:
-    - Admonition: extensions/admonition.md
-    - CodeHilite: extensions/codehilite.md
-    - Footnotes: extensions/footnotes.md
-    - Metadata: extensions/metadata.md
-    - Permalinks: extensions/permalinks.md
-    - PyMdown: extensions/pymdown.md
-  - Plugins:
-    - Minify HTML: plugins/minify-html.md
-    - Revision date: plugins/revision-date.md
-    - Search: plugins/search.md
-  - Specimen: specimen.md
-  - Customization: customization.md
-  - Compliance with GDPR: compliance.md
-  - Release notes: release-notes.md
-  - Author's notes: authors-notes.md
-  - Contributing: contributing.md
-  - License: license.md
+- Home: '/'
+- Audio: 'https://sfhfoundation.com'
+- Newsletter: 'https://sfhfoundation.substack.com/'
+- Books:
+  - 'Books Overview': 'books/index.md'
+  - Islam and Sufism: 
+      - 'Transformative Worship in Islam': 'books/islam-sufism/transformative-worship.md'
+  - Spirituality and Philosophy:
+      - 'Ripples of Light': 'books/spirituality-philosophy/ripples-light.md' 
+  - Qur'anic Commentary:
+      - 'The Essential Message Of the Quran': 'books/quran/essential-quran.md'
+- Videos:
+  - 'Videos Overview': 'videos/index.md'
+  - From Darkness to Light: 'videos/darkness-to-light.md'
+  - Where Land Meets Sea: 'videos/where-land-meets-sea.md'
+  - Conferences:
+    - '2017 Sufi Conference': 'videos/conferences/2017.md'
+    - '2018 Sufi Conference': 'videos/conferences/2018.md'
+  - Quranic Commentary:
+    - 'Quran and Happiness': 'videos/quran/quran-happiness.md' 
+  - Conversations:
+      - 'Dr John Demartini': 'videos/conversations/demartini.md'
+      - 'Shaykh Muslim': 'videos/conversations/shaykh-muslim.md'  
+- Articles:
+  - 'Articles Overview': 'articles/index.md'
+  - 'Dhikr, Fikr, Himmah': 'articles/dhikr-fikr-himmah.md'
+- ASK:
+  - 'Academy of Self Knowledge': 'a-s-k/ask.md'
+  - Cosmology of the Self:
+    - 'Who am I?': 'a-s-k/cosmology-self/index.md'
+    - Course Outline:
+      - 'Early Childhood': 'a-s-k/cosmology-self/childhood.md'
+      - 'Ethics & Character Traits': 'a-s-k/cosmology-self/ethics-character-traits.md'
+      - 'Body-Mind-Spirit': 'a-s-k/cosmology-self/body-mind-spirit.md'
+  - The Prophetic Way of Life:
+    - 'Timeless Wisdom and the Modern World': 'a-s-k/prophetic-way/index.md'
+    - Course Outline:
+      - 'Conscious Worship': 'a-s-k/prophetic-way/conscious-worship.md'
+      - 'Evolving Relationships': 'a-s-k/prophetic-way/evolving-relationships.md'
+      - 'Guidance from Allah': 'a-s-k/prophetic-way/guidance-allah.md'
+- Guides:
+  - 'How to Get a High-Yield Savings Account on Ethereum': 'guides/ethereum-high-yield-savings-account.md'
+  - 'Deciphering a Transaction on Etherscan': 'guides/deciphering-a-transaction-on-etherscan.md'
+  - 'Graphical Guide to Understanding Uniswap': 'guides/graphical-guide-for-understanding-uniswap.md'
+  - 'The Ultimate Guide to the ENS': 'guides/guide-to-ens.md'
+- FAQ:
+  - 'Is Ethereum more expensive to use as price rises?': 'questions-about-ethereum/is-ethereum-more-expensive-to-use-as-price-rises.md'
+  - 'Why do you have to pay to use Ethereum?': 'questions-about-ethereum/why-do-you-have-to-pay-to-use-ethereum.md'
+  - 'Is Ether a security?': 'questions-about-ethereum/is-ether-a-security.md'
+  - 'Is Ethereum over 1TB in size?': 'questions-about-ethereum/is-ethereum-over-1tb-in-size.md'
+  - 'Is Ethereum immutable?': 'questions-about-ethereum/is-ethereum-immutable.md'
+  - 'Is Ether needed for transaction fees?': 'questions-about-ethereum/is-ether-needed-for-transaction-fees.md'
+  - "If Ethereum is open source why can't it be copied?": 'questions-about-ethereum/if-ethereum-is-open-source-why-cant-it-be-copied.md'
+  - 'What is the Ethereum difficulty bomb (Ice Age)?': 'questions-about-ethereum/what-is-the-difficulty-bomb.md'
+- Glossary:
+  - 'Acronyms': 'glossary/crypto-acronyms.md'
+  - 'ENS Domain Directory': 'glossary/ens-domains.md'
+  - Sideways Dictionary:
+    - 'What is the sideways dictionary?': 'glossary/sideways-dictionary/what-is-the-sideways-dictionary.md'
+    - '2FA': 'glossary/sideways-dictionary/2FA.md'
+    - 'Blockchain': 'glossary/sideways-dictionary/blockchain.md'
+    - 'Cold Storage': 'glossary/sideways-dictionary/cold-storage.md'
+    - 'Cryptojacking': 'glossary/sideways-dictionary/cryptojacking.md'
+    - 'DDOS': 'glossary/sideways-dictionary/ddos.md'
+    - 'Difficulty': 'glossary/sideways-dictionary/difficulty.md'
+    - 'Double Spend': 'glossary/sideways-dictionary/double-spend.md'
+    - 'Forks': 'glossary/sideways-dictionary/forks.md'
+    - 'Multi-Sig': 'glossary/sideways-dictionary/multi-sig.md'
+    - 'Smart Contract': 'glossary/sideways-dictionary/smart-contract.md'
+    - 'State Rent': 'glossary/sideways-dictionary/state-rent.md'
+    - 'Stateless Clients': 'glossary/sideways-dictionary/stateless-clients.md'
+    - 'Uncle Blocks': 'glossary/sideways-dictionary/uncle-blocks.md'
+    - 'Wei': 'glossary/sideways-dictionary/wei.md'
 
 # Google Analytics
 google_analytics:

@@ -1,0 +1,74 @@
+  [data-md-color-accent=black] .md-typeset a:active, [data-md-color-accent=black] .md-typeset a:hover {
+    color: blue!important;
+  }
+  
+  .md-typeset a {
+      color: #3f51b5!important;
+  }
+
+  [data-md-color-accent=red] .md-nav__link:focus, [data-md-color-accent=red] .md-nav__link:hover {
+    color: #3f51b5!important;
+  }
+
+  html .md-footer-meta.md-typeset a {
+    color: white!important
+  }
+
+  .hero-img {
+    width: 100vw;
+    height: 22vh;
+  }
+
+  .book-image, .video-image {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .cover-image {
+    width: 50%;
+    margin: 0 auto;
+  }
+
+  .book-link, .video-link {
+    background:#E0B24D;
+    border-radius: 5px;
+    width: 70%;
+    margin: 0 auto;
+  }
+
+  .book-link p, .video-link p {
+    padding: 5px;
+  }
+
+  .book-link a, .purchase-link a, .video-link a {
+    color: #fff !important;
+    font-weight: bold;
+  }
+
+  .purchase-link {
+    background:#E0B24D;
+    border-radius: 5px;
+    width: 30%;
+    margin: 0 auto;
+  }
+
+  .purchase-link p {
+    padding: 5px;
+    text-align: center;
+  }
+
+  .article-image {
+    width: 25%;
+    margin-right: 20px;
+    float: left;
+  }
+
+  .article-para {
+    margin-top: 4%;
+  }
+
+@media (max-width: 761px) {
+  .hero-img {
+    height: 12vh;
+  }
+}
