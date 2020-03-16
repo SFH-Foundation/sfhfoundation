@@ -57,7 +57,6 @@
     {% endblock %}
     {% block styles %}
       <link rel="stylesheet" href="{{ 'assets/stylesheets/application.adb8469c.css' | url }}">
-      <link rel="stylesheet" href="{{ 'assets/stylesheets/material-components-web.min.css' | url }}">
       <link rel="stylesheet" href="{{ 'assets/stylesheets/mdc-web.css' | url }}">
       {% if palette.primary or palette.accent %}
         <link rel="stylesheet" href="{{ 'assets/stylesheets/application-palette.a8b3c06d.css' | url }}">
@@ -137,7 +136,6 @@
         {% include "partials/tabs.html" %}
       {% endif %}
       <main class="md-main" role="main">
-        <img class="hero-img" src="/images/sfh_banner.jpg" alt="Main hero" />
         <div class="md-main__inner md-grid" data-md-component="container">
           {% block site_nav %}
             {% if nav %}

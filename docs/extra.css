@@ -16,7 +16,7 @@
 
   .hero-img {
     width: 100vw;
-    height: 22vh;
+    height: 20vh;
   }
 
   .book-image, .video-image {
@@ -69,6 +69,14 @@
 
 @media (max-width: 761px) {
   .hero-img {
-    height: 12vh;
+    height: 16vh;
+  }
+
+  .md-typeset h1 {
+    font-size: 1.25rem
+  }
+
+  .md-typeset h2 {
+    font-size: 1rem;
   }
 }

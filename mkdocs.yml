@@ -1,7 +1,7 @@
 # Project information
 site_name: SFH Foundation
 site_description: Self, Soul, and Joyful Surrender
-site_url: http://sfhfoundation.com/site/
+site_url: https://sfh-foundation.github.io/sfhfoundation/site/
 site_dir: public/site
 
 # Configuration
@@ -77,17 +77,44 @@ markdown_extensions:
 
 # Page tree
 nav:
-- Home: '/'
-- Audio: 'https://sfhfoundation.com'
+- Home: '../'
+- Audio: 'https://sfh-foundation.github.io/sfhfoundation/'
 - Newsletter: 'https://sfhfoundation.substack.com/'
 - Books:
   - 'Books Overview': 'books/index.md'
   - Islam and Sufism: 
       - 'Transformative Worship in Islam': 'books/islam-sufism/transformative-worship.md'
-  - Spirituality and Philosophy:
-      - 'Ripples of Light': 'books/spirituality-philosophy/ripples-light.md' 
+      - 'The Thoughtful Guide to Islam': 'books/islam-sufism/thoughtful-guide-islam.md'
+      - 'The Thoughtful Guide to Sufism': 'books/islam-sufism/thoughtful-guide-sufism.md'
+      - 'Elements of Islam': 'books/islam-sufism/elements-islam.md'
+      - 'Elements of Sufism': 'books/islam-sufism/elements-sufism.md'
+      - 'Sufi Encounters: Sharing the Wisdom of Enlightened Sufis': 'books/islam-sufism/sufi-encounters.md'
+      - 'Witnessing Perfection: A Sufi Guide': 'books/islam-sufism/witnessing-perfection.md'
+      - 'The Sufi Way of Self-Enfoldment': 'books/islam-sufism/sufi-self-enfoldment.md'
+      - 'Prophetic Traditions in Islam: On the Authority of the Family of the Prophet': 'books/islam-sufism/prophetic-traditions.md'
   - Qur'anic Commentary:
-      - 'The Essential Message Of the Quran': 'books/quran/essential-quran.md'
+      - 'The Story of Creation in the Qur’an': 'books/quran/story-creation-quran.md'
+      - 'The Mercy of the Qur’an and The Advent of Zaman': 'books/quran/mercy-quran-advent-zaman.md'
+      - 'The Heart of the Qur’an - Surat Yā Sīn': 'books/quran/heart-quran-perfect-mizan.md'
+      - 'The Essential Message Of the Qur’an': 'books/quran/essential-quran.md'
+      - 'Sacred Alchemy: A Collection of Qur’anic Verses': 'books/quran/sacred-alchemy.md'
+      - 'Keys to the Qur’an - Volume 5 The Juz Amma': 'books/quran/keys-quran.md'
+      - 'Qur’an’s Prescription for Life': 'books/quran/quran-prescriptions.md'
+  - Spirituality and Philosophy:
+      - 'Ripples of Light': 'books/spirituality-philosophy/ripples-light.md'
+      - 'Pointers to Presence': 'books/spirituality-philosophy/pointers-presence.md'
+      - 'Sayings of the Prophet Muhammad': 'books/spirituality-philosophy/sayings-muhammad.md'
+      - 'Journey of the Self': 'books/spirituality-philosophy/journey-self.md'
+      - 'Friday Discourses': 'books/spirituality-philosophy/friday-discourses.md'
+      - 'Refinement of Character: Friday Discourses': 'books/spirituality-philosophy/refinement-character.md'
+      - 'Happiness in Life and After Death': 'books/spirituality-philosophy/happiness-life-death.md'
+      - 'Calling Allah By His Most Beautiful Names': 'books/spirituality-philosophy/calling-allah-beautiful-names.md'
+      - 'The Sayings & Wisdom of Imam `Ali': 'books/spirituality-philosophy/sayings-imam-ali.md'
+      - 'The Hikam - The Wisdom of Ibn `Ata’ Allah': 'books/spirituality-philosophy/hikam.md'
+      - 'Lantern of the Path': 'books/spirituality-philosophy/lantern-path.md'
+      - 'Son of Karbala - The Spiritual Journey of an Iraqi Muslim': 'books/spirituality-philosophy/son-karbala.md'
+      - '101 Helpful Illusions': 'books/spirituality-philosophy/101-helpful-illusions.md'
+      - 'Look Again': 'books/spirituality-philosophy/look-again.md'
 - Videos:
   - 'Videos Overview': 'videos/index.md'
   - From Darkness to Light: 'videos/darkness-to-light.md'
