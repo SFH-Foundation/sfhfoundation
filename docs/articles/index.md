@@ -17,7 +17,7 @@ A basic introduction to three critical and interrelated aspects of The Path: rem
 </div>
 
 <div markdown="3" class="article-link">
-[Read More](./islam-sufism/transformative-worship)
+[Read More](./dhikr-fikr-himmah)
 </div>
 
 </div>
