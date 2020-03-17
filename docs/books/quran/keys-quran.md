@@ -16,6 +16,12 @@ The new millennium opens in an age of great complexities, chaos and constant cha
 
 The message of the Qur’an emanates from the original Divine blueprint which also lies latent in the human heart. All of us seek the path of ease, knowledge, security, love and contentment. No happiness lasts unless it is based on the knowledge of Allah and submission to His intended purpose and ways. The Qur`an is the key to this awakening.
 
+Reality, or Allah, is not found in one particular place where we have to go in order to be near. It says in the Qur’an: 
+
+> “I am closer to you than your jugular vein” – 50:16. 
+
+What is stopping us from knowing Allah is ourselves. We are far because of the so-called “I” which constantly asserts itself. We must kill our “self” first while still alive, through surrender. We must be willing to totally surrender, from our hearts, if even for one moment. All the practices of the people of Allah are nothing but techniques to enable us to reach that state, to sit still with no thoughts, and to be pure energy.
+
 <div markdown="3" class="purchase-link">
 [Purchase Book](https://www.amazon.com/Keys-Quran-Commentary-Juz-Amma/dp/1928329047/)
 </div>

@@ -1,8 +1,10 @@
 title: Dhikr, Fikr, and Himmah
 
-description:
+description: A basic introduction to three critical and interrelated aspects of The Path: remembrance, discrimination, and the energy that arises from yearning.
 
 # Dhikr, Fikr, and Himmah
+
+_By Shaykh Fadhlalla Haeri, from the book [“The Sufi Way to Self-Unfoldment”](../../books/sufism/sufi-way-self-enfoldment)_.
 
 The Path lies in _dhikr_, _fikr_ and _himmah_. _Dhikr_ is the remembrance of God, from whom I am separated by my self. It is this illusion that is caused by me that is the cause of this barrier, separation. So it is a process of elimination. If I overcome the self, if I remove all of these images, all of these goggles that I have erroneously put on, then I am bound to be less separated from that which is the source of all beingness.
 
@@ -23,5 +25,3 @@ So there must be a beginning. The extent of new speed of the raft, floating on t
 So the three basic requirements of the Path are entirely interrelated. Each of them reinforces the others, both in quantity and quality. If I have greater awareness, then more discrimination will constantly illuminate my actions. Therefore, more of my new actions will be such that they are not likely to enhance the self in me. Slowly, one observes the vanishing ‘I’-ness: arrogance, vanity, personality. So the outcome of the path towards self-knowledge is getting rid of the impermanent. Get rid of the ‘I’ and you will see the real self. It is a process of elimination. The embryonic seed of real knowledge is in everyone. But, in most cases, it has been tarnished or covered by the layers of the personality.
 
 ![Always remembering](./img/sfh_dhikr.jpg)
-
-By Shaykh Fadhlalla Haeri, from the book _“The Sufi Way to Self-Unfoldment”_

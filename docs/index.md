@@ -8,6 +8,8 @@ The goal of this archive is to provide a single source of information about an o
 2. [Audio](https://sfhfoundation.com) - Various recordings of the Shaykh's talks
 3. [Newsletter](https://sfhfoundation.substack.com) - Our community newsletter
 
+The only contact we have with Allah is now. Yesterday is of no use and we don’t know if we will be here tomorrow or not. The only gift we have is the present moment. If the moment is fully and utterly treasured then we are at the gateway of eternity.
+
 This site is the core of SFH Foundation. Our knowledge is open source and hosted on GitHub which means that anyone has the ability to contribute. The goal is to make sure the information is available, clear, concise and up to date.
 
 ## Contribution Guidelines
@@ -19,5 +21,3 @@ There are also some basic guidelines that need to be followed when contributing 
 * All pages should have links to supporting sources/documentation and additional resources
 * No marketing or sponsored posts
 * No inappropriate content
-
-**DISCLAIMER: The SFH Foundation is a completely independent and open-source initiative.**

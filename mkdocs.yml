@@ -130,7 +130,7 @@ nav:
       - 'Introduction': 'books/biography/index.md'
       - 'Son of Karbala - The Spiritual Journey of an Iraqi Muslim': 'books/biography/son-karbala.md'
 - Videos:
-  - 'Videos Overview': 'videos/index.md'
+  - 'Overview': 'videos/index.md'
   - From Darkness to Light: 'videos/darkness-to-light.md'
   - Where Land Meets Sea: 'videos/where-land-meets-sea.md'
   - Conferences:
@@ -142,8 +142,17 @@ nav:
       - 'Dr John Demartini': 'videos/conversations/demartini.md'
       - 'Shaykh Muslim': 'videos/conversations/shaykh-muslim.md'  
 - Articles:
-  - 'Articles Overview': 'articles/index.md'
+  - 'Overview': 'articles/index.md'
   - 'Dhikr, Fikr, Himmah': 'articles/dhikr-fikr-himmah.md'
+  - 'The Practice of Stillness': 'articles/practice-stillness.md'
+  - 'Less is More': 'articles/less-is-more.md'
+  - 'Fasting': 'articles/fasting.md'
+  - 'Eid - The Return': 'articles/eid.md'
+  - 'Natural Illusions': 'articles/natural-illusions.md'
+  - 'Decree, Destiny and Enlightenment': 'articles/decree-destiny-enlightenment.md'
+  - 'The Thread of Truth': 'articles/thread-of-truth.md'
+  - 'Sufism and the Sufi': 'articles/sufism-sufi.md'
+  - 'Levels of Pilgrimage': 'articles/levels-of-pilgrimage.md'
 - ASK:
   - 'Academy of Self Knowledge': 'a-s-k/ask.md'
   - Cosmology of the Self:
@@ -158,39 +167,22 @@ nav:
       - 'Conscious Worship': 'a-s-k/prophetic-way/conscious-worship.md'
       - 'Evolving Relationships': 'a-s-k/prophetic-way/evolving-relationships.md'
       - 'Guidance from Allah': 'a-s-k/prophetic-way/guidance-allah.md'
-- Guides:
-  - 'How to Get a High-Yield Savings Account on Ethereum': 'guides/ethereum-high-yield-savings-account.md'
-  - 'Deciphering a Transaction on Etherscan': 'guides/deciphering-a-transaction-on-etherscan.md'
-  - 'Graphical Guide to Understanding Uniswap': 'guides/graphical-guide-for-understanding-uniswap.md'
-  - 'The Ultimate Guide to the ENS': 'guides/guide-to-ens.md'
-- FAQ:
-  - 'Is Ethereum more expensive to use as price rises?': 'questions-about-ethereum/is-ethereum-more-expensive-to-use-as-price-rises.md'
-  - 'Why do you have to pay to use Ethereum?': 'questions-about-ethereum/why-do-you-have-to-pay-to-use-ethereum.md'
-  - 'Is Ether a security?': 'questions-about-ethereum/is-ether-a-security.md'
-  - 'Is Ethereum over 1TB in size?': 'questions-about-ethereum/is-ethereum-over-1tb-in-size.md'
-  - 'Is Ethereum immutable?': 'questions-about-ethereum/is-ethereum-immutable.md'
-  - 'Is Ether needed for transaction fees?': 'questions-about-ethereum/is-ether-needed-for-transaction-fees.md'
-  - "If Ethereum is open source why can't it be copied?": 'questions-about-ethereum/if-ethereum-is-open-source-why-cant-it-be-copied.md'
-  - 'What is the Ethereum difficulty bomb (Ice Age)?': 'questions-about-ethereum/what-is-the-difficulty-bomb.md'
+- Poetry:
+  - 'Overview': 'poetry/index.md'
+  - 'What Is It?': 'poetry/what-is-it.md'
+  - 'Morning in the Plantation': 'poetry/morning-plantation.md'
+  - 'Step With Caution': 'poetry/step-caution.md'
+  - 'Binary Experience': 'poetry/binary-experience.md'
+  - 'Human Modesty': 'poetry/human-modesty.md'
+  - 'Perpetual': 'poetry/perpetual.md'
+  - 'Big Questions': 'poetry/big-questions.md'
+  - 'The Candle': 'poetry/the-candle.md'
 - Glossary:
-  - 'Acronyms': 'glossary/crypto-acronyms.md'
-  - 'ENS Domain Directory': 'glossary/ens-domains.md'
+  - 'Arabic Terms': 'glossary/index.md'
+  - 'Key Words': 'glossary/key-words.md'
+  - 'Journey Words': 'glossary/journey-words.md' 
   - Sideways Dictionary:
     - 'What is the sideways dictionary?': 'glossary/sideways-dictionary/what-is-the-sideways-dictionary.md'
-    - '2FA': 'glossary/sideways-dictionary/2FA.md'
-    - 'Blockchain': 'glossary/sideways-dictionary/blockchain.md'
-    - 'Cold Storage': 'glossary/sideways-dictionary/cold-storage.md'
-    - 'Cryptojacking': 'glossary/sideways-dictionary/cryptojacking.md'
-    - 'DDOS': 'glossary/sideways-dictionary/ddos.md'
-    - 'Difficulty': 'glossary/sideways-dictionary/difficulty.md'
-    - 'Double Spend': 'glossary/sideways-dictionary/double-spend.md'
-    - 'Forks': 'glossary/sideways-dictionary/forks.md'
-    - 'Multi-Sig': 'glossary/sideways-dictionary/multi-sig.md'
-    - 'Smart Contract': 'glossary/sideways-dictionary/smart-contract.md'
-    - 'State Rent': 'glossary/sideways-dictionary/state-rent.md'
-    - 'Stateless Clients': 'glossary/sideways-dictionary/stateless-clients.md'
-    - 'Uncle Blocks': 'glossary/sideways-dictionary/uncle-blocks.md'
-    - 'Wei': 'glossary/sideways-dictionary/wei.md'
 
 # Google Analytics
 google_analytics:
