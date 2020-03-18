@@ -1,8 +1,8 @@
-title: The Different Levels of Pilgrimage
+title: The Different LevKindsels of Pilgrimage
 
 description: An overview of the different kinds of pilgrimage it is possible to undertake in Islam
 
-# The Different Level of Pilgrimage
+# The Different Kinds of Pilgrimage
 
 Many of the key words used in this article are explained in full detail in [this section of our glossary](../../glossary/journey-words)
 

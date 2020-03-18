@@ -24,3 +24,4 @@ description: A glossary of commonly used Arabic terms across this website
 6. Tawāf
 7. Sa\`y
 8. Wuqūf
+9. Aṣ-ṣafā and Al-marwah

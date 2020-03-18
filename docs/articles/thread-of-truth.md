@@ -21,3 +21,17 @@ Whenever I asked an enlightened teacher what my duties in life ought to be, I re
 Humans are driven to realize the highest level of consciousness. Sufism is a natural human expression of the quest for knowledge of what connects and unifies the universe in all its diversity; the links of the seen and the unseen – the thread of Truth.
 
 ![Thread of Truth](./img/sfh_thread_truth.jpg)
+
+## Understanding Unity (Tawhid)
+
+Allah says:
+
+> "You are certainly on a clear path, a straight and direct way" Qur'an, 36:04 
+
+The ‘straight path’ (_al-sirat al-mustaqim_) is the shortest distance between two points, between subject and object, between man and Allah. That is why it is direct, for it stretches from man to what he is always seeking, which is the All-Encompassing Reality. The understanding of unity (tawhid) is the straight path (al-sirat al-mustaqim), but it cannot be the subject of mere intellectual study. One must move along the path of submission (islam), through belief (iman) to sublime excellence (ihsan), until one begins to have glimpses of unity, through which one can then dive into the world of meaning.
+
+If the goal of unity (_tawhid_) is not constantly present in the minds of the Muslims, their Islam becomes diluted and falls by the wayside. Mosques become either totally empty or only superficially full, because most of the people there are attending only as a matter of form. In many parts of the Muslim world this is what one finds, because the path is no longer about remembrance of Allah (_dhikru’llah_), nor about wanting knowledge of Allah. In many places Islam itself has been put on a pedestal and is being worshipped instead of Allah. Islam, however, is a means to the knowledge of Allah, not the object itself.
+
+We all love what is timeless. We all love what is absolute. Does anyone not want to live forever, past this life and on into the next? This means that we all love the One Who is forever living. The love of Allah, therefore, is already in our hearts, but we become diverted, we rationalize: ‘Not now, tomorrow or next year, when I finish with this or that business.’ We blame other people for our lack of time and all our other problems as well. The truth is that we only have ourselves to blame.
+
+![Blame yourself](./img/sfh_blame.jpg)

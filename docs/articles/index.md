@@ -64,24 +64,6 @@ The accomplished Master will help the seeker to focus on his goal and the devote
 
 <div markdown="1" class="card article sidebar center">
 
-**Fasting**
-
-<div markdown="2" class="article-image">
-![Sufis](./img/sfh_laughing.jpg)
-</div>
-
-<div markdown="3" class="article-para">
-Everything you could ever want to know about fasting, it's history, its benefits, and its particular application in Islam.
-</div>
-
-<div markdown="3" class="article-link">
-[Read More](./fasting)
-</div>
-
-</div>
-
-<div markdown="1" class="card article sidebar center">
-
 **Eid - The Return**
 
 <div markdown="2" class="article-image">
@@ -174,18 +156,36 @@ Sufism has maintained a clear line of direct transmission of wisdom back to orig
 
 <div markdown="1" class="card article sidebar center">
 
-**Levels of Pilgrimage**
+**The Shock of Awakening**
 
 <div markdown="2" class="article-image">
-![Pilgrimage](./img/pilgrimage.jpg)
+![Sufis](./img/sfh_divine_madness.jpg)
 </div>
 
 <div markdown="3" class="article-para">
-An overview of the different kinds of pilgrimage it is possible to undertake in Islam.
+Succour for those experience inner realities which make them question their sanity in the context of an outer world and society which largely denies the existence of such states of consciousness.
 </div>
 
 <div markdown="3" class="article-link">
-[Read More](./levels-of-pilgrimage)
+[Read More](./shock-awakening)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**To Be Alive**
+
+<div markdown="2" class="article-image">
+![Sufis](./img/sfh_alive.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+A brief explanantion of the two kinds of being alive and the essential differences between them, especially in terms of limited conditionality.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./to-be-alive)
 </div>
 
 </div>

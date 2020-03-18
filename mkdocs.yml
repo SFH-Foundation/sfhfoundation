@@ -146,13 +146,13 @@ nav:
   - 'Dhikr, Fikr, Himmah': 'articles/dhikr-fikr-himmah.md'
   - 'The Practice of Stillness': 'articles/practice-stillness.md'
   - 'Less is More': 'articles/less-is-more.md'
-  - 'Fasting': 'articles/fasting.md'
   - 'Eid - The Return': 'articles/eid.md'
   - 'Natural Illusions': 'articles/natural-illusions.md'
   - 'Decree, Destiny and Enlightenment': 'articles/decree-destiny-enlightenment.md'
   - 'The Thread of Truth': 'articles/thread-of-truth.md'
   - 'Sufism and the Sufi': 'articles/sufism-sufi.md'
-  - 'Levels of Pilgrimage': 'articles/levels-of-pilgrimage.md'
+  - 'The Shock of Awakening': 'articles/shock-awakening.md'
+  - 'To Be Alive': 'articles/to-be-alive.md'
 - ASK:
   - 'Academy of Self Knowledge': 'a-s-k/ask.md'
   - Cosmology of the Self:
@@ -170,6 +170,7 @@ nav:
 - Poetry:
   - 'Overview': 'poetry/index.md'
   - 'What Is It?': 'poetry/what-is-it.md'
+  - 'The First Journey': 'poetry/first-journey.md'
   - 'Morning in the Plantation': 'poetry/morning-plantation.md'
   - 'Step With Caution': 'poetry/step-caution.md'
   - 'Binary Experience': 'poetry/binary-experience.md'
@@ -177,6 +178,17 @@ nav:
   - 'Perpetual': 'poetry/perpetual.md'
   - 'Big Questions': 'poetry/big-questions.md'
   - 'The Candle': 'poetry/the-candle.md'
+  - 'Gravity': 'poetry/gravity.md'
+  - 'Troubles': 'poetry/troubles.md'
+  - 'The Passage of Time': 'poetry/passage-time.md'
+  - 'Sleepwalking': 'poetry/sleepwalking.md'
+- Aphorisms:
+  - 'Aphorisms': 'aphorisms/index.md'
+- Guides:
+  - 'Overview': 'guides/index.md'
+  - 'The Self and its Journeys': 'guides/7-stations-4-journeys.md'
+  - 'Fasting': 'guides/fasting.md'
+  - 'Pilgrimage': 'guides/pilgrimage.md'
 - Glossary:
   - 'Arabic Terms': 'glossary/index.md'
   - 'Key Words': 'glossary/key-words.md'

@@ -83,3 +83,7 @@ Thus, it is cried out in bewilderment:
 > "O my Lord, from the standpoint of the Truth of Existence, You are the Worshipper and You are the Worshipped, You are the Witness and the Witnessed."
 
 After this, the seeker must hasten to Makkah, which is referred to as the Presence of Oneness, in order to cease his wandering, attain a sense of security, bathe, and pray his sunrise prayer. This concludes all four spiritual Pillars of the Pilgrimage.
+
+### Aṣ-ṣafā and Al-marwah
+
+Throughout your life you run back and forth between two opposite things, like _aṣ-Ṣafā_ and _al-Marwah_. _Aṣ-Ṣafā_ and _al-Marwah_ are two clusters of rocks between which the pilgrim runs back and forth. They are the scene of Hajar’s running to and fro in search of water, after being left alone with ‘Ismail in the blistering heat and wilderness of Mecca. They figuratively bracket all human efforts, from hunger to fullness, from illness to wellness, and man’s patience and _tawakkul_ (trust, confidence) in Allah are tested through running between them. _Aṣ-Ṣafā_ and _al-Marwah_, and the practice of _sa’y_ (running between the two of them), are indeed true signs of Allah. Man performs _sa’y_ throughout his life in his constant search for true contentment, seeking it outwardly, not knowing that the access to it is already within him. 

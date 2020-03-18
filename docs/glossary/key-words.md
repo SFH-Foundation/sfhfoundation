@@ -28,6 +28,12 @@ Fajr means “dawn, the first light of the morning.” Fajara, the root of fajr,
 
 From the knowledge that all creation exists according to a measure and is moving toward a destiny according to that measure, comes the peace of certainty. This inner certainty, which illumines all possible outer manifestations, brings about an equilibrium and balance that renders the awakened being in a state full of harmony and unity. The meaning of that peace, which is the result of knowledge, resides inherently in every heart. For the seed to be unearthed, the heart must be purified and made open. The seeker of the knowledge of Allah spends his days of darkness and nights of vigil awaiting the descent of the opening, and when that occurs it is like the crack of dawn.
 
+### Dhikr
+
+The Arabic word for remembrance is _dhikr_. Remembrance is of several types or levels. There is the remembrance of physical things, which are in front of us, and there is the remembrance of one’s desires, anxieties, and so on. Along the spiritual path, remembrance relates to that which is in one’s innate nature. It is the remembrance of the Essence of Allah the Almighty, of the Source of all manifestations and attributes. That source is within everybody. On the Sufi path, one is required to dis-remember everything else that is discernible, everything that is other than Allah, in order to return to the original remembrance. The Arabic word for remembrance of Allah is dhikru’llah.
+
+So the original remembrance of Allah is already in every heart, whether one is aware of it or not. Through the guidance of a spiritual master, the seeker is led beyond, to a level where there is no remembrance of anything that is mentionable. Then that which has always been there, encompassing everything, is eventually experienced and witnessed. The purpose of Sufi practices is to be spontaneously aware of the absolute or central reality as well as remaining aware of the physical and material limitations of the phenomenal world which surrounds us. One is an inner awareness beyond the senses and the other is an outer awareness which is based on senses.
+
 ### Qadr and Qaḍā’
 
 > "Certainly, We sent it down on the Night of the Decree."

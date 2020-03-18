@@ -40,4 +40,12 @@ As you are wading, there may be occasions when you slip or lose your foothold; d
 
 All these approaches will help move you along towards higher consciousness.
 
+## The Origin
+
+Ultimately, we're seeking the origin for everything. How did it come about? How did an insect evolve to become what it is? What is the origin of an idea? How did the notion of God come about? What is the origin of life? Who am I descended from? Maybe there was a great being or hero among my ancestors. Perhaps that is why I feel special!
+
+We want to identify with power, honour and glory. This quest is within conditioned consciousness. What, however, is the origin of the seed of questing origin? That primal drive is inseparable from life, consciousness and the root and origin of the beginning of creation. We have evolved to be aware of awareness itself. Consider the four main substances: fire, water, air and earth. Fire and light are at the root of conscious life. Our nervous system depends upon electromagnetic actions upon neurons. Without air for a few minutes, the brain is dead. Without water and all the minerals, we cannot survive. Our origin is cosmic and we have within us all of the attributes of cosmic dust and lights. Over a hundred different elements. Our physical survival, depends upon other living creatures, animals and plants. We maintain ourselves by eating fruit and roots and vegetables whose origin is dust, water, air and sun. But human survival needs more than earth and water – our life is dependent on more basic forms of life.
+
+Within conditioned consciousness, we question, reflect, share, and try to discover what the original cause is. Once we are at the point of neutrality, then the light of inner perception beams from the Soul, reflecting the divine spirit of the Origin. The question is replaced with a taste of Reality and the experience of Oneness – a glorious answer which ends all questions – your personal entity is now in inseparable connection with the Cosmic Reality.
+
 ![People of the Light](./img/people-light.jpg)

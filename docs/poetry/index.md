@@ -115,3 +115,73 @@ description: Overview of Poetry Section
 </div>
 
 </div>
+
+<div markdown="1" class="card poetry sidebar center gemoji center-content">
+
+**Gravity**
+
+<div markdown="2" class="book-image">
+![Gravity](./img/sfh_gravity.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./gravity)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Troubles**
+
+<div markdown="2" class="book-image">
+![Gravity](./img/sfh_troubles.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./troubles)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**The First Journey**
+
+<div markdown="2" class="book-image">
+![The First Journey](./img/sfh_first_journey.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./first-journey)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**The Passage of Time**
+
+<div markdown="2" class="book-image">
+![The First Journey](./img/sfh_passage.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./passage-time)
+</div>
+
+</div>
+
+<div markdown="1" class="card poetry sidebar center gemoji center-content">
+
+**Sleepwalking**
+
+<div markdown="2" class="book-image">
+![Gravity](./img/sfh_sleepwalking.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./sleepwalking)
+</div>
+
+</div>
