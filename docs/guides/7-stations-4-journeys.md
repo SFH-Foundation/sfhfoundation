@@ -2,7 +2,7 @@ title: The 7 Statiosn of Self and The 4 Journeys
 
 description: A basic mapping of the modern self, it's different levels, and the journeys it can undergo in this life as it progresses through various layers or rungs of consciousness.
 
-# The 7 Statiosn of Self and The 4 Journeys
+# The 7 Stations of Self and The 4 Journeys
 
 **Note 1**: _The map is not the territory, and these overviews are provided for committed seekers who have already walked at least some way along the path. No-one can tell you who you are. It is important that you read the article [Less is More](../../articles/less-is-more) and reflect fully on it before you go through these guides._
 

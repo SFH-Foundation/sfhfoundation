@@ -64,6 +64,24 @@ The accomplished Master will help the seeker to focus on his goal and the devote
 
 <div markdown="1" class="card article sidebar center">
 
+**Pointers to Haqq**
+
+<div markdown="2" class="article-image">
+![Pointing to Haqq](./img/sfh_journeys.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+Human needs, desires and questions never end. We always hope to discover answers to our day-to-day questions as well as the big questions in life. How did life begin? How and when will life end? Who am I really?
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./pointers-to-haqq)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
 **Eid - The Return**
 
 <div markdown="2" class="article-image">
@@ -186,6 +204,42 @@ A brief explanantion of the two kinds of being alive and the essential differenc
 
 <div markdown="3" class="article-link">
 [Read More](./to-be-alive)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**The Parable of the Spider's House**
+
+<div markdown="2" class="article-image">
+![Sufis](./img/webs.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+One’s attachments, phobias and habits are as secure as the wisp of thought that repeatedly brings them about. The ultimate refuge is with Allah.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./parable-spider)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**The Journey of Transformation**
+
+<div markdown="2" class="article-image">
+![Sufis](./img/arrival.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+The world around us makes perfect sense only if we look at it through the eyes of Unity (_tawhīd_). No matter what we look at in existence, we find that it can always be traced back to its one original source, Allah.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./journey-transformation)
 </div>
 
 </div>
