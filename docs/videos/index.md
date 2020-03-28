@@ -169,13 +169,13 @@ description: An overview of all the videos of talks and conversations involving 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Purpose of Religion](./img/sfh_purpose_religion.jpg)
+![Perennial Questions](./img/sfh_perennial.jpg)
 </div>
 
-**The Purpose of Religion**
+**Perennial Questions**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=L9kWeKg5ULo)
+[Watch](https://www.youtube.com/watch?v=I2bEoGUt4uk)
 </div>
 
 </div>
@@ -183,13 +183,13 @@ description: An overview of all the videos of talks and conversations involving 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Islam and Science](./img/sfh_islam_science.jpg)
+![The Perpetual Now](./img/sfh_foundation.jpg)
 </div>
 
-**Islam and Science**
+**The Perpetual Now**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=QnJCslNl4Lo)
+[Watch](https://www.youtube.com/watch?v=r5PDgtbdyoA)
 </div>
 
 </div>
@@ -197,13 +197,13 @@ description: An overview of all the videos of talks and conversations involving 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![What is the Meaning of Life?](./img/sfh_meaning_life.jpg)
+![Timeless Reality](./img/sfh_soul.jpg)
 </div>
 
-**What is the Meaning of Life?**
+**The Soul's Access to a Timeless Reality**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=pvOkp3hvmbQ)
+[Watch](https://www.youtube.com/watch?v=wmej6TkM25Y)
 </div>
 
 </div>
@@ -211,13 +211,13 @@ description: An overview of all the videos of talks and conversations involving 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Quest for Contentment](./img/sfh_quest_contentment.jpg)
+![The Zone of The Infinite](./img/sfh_conduct.jpg)
 </div>
 
-**The Quest for Contentment**
+**The Zone of The Infinite**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=o3Z7sEMCv-E)
+[Watch](https://www.youtube.com/watch?v=ZLb8X31B_PY)
 </div>
 
 </div>
