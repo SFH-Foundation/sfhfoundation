@@ -103,6 +103,7 @@ div.three-column :first-child {
 }
 .card.video p {
   font-size: 14px;
+  height: 60px;
 }
 .card.flat {
   box-shadow: none;
