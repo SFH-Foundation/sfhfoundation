@@ -29,6 +29,10 @@
     margin: 0 auto;
   }
 
+  .video-image p {
+    margin-bottom: 40px;
+  }
+
   .book-link, .video-link {
     background:#E0B24D;
     border-radius: 5px;
@@ -36,8 +40,13 @@
     margin: 0 auto;
   }
 
-  .book-link p, .video-link p {
+  .book-link p {
     padding: 5px;
+  }
+
+  .video-link p {
+    padding: 5px;
+    height: 35px !important;
   }
 
   .book-link a, .purchase-link a, .video-link a {
@@ -70,6 +79,10 @@
   .cat-img img {
     height: 180px;
     margin: 0 0 0 30px;
+  }
+
+  .clear {
+    clear: both;
   }
 
 @media (max-width: 761px) {

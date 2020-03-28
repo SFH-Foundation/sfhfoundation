@@ -131,20 +131,26 @@ nav:
       - 'Son of Karbala - The Spiritual Journey of an Iraqi Muslim': 'books/biography/son-karbala.md'
 - Videos:
   - 'Overview': 'videos/index.md'
-  - From Darkness to Light: 'videos/darkness-to-light.md'
-  - Where Land Meets Sea: 'videos/where-land-meets-sea.md'
+  - Introduction: 'videos/introduction.md'
+  - Recommended: 'videos/recommended.md'
   - Conferences:
-    - '2017 Sufi Conference': 'videos/conferences/2017.md'
-    - '2018 Sufi Conference': 'videos/conferences/2018.md'
+    - '2016 - The Real and Realities': 'videos/conferences/2016.md'
+    - '2017 - Sufi Conference': 'videos/conferences/2017.md'
+    - '2018 - What Are We Seeking?': 'videos/conferences/2018.md'
+    - '2019 - The Universailty of the Human Quest': 'videos/conferences/2019.md'
+    - '2020 - Reflections and Actions': 'videos/conferences/2020.md'
   - Quranic Commentary:
-    - 'Quran and Happiness': 'videos/quran/quran-happiness.md' 
+    - 'Human Duty and Destiny': 'videos/quran/duty-destiny.md'
+    - 'Quran and Happiness': 'videos/quran/quran-happiness.md'
+    - 'From Darkness to Light': 'videos/quran/darkness-to-light.md'
+    - 'Sacred Expressions in the Qur’an': 'videos/quran/sacred-expressions.md'
+    - 'Prescriptions for Living': 'videos/quran/prescriptions-for-living.md'
   - Conversations:
-      - 'Dr John Demartini': 'videos/conversations/demartini.md'
+      - 'Collected Talks': 'videos/conversations/collected.md'
       - 'Shaykh Muslim': 'videos/conversations/shaykh-muslim.md'  
 - Articles:
   - 'Overview': 'articles/index.md'
   - 'Dhikr, Fikr, Himmah': 'articles/dhikr-fikr-himmah.md'
-  - 'The Practice of Stillness': 'articles/practice-stillness.md'
   - 'Less is More': 'articles/less-is-more.md'
   - 'Pointers to Haqq': 'articles/pointers-to-haqq.md'
   - 'Eid - The Return': 'articles/eid.md'
@@ -194,6 +200,7 @@ nav:
   - 'Aphorisms': 'aphorisms/index.md'
 - Guides:
   - 'Overview': 'guides/index.md'
+  - 'The Practice of Stillness': 'guides/practice-stillness.md'
   - 'The Self and its Journeys': 'guides/7-stations-4-journeys.md'
   - 'Fasting': 'guides/fasting.md'
   - 'Pilgrimage': 'guides/pilgrimage.md'

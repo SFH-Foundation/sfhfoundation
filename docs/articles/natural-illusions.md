@@ -2,9 +2,21 @@ title: Natural Illusions
 
 description:
 
-# Natural Illusions
+# Illusions
 
-_By Shaykh Fadhlalla Haeri, from the book [“101 Helpful Illusions”](../../books/practices-teachings/101-helpful-illusions)_.
+_By Shaykh Fadhlalla Haeri, from the book [“101 Helpful Illusions”](../../books/practices-teachings/101-helpful-illusions)_
+
+## Personal Illusions
+
+Life’s numerous paradoxes, enigmas and apparent contradictions can be resolved when we consider the human being as a balanced composition between the self (conditioned basic consciousness) and a soul (pure consciousness). We may feel secure and content regarding an aspect of our life and yet at the same time apprehensive or insecure regarding something else. Even when one feels upbeat and happy there lurks a shade of sadness, due to the temporariness of this state. There is a subconscious fear of loss of the pleasurable moment as we have already experienced previous mood swings. No ‘mental’ state or feelings is ever lost. The swing between contentment and the desires continue.
+
+Normal day-to-day human life contains countless illusions partly sensed and partly imagined or anticipated. The so-called ‘real’ life experiences are a result of a combination of subjective and objective factors, which in fact include fears, fantasies and wishful thinking. The ever-changing state of personal consciousness is dependent upon pure consciousness that permeates all existence. This sphere of constancy and wholeness engulfs and energises all lesser levels of consciousness.
+
+Conditioned consciousness drives us to pursue whatever ensures survival, strength and growth and a host of other earthly needs. We naturally delude ourselves into pursuing extra desires and ideas superfluous to survival and basic stability. For example, love for wealth or power may relate to satisfying needs for physical survival and social status up to a point. Similarly body chemistry drives us towards sexual gratification and procreation but it often becomes a means to stimulate mental ‘reward’ chemistry. Through the power of hunger we are driven to act and know how and where to discover food and shelter. Ultimately, the drive to satisfy worldly needs leads to higher and subtler states of harmony and wellbeing at the levels of body, mind and heart.
+
+Spiritual wisdom is the realization that on its own the self/ego can never attain perfection or happiness. It is by transcending all illusions and so-called realities that we awaken to the ever-present Real. When the outer challenges lead to inner transformation, the joys of unity overflow beyond all that is seen and unseen.
+
+## Natural Illusions.
 
 Nature can be deceptive in many ways and at different levels of subtlety or obviousness. Rainbow colours appear to reveal the vibrant components of light, yet there is a far boarder range of frequencies and wavelengths in light than we can visibly discern. The common assumption is that light is what enables us to see; the rest of the story eludes us. For example, birds have learned many ways to distract potential threats from their nests. Often the male bird acts as a decoy while the female lays still on the eggs, blending in with her surroundings; a trick which gives birds an advantage in order to survive. In fact, nature is full of deceptions and illusions.
 

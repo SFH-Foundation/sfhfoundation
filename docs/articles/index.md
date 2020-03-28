@@ -24,26 +24,6 @@ A basic introduction to three critical and interrelated aspects of The Path: rem
 
 <div markdown="1" class="card article sidebar center">
 
-**The Practice of Stillness**
-
-<div markdown="2" class="article-image">
-![People of Light](./img/people-light.jpg)
-</div>
-
-<div markdown="3" class="article-para">
-A description of the three stages in the practice of stillness in body, mind, and heart.
-
-We begin with proper preparation and intention, move into the ocean, and then transcend space and time. Various techniques from visualisation and _dhikr_, to recitation of the Qur'an are described briefly in this piece.
-</div>
-
-<div markdown="3" class="article-link">
-[Read More](./practice-stillness)
-</div>
-
-</div>
-
-<div markdown="1" class="card article sidebar center">
-
 **Less is More**
 
 <div markdown="2" class="article-image">
