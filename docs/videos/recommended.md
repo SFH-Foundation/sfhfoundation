@@ -111,6 +111,20 @@ This page is intended for more serious students of the Shaykh's who are already 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![A Review of the Human Journey](./img/sfh_human_journey.jpg)
+</div>
+
+**A Review of the Human Journey**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=UrbH_90s3fY&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=69&t=0s)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![State of Humanity](./img/sfh_state_humanity.jpg)
 </div>
 
@@ -121,6 +135,36 @@ This page is intended for more serious students of the Shaykh's who are already 
 </div>
 
 </div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Two Aspects of Man](./img/sfh_two_aspects.jpg)
+</div>
+
+**The Two Aspects of Man**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=buCr-w7Ezcg&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=11)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Reflections Between Space and Time](./img/sfh_reflections.jpg)
+</div>
+
+**Reflections Between Space and Time**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=7wg8_mXXQ6g&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=41&t=0s)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
 
 ## Perennial, Perpetual Perfection
 
@@ -180,7 +224,7 @@ This page is intended for more serious students of the Shaykh's who are already 
 
 </div>
 
-## Witness Contentment
+## Witnessing Contentment
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -238,6 +282,8 @@ This page is intended for more serious students of the Shaykh's who are already 
 
 </div>
 
+If this topic truly interests you, please take a look at this page which is devoted to a series of talks Shaykh Fadhlalla gave on the theme of [Ultimate Contentment](../conversations/ultimate-contentment).
+
 ## Light
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
@@ -267,3 +313,91 @@ This page is intended for more serious students of the Shaykh's who are already 
 </div>
 
 </div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![He Causes The Night To Enter The Day](./img/sfh_night_day.jpg)
+</div>
+
+**He Causes The Night To Enter The Day**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=6uA4QZ8Owek&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=14&t=0s)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Light Beyond Discernible Light](./img/sfh_soul_meaning.jpg)
+</div>
+
+**The Soul: A Light Beyond Discernible Light**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=Qk5oxNUZ4MQ&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=62&t=0s)
+</div>
+
+</div>
+
+## True Beams
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Beams of Qur'anic Illumination](./img/sfh_beams.jpg)
+</div>
+
+**Beams of Qur'anic Illumination**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=tBuYZCsSa34&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=64&t=0s)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Land of Nowhere, Na Kuja Abad](./img/sfh_nowhere.jpg)
+</div>
+
+**Land of Nowhere, Na Kuja Abad**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=l_LPV9-y5jk&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=46&t=0s)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Are You Ready to Face the Absolute?](./img/sfh_absolute.jpg)
+</div>
+
+**Are You Ready to Face the Absolute?**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=YrDrrh5Ol5Q&list=PLzFr0xRIkb3gZ8fH7Ru4Z0aCngiEgt4JJ&index=11)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![First, Last; Outer, Inner](./img/sfh_first_last.jpg)
+</div>
+
+**He is the First and the Last, the Outer and the Inner**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=qXAewLnAPw8&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=17&t=0s)
+</div>
+
+</div>
+
+If this topic interests you, please consider reading [the full book](../../books/quran/keys-quran) in which many of these beams are described in full detail by Shaykh Haeri.

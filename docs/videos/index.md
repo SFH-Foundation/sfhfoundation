@@ -222,7 +222,121 @@ description: An overview of all the videos of talks and conversations involving 
 
 </div>
 
+## Where Land Meets Sea
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Personality, Rise in Consciousness, 6th Extinction](./img/sfh_issue_personality.jpg)
+</div>
+
+**Personality, Consciousness, 6th Extinction**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=Be9oJjKUQ2k&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=1)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![From Limitations to the Limitless](./img/sfh_limitless.jpg)
+</div>
+
+**From Limitations to the Limitless**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=ZJoNO75NKX8&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=25&t=0s)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Surat al-Hadid Tafsir](./img/sfh_hadid.jpg)
+</div>
+
+**Surat al-Hadid Tafsir**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=TJDKN6p_SAA&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=45&t=0s)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Wanting to Change the World](./img/sfh_world_change.jpg)
+</div>
+
+**Wanting to Change the World**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=1kXmg0MilK4&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=53&t=0s)
+</div>
+
+</div>
+
 ## Most Watched
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Message to Western Muslims](./img/sfh_message.jpg)
+</div>
+
+**Message to Western Muslims**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=FWANw9AddMc)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Progress, Regress, and Elusive Happiness](./img/sfh_elusive.jpg)
+</div>
+
+**Progress, Regress, and Elusive Happiness**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=jWWo3BCLhhg)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Livestream](./img/sfh_quran_happiness.jpg)
+</div>
+
+**Qur'an And Happiness**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=AIg461OIlB8)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Who Am I?](./img/sfh_who.jpg)
+</div>
+
+**Who Am I?**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=Z5Ptnhr96v4&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=55&t=0s)
+</div>
+
+</div>
 
 
 

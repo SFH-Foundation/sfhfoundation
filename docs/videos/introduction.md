@@ -6,7 +6,23 @@ description: A collection of talks given by Shaykh Haeri considered by his stude
 
 ## Overarching Ideas
 
-These four videos are exemplary of some of the Shaykh's overarching ideas. While it is not possible to summarise his massive body of work into four simple videos, each one of these illustrates a key tenet of his teaching. Learning how to conduct one's self properly; how to be correct and courteous in all of one's outer actions naturally leads on to begin questioning some of the inner meanings so-called correct conduct is based upon. Questioning these is not actually a matter of faith, but of a certain kind of knowing that grows from seeing yourself, your thoughts, and your actions within the wider framework of what the Shaykh often calls "The Three C's" - connection, continuity and consciousness. This most useful and broad map, when applied with awareness and understanding, can lead one to experience this idea of differentiated sameness: seeing everywhere the multiple faces of One God.
+These four videos are exemplary of some of the Shaykh's overarching ideas. While it is not possible to summarise his massive body of work into four simple videos, each one of these illustrates a key tenet of his teaching. The three basic pillars of **Islam** (surrender, submission, acceptance), **Iman** (trust, faith) and **Ihsan** (contentment) will reveal the need to learn how to conduct one's self properly. 
+
+Being correct and courteous in all of one's outer actions naturally leads one to begin questioning some of the inner meanings so-called correct conduct is based upon. Questioning these is not actually a matter of faith, but of a certain kind of knowing that grows from seeing yourself, your thoughts, and your actions within the wider framework of what the Shaykh often calls "The Three C's" - connection, continuity and consciousness. This most useful and broad map, when applied with awareness and understanding, can lead one to experience differentiated sameness in every perfect moment: seeing everywhere the multiple faces of One God.
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Islam, Iman, Ihsan](./img/sfh_islam.jpg)
+</div>
+
+**Islam, Iman, Ihsan**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=R503LTlwdV0&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=20&t=0s)
+</div>
+
+</div>
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -18,20 +34,6 @@ These four videos are exemplary of some of the Shaykh's overarching ideas. While
 
 <div markdown="3" class="video-link">
 [Watch](https://youtu.be/_n9bjtTLbFQ)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Faith and Fear](./img/sfh_faith_fear.jpg)
-</div>
-
-**How Can You Keep Faith In Times of Fear?**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=Dm9nNnuaIhw)
 </div>
 
 </div>
@@ -211,6 +213,20 @@ These four videos are exemplary of some of the Shaykh's overarching ideas. While
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![Faith and Fear](./img/sfh_faith_fear.jpg)
+</div>
+
+**How Can You Keep Faith In Times of Fear?**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=Dm9nNnuaIhw)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Islam and Science](./img/sfh_islam_science.jpg)
 </div>
 
@@ -236,3 +252,104 @@ These four videos are exemplary of some of the Shaykh's overarching ideas. While
 
 </div>
 
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Soul: The Meaning Behind the Form](./img/sfh_soul_meaning.jpg)
+</div>
+
+**The Soul: The Meaning Behind the Form**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=WVsIR_eQ39c&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=51&t=0s)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Who Am I?](./img/sfh_who.jpg)
+</div>
+
+**Who Am I?**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=Z5Ptnhr96v4&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=55&t=0s)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![God Is With You, Wherever You Are](./img/sfh_wherever.jpg)
+</div>
+
+**God Is With You, Wherever You Are**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=3ty2v_NQ6ao&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=16&t=0s)
+</div>
+
+</div>
+
+## Where Land Meets Sea - A Selection
+
+Where Lands Meets Sea is a wonderful YouTube channel curated by some very close friends of the Shaykh Fadhlalla Haeri Foundation based in Sweden. We encourage you to watch as many of the videos as you can make time for on this fantastic channel. Below, we list some choice clips we have been enjoying:
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Personality, Rise in Consciousness, 6th Extinction](./img/sfh_issue_personality.jpg)
+</div>
+
+**Personality, Consciousness, 6th Extinction**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=Be9oJjKUQ2k&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=1)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![From Limitations to the Limitless](./img/sfh_limitless.jpg)
+</div>
+
+**From Limitations to the Limitless**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=ZJoNO75NKX8&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=25&t=0s)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Surat al-Hadid Tafsir](./img/sfh_hadid.jpg)
+</div>
+
+**Surat al-Hadid Tafsir**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=TJDKN6p_SAA&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=45&t=0s)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Wanting to Change the World](./img/sfh_world_change.jpg)
+</div>
+
+**Wanting to Change the World**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=1kXmg0MilK4&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=53&t=0s)
+</div>
+
+</div>

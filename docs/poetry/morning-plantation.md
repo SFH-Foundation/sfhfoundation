@@ -14,9 +14,11 @@ merging with colours, forms and stillness
 unified in the early light  
 in delight, in symphony, in harmony cloaked in white,  
 from light unto light  
-all defined by changing shadows confined to hills and meadows without   which there can be no vision nor desperation for divine admission.  
+all defined by changing shadows confined to hills and meadows without   
+which there can be no vision nor desperation for divine admission.  
   
-And awakening into colourless stillness into the presence of   Light-beyond-light the boundless Essence  
-behind and in front and within all sights — _Allah-Hu_.  
+And awakening into colourless stillness into the presence of  
+Light-beyond-light the boundless Essence  
+behind and in front and within all sights — _Allah-Hu_.
 
 ![Plantation Morning](./img/sfh_plantation.jpg)
