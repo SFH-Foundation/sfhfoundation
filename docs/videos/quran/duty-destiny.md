@@ -56,7 +56,7 @@ The uninterrupted playlist can be found [here](https://www.youtube.com/watch?v=k
 ![Surat Al 'Asr](../img/sfh_asr.jpg)
 </div>
 
-**Surat A' 'Asr**
+**Surat Al 'Asr**
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=WfkrvBHR9pU)

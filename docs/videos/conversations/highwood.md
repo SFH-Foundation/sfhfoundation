@@ -10,7 +10,7 @@ In order to introduce this section properly, we recommend you reflect upon one o
 
 ## Morning in the Plantation
 
-_By Shaykh Fadhlalla Haeri, from the book "The Four Journeys"_.
+_From the book "The Four Journeys"_.
 
 Parchment-like, thin as a muslin veil,  
 The radiant green banana fronds glistened  

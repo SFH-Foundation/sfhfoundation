@@ -68,6 +68,12 @@ Being correct and courteous in all of one's outer actions naturally leads one to
 
 ## The Spiritual Path
 
+We often search for what is labelled as Truth, God, Reality or The One. People who adhere to specific religions or paths consider theirs to be superior to others, even though there may be as many ways to God as there are human beings. The illusion of separation is the cause of all ignorance. The quest and need for a path arises due to the illusory experience of a separate identity and personal point of view.  
+
+Many search for a path to the Divine, though few seem to find one which is durable, sustainable and can serve as a container capable of bearing them along the entire distance they must travel (while revealing that distance to be just another illusion!).  
+
+A tried and tested truth, though, is that more the _[nafs](../glossary/key-words)_ is restricted, the narrower is the path and brighter the light of the soul. Everyone is on a path, whether consciously or unconsciously. The important thing is to have a trustworthy reference. On a jagged path, that reference will bring you back to easy passage. Then you are more efficient in realizing presence, uniting the visible and invisible, and returning to One.    
+
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
@@ -180,7 +186,11 @@ Being correct and courteous in all of one's outer actions naturally leads one to
 
 </div>
 
-## Personality, Purpose, Modernity, and Meaning
+## What Can You Control?
+
+Will, desire and ability are key forces in our life and quest for connectedness and continuity. We live according to what is within our domain to change or control. A child expresses anger and disappointment due to failure or the inability to achieve what they desire. God’s agent within us, our Soul, controls our life and its shadow image, self or ego. Yet the self falls into the illusion of control and ownership – this is my dog, my house or my cousin. When did these controls come about and for how long? The dog is a living entity with its own nature. We can only exercise some control with limited certainty.  
+
+As long as anything moves, its destiny and existence are uncertain. Nature provided a suitable, environment for life and consciousness to emerge within the confines of the womb of space and time - that is the history of life on earth. Howeverm that limited cosnciousness is charged by permanent consciousness, by **sacred beingness**. From this emerges a short-lived human life dependent always on eternal life. All is under Soul-control, but we are veiled by the ability to move and change. You can close the door or leave it open. You can leave this place or not. Speak or be silent. Limited, limited, limited. We are given a tiny opening to visualize the infinite, self-propelled universe, which is under perfect governance at all times. Human life is like a waiting room before we perceive the reality of perfect control, by One who permeates it all.    
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -290,6 +300,72 @@ Being correct and courteous in all of one's outer actions naturally leads one to
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=3ty2v_NQ6ao&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=16&t=0s)
+</div>
+
+</div>
+
+## Insight, The Soul and Calibration
+
+We often experience disappointment and frustrations. We also too often feel trapped, confused or lost. Why are we constantly faced with these challenges? This is due to the limitations of conditioned consciousness and ego. Between birth and death, we play roles in this shadow theatre of life, as we evolve towards our origin.  
+
+Frustrations arise out of the disparity between our higher Soul consciousness and the shadow self. How can we refer and calibrate our perceived experience with the constancy of the soul? It is helpful to have a role model, and more helpful to have a trusted teacher who reflects higher consciousness.            
+
+The zone of higher consciousness is infinite and beyond all descriptions like joy, bliss or happiness. A good example of how to move to higher consciousness is riding a bicycle. You are put on the saddle and somebody pushes you. After a while you learn to balance and you feel you can repeat it on your own. Similarly, you first need a map of Reality, and you then follow the path that may lead to your destination.  
+
+Determination and grace are required to awaken to your Soul. It is when you experience that ever-present Reality, you know that your old self was merely a shadow, of the Real. When you transcend your tyrannical or feral self, you perceive that its role was to cause that suffering and thereby act as a prelude for awakening. Your lower self leads you to your real self – the divine spirit within. Life on earth is a struggle because it is a realm of experience between limitations and limitless Reality. You need help and a guiding hand. You need a reference. You need Grace and perception of the sacred presence.    
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Insight](./img/sfh_insight.jpg)
+</div>
+
+**Insight**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=8roXpi3irZg)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Self-Soul Dynamics](./img/sfh_self_soul.jpg)
+</div>
+
+**Self-Soul Dynamics**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=s_XBbGUvpSw)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Calibration](./img/sfh_foundation.jpg)
+</div>
+
+**Calibration**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=jxNNs3haWW4)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Insight](./img/sfh_witness.jpg)
+</div>
+
+**Space, Time & Generosity**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=UwJyC0szP_I&t=2s)
 </div>
 
 </div>
