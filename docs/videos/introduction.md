@@ -72,7 +72,7 @@ We often search for what is labelled as Truth, God, Reality or The One. People w
 
 Many search for a path to the Divine, though few seem to find one which is durable, sustainable and can serve as a container capable of bearing them along the entire distance they must travel (while revealing that distance to be just another illusion!).  
 
-A tried and tested truth, though, is that more the _[nafs](../glossary/key-words)_ is restricted, the narrower is the path and brighter the light of the soul. Everyone is on a path, whether consciously or unconsciously. The important thing is to have a trustworthy reference. On a jagged path, that reference will bring you back to easy passage. Then you are more efficient in realizing presence, uniting the visible and invisible, and returning to One.    
+A tried and tested truth, though, is that more the _[nafs](../glossary/key-words)_ is restricted, the narrower the path becomes and the  brighter the light of the soul. Everyone is on a path, whether consciously or unconsciously. The important thing is to have a trustworthy reference. On a jagged path, that reference will bring you back to easy passage. Then you are more efficient in realizing presence, uniting the visible and invisible, and returning to One.    
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -190,7 +190,7 @@ A tried and tested truth, though, is that more the _[nafs](../glossary/key-words
 
 Will, desire and ability are key forces in our life and quest for connectedness and continuity. We live according to what is within our domain to change or control. A child expresses anger and disappointment due to failure or the inability to achieve what they desire. God’s agent within us, our Soul, controls our life and its shadow image, self or ego. Yet the self falls into the illusion of control and ownership – this is my dog, my house or my cousin. When did these controls come about and for how long? The dog is a living entity with its own nature. We can only exercise some control with limited certainty.  
 
-As long as anything moves, its destiny and existence are uncertain. Nature provided a suitable, environment for life and consciousness to emerge within the confines of the womb of space and time - that is the history of life on earth. Howeverm that limited cosnciousness is charged by permanent consciousness, by **sacred beingness**. From this emerges a short-lived human life dependent always on eternal life. All is under Soul-control, but we are veiled by the ability to move and change. You can close the door or leave it open. You can leave this place or not. Speak or be silent. Limited, limited, limited. We are given a tiny opening to visualize the infinite, self-propelled universe, which is under perfect governance at all times. Human life is like a waiting room before we perceive the reality of perfect control, by One who permeates it all.    
+As long as anything moves, its destiny and existence are uncertain. Nature provided a suitable environment for life and consciousness to emerge within the confines of the womb of space and time - that is the history of life on earth. Howeverm that limited cosnciousness is charged by permanent consciousness, by **sacred beingness**. From this emerges a short-lived human life dependent always on eternal life. All is under Soul-control, but we are veiled by the ability to move and change. You can close the door or leave it open. You can leave this place or not. Speak or be silent. Limited, limited, limited. We are given a tiny opening to visualize the infinite, self-propelled universe, which is under perfect governance at all times. Human life is like a waiting room before we perceive the reality of perfect control, by One who permeates it all.    
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -202,6 +202,20 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=4Ou8ji29XSg)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Parenthood](./img/sfh_parent.jpg)
+</div>
+
+**Parenthood**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=RXG30_xI0k8)
 </div>
 
 </div>
@@ -257,21 +271,7 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 **What is the Meaning of Life?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=pvOkp3hvmbQ)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Soul: The Meaning Behind the Form](./img/sfh_soul_meaning.jpg)
-</div>
-
-**The Soul: The Meaning Behind the Form**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=WVsIR_eQ39c&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=51&t=0s)
+[Watch](https://www.youtube.com/watch?v=7zvlBBK4vPA&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=48)
 </div>
 
 </div>
@@ -313,6 +313,20 @@ Frustrations arise out of the disparity between our higher Soul consciousness an
 The zone of higher consciousness is infinite and beyond all descriptions like joy, bliss or happiness. A good example of how to move to higher consciousness is riding a bicycle. You are put on the saddle and somebody pushes you. After a while you learn to balance and you feel you can repeat it on your own. Similarly, you first need a map of Reality, and you then follow the path that may lead to your destination.  
 
 Determination and grace are required to awaken to your Soul. It is when you experience that ever-present Reality, you know that your old self was merely a shadow, of the Real. When you transcend your tyrannical or feral self, you perceive that its role was to cause that suffering and thereby act as a prelude for awakening. Your lower self leads you to your real self – the divine spirit within. Life on earth is a struggle because it is a realm of experience between limitations and limitless Reality. You need help and a guiding hand. You need a reference. You need Grace and perception of the sacred presence.    
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![You Are Not the Past](./img/sfh_past.jpg)
+</div>
+
+**You Are Not the Past**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=QGHJW1iJg20)
+</div>
+
+</div>
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -359,6 +373,20 @@ Determination and grace are required to awaken to your Soul. It is when you expe
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![The Soul: The Meaning Behind the Form](./img/sfh_soul_meaning.jpg)
+</div>
+
+**The Soul: The Meaning Behind the Form**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=WVsIR_eQ39c&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=51&t=0s)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Insight](./img/sfh_witness.jpg)
 </div>
 
@@ -369,6 +397,36 @@ Determination and grace are required to awaken to your Soul. It is when you expe
 </div>
 
 </div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Levels of Enlightenment](./img/sfh_enlightenment.jpg)
+</div>
+
+**Different Levels of Enlightenment**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=5LUUgM1UFOU)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Forgiveness Talk](./img/sfh_forgiveness.jpg)
+</div>
+
+**Forgiveness and What Happens After Death**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=ckcXZs7mejE)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
 
 ## Where Land Meets Sea - A Selection
 
@@ -384,6 +442,20 @@ Where Lands Meets Sea is a wonderful YouTube channel curated by some very close 
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=Be9oJjKUQ2k&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=1)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Differentiated Samness](./img/sfh_diff_same2.jpg)
+</div>
+
+**Differentiated Sameness - Full**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=N6PemRIhThg&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=12&t=0s)
 </div>
 
 </div>
@@ -429,3 +501,47 @@ Where Lands Meets Sea is a wonderful YouTube channel curated by some very close 
 </div>
 
 </div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Free Will or Predetermination Talk](./img/sfh_free_will.jpg)
+</div>
+
+**Free Will or Predetermination?**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=yvbzO4dDgD0&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=39&t=0s)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Arc of Consciousness](./img/sfh_arc.jpg)
+</div>
+
+**The Arc of Consciousness**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=WiulqZyIAPU&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=43&t=0s)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Timeless Reality](./img/sfh_timeless.jpg)
+</div>
+
+**The Soul's Timeless Reality**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=A1U9abHA9Gg&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=63&t=0s)
+</div>
+
+</div>
+
+

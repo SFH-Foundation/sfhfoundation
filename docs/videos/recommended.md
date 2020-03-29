@@ -10,8 +10,7 @@ You have to be present all the time, visibly, physically, mentally. If you are n
 
 ## The Inseparability of Humanity and Divinity
 
-The universe is interconnected at countless levels from the most minute to the galactic. It is the extent of discernibility of these connections and forces that is sought by us.
-The newly born baby connects with its mother. After a few weeks emotions develop; eye contact and feelings bring about deeper connections. With maturity, subtler senses, feelings and connections develop.     
+The universe is interconnected at countless levels from the most minute to the galactic. It is the extent of discernibility of these connections and forces that is sought by us. The newly born baby connects with its mother. After a few weeks emotions develop; eye contact and feelings bring about deeper connections. With maturity; subtler senses, feelings and connections develop.     
 
 Consciousness of connections originates from our soul within the heart and takes physical chemical, intellectual and other dimensions. From that origin, numerous forces of connectedness emerge, most of which are invisible.
 
@@ -75,9 +74,23 @@ The different levels of connectedness and their priorities are understood due to
 
 ## Duality, Locality and Worldly Wisdom
 
-Quieting the mind is achieved only by discipline and proper behaviour, by living according to proper laws that govern all interactions. This is what is called _shari’ah_. So far, what we have been talking about is _haqiqah_, the inner reality: the individual and the secret of beingness and unity. In order to contain and conserve energy, the individual must move within certain boundaries, be governed by certain basic laws. The source of this knowledge is imprinted in the chromosomes of the individual. "Don’t do to others what you don’t want done to yourself." This is the basic of all moral conduct – the basis of all religions before they became tarnished and adapted, and all sorts of superimpositions were put onto them. It is the absolute code of behaviour. Unless we have correct outward behaviour, we cannot change inwardly.
+Quieting the mind is achieved only by discipline and proper behaviour, by living according to proper laws that govern all interactions. This is what is called _shari’ah_. So far, what we have been talking about is _haqiqah_, the inner reality: the individual and the secret of beingness and unity. In order to contain and conserve energy, the individual must move within certain boundaries, be governed by certain basic laws. The source of this knowledge is imprinted in the chromosomes of the individual. "Don’t do to others what you don’t want done to yourself." This is the basis of all moral conduct – the basis of all religions before they became tarnished and adapted, and all sorts of superimpositions were put onto them. It is the absolute code of behaviour. Unless we have correct outward behaviour, we cannot change inwardly.
 
-_From the book “[The Sufi Way to Self-Unfoldment](../../books/sufism/sufi-self-enfoldment)”_    
+_From the book “[The Sufi Way to Self-Unfoldment](../../books/sufism/sufi-self-enfoldment)”_ 
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Keys](./img/sfh_two_zones.jpg)
+</div>
+
+**Shadows and Light: Two Zones of Consciousness**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=UWhUAPhKkDg)
+</div>
+
+</div>
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -177,20 +190,6 @@ _From the book “[The Sufi Way to Self-Unfoldment](../../books/sufism/sufi-self
 
 </div>
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Patience](./img/sfh_patience.jpg)
-</div>
-
-**Patience**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=XbGToVGF4hg&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=23&t=0s)
-</div>
-
-</div>
-
 ## Now Is Eternal
        
 Identity relates to mind, memory and time. Thoughts connect the past to the present and future. Reflection, meditation and the silent mind enable us to experience the immense present moment – now.  
@@ -258,6 +257,22 @@ that yields a lasting thrill.
 </div>
 
 </div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Patience](./img/sfh_patience.jpg)
+</div>
+
+**Patience**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=XbGToVGF4hg&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=23&t=0s)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
 
 ## Witnessing Contentment
 
@@ -452,5 +467,21 @@ Everything that exists has an outer and an inner facet, which are in balance. Fo
 </div>
 
 </div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Keys](./img/sfh_keys.jpg)
+</div>
+
+**Keys to An Awakened Life**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=IByqUR_m-Ig)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
 
 If this topic interests you, please consider reading [the full book](../../books/quran/keys-quran) in which many of these beams are described in detail by Shaykh Haeri.

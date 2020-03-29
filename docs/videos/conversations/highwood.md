@@ -4,7 +4,7 @@ description:
 
 # Highwood Talks
 
-Shaykh Fadhlalla's personal residence is farm called Highwood in South Africa. This amazing and tranquil place has played host to many wonderful talks, gatherings and encounters over the years and on this page, you can find all of those that have been recorded, starting with the most recent.
+Shaykh Fadhlalla's personal residence is a farm called Highwood in South Africa. This amazing and tranquil place has played host to many wonderful talks, gatherings and encounters over the years and on this page, you can find all of those that have been recorded, starting with the most recent.
 
 In order to introduce this section properly, we recommend you reflect upon one of the Shaykh's poems in order to get some appreciation for the ambience surrounding many of these videos:
 

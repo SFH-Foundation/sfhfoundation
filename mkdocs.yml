@@ -134,10 +134,8 @@ nav:
   - Introduction: 'videos/introduction.md'
   - Recommended: 'videos/recommended.md'
   - Conferences:
-    - '2016 - The Real and Realities': 'videos/conferences/2016.md'
-    - '2017 - Sufi Conference': 'videos/conferences/2017.md'
     - '2018 - What Are We Seeking?': 'videos/conferences/2018.md'
-    - '2019 - The Universailty of the Human Quest': 'videos/conferences/2019.md'
+    - '2019 - The Human Quest': 'videos/conferences/2019.md'
     - '2020 - Reflections and Actions': 'videos/conferences/2020.md'
   - Qur’anic Commentary:
     - 'Human Duty and Destiny': 'videos/quran/duty-destiny.md'

@@ -111,13 +111,13 @@ description: An overview of all the videos of talks and conversations involving 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Self Conduct](./img/sfh_conduct.jpg)
+![Islam, Iman, Ihsan](./img/sfh_islam.jpg)
 </div>
 
-**Self Conduct**
+**Islam, Iman, Ihsan**
 
 <div markdown="3" class="video-link">
-[Watch](https://youtu.be/_n9bjtTLbFQ)
+[Watch](https://www.youtube.com/watch?v=R503LTlwdV0&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=20&t=0s)
 </div>
 
 </div>
@@ -125,13 +125,13 @@ description: An overview of all the videos of talks and conversations involving 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Faith and Fear](./img/sfh_faith_fear.jpg)
+![Self Conduct](./img/sfh_conduct.jpg)
 </div>
 
-**How Can You Keep Faith In Times of Fear?**
+**Self Conduct**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=Dm9nNnuaIhw)
+[Watch](https://youtu.be/_n9bjtTLbFQ)
 </div>
 
 </div>
