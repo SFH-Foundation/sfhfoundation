@@ -6,6 +6,8 @@ description: Everything you could ever want to know about fasting, it's history,
 
 _By Shaykh Fadhlalla Haeri, from the book "[Transformative Worship in Islam](../../books/general-islam/transformative-worship-islam)"_.
 
+_If you prefer listening to reading, you can find a full [audio series on fasting and abstention here](../../audios/series/abstention-fasting)_.
+
 Human interest in fasting is deeply rooted in our consciousness. Fasting has long been resorted to for maintaining physical and mental health as much as for cultural or political reasons. More specifically, fasting has been a devotional practice in most religious and spiritual movements throughout the ages.
 
 Islam has prescribed the practice of abstinence and fasting as a means of self-purification and worship. The act of restraining the self from fulfilling its desires purifies and enhances awareness at physical, mental and spiritual levels and sensitizes human consciousness. The seeker realizes the weakness of the self and is gratified by the discipline, restriction and prohibitions, for these limitations are windows to Allah’s limitlessness.
