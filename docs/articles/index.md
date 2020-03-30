@@ -190,6 +190,24 @@ A brief explanantion of the two kinds of being alive and the essential differenc
 
 <div markdown="1" class="card article sidebar center">
 
+**The Cycles of Life and Reality**
+
+<div markdown="2" class="article-image">
+![Cycles of Life](./img/sfh_cycles.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+A collection of excerpts on the topic of the Cycles of Life and Reality through which we all must travel on our life journey.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./cycles-life-reality)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
 **The Parable of the Spider's House**
 
 <div markdown="2" class="article-image">

@@ -6,7 +6,7 @@ description: A collection of talks given by Shaykh Haeri considered by his stude
 
 ## Overarching Ideas
 
-These four videos are exemplary of some of the Shaykh's overarching ideas. While it is not possible to summarise his massive body of work into four simple videos, each one of these illustrates a key tenet of his teaching. The three basic pillars of **Islam** (surrender, submission, acceptance), **Iman** (trust, faith) and **Ihsan** (contentment) will reveal the need to learn how to conduct one's self properly. 
+These four videos are exemplary of some of the Shaykh's overarching ideas. While it is not possible to summarise his massive body of work into four simple videos, each one of these illustrates a key tenet of his teaching. The three basic pillars of **Islam** (surrender, submission, acceptance), **Iman** (trust, faith) and **Ihsan** (contentment, excellence) will reveal the need to learn how to conduct one's self properly. 
 
 Being correct and courteous in all of one's outer actions naturally leads one to begin questioning some of the inner meanings so-called correct conduct is based upon. Questioning these is not actually a matter of faith, but of a certain kind of knowing that grows from seeing yourself, your thoughts, and your actions within the wider framework of what the Shaykh often calls "The Three C's" - connection, continuity and consciousness. This most useful and broad map, when applied with awareness and understanding, can lead one to experience differentiated sameness in every perfect moment: seeing everywhere the multiple faces of One God.
 
@@ -72,7 +72,7 @@ We often search for what is labelled as Truth, God, Reality or The One. People w
 
 Many search for a path to the Divine, though few seem to find one which is durable, sustainable and can serve as a container capable of bearing them along the entire distance they must travel (while revealing that distance to be just another illusion!).  
 
-A tried and tested truth, though, is that more the _[nafs](../glossary/key-words)_ is restricted, the narrower the path becomes and the  brighter the light of the soul. Everyone is on a path, whether consciously or unconsciously. The important thing is to have a trustworthy reference. On a jagged path, that reference will bring you back to easy passage. Then you are more efficient in realizing presence, uniting the visible and invisible, and returning to One.    
+A tried and tested truth, though, is that more the _[nafs](../../glossary/key-words)_ is restricted, the narrower the path becomes and the  brighter the light of the soul. Everyone is on a path, whether consciously or unconsciously. The important thing is to have a trustworthy reference. On a jagged path, that reference will bring you back to easy passage. Then you are more efficient in realizing presence, uniting the visible and invisible, and returning to One.    
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 

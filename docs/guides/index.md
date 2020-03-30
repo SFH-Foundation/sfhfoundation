@@ -6,7 +6,7 @@ description: Overview of the various guides and maps provided by Shaykh Fadhlall
 
 <div markdown="1" class="card article sidebar center">
 
-**The Practice of Stillness**
+**The Practices of Stillness, Meditation and Supplication**
 
 <div markdown="2" class="article-image">
 ![People of Light](./img/people-light.jpg)
@@ -20,6 +20,24 @@ We begin with proper preparation and intention, move into the ocean, and then tr
 
 <div markdown="3" class="article-link">
 [Read More](./practice-stillness)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Self Knowledge and Unfolding Into Presence**
+
+<div markdown="2" class="article-image">
+![Self Knowledge and Presence](./img/sfh_celebrate.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+A collection of excerpts from various books written by Shaykh Fadhlalla over the years on the theme of Self Knowledge, Presence, and how to deepen one's practice of both.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./self-knowledge-presence)
 </div>
 
 </div>

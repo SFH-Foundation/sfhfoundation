@@ -12,6 +12,8 @@ description: A basic mapping of the modern self, it's different levels, and the 
 
 The models below are only meant as examples to guide. The stages within a given model naturally overlap, and the entire spectrum within the model remains active to varying degrees of intensity within the human throughout one's life. In the first model, for example, the saint is not exempt from recognising a glimpse of the commanding self within.
 
+The self is like the layers of an onion. We remove one layer, and then another, and so on for our whole life. With each removal, the next layer becomes slightly easier to peel away. The outer layers are the hard ones. The more we unpeel, i.e. the more we undress ourselves of our own superimposed layers of personality, the freer and happier we become and the greater the chance of real fulfillment. Ultimately, when we reach a high state of inner awareness and when we have been truly and totally immersed in that state, that inner equilibrium, we have little or no clutter left in us and that is like reaching the last, inner layer of the onion. If we now take off that layer, what is there? Space!
+
 ### 1 - The Commanding Self
 
 The first and lowest station is that of the commanding self (_al-nafs al-ammara_). This is the station of one who is not sufficiently developed inwardly, who is crude and childish, base, egoistic and selfish, with little concern or connection with other than self-gratification.
