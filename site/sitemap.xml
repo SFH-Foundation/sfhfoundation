@@ -11,11 +11,6 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc></loc>
-     
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://sfh-foundation.github.io/sfhfoundation/site/books/</loc>
      <lastmod>2020-03-30</lastmod>
      <changefreq>daily</changefreq>
@@ -301,6 +296,51 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/audios/</loc>
+     <lastmod>2020-03-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/audios/single-talks/</loc>
+     <lastmod>2020-03-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/audios/series/enlightenment/</loc>
+     <lastmod>2020-03-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/audios/series/refinement-character/</loc>
+     <lastmod>2020-03-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/audios/series/descriptive-prescriptive-quran/</loc>
+     <lastmod>2020-03-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/audios/series/practice-enhance-experience/</loc>
+     <lastmod>2020-03-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/audios/series/islam-environment/</loc>
+     <lastmod>2020-03-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/audios/series/abstention-fasting/</loc>
+     <lastmod>2020-03-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/audios/series/quran-direct/</loc>
+     <lastmod>2020-03-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://sfh-foundation.github.io/sfhfoundation/site/articles/</loc>
      <lastmod>2020-03-30</lastmod>
      <changefreq>daily</changefreq>
@@ -367,6 +407,36 @@
     </url>
     <url>
      <loc>https://sfh-foundation.github.io/sfhfoundation/site/articles/journey-transformation/</loc>
+     <lastmod>2020-03-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/</loc>
+     <lastmod>2020-03-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/practice-stillness/</loc>
+     <lastmod>2020-03-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/self-knowledge-presence/</loc>
+     <lastmod>2020-03-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/7-stations-4-journeys/</loc>
+     <lastmod>2020-03-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/fasting/</loc>
+     <lastmod>2020-03-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/pilgrimage/</loc>
      <lastmod>2020-03-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -512,36 +582,6 @@
     </url>
     <url>
      <loc>https://sfh-foundation.github.io/sfhfoundation/site/aphorisms/</loc>
-     <lastmod>2020-03-30</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/</loc>
-     <lastmod>2020-03-30</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/practice-stillness/</loc>
-     <lastmod>2020-03-30</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/self-knowledge-presence/</loc>
-     <lastmod>2020-03-30</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/7-stations-4-journeys/</loc>
-     <lastmod>2020-03-30</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/fasting/</loc>
-     <lastmod>2020-03-30</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/pilgrimage/</loc>
      <lastmod>2020-03-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
