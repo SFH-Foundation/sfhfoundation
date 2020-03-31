@@ -421,17 +421,17 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/practice-meditation/</loc>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/practice/meditation/</loc>
      <lastmod>2020-03-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/practice-supplication/</loc>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/practice/supplication/</loc>
      <lastmod>2020-03-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/practice-stillness/</loc>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/practice/stillness/</loc>
      <lastmod>2020-03-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -441,12 +441,47 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/virtue-higher-conduct/</loc>
+     <lastmod>2020-03-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/self-knowledge-presence/</loc>
      <lastmod>2020-03-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/fasting/</loc>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/fasting/history/</loc>
+     <lastmod>2020-03-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/fasting/islamic/</loc>
+     <lastmod>2020-03-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/fasting/meaning-benefits/</loc>
+     <lastmod>2020-03-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/fasting/outward-abstention/</loc>
+     <lastmod>2020-03-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/fasting/inward-abstention/</loc>
+     <lastmod>2020-03-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/fasting/awakened-seeker/</loc>
+     <lastmod>2020-03-31</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfh-foundation.github.io/sfhfoundation/site/guides/fasting/feast-fast-breaking/</loc>
      <lastmod>2020-03-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
