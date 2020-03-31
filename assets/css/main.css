@@ -711,7 +711,6 @@ input, select, textarea {
 				width: 100%;
 			}
 		.image.logo {
-			border-radius: 50%;
 			width: 80px;
 			height: 80px;
 		}
@@ -1306,8 +1305,6 @@ input, select, textarea {
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
-			border: solid 1px #ffffff;
-			border-radius: 100%;
 		}
 
 			#header .logo .icon:before {
