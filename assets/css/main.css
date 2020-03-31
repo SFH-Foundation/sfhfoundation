@@ -175,12 +175,6 @@ input, select, textarea {
 		margin: 0 0 2rem 0;
 	}
 
-	.aliya {
-		margin: 0 auto;
-		height: 250px;
-		width: 250px !important;
-	}
-
 	h1, h2, h3, h4, h5, h6 {
 		color: #E0B24D;
 		font-weight: bold;
