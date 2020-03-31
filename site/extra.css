@@ -40,6 +40,19 @@
     margin: 0 auto;
   }
 
+  .audio-link {
+    background:#E0B24D;
+    border-radius: 5px;
+    width: 44%;
+    float: left;
+    margin: 4px 8px 0 0;
+    height: 30px !important;
+  }
+
+  .audio-link p {
+    margin-top: 5px;
+  }
+
   .book-link p {
     padding: 5px;
   }
@@ -49,7 +62,7 @@
     height: 35px !important;
   }
 
-  .book-link a, .purchase-link a, .video-link a {
+  .book-link a, .purchase-link a, .video-link a, .audio-link a {
     color: #fff !important;
     font-weight: bold;
   }
@@ -101,5 +114,9 @@
   .cat-img img {
     height: auto;
     margin: 0;
+  }
+
+  .audio-link {
+    margin: 4px 4px 0 0;
   }
 }
