@@ -1,12 +1,14 @@
-title: The 7 Statiosn of Self and The 4 Journeys
+title: Maps & Models of The Self and its Journeys
 
 description: A basic mapping of the modern self, it's different levels, and the journeys it can undergo in this life as it progresses through various layers or rungs of consciousness.
 
-# The 7 Stations of Self and The 4 Journeys
+# Maps & Models of The Self and its Journeys
 
 **Note 1**: _The map is not the territory, and these overviews are provided for committed seekers who have already walked at least some way along the path. No-one can tell you who you are. It is important that you read the article [Less is More](../../articles/less-is-more) and reflect fully on it before you go through these guides._
 
 **Note 2**: _This article is an extract from the book ["Journey of the Self"](../../books/practices-teachings/journey-self). If it piques your interest, you should buy the book, as these particular maps of the self and its journeys falls into the 4th of 5 stages of development in both microcosm (human self) and macrocosm (the cosmos). These stages are: Absolute Unitive Reality, Inner Dependence, Outer Dependence, Interdependence, and Inner Reliance. The guide provided below is but a small part of a larger story, as is always the case._
+
+If you prefer listenting to reading, we highly recommend the audio series "[Refinement of Character](../../audios/series/refinement-character)", which covers similar topics in a different format.
 
 ## The Seven Kinds of Self
 

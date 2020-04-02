@@ -28,8 +28,7 @@ theme:
     text: Roboto
     code: Roboto Mono
   favicon: assets/images/favicon.png
-  logo:
-    icon: "\uE80C"
+  logo: 'sfh_logo.png'
 
 extra_css: [extra.css]
 
@@ -172,14 +171,26 @@ nav:
   - 'The Shock of Awakening': 'articles/shock-awakening.md'
   - 'To Be Alive': 'articles/to-be-alive.md'
   - 'The Cycles of Life and Reality': 'articles/cycles-life-reality.md'
+  - 'Consciousness': 'articles/consciousness.md'
   - 'The Parable of the Spider’s House': 'articles/parable-spider.md' 
   - 'The Journey of Transformation': 'articles/journey-transformation.md'
 - Guides:
   - 'Overview': 'guides/index.md'
-  - 'The Practice of Stillness': 'guides/practice-stillness.md'
+  - Practices: 
+    - 'Meditation': 'guides/practice/meditation.md'
+    - 'Supplication': 'guides/practice/supplication.md'
+    - 'Stillness': 'guides/practice/stillness.md'
+  - 'Maps & Models of the Self': 'guides/7-stations-4-journeys.md'
+  - 'Virtuous Being, Higher Conduct': 'guides/virtue-higher-conduct.md'
   - 'Self Knowledge and Presence': 'guides/self-knowledge-presence.md'
-  - 'The Self and its Journeys': 'guides/7-stations-4-journeys.md'
-  - 'Fasting': 'guides/fasting.md'
+  - Fasting: 
+    - 'Fasting in History': 'guides/fasting/history.md'
+    - 'The Islamic Fast': 'guides/fasting/islamic.md'
+    - 'Meaning and Benefits': 'guides/fasting/meaning-benefits.md'
+    - 'Outward Abstention': 'guides/fasting/outward-abstention.md'
+    - 'Inward Abstention': 'guides/fasting/inward-abstention.md'
+    - 'The Awakened Seeker': 'guides/fasting/awakened-seeker.md'
+    - 'Feast of Fast-Breaking': 'guides/fasting/feast-fast-breaking.md'
   - 'Pilgrimage': 'guides/pilgrimage.md'
 - ASK:
   - 'Academy of Self Knowledge': 'a-s-k/ask.md'

@@ -4,6 +4,44 @@ description:
 
 # Descriptive and Prescriptive Qur'an
 
+<div markdown="1" class="card article sidebar center">
+
+**Remember, you can listen on all these platforms:**
+
+<div markdown="3" class="audio-link">
+[Anchor](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/)
+</div>
+
+<div markdown="3" class="audio-link">
+[Apple](https://podcasts.apple.com/us/podcast/shaykh-fadhlalla-haeri-foundation/id1454931525)
+</div>
+
+<div markdown="3" class="audio-link">
+[Spotify](https://open.spotify.com/show/2BEc8M3oNLH12KyWYFDT9N) 
+</div>
+
+<div markdown="3" class="audio-link">
+[Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy85ODQ1YTQwL3BvZGNhc3QvcnNz)
+</div>
+
+<div markdown="3" class="audio-link">
+[Breaker](https://www.breaker.audio/shaykh-fadhlalla-haeri-foundation)
+</div>
+
+<div markdown="3" class="audio-link">
+[Overcast](https://overcast.fm/itunes1454931525/shaykh-fadhlalla-haeri-foundation)
+</div>
+
+<div markdown="3" class="audio-link">
+[Pocket Casts](https://pca.st/n80x)
+</div>
+
+<div markdown="3" class="audio-link">
+[RadioPublic](https://radiopublic.com/shaykh-fadhlalla-haeri-foundation-6pw4ma)
+</div>
+
+</div>
+
 ## Die Before You Die
 
 This talk presents an exposition on death as a key issue in the conundrum of existence. The phenomena of birth and death are one of several key pairs in the map of existence. This talk serves to reflect upon what is the appropriate response to these key modulations. The ground of the inquisition revolves around three questions: Who am I, who is God or the essence, what is death? 
@@ -21,7 +59,7 @@ The Original Prophetic teachings, allegory and the prescriptive and descriptive 
 **Die Before You Die**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/45q5gFLHZR4qkaIpbzRrO4)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Descriptive--prescriptive-Quran-Talk-1--Die-before-you-Die-e41rf9)
 </div>
 
 </div>
@@ -45,7 +83,7 @@ An understanding of the parallels of this evolutionary dimension is critical in 
 **Fear & Hope**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/6bjGjP5LXwetALFPtI4isw)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Descriptive--prescriptive-Quran-Talk-2--Fear--Hope-e41rg4)
 </div>
 
 </div>
@@ -69,7 +107,7 @@ The appropriate prescriptive steps and descriptive qualifications in, adequately
 **Good News & Warning**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/7diSI0z2KWXgGHef7PNH9g)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Descriptive--prescriptive-Quran-Talk-3--Good-news--Warning-e41rgh)
 </div>
 
 </div>
@@ -93,7 +131,7 @@ Various important descriptive elements are echoed in the Qur’anic revelations:
 **Human Misery**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/05z7fNp0v75UfRlSqMdMwm)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Descriptive--prescriptive-Quran-Talk-4--Human-Misery-e41rgu)
 </div>
 
 </div>

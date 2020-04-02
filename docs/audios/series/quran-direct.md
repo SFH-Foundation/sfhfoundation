@@ -4,6 +4,44 @@ description:
 
 # Qur'an Direct
 
+<div markdown="1" class="card article sidebar center">
+
+**Remember, you can listen on all these platforms:**
+
+<div markdown="3" class="audio-link">
+[Anchor](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/)
+</div>
+
+<div markdown="3" class="audio-link">
+[Apple](https://podcasts.apple.com/us/podcast/shaykh-fadhlalla-haeri-foundation/id1454931525)
+</div>
+
+<div markdown="3" class="audio-link">
+[Spotify](https://open.spotify.com/show/2BEc8M3oNLH12KyWYFDT9N) 
+</div>
+
+<div markdown="3" class="audio-link">
+[Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy85ODQ1YTQwL3BvZGNhc3QvcnNz)
+</div>
+
+<div markdown="3" class="audio-link">
+[Breaker](https://www.breaker.audio/shaykh-fadhlalla-haeri-foundation)
+</div>
+
+<div markdown="3" class="audio-link">
+[Overcast](https://overcast.fm/itunes1454931525/shaykh-fadhlalla-haeri-foundation)
+</div>
+
+<div markdown="3" class="audio-link">
+[Pocket Casts](https://pca.st/n80x)
+</div>
+
+<div markdown="3" class="audio-link">
+[RadioPublic](https://radiopublic.com/shaykh-fadhlalla-haeri-foundation-6pw4ma)
+</div>
+
+</div>
+
 ## Part 1
 
 This talk is a distillation of the essential foundation and message of the Qur’an. Several brief descriptions are explored in presenting the multifaceted nature of the Qur’anic unveilings. Shaykh Fadhlalla presents four primary themes in this fundamental disclosure of Qur’anic lights: 
@@ -24,7 +62,7 @@ It is necessary to take reference from the living model that is the prophetic wa
 **Qur'an Direct: Surat Al-Fattāh**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/2xs3XWrZeCOKPhsXzo61ee)
+[Listen](https://podcasts.apple.com/us/podcast/quran-direct-episode-2-surah-fatiha/id1454931525?i=1000469716419)
 </div>
 
 </div>
@@ -35,7 +73,7 @@ It is necessary to take reference from the living model that is the prophetic wa
 
 In this more intimate discourse, Shaykh Fadhlalla weaves a wide range of narratives and reflections together, providing multifaceted insights into the opening chapter of the Qur’an: Al Fatiha. The talk begins by looking at the arc of social history and developments in humanity, framed by the context surrounding the pre-settlement nomadic peoples of the Mediterranean, Middle Eastern basin with a special focus on the nature of prophecy and its relatability to the rise of human consciousness and the Qur’anic unveilings. 
 
-The Shaykh presents so key Qur’anic maps titled: Oneness and Duality, symmetries and mirror images, shadows and lights. Thereafter, the subtler linguistic elements of the Fatiha are elaborated with references to a multitude of other Qur’anic segments and chapters. Various key injunctions of the way of Muhammad and latter masters of this path are referenced and tied together so as to present appropriate keys for exploring and enjoying inspirations from the Qur’an. 
+The Shaykh presents some key Qur’anic maps, such as: Oneness and Duality, symmetries and mirror images, shadows and lights. Thereafter, the subtler linguistic elements of the Fatiha are elaborated with references to a multitude of other Qur’anic segments and chapters. Various key injunctions of the way of Muhammad and latter masters of this path are referenced and tied together so as to present appropriate keys for exploring and enjoying inspirations from the Qur’an. 
 
 Some of these themes include: the etiquette and courtesy in appropriately approaching the Qur’an; the cosmic nature of _bismillah_; and the seamlessness between the scene and unseen reflected in the Qur’anic disclosures. The talk concludes with a description of the essential elements of the prophetic path, the appropriate attitude and prescriptions that go along with constant awareness, a wholesome heart and the living dynamics of accepting limitations and boundaries whilst constantly seeking and connecting to higher consciousness.
 
@@ -48,7 +86,7 @@ Some of these themes include: the etiquette and courtesy in appropriately approa
 **Qur'an Direct: Ultimate Exposures**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/2HaQdmxpOZ94itrmJFPkTR)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Quran-Direct-Episode-1---Qurans-Ultimate-Disclosures-ebk3o3)
 </div>
 
 </div>

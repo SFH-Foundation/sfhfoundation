@@ -208,6 +208,24 @@ A collection of excerpts on the topic of the Cycles of Life and Reality through 
 
 <div markdown="1" class="card article sidebar center">
 
+**Consciousness**
+
+<div markdown="2" class="article-image">
+![Cycles of Life](./img/sfh_celebrate.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+A selection from across the whole archive of Shaykh Fadhlalla insights into this critical concept, phenomena, and experience.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./consciousness)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
 **The Parable of the Spider's House**
 
 <div markdown="2" class="article-image">

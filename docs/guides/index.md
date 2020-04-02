@@ -6,7 +6,7 @@ description: Overview of the various guides and maps provided by Shaykh Fadhlall
 
 <div markdown="1" class="card article sidebar center">
 
-**The Practices of Stillness, Meditation and Supplication**
+**Specific Practices**
 
 <div markdown="2" class="article-image">
 ![People of Light](./img/people-light.jpg)
@@ -19,7 +19,7 @@ We begin with proper preparation and intention, move into the ocean, and then tr
 </div>
 
 <div markdown="3" class="article-link">
-[Read More](./practice-stillness)
+[Read More](./practice/meditation)
 </div>
 
 </div>
@@ -73,7 +73,7 @@ Everything you could ever want to know about fasting, it's history, its benefits
 </div>
 
 <div markdown="3" class="article-link">
-[Read More](./fasting)
+[Read More](./fasting/history.md)
 </div>
 
 </div>

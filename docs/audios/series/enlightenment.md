@@ -8,6 +8,44 @@ On this page you will find 5 audio clips designed for both the general public an
 
 It goes into detail on the dynamics of self and soul, discussing how we experience light by its shadow and other seeming paradoxes. Shaykh Haeri then moves on to discuss the heart and how it can be tarnished, the concepts of personality, birth, death, fear, mirrors and the role of leadership. The series concludes by asking why we don't intuitively and instinctively seek the higher, why the path to so-called "enlightenment" is often presented as something mysterious or mystical, and with an offering of some practical advice for those actively seeking enlightenment.
 
+<div markdown="1" class="card article sidebar center">
+
+**Remember, you can listen on all these platforms:**
+
+<div markdown="3" class="audio-link">
+[Anchor](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/)
+</div>
+
+<div markdown="3" class="audio-link">
+[Apple](https://podcasts.apple.com/us/podcast/shaykh-fadhlalla-haeri-foundation/id1454931525)
+</div>
+
+<div markdown="3" class="audio-link">
+[Spotify](https://open.spotify.com/show/2BEc8M3oNLH12KyWYFDT9N) 
+</div>
+
+<div markdown="3" class="audio-link">
+[Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy85ODQ1YTQwL3BvZGNhc3QvcnNz)
+</div>
+
+<div markdown="3" class="audio-link">
+[Breaker](https://www.breaker.audio/shaykh-fadhlalla-haeri-foundation)
+</div>
+
+<div markdown="3" class="audio-link">
+[Overcast](https://overcast.fm/itunes1454931525/shaykh-fadhlalla-haeri-foundation)
+</div>
+
+<div markdown="3" class="audio-link">
+[Pocket Casts](https://pca.st/n80x)
+</div>
+
+<div markdown="3" class="audio-link">
+[RadioPublic](https://radiopublic.com/shaykh-fadhlalla-haeri-foundation-6pw4ma)
+</div>
+
+</div>
+
 ## Episode 1
 
 What am I?
@@ -25,7 +63,7 @@ It is not the thing, but the meaning that you are after-we are in an impermanent
 **Episode 1**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/3sFqOppGnqBPwxUU2UjFf5)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Enlightenment-Episode-1-e3b86a)
 </div>
 
 </div>
@@ -45,7 +83,7 @@ We experience light by its shadow. Pure light cannot be perceived except as a ra
 **Episode 2**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/1ljxnogoksb52Mwd1ttPqS)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Enlightenment-Episode-2-e3b89p)
 </div>
 
 </div>
@@ -54,7 +92,7 @@ We experience light by its shadow. Pure light cannot be perceived except as a ra
 
 ## Episode 3
 
-This episode takes the form of many important questions which the Shaykh poses and then answers.Some of these questions include:
+This episode takes the form of many important questions which the Shaykh poses and then answers. Some of these questions include:
 
 1. By what should we be guided? 
 2. What is the relationship between heart & Soul?
@@ -81,7 +119,7 @@ This episode takes the form of many important questions which the Shaykh poses a
 **Episode 3**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/0simZ689HIUjDGPZmrWUNi)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Enlightenment-Episode-3-e3b8a1)
 </div>
 
 </div>
@@ -101,7 +139,7 @@ Unfortunately, there is no description of this episode readily available. Listen
 **Episode 4**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/7gCCZJDmPugezqT3EFzj1M)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Enlightenment-Episode-4-e3idoo)
 </div>
 
 </div>
@@ -132,7 +170,7 @@ This final episode in the series also takes the form of a series of questions as
 **Episode 5**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/47FkmlFPwcpVUto0dtChUp)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Enlightenment-Episode-5-e3idpa)
 </div>
 
 </div>

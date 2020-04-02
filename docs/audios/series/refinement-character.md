@@ -4,7 +4,47 @@ description:
 
 # Refinement of Character
 
+_If you prefer reading to listenting, we highly recommend the text guide "[Maps & Models of the Self](../../guides/7-stations-4journeys)", which covers similar topics in a different format._
+
 In this ground-breaking series of talks, Shaykh Fadhlallah Haeri presents a map for refinement of character in the Prophetic tradition as an essential step to Enlightenment and Connection with the One, unhindered by reflections of the lower self. Shaykh Fadhlallah unravels the mystery of such Prophetic refinement and presents a path which can be followed with clarity and ease, should the student of Enlightenment wish to discover the Bliss it presents.
+
+<div markdown="1" class="card article sidebar center">
+
+**Remember, you can listen on all these platforms:**
+
+<div markdown="3" class="audio-link">
+[Anchor](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/)
+</div>
+
+<div markdown="3" class="audio-link">
+[Apple](https://podcasts.apple.com/us/podcast/shaykh-fadhlalla-haeri-foundation/id1454931525)
+</div>
+
+<div markdown="3" class="audio-link">
+[Spotify](https://open.spotify.com/show/2BEc8M3oNLH12KyWYFDT9N) 
+</div>
+
+<div markdown="3" class="audio-link">
+[Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy85ODQ1YTQwL3BvZGNhc3QvcnNz)
+</div>
+
+<div markdown="3" class="audio-link">
+[Breaker](https://www.breaker.audio/shaykh-fadhlalla-haeri-foundation)
+</div>
+
+<div markdown="3" class="audio-link">
+[Overcast](https://overcast.fm/itunes1454931525/shaykh-fadhlalla-haeri-foundation)
+</div>
+
+<div markdown="3" class="audio-link">
+[Pocket Casts](https://pca.st/n80x)
+</div>
+
+<div markdown="3" class="audio-link">
+[RadioPublic](https://radiopublic.com/shaykh-fadhlalla-haeri-foundation-6pw4ma)
+</div>
+
+</div>
 
 The Discourses on Refinement of Character reflect a wide-ranging array of interpersonal, multidimensional, and psycho-spiritual frameworks, methods and models. Presented in the arena of the Original Muhammadi Prophetic architecture, the discourses give emphasis to the transformative essence behind the timeless approach to grooming of the self, embodied in character and conduct of the Prophetic being. Parallels are drawn in wider evolution of notions and cosmological maps from antiquity arising into the modern and postmodern psycho-analytical approaches. 
 
@@ -21,7 +61,7 @@ Fundamentally, the evolution and refinement of character is presented as both es
 **Introduction 1**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/3Iav1uWAgmcocU8H8yGPh0)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Refinement-of-Character-1--Introduction-Part-1-e3o8ro)
 </div>
 
 </div>
@@ -35,7 +75,7 @@ Fundamentally, the evolution and refinement of character is presented as both es
 **Introduction 2**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/7ElYE0quMVYokKLuVbmPwv)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Refinement-of-Character-2--Introduction-Part-2-e3o8rv)
 </div>
 
 </div>
@@ -49,7 +89,7 @@ Fundamentally, the evolution and refinement of character is presented as both es
 **Human Nature and Composition 1**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/31ti5Oisj6tVChxhyQt60t)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Refinement-of-Character-3--Human-Nature-and-Composition-Part-1-e3o8s1)
 </div>
 
 </div>
@@ -63,7 +103,7 @@ Fundamentally, the evolution and refinement of character is presented as both es
 **Human Nature and Composition 2**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/2F6tfF80gA91Lm0g3HbAsC)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Refinement-of-Character-4--Human-Nature-and-Composition-Part-2-e3o8s3)
 </div>
 
 </div>
@@ -77,7 +117,7 @@ Fundamentally, the evolution and refinement of character is presented as both es
 **Grooming and Evolvement of the Lower Self**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/2LwLzT4k16st63Csg4L2CO)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Refinement-of-Character-5--Grooming-and-Evolvement-of-the-Lower-Self-e3o8s7)
 </div>
 
 </div>
@@ -91,7 +131,7 @@ Fundamentally, the evolution and refinement of character is presented as both es
 **Personality and Character 1**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/4KLOyKv2SJZu5dP4AACLJY)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Refinement-of-Character-6--Personality-and-Character----Part-1-e3o8s9)
 </div>
 
 </div>
@@ -105,7 +145,7 @@ Fundamentally, the evolution and refinement of character is presented as both es
 **Personality and Character 2**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/2Vssune47ZxW6TzPVoA43X)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Refinement-of-Character-7--Personality-and-Character---Part-2-e3o8sc)
 </div>
 
 </div>
@@ -119,7 +159,7 @@ Fundamentally, the evolution and refinement of character is presented as both es
 **Relationships**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/6KOgsyl7gDqC1tkRCPtg81)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Refinement-of-Character-8--Relationships-e3o8sf)
 </div>
 
 </div>

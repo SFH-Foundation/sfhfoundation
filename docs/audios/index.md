@@ -8,6 +8,46 @@ description: An overview of all the audios made available by the Shaykh Fadhlall
 
 This page collects all of the various audio recordings of Shaykh Fadhlalla's talks and conversations over the years. There is, to euphemise, a lot of content. You will find not only our most recent uploads, but also once-off talks, as well as educational series given by the Shaykh. This is a page to be returned to often, sipped, and enjoyed at your leisure. Whenever you are lost, come back here to reflect, repose and return to the path.
 
+**We release audios on a number of platforms. Please find your preferred one below. All the indivdual links on pages in this section of the archive go to Anchor FM, from which you can easily access Apple, Spotify, Breaker, Google Podcast, Overcast, Pocket Casts, and RadioPublic.**
+
+<div markdown="1" class="card article sidebar center">
+
+**You can listen on these platforms:**
+
+<div markdown="3" class="audio-link">
+[Anchor](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/)
+</div>
+
+<div markdown="3" class="audio-link">
+[Apple](https://podcasts.apple.com/us/podcast/shaykh-fadhlalla-haeri-foundation/id1454931525)
+</div>
+
+<div markdown="3" class="audio-link">
+[Spotify](https://open.spotify.com/show/2BEc8M3oNLH12KyWYFDT9N) 
+</div>
+
+<div markdown="3" class="audio-link">
+[Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy85ODQ1YTQwL3BvZGNhc3QvcnNz)
+</div>
+
+<div markdown="3" class="audio-link">
+[Breaker](https://www.breaker.audio/shaykh-fadhlalla-haeri-foundation)
+</div>
+
+<div markdown="3" class="audio-link">
+[Overcast](https://overcast.fm/itunes1454931525/shaykh-fadhlalla-haeri-foundation)
+</div>
+
+<div markdown="3" class="audio-link">
+[Pocket Casts](https://pca.st/n80x)
+</div>
+
+<div markdown="3" class="audio-link">
+[RadioPublic](https://radiopublic.com/shaykh-fadhlalla-haeri-foundation-6pw4ma)
+</div>
+
+</div>
+
 ## Most Recent
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
@@ -19,7 +59,7 @@ This page collects all of the various audio recordings of Shaykh Fadhlalla's tal
 **Qur'an Direct: Surat Al-Fattāh**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/2xs3XWrZeCOKPhsXzo61ee)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Quran-Direct-Episode-2--Surah-Fatiha-ebsa3t)
 </div>
 
 </div>
@@ -33,7 +73,7 @@ This page collects all of the various audio recordings of Shaykh Fadhlalla's tal
 **Qur'an Direct: Ultimate Exposures**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/2HaQdmxpOZ94itrmJFPkTR)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Quran-Direct-Episode-1---Qurans-Ultimate-Disclosures-ebk3o3)
 </div>
 
 </div>
@@ -47,7 +87,7 @@ This page collects all of the various audio recordings of Shaykh Fadhlalla's tal
 **Human Consciousness**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/3o5Y23UG37nfHqfUT2ALbz)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Human-Consciousness-eb0e9n)
 </div>
 
 </div>
@@ -61,7 +101,7 @@ This page collects all of the various audio recordings of Shaykh Fadhlalla's tal
 **Muslim Awakening**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/42hRANeb27PiwTXouInBMv)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Muslim-Awakening-eak5bc)
 </div>
 
 </div>
@@ -77,7 +117,7 @@ This page collects all of the various audio recordings of Shaykh Fadhlalla's tal
 **The Perpetual Now**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/1x0zI9yHg57VHlcQRUR04b)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/The-Perpetual-Now-by-Shaykh-Fadhlalla-Haeri-e3vl3a)
 </div>
 
 </div>
@@ -91,7 +131,7 @@ This page collects all of the various audio recordings of Shaykh Fadhlalla's tal
 **Islam and Tawhid**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/3pODeRD8idf5vJUpmRJJWx)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Islam-and-Tawhid-ea69oq)
 </div>
 
 </div>
@@ -105,7 +145,7 @@ This page collects all of the various audio recordings of Shaykh Fadhlalla's tal
 **Enlightenment**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/4sr6wUzJJ7caRUXf1NZDCy)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Enlightenment-ea69vi)
 </div>
 
 </div>
@@ -119,10 +159,26 @@ This page collects all of the various audio recordings of Shaykh Fadhlalla's tal
 **What Does It Mean To Be A Sufi In The 21st Century?**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/1mt5YvKhqt4IGt7DcSHY58)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/What-Does-It-Mean-To-Be-A-Sufi-In-The-XXI-Century-eag95e)
 </div>
 
 </div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Die Before You Die](../videos/img/sfh_constant_change.jpg)
+</div>
+
+**Die Before You Die**
+
+<div markdown="3" class="video-link">
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Die-before-you-die-eak57i)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
 
 ## Selected Series
 

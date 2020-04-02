@@ -214,4 +214,4 @@ Finally he returns to Mina, to the world of multiplicity and the three stages wh
 
 > "…today I have completed for you your way of life (Islam) and I have perfected My Grace upon you and I am contented with Islam as a way of life for you." Qur'an, 5:3
 
-![Pilgrimage](./img/sfh_pilgrim.jpg)
+![Pilgrimage](./img/sfh_meditation.jpg)

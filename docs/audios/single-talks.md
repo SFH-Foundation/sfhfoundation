@@ -6,6 +6,44 @@ description: Stand-alone talks given by Shaykh Fadhlalla Haeri and recorded in v
 
 On this page, you will find all the stand-alone talks Shaykh Fadhlalla has given over the years, as opposed to ones organised and grouped together under a common theme. Each of these talks contains unique insights from the Shaykh and, while many of them require an hour or so to listen to in full, we assure you that it will be an hour well spent.
 
+<div markdown="1" class="card article sidebar center">
+
+**Remember, you can listen on these platforms:**
+
+<div markdown="3" class="audio-link">
+[Anchor](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/)
+</div>
+
+<div markdown="3" class="audio-link">
+[Apple](https://podcasts.apple.com/us/podcast/shaykh-fadhlalla-haeri-foundation/id1454931525)
+</div>
+
+<div markdown="3" class="audio-link">
+[Spotify](https://open.spotify.com/show/2BEc8M3oNLH12KyWYFDT9N) 
+</div>
+
+<div markdown="3" class="audio-link">
+[Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy85ODQ1YTQwL3BvZGNhc3QvcnNz)
+</div>
+
+<div markdown="3" class="audio-link">
+[Breaker](https://www.breaker.audio/shaykh-fadhlalla-haeri-foundation)
+</div>
+
+<div markdown="3" class="audio-link">
+[Overcast](https://overcast.fm/itunes1454931525/shaykh-fadhlalla-haeri-foundation)
+</div>
+
+<div markdown="3" class="audio-link">
+[Pocket Casts](https://pca.st/n80x)
+</div>
+
+<div markdown="3" class="audio-link">
+[RadioPublic](https://radiopublic.com/shaykh-fadhlalla-haeri-foundation-6pw4ma)
+</div>
+
+</div>
+
 ## Islam and Tawhid
 
 This talk reflects upon a core aspect of the Islamic unveilings and path. Shaykh Fadhlalla seeks to elaborate and emphasize a living experience of the varying dimensions and modes for the traveler on the path of Oneness. 
@@ -18,7 +56,7 @@ In this talk, Shaykh Fadhlallah examines each of these:
 2. _Tawhid al Sifat_ - the unity of attributes
 3. _Tawhid ad Dhat_ - the unity of essence. 
 
-The Shaykh presents the appropriate way in which one should relate to and understand this model and, critically, how to integrate it into a living process. He continues with an elaboration on key elements around this integral work; the necessity of various virtues for the traveler on the path - honesty, authenticity in reflection; the meaning of worship and the reality of _Salat_ in its application and fulfillment of its inner dynamics; sincerity and the practice of remembrance _dhikr_. 
+The Shaykh presents the appropriate way in which one should relate to and understand this model and, critically, how to integrate it into a living process. He continues with an elaboration on key elements around this integral work. He also discusses the necessity of various virtues for the traveler on the path: honesty; authenticity in reflection; the meaning of worship; the reality of _Salat_ and the fulfillment of its inner dynamics; sincerity; and the practice of remembrance, or _dhikr_. 
 
 The entire talk is well summarised in the following key excerpt: 
 
@@ -33,7 +71,7 @@ The entire talk is well summarised in the following key excerpt:
 **Islam and Tawhid**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/3pODeRD8idf5vJUpmRJJWx)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Islam-and-Tawhid-ea69oq)
 </div>
 
 </div>
@@ -63,7 +101,7 @@ Further talks on this topic can be found in [another audio series](./series/enli
 **Enlightenment**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/4sr6wUzJJ7caRUXf1NZDCy)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Enlightenment-ea69vi)
 </div>
 
 </div>
@@ -143,7 +181,7 @@ An understanding of the complimentary nature in which the forces of life and dea
 **Die Before You Die**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/0mdGIQJAkTwlkKrWTfFuYp)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Die-before-you-die-eak57i)
 </div>
 
 </div>
@@ -163,7 +201,7 @@ This is a recording of a webinar on 25 January 2020 with Shaykh Fadhlalla Haeri 
 **What Does It Mean To Be A Sufi In The 21st Century?**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/1mt5YvKhqt4IGt7DcSHY58)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/What-Does-It-Mean-To-Be-A-Sufi-In-The-XXI-Century-eag95e)
 </div>
 
 </div>
@@ -185,7 +223,7 @@ In this audio recording Shaykh Fadhlalla Haeri takes the listener on an incredib
 **The Perpetual Now**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/1x0zI9yHg57VHlcQRUR04b)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/The-Perpetual-Now-by-Shaykh-Fadhlalla-Haeri-e3vl3a)
 </div>
 
 </div>

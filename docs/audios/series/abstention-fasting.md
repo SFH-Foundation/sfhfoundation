@@ -6,6 +6,44 @@ description:
 
 If you prefer reading to listening, you can find a full [text guide on fasting here](../../../guides/fasting).
 
+<div markdown="1" class="card article sidebar center">
+
+**Remember, you can listen on all these platforms:**
+
+<div markdown="3" class="audio-link">
+[Anchor](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/)
+</div>
+
+<div markdown="3" class="audio-link">
+[Apple](https://podcasts.apple.com/us/podcast/shaykh-fadhlalla-haeri-foundation/id1454931525)
+</div>
+
+<div markdown="3" class="audio-link">
+[Spotify](https://open.spotify.com/show/2BEc8M3oNLH12KyWYFDT9N) 
+</div>
+
+<div markdown="3" class="audio-link">
+[Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy85ODQ1YTQwL3BvZGNhc3QvcnNz)
+</div>
+
+<div markdown="3" class="audio-link">
+[Breaker](https://www.breaker.audio/shaykh-fadhlalla-haeri-foundation)
+</div>
+
+<div markdown="3" class="audio-link">
+[Overcast](https://overcast.fm/itunes1454931525/shaykh-fadhlalla-haeri-foundation)
+</div>
+
+<div markdown="3" class="audio-link">
+[Pocket Casts](https://pca.st/n80x)
+</div>
+
+<div markdown="3" class="audio-link">
+[RadioPublic](https://radiopublic.com/shaykh-fadhlalla-haeri-foundation-6pw4ma)
+</div>
+
+</div>
+
 ## Abstention
 
 This talk is a distilled presentation on the meanings of abstention and restriction as a process for awakening to truth and higher consciousness, with special focus on the Islamic path. 
@@ -23,7 +61,7 @@ The layers of fasting are explored as per the prophetic injunctions as the basis
 **Abstention**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/2lZvWq31aOpyhdQ6hSwgPB)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Abstention-ea6a2a)
 </div>
 
 </div>
@@ -60,7 +98,7 @@ Key excerpts include:
 **Fasting as a Means of Improving Conduct**
 
 <div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/5LxvLrrBehqkClwka5XIGO)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Fasting-as-a-means-to-Improve-Conduct-ea6a0o)
 </div>
 
 </div>
