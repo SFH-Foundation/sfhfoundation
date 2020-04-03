@@ -14,9 +14,24 @@
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       {% if page and page.meta and page.meta.description %}
         <meta name="description" content="{{ page.meta.description }}">
+        <meta property="og:description" content="{{ page.meta.description }}">
       {% elif config.site_description %}
         <meta name="description" content="{{ config.site_description }}">
+        <meta property="og:description" content="{{ config.site_description }}">
       {% endif %}
+      {% if page and page.meta and page.meta.title %}
+        <meta property="og:title" content="{{ page.meta.title }}" />
+      {% elif config.site_name %}
+        <meta property="og:title" content="{{ config.site_name }}" />
+      {% endif %}
+      <meta property="og:site_name" content="{{ config.site_name }}" />
+		  <meta property="og:type" content="website" />
+      <meta property="og:image" content="https://sfh-foundation.github.io/sfhfoundation/site/assets/images/sfh_prayer.jpg" />
+      <meta name="twitter:card" content="summary_large_image" />
+	    <meta name="twitter:site" content="@SFH_Foundation" />
+      <meta name="twitter:creator" content="@cryptowanderer" />
+      <meta name="twitter:image" content="https://sfh-foundation.github.io/sfhfoundation/site/assets/images/sfh_prayer.jpg" />
+		  <meta name="twitter:image:alt" content="Shaykh Fadhlalla haeri" />
       {% if page and page.meta and page.meta.redirect %}
         <script>var anchor=window.location.hash.substr(1);location.href="{{ page.meta.redirect }}"+(anchor?"#"+anchor:"")</script>
         <meta http-equiv="refresh" content="0; url={{ page.meta.redirect }}">

@@ -1,6 +1,6 @@
 title: Consciousness - An Overview
 
-description: A selection of excertps from various books by Shaykh Fadhlalla on the critical concept and experience of consciousness.
+description: A selection of excerpts from various books by Shaykh Fadhlalla on the critical concept and experience of consciousness.
 
 # Consciousness - An Overview
 
@@ -13,6 +13,14 @@ The question of what really constitues consciousness has been addressed in many 
 There are also many videos we have provided on this broad topic, the most directly relevant of which is the two part series [From Darkness to Light](../../videos/quran/darkness-to-light/) which discusses both the two zones of consciousness that form a major tenet within the Shaykh's teaching, as well as a full-length talk offering invaluable keys to an awakened life.
 
 In the selection below, we offer you various excerpts from some of Shaykh Fadhlalla's books produced over the years to lead you in considering for yourself what you make of this most important phenomena and experience.
+
+## Why?
+
+Every why is an attempt to connect. Why do we love light? It connects us with the surrounding area and enables us to move and act more efficiently. Why do we love? In order to connect more deeply. Why do you want to hear someone's voice or meet him or her? Why do you want to connect? In order to widen your knowledge and conscious experience. Why do you continue? Because the light of the soul within you is eternal.
+
+Every why comes back to one of three roots: to increase **consciousness**, through **connectedness**, and **continuity**. The whys will eventually lead to the domain of Oneness. It is the divine trick to reveal itself - eternally present but veiled.
+
+**_A question is the mental excuse needed to receive the gift of the answer that was already begging the question._**
 
 ## Who Is In Control?
 
