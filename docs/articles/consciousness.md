@@ -38,15 +38,11 @@ We often experience disappointment. We also too often feel trapped, confused or 
 
 Determination and grace are required to awaken to your Soul. It is when you experience that ever-present Reality, you know that your old self was merely a shadow, of the Real. When you transcend your tyrannical or feral self, you perceive that its role was to cause that suffering and thereby act as a prelude for awakening. Your lower self leads you to your real self – the divine spirit within. Life on earth is a struggle because it is a realm of experience between limitations and limitless Reality. You need help and a guiding hand. You need a reference. You need Grace and perception of the sacred presence. 
 
-## The Nature of Existence   
+## Sleepwalkers    
 
-The Universe emerged from a mysterious singularity which is incomprehensible to us. Whatever is known and unknown was at origin an intense togetherness, connectedness, inseparability and oneness.  
-
-With the emergence of space and time, every type of form and energy emerged in pairs and pluralities. Whatever we discern has its complementary opposite, inseparable from it. Two’s are disguised expressions of the One.          
-
-Oneness is beyond all values and differentiation, whereas in duality there cannot be any goodness without the seed of badness. Personal life is accompanied by death and light is discerned due to darkness.  
-
-All dualities have their root in the original Oneness to which they return — the Perpetual One.    
+The herd mentality, collective consciousness and love of tradition are common conditions of most people. Old cultures and ingrained bonds, including religion, language and life habits, are barriers to change. So are self-concern and the obsession with survival. This renders most people tunnel-visioned, acting as sleepwalkers. Minds are occupied, bodies act like robots and hearts are dark.
+The people of Rome were surrounded by fire and most did not feel the urgency to evacuate. The unfortunate voyagers on the Titanic believed in the unsinkable ship and the orchestra continued playing. The love for continuity can override signals and signs of dangers. Sleepwalkers, like zombies, do not read signs or messages.
+No human being is spared from nature’s generosity and from the shocks in life to wake us up to a higher level of consciousness and soul awareness.
 
 ## Dreams  
 
@@ -59,12 +55,24 @@ Dreams and sleep are essential for human health – to reorder, fit and connect 
 The enlightened being regards  
 all normal experiences as a  
 dream. Common dreams are  
-merely dreams within a dream.   
+merely dreams within a dream.
 
-## Sleepwalkers    
+## The Aware Heart
 
-The herd mentality, collective consciousness and love of tradition are common conditions of most people. Old cultures and ingrained bonds, including religion, language and life habits, are barriers to change. So are self-concern and the obsession with survival. This renders most people tunnel-visioned, acting as sleepwalkers. Minds are occupied, bodies act like robots and hearts are dark.
-The people of Rome were surrounded by fire and most did not feel the urgency to evacuate. The unfortunate voyagers on the Titanic believed in the unsinkable ship and the orchestra continued playing. The love for continuity can override signals and signs of dangers. Sleepwalkers, like zombies, do not read signs or messages.
-No human being is spared from nature’s generosity and from the shocks in life to wake us up to a higher level of consciousness and soul awareness.
+All human endeavours that increase knowledge, ability, efficiency and wholseomeness imply a journey towards higher consciousness. Life begins with basic sentiency and ends with spontaneous awareness of awareness. The arrow of time moves from 'no-thingness' towards absolute Oneness. Worship can be ragarded as an evolutionary spiritual exercise to transcend the mind and come into unison with the divine soul within. Ultimat eliberation and enlightenment implies taking constant reference from the immutable soul. In a sacred tradition Allah declares that:
+
+> The Heavens and Earth do not contain Me, but the heart of he who believes contains Me."
+
+Every heart contains a soul and the potential to realize that truth is open to all.
+
+## The Nature of Existence   
+
+The Universe emerged from a mysterious singularity which is incomprehensible to us. Whatever is known and unknown was at origin an intense togetherness, connectedness, inseparability and oneness.  
+
+With the emergence of space and time, every type of form and energy emerged in pairs and pluralities. Whatever we discern has its complementary opposite, inseparable from it. Two’s are disguised expressions of the One.          
+
+Oneness is beyond all values and differentiation, whereas in duality there cannot be any goodness without the seed of badness. Personal life is accompanied by death and light is discerned due to darkness.  
+
+All dualities have their root in the original Oneness to which they return — the Perpetual One.   
 
 ![Wake up!](./img/sfh_celebrate.jpg)

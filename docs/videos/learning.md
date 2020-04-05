@@ -1,8 +1,8 @@
-title: Introduction
+title: Learning
 
 description: A collection of talks given by Shaykh Haeri considered by his students to be a good introduction to, and basic overview of, his more general work.
 
-# Getting to Know Shaykh Fadhlalla
+# Getting to Know Shaykh Haeri
 
 ## Overarching Ideas
 
@@ -223,34 +223,6 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Purpose of Religion](./img/sfh_purpose_religion.jpg)
-</div>
-
-**The Purpose of Religion**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=L9kWeKg5ULo)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Faith and Fear](./img/sfh_faith_fear.jpg)
-</div>
-
-**How Can You Keep Faith In Times of Fear?**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=Dm9nNnuaIhw)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
 ![Islam and Science](./img/sfh_islam_science.jpg)
 </div>
 
@@ -303,6 +275,8 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 </div>
 
 </div>
+
+<div markdown="1" class="clear"></div>
 
 ## Insight, The Soul and Calibration
 
@@ -484,20 +458,6 @@ Where Lands Meets Sea is a wonderful YouTube channel curated by some very close 
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=TJDKN6p_SAA&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=45&t=0s)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Wanting to Change the World](./img/sfh_world_change.jpg)
-</div>
-
-**Wanting to Change the World**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=1kXmg0MilK4&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=53&t=0s)
 </div>
 
 </div>

@@ -4,9 +4,11 @@ description:
 
 # The Practice of Stillness and Retreat
 
-Now that you have reflected upon the practices of meditation - which is found across most of the major religious traditions in the world - and supplication, which has a unique application is Islam, this guide will take you through a deeper understanding of stillness as it is applied in our tradition. Generally there are three stages in the practice of stillness in body, mind, and heart.
+Now that you have reflected upon the practices of meditation - which is found across most of the major religious traditions in the world - and supplication, which has a unique application is Islam, this guide will take you through a deeper understanding of stillness as it is applied in our tradition. To get a fuller perspective than what is provided below, please read the book, "[Transformative Worship in Islam: Experiencing Perfection](../../../books/general-islam/transformative-worship)".
 
 ## Stillness
+
+Generally there are three stages in the practice of stillness in body, mind, and heart.
 
 ### 1. Preparation and Intention
 

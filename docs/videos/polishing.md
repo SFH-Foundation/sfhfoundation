@@ -1,10 +1,10 @@
-title: IntrRecommendedoduction
+title: Polishing
 
 description: A collection of talks given by Shaykh Haeri which some more advanced students have recommended for those who are more familiar with the Shaykh's work and teachings.
 
 # Getting Familiar With Shaykh Fadhlalla
 
-This page is intended for more serious students of the Shaykh's who are already familiar with the videos and teachings collected on the [Introduction](../introduction) page. Once you have explored all the videos there, please return to this page and reflect upon these selected talks in which the Shaykh speaks in detail about important and subtle aspects of his work and the tradition of which he is a part.
+This page is intended for more serious students of the Shaykh's who are already familiar with the videos and teachings collected on the [Beginning](../beginning) and [Learning](../learning) pages. Once you have explored all the videos there, please return to this page and reflect upon these selected talks in which the Shaykh speaks in detail about important and subtle aspects of his work and the tradition of which he is a part.
 
 You have to be present all the time, visibly, physically, mentally. If you are not, rectify it. You must catch yourself instantly. Do not delay. If you delay you will become fossilized and it will be more difficult. It is all about being available to any situation as a full-grown human being, with faith and good opinion and optimism, with inner realization that you have come from that total ocean of infinity and to that ocean of infinity you are returning. In between is a tiny little flicker!
 
@@ -313,7 +313,7 @@ When you blame others the ego is protected for a while, but if you blame yoursel
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Seeking Contentment](./img/sfh_illusion_liberation.jpg)
+![The Illusion of Liberation](./img/sfh_illusion_liberation.jpg)
 </div>
 
 **The Illusion of Liberation**

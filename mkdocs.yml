@@ -129,8 +129,9 @@ nav:
       - 'Son of Karbala - The Spiritual Journey of an Iraqi Muslim': 'books/biography/son-karbala.md'
 - Videos:
   - 'Overview': 'videos/index.md'
-  - Introduction: 'videos/introduction.md'
-  - Recommended: 'videos/recommended.md'
+  - Beginning: 'videos/beginning.md'
+  - Learning: 'videos/learning.md'
+  - Polishing: 'videos/polishing.md'
   - Conferences:
     - '2018 - What Are We Seeking?': 'videos/conferences/2018.md'
     - '2019 - The Human Quest': 'videos/conferences/2019.md'
@@ -145,8 +146,7 @@ nav:
   - Conversations:
       - 'Highwood': 'videos/conversations/highwood.md'
       - 'Ultimate Contentment': 'videos/conversations/ultimate-contentment.md'
-      - 'Collected Talks': 'videos/conversations/collected.md'
-      - 'Shaykh Muslim': 'videos/conversations/shaykh-muslim.md' 
+      - 'Collected Interactions': 'videos/conversations/collected.md'
 - Audios:
   - 'Overview': 'audios/index.md'
   - 'Single Talks': 'audios/single-talks.md'
@@ -180,6 +180,8 @@ nav:
     - 'Meditation': 'guides/practice/meditation.md'
     - 'Supplication': 'guides/practice/supplication.md'
     - 'Stillness': 'guides/practice/stillness.md'
+    - 'Transformative Worship': 'guides/practice/transformative-worship.md'
+    - 'Witnessing Perfection': 'guides/practice/witnessing-perfection.md'
   - 'Maps & Models of the Self': 'guides/7-stations-4-journeys.md'
   - 'Virtuous Being, Higher Conduct': 'guides/virtue-higher-conduct.md'
   - 'Self Knowledge and Presence': 'guides/self-knowledge-presence.md'
