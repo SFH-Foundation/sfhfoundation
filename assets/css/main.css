@@ -190,7 +190,8 @@ input, select, textarea {
 		}
 
 		h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
-			border-bottom: solid 1px #E0B24D;
+			border-bottom: solid 1px rgba(27, 31, 34, 0.85);
+			color: rgba(27, 31, 34, 0.85) !important;
 			width: -moz-max-content;
 			width: -webkit-max-content;
 			width: -ms-max-content;
@@ -1549,11 +1550,11 @@ input, select, textarea {
 			position: relative;
 			width: 40rem;
 			max-width: 100%;
-			background-color: rgba(27, 31, 34, 0.85);
+			color: rgba(27, 31, 34, 0.85) !important;
+			background-color: #E0B24D;
 			border-radius: 4px;
 			opacity: 0;
 		}
-
 			#main article.active {
 				-moz-transform: translateY(0);
 				-webkit-transform: translateY(0);
