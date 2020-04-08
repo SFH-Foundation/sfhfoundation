@@ -15,5 +15,5 @@ The sixth Imam in the line of the Twelve Imams descended from the Prophet Muhamm
 “The Lantern of The Path” comprises ninety-nine chapters. Each one is a threshold to the next, guiding the reader through the broad spectrum of ageless wisdom, like a lantern along the path of reality. The author illuminates the inner meanings of outer practices which range from practical everyday acts of behavior, to the practices of worship, morals and ethics, and the pillars of religion.
 
 <div markdown="3" class="purchase-link">
-[Purchase Book](https://www.amazon.com/Lantern-Path-Imam-Ja%60far-Al-Sadiq-ebook/dp/B01JCZY4TG/)
+[Purchase Book](https://www.amazon.com/Spectrum-Reality-Shaykh-Fadhlalla-Haeri/dp/1919826955/)
 </div>

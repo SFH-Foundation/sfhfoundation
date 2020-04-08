@@ -3,6 +3,7 @@ site_name: SFH Foundation
 site_description: Self, Soul, and Joyful Surrender
 site_url: https://sfh-foundation.github.io/sfhfoundation/site/
 site_dir: public/site
+logo_nav: https://sfh-foundation.github.io/sfhfoundation/
 
 # Configuration
 theme:
@@ -89,6 +90,7 @@ nav:
       - 'Prophetic Traditions in Islam: On the Authority of the Family of the Prophet': 'books/general-islam/prophetic-traditions.md'
   - The Qur’an:
       - 'Introduction': 'books/quran/index.md'
+      - 'Qur’an: 50 Vital Verses': 'books/quran/50-vital-verses.md'
       - 'The Story of Creation in the Qur’an': 'books/quran/story-creation-quran.md'
       - 'The Mercy of the Qur’an and The Advent of Zaman': 'books/quran/mercy-quran-advent-zaman.md'
       - 'The Heart of the Qur’an - Surat Yā Sīn': 'books/quran/heart-quran-perfect-mizan.md'
@@ -100,23 +102,21 @@ nav:
       - 'Introduction': 'books/sufism/index.md'
       - 'The Thoughtful Guide to Sufism': 'books/sufism/thoughtful-guide-sufism.md'
       - 'Elements of Sufism': 'books/sufism/elements-sufism.md'
-      - 'Sufi Encounters: Sharing the Wisdom of Enlightened Sufis': 'books/sufism/sufi-encounters.md'
+      - 'Spectrum of Reality: Sufi Insights': 'books/sufism/spectrum-reality.md'
       - 'The Sufi Way of Self-Enfoldment': 'books/sufism/sufi-self-enfoldment.md'
       - 'Witnessing Perfection: A Sufi Guide': 'books/sufism/witnessing-perfection.md'
-      - 'The Sayings & Wisdom of Imam `Ali': 'books/sufism/sayings-imam-ali.md'
-      - 'The Hikam - The Wisdom of Ibn `Ata’ Allah': 'books/sufism/hikam.md'
       - 'Lantern of the Path': 'books/sufism/lantern-path.md'
   - Practices and Teachings:
       - 'Introduction': 'books/practices-teachings/index.md'
-      - 'Ripples of Light': 'books/practices-teachings/ripples-light.md'
-      - 'Pointers to Presence': 'books/practices-teachings/pointers-presence.md'
+      - 'Spectrum of Reality: Sufi Insights': 'books/practices-teachings/spectrum-reality.md'
       - 'Journey of the Self': 'books/practices-teachings/journey-self.md'
       - 'Happiness in Life and After Death': 'books/practices-teachings/happiness-life-death.md'
+      - 'Decree and Destiny': 'books/practices-teachings/decree-destiny.md'
       - 'Calling Allah By His Most Beautiful Names': 'books/practices-teachings/calling-allah-beautiful-names.md'
-      - 'The Hikam - The Wisdom of Ibn `Ata’ Allah': 'books/practices-teachings/hikam.md'
       - 'Lantern of the Path': 'books/practices-teachings/lantern-path.md'
+      - 'The Hikam': 'books/practices-teachings/hikam.md'
       - '101 Helpful Illusions': 'books/practices-teachings/101-helpful-illusions.md'
-      - 'Look Again': 'books/practices-teachings/look-again.md'
+      - 'The Sayings & Wisdom of Imam `Ali': 'books/practices-teachings/sayings-imam-ali.md'
   - Talks, Interviews, and Courses:
       - 'Introduction': 'books/talks-interviews-courses/index.md'
       - 'Friday Discourses': 'books/talks-interviews-courses/friday-discourses.md'
@@ -124,25 +124,36 @@ nav:
       - 'Journey of the Self': 'books/talks-interviews-courses/journey-self.md'
   - Poetry & Aphorisms:
       - 'Introduction': 'books/poetry-aphorisms/index.md'
+      - 'Ripples of Light': 'books/poetry-aphorisms/ripples-light.md'
+      - 'Pointers to Presence': 'books/poetry-aphorisms/pointers-presence.md'
+      - 'Look Again': 'books/poetry-aphorisms/look-again.md'
+      - 'The Garden of Meaning': 'books/poetry-aphorisms/garden-meaning.md'
+      - 'The Hikam - The Wisdom of Ibn `Ata’ Allah': 'books/poetry-aphorisms/hikam.md'
+      - '101 Helpful Illusions': 'books/poetry-aphorisms/101-helpful-illusions.md'
   - Biography:
       - 'Introduction': 'books/biography/index.md'
-      - 'Son of Karbala - The Spiritual Journey of an Iraqi Muslim': 'books/biography/son-karbala.md'
+      - 'Son of Karbala': 'books/biography/son-karbala.md'
+      - 'Sufi Encounters': 'books/biography/sufi-encounters.md'
 - Videos:
   - 'Overview': 'videos/index.md'
   - Beginning: 'videos/beginning.md'
   - Learning: 'videos/learning.md'
   - Polishing: 'videos/polishing.md'
+  - Qur’an:
+    - 'Human Duty and Destiny': 'videos/quran/duty-destiny.md'
+    - 'Qur’an and Happiness': 'videos/quran/quran-happiness.md'
+    - 'From Darkness to Light': 'videos/quran/darkness-to-light.md'
+    - 'Sacred Expressions': 'videos/quran/sacred-expressions.md'
+    - 'Prescriptions for Living': 'videos/quran/prescriptions-for-living.md'
+    - 'Surat al-Hadid': 'videos/quran/al-Hadid.md'
+    - 'Surat al-Balad': 'videos/quran/al-Balad.md'
+  - ASK:
+    - '2012': 'videos/ask/2012.md'
+    - '2013': 'videos/ask/2013.md'
   - Conferences:
     - '2018 - What Are We Seeking?': 'videos/conferences/2018.md'
     - '2019 - The Human Quest': 'videos/conferences/2019.md'
     - '2020 - Reflections and Actions': 'videos/conferences/2020.md'
-  - Qur’anic Commentary:
-    - 'Human Duty and Destiny': 'videos/quran/duty-destiny.md'
-    - 'Qur’an and Happiness': 'videos/quran/quran-happiness.md'
-    - 'From Darkness to Light': 'videos/quran/darkness-to-light.md'
-    - 'Surat al-Hadid': 'videos/quran/al-hadid.md'
-    - 'Sacred Expressions': 'videos/quran/sacred-expressions.md'
-    - 'Prescriptions for Living': 'videos/quran/prescriptions-for-living.md'
   - Conversations:
       - 'Highwood': 'videos/conversations/highwood.md'
       - 'Ultimate Contentment': 'videos/conversations/ultimate-contentment.md'

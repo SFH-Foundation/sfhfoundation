@@ -2,7 +2,7 @@ title: The Hikam - The Wisdom of Ibn `Ata’ Allah
 
 description:
 
-# The Wisdom of Ibn `Ata’ Allah
+# The Hikam - The Wisdom of Ibn `Ata' Allah
 
 <div markdown="1" class="cover-image">
 ![Book cover](./img/hikam.jpg)
@@ -17,5 +17,5 @@ Short but immensely thought provoking, dense in their significance and insightfu
 With the publication of Shaykh Fadhlalla Haeri’s new translation and with the aid of his accompanying commentary, students and adepts alike can now gain a profounder understanding of these timeless teachings from the wellspring of the heart of Islam.
 
 <div markdown="3" class="purchase-link">
-[Purchase Book](https://www.amazon.com/Hikam-Wisdom-Ibn-%60Ata-Allah-ebook/dp/B01JBIYTPI/)
+[Purchase Book](https://www.amazon.com/Hikam-Wisdom-Ibn`ataallah-Al-Iskandari/dp/1928329063/)
 </div>

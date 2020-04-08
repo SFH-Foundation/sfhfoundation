@@ -12,6 +12,20 @@ Shaykh Fadhlalla Haeri’s unique approach unwraps deep spiritual truths of the 
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
+**Qur’an: 50 Vital Verses**
+
+<div markdown="2" class="book-image">
+![The Story of Creation in the Qur’an](./img/50_vital_verses.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./50-vital-verses)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
 **The Story of Creation in the Qur’an**
 
 <div markdown="2" class="book-image">
@@ -68,7 +82,7 @@ Shaykh Fadhlalla Haeri’s unique approach unwraps deep spiritual truths of the 
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**Keys to the Qur’an: The Juz Amma**
+**Keys to the Qur’an: Five Volume Collection**
 
 <div markdown="2" class="book-image">
 ![Keys to the Qur’an: The Juz Amma](./img/keys-quran.jpg)

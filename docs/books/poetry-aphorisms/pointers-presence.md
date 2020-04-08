@@ -14,5 +14,5 @@ Shaykh Fadhlalla Haeri emphasizes inner transformation and the refinement of con
 
 
 <div markdown="3" class="purchase-link">
-[Purchase Book](https://www.amazon.com/Pointers-Presence-Shaykh-Fadhlalla-Haeri-ebook/dp/B01IKZ5QIW/ref=sr_1_fkmrnull_2?keywords=Pointers+to+Presence&qid=1552379485&s=books&sr=1-2-fkmrnull)
+[Purchase Book](https://www.amazon.com/Pointers-Presence-Collection-Aphorisms-Wayfarer/dp/191982670X/)
 </div>

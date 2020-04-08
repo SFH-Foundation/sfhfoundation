@@ -19,5 +19,5 @@ Imam ’Ali possessed not only a profound understanding of the nature of existen
 The sayings and wisdom of Imam ’Ali transcend superficial differences, to reveal everlasting truths that can only serve to guide and illuminate the seeker and traveler on his or her journey through life, as clearly, constantly, and unerringly as the Pole Star.
 
 <div markdown="3" class="purchase-link">
-[Purchase Book](https://www.amazon.com/Sayings-Wisdom-Imam-%60Ali-ebook/dp/B01JCZY6OE/)
+[Purchase Book](https://www.amazon.com/dp/1919826769/)
 </div>

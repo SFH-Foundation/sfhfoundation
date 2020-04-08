@@ -418,6 +418,22 @@ There are endless levels of realities and the higher points are near the origin 
 
 </div>
 
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Illumination is the Purpose of Human Life](./img/sfh_illumine_purpose.jpg)
+</div>
+
+**Illumination is the Purpose of Human Life**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=OACoYroXOK0)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
+
 ## True Beams
 
 There are always at least two viewpoints at any time. You can face the past or the future, origin or destination. You observe and hear what is outside of you or reflect upon your inner senses and feelings. You are always held in between these two zones and desire balance and stability. This tension enables us to grow and evolve physically, mentally and spiritually.   

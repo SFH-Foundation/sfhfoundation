@@ -63,7 +63,7 @@ Known as _Tasawwuf_ by its practitioners, Sufism is often characterized as the �
 **Practices and Teachings**
 
 <div markdown="2" class="article-image cat-img">
-![Practices and Teachings](./practices-teachings/img/ripples-light.jpg)
+![Practices and Teachings](./practices-teachings/img/decree-destiny.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -76,7 +76,21 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 </div>
 
-# Titles
+## All Titles
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Spectrum of Reality: Sufi Insights**
+
+<div markdown="2" class="book-image">
+![Thoughtful Guide to Sufism](./sufism/img/spectrum.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./sufism/spectrum-reality)
+</div>
+
+</div>
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
@@ -88,6 +102,48 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="3" class="book-link">
 [Read It](./general-islam/transformative-worship)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Qur’an: 50 Vital Verses**
+
+<div markdown="2" class="book-image">
+![The Story of Creation in the Qur’an](./quran/img/50_vital_verses.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./quran/50-vital-verses)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Decree and Destiny**
+
+<div markdown="2" class="book-image">
+![Decree and Destiny](./practices-teachings/img/decree-destiny.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./practices-teachings/decree-destiny)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**The Garden of Meaning**
+
+<div markdown="2" class="book-image">
+![The Garden of Meaning](./poetry-aphorisms/img/garden-meaning.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./poetry-aphorisms/garden-meaning)
 </div>
 
 </div>
@@ -181,11 +237,11 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 **Ripples of Light**
 
 <div markdown="2" class="book-image">
-![Ripples of Light](./practices-teachings/img/ripples-light.jpg)
+![Ripples of Light](./poetry-aphorisms/img/ripples-light.jpg)
 </div>
 
 <div markdown="3" class="book-link">
-[Read It](./practices-teachings/ripples-light)
+[Read It](./poetry-aphorisms/ripples-light)
 </div>
 
 </div>
@@ -195,11 +251,11 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 **Pointers to Presence**
 
 <div markdown="2" class="book-image">
-![Pointers to Presence](./practices-teachings/img/pointers-presence.jpg)
+![Pointers to Presence](./poetry-aphorisms/img/pointers-presence.jpg)
 </div>
 
 <div markdown="3" class="book-link">
-[Read It](./practices-teachings/pointers-presence)
+[Read It](./poetry-aphorisms/pointers-presence)
 </div>
 
 </div>
@@ -293,11 +349,11 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 **Sufi Encounters**
 
 <div markdown="2" class="book-image">
-![Sufi Encounters](./sufism/img/sufi-encounters.jpg)
+![Sufi Encounters](./biography/img/sufi-encounters.jpg)
 </div>
 
 <div markdown="3" class="book-link">
-[Read It](./sufism/sufi-encounters)
+[Read It](./biography/sufi-encounters)
 </div>
 
 </div>
@@ -363,11 +419,11 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 **The Sayings & Wisdom of Imam ’Ali**
 
 <div markdown="2" class="book-image">
-![Sayings & Wisdom of Imam ’Ali](./sufism/img/sayings-imam-ali.jpg)
+![Sayings & Wisdom of Imam ’Ali](./practices-teachings/img/sayings-imam-ali.jpg)
 </div>
 
 <div markdown="3" class="book-link">
-[Read It](./sufism/sayings-imam-ali)
+[Read It](./practices-teachings/sayings-imam-ali)
 </div>
 
 </div>
@@ -489,11 +545,11 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 **Look Again**
 
 <div markdown="2" class="book-image">
-![The Lantern of the Path](./practices-teachings/img/look-again.jpg)
+![The Lantern of the Path](./poetry-aphorisms/img/look-again.jpg)
 </div>
 
 <div markdown="3" class="book-link">
-[Read It](./practices-teachings/look-again)
+[Read It](./poetry-aphorisms/look-again)
 </div>
 
 </div>

@@ -28,6 +28,20 @@ This collection offers a practical and accessible distillation of the _tawhidi_ 
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
+**Spectrum of Reality: Sufi Insights**
+
+<div markdown="2" class="book-image">
+![Thoughtful Guide to Sufism](./img/spectrum.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./spectrum-reality)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
 **The Sufi Way of Self-Enfoldment**
 
 <div markdown="2" class="book-image">
@@ -36,34 +50,6 @@ This collection offers a practical and accessible distillation of the _tawhidi_ 
 
 <div markdown="3" class="book-link">
 [Read It](./sufi-self-enfoldment)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**The Sayings & Wisdom of Imam ’Ali**
-
-<div markdown="2" class="book-image">
-![Sayings & Wisdom of Imam ’Ali](./img/sayings-imam-ali.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./sayings-imam-ali)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**Sufi Encounters**
-
-<div markdown="2" class="book-image">
-![Sufi Encounters](./img/sufi-encounters.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./sufi-encounters)
 </div>
 
 </div>
@@ -106,20 +92,6 @@ This collection offers a practical and accessible distillation of the _tawhidi_ 
 
 <div markdown="3" class="book-link">
 [Read It](./lantern-path)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**The Hikam**
-
-<div markdown="2" class="book-image">
-![The Hikam](./img/hikam.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./hikam)
 </div>
 
 </div>

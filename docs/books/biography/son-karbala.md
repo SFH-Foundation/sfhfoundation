@@ -16,3 +16,61 @@ Shaykh Fadhlalla Haeri was born in the Iraqi holy city of Karbala, sacred to Shi
 <div markdown="3" class="purchase-link">
 [Purchase Book](https://www.amazon.com/Son-Karbala-Spiritual-Journey-Muslim/dp/1905047517/)
 </div>
+
+## Book Launch
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Clip 1](./img/sfh_karbala_1.jpg)
+</div>
+
+**Clip 1**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=vvENn7biigE)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Clip 2](./img/sfh_karbala_2.jpg)
+</div>
+
+**Clip 2**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=3q1_Zo-zNxg)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Clip 3](./img/sfh_karbala_3.jpg)
+</div>
+
+**Clip 3**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=jpQ2pCRkpA8)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Clip 4](./img/sfh_karbala_4.jpg)
+</div>
+
+**Clip 4**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=aOp64KD5Fkg)
+</div>
+
+</div>

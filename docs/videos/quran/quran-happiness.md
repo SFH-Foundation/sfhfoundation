@@ -2,9 +2,9 @@ title: The Qur'an and Happiness
 
 description: A collection of talks given by Shaykh Fadhlalla Haeri on the theme of The Qur'an and Happiness
 
-# The Qur'an and Happiness
+# The Qur'an, Illumination, and Happiness
 
-These three talks stand alone in terms of the clarity and insight they provide into the Qur'anic notion of happiness, and how it applies specifically and practically in our own lives. In order to introduce this work properly, please read over the following excerpt from Shaykh Fadhlalla's book ["The Sufi Way of Self Enfoldment"](../../../books/sufism/sufi-self-enfoldment) first:
+These selected talks provide clarity and insight into the Qur'anic notions of illumination and happiness, and how they apply specifically and practically in our own lives. In order to introduce this work properly, please read over the following excerpt from Shaykh Fadhlalla's book ["The Sufi Way of Self Enfoldment"](../../../books/sufism/sufi-self-enfoldment) first:
 
 We all want happiness and we define happiness as desires achieved. When all desires are achieved, we say, ‘I am tranquil.’ Well, why can’t we be tranquil to begin with? Who made me have all these multitudinous desires? There are basic needs, but we don’t suffer from the lack of those basic things now, things such as shelter, clothes, food. It is ingrained in us, in our chromosomes, to keep the body alive as well as we can, in order to discover the purpose of it all – that is the purpose of living.    
 
@@ -24,6 +24,20 @@ Nothing and no one brings us happiness, it is the removal of unhappiness that ta
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=AIg461OIlB8)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Illumination By The Qur'an Today](../img/sfh_illumination.jpg)
+</div>
+
+**Illumination By The Qur'an Today**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=x884d5I83Bo)
 </div>
 
 </div>

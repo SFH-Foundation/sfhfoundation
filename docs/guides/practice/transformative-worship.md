@@ -33,6 +33,10 @@ Human beings are driven to higher consciousness by prayer, meditation and a host
 
 All acts of worhsip begin with self-awareness and a desire for higher knowledge. The preparation for worship is the declaration of intent and the hope to be focussed, attentive and engaged in the process of deepening one's state of awareness. A point may arrive when the worshiper loses concerns with worldly mundane matters and begins to experience subtler levels of awareness which are deeper than the normal day to day variety. The ultimate purpose of worship and prayer is to realize experientially a state that is not subject to earthly or mental limitations. This may be variously identified as the sacred void, inner bliss, pure peace, or ultimate or higher consciousness.
 
+## Tawhid
+
+Islam is founded upon experiential _tawhīd_. The whole universe has emanated from one source and appears in infinite levels and layers of dualities, diversities, complementarities, competitions, cooperation and other forces. All these dualities reflect an aspect of a higher attribute which includes the names of Allah. With spiritual progress we realize that all actions emanate from the essential source of all energies - Allah. All Attributes, ideas, and qualities also emnate from Allah's qualities. The ultimate realization and inner peace is attained when one realizes that there is only one essential essence that pervades the whole universe - the essence of Allah. That is the deep meaning of _Lā ilāha illa'Llāh_.
+
 ![Transforming hearts](../img/sfh_transformed.jpg)
 
 _These excerpts come from only the first few pages of "[Transformative Worship in Islam: Experiencing Perfection](../../../books/general-islam/transformative-worship)". For more detailed descriptions of actual practices, and for your own deeper understanding and insight, please refer to the entire book_.

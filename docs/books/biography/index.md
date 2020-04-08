@@ -21,3 +21,17 @@ Choosing a path dedicated to higher knowledge and self-transformation is a journ
 </div>
 
 </div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Sufi Encounters**
+
+<div markdown="2" class="book-image">
+![Sufi Encounters](./img/sufi-encounters.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./sufi-encounters)
+</div>
+
+</div>

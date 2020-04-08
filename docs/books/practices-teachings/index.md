@@ -12,28 +12,14 @@ This section of writings are primarily rooted in the _Ja’fari_ school which re
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**Ripples of Light**
+**Spectrum of Reality: Sufi Insights**
 
 <div markdown="2" class="book-image">
-![Ripples of Light](./img/ripples-light.jpg)
+![Thoughtful Guide to Sufism](./img/spectrum.jpg)
 </div>
 
 <div markdown="3" class="book-link">
-[Read It](./ripples-light)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**Pointers to Presence**
-
-<div markdown="2" class="book-image">
-![Pointers to Presence](./img/pointers-presence.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./pointers-presence)
+[Read It](./spectrum-reality)
 </div>
 
 </div>
@@ -68,6 +54,20 @@ This section of writings are primarily rooted in the _Ja’fari_ school which re
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
+**Decree and Destiny**
+
+<div markdown="2" class="book-image">
+![Decree and Destiny](./img/decree-destiny.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./decree-destiny)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
 **The Hikam**
 
 <div markdown="2" class="book-image">
@@ -76,6 +76,20 @@ This section of writings are primarily rooted in the _Ja’fari_ school which re
 
 <div markdown="3" class="book-link">
 [Read It](./hikam)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**The Sayings & Wisdom of Imam ’Ali**
+
+<div markdown="2" class="book-image">
+![Sayings & Wisdom of Imam ’Ali](./img/sayings-imam-ali.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./sayings-imam-ali)
 </div>
 
 </div>
@@ -96,6 +110,20 @@ This section of writings are primarily rooted in the _Ja’fari_ school which re
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
+**Calling Allah By His Most Beautiful Names**
+
+<div markdown="2" class="book-image">
+![Calling Allah By His Most Beautiful Names](./img/calling-allah-beautiful-names.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./calling-allah-beautiful-names)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
 **101 Helpful Illusions**
 
 <div markdown="2" class="book-image">
@@ -108,31 +136,4 @@ This section of writings are primarily rooted in the _Ja’fari_ school which re
 
 </div>
 
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**Look Again**
-
-<div markdown="2" class="book-image">
-![The Lantern of the Path](./img/look-again.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./look-again)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**Calling Allah By His Most Beautiful Names**
-
-<div markdown="2" class="book-image">
-![Calling Allah By His Most Beautiful Names](./img/calling-allah-beautiful-names.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./calling-allah-beautiful-names)
-</div>
-
-</div>
 

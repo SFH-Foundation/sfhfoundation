@@ -2,15 +2,15 @@ title: Keys to the Qur’an - Volume 5 The Juz Amma
 
 description:
 
-# Keys to the Qur’an - Volume 5 The Juz Amma
+# Keys to the Qur’an
 
 <div markdown="1" class="cover-image">
 ![Book cover](./img/keys-quran.jpg)
 </div>
 
-## Summary
+## Background
 
-The original edition of this commentary (tafsir) was published some twenty years ago. It was a result of teachings and talks with the objective of exploring the deeper meanings of the Divine revelations. The emphasis had been on the key Qur`anic terms and the subtle facets and connotations of Arabic words. The response by the readers was most encouraging.
+The original edition of this commentary (_tafsir_) was published some twenty years ago. It was a result of teachings and talks with the objective of exploring the deeper meanings of the Divine revelations. The emphasis had been on the key Qur`anic terms and the subtle facets and connotations of Arabic words. The response by the readers was most encouraging.
 
 The new millennium opens in an age of great complexities, chaos and constant change in values and the way of life. Therefore, what is needed nowadays is the re-discovery of Allah’s patterns as revealed in the Qur’anic message so that we can act appropriately in this world.
 
@@ -22,7 +22,45 @@ Reality, or Allah, is not found in one particular place where we have to go in o
 
 What is stopping us from knowing Allah is ourselves. We are far because of the so-called “I” which constantly asserts itself. We must kill our “self” first while still alive, through surrender. We must be willing to totally surrender, from our hearts, if even for one moment. All the practices of the people of Allah are nothing but techniques to enable us to reach that state, to sit still with no thoughts, and to be pure energy.
 
+## Summary
+
+These commentaries on several essential chapters of the Qur'an are based on Shaykh Fadhlalla Haeri's teachings in the West. The chapters include Surahs Fatiha, Baqarah, Al Imran, Yaseen, Al Ankabut, Al Rahman,Al Waqiah, Al Mulk and the entire Juz Amma (last section of the Qur'an). These explorations of selected chapters of the Qur’an are aimed at those seeking guidance and transformation in the modern world. Emphasising the timeless wisdom of the Qur’an, Shaykh Fadhlalla Haeri uses the linguistic roots of the key terms to offer illuminating insights into its deep inner meanings, and shows its relevance to our present day lives. As a source of understanding for both Muslims and non-Muslims, this volume of 5 parts will be greatly valued.
+
+<div markdown="3" class="purchase-link">
+[Purchase Book](https://www.amazon.com/dp/1919826688/)
+</div>
+
+## Individual Versions
+
+### Volume 1: Commentary on Surah Baqarah
+
+<div markdown="3" class="purchase-link">
+[Purchase Book](https://www.amazon.com/Keys-Quran-Commentary-Fatiha-Baqarah/dp/1928329004/)
+</div>
+
+### Volume 2: Commentary on Surah Al Imran
+
+<div markdown="3" class="purchase-link">
+[Purchase Book](https://www.amazon.com/Keys-Quran-Commentary-Surah-Imran/dp/1928329012/)
+</div>
+
+### Volume 3: Commentary on Surah Yasin
+
+<div markdown="3" class="purchase-link">
+[Purchase Book](https://www.amazon.com/Keys-Quran-Commentary-Surah-Yasin/dp/1928329020/)
+</div>
+
+### Volume 4: Commentary on Surahs Ankabut, Al-Rahman, Al-Waqi`ah and Al-Mulk
+
+<div markdown="3" class="purchase-link">
+[Purchase Book](https://www.amazon.com/Keys-Quran-Commentary-Al-Rahman-Al-Waqi`ah/dp/1928329039/)
+</div>
+
+### Volume 5: Commentary on Juz Amma
+
 <div markdown="3" class="purchase-link">
 [Purchase Book](https://www.amazon.com/Keys-Quran-Commentary-Juz-Amma/dp/1928329047/)
 </div>
+
+
 

@@ -38,6 +38,8 @@ description: A collection of Shaykh Fadhlalla Haeri's aphorisms
 
 "The paradox is that you cannot stop looking for security and you will never find it within conditioned human consciousness or the body and mind."
 
+"_Justice_ prevails when otherness and differences submerge into oneness and sameness."
+
 "In truth, there is only the truth. But we discover it through different levels of falsehood."
 
 "If the moment is fully and utterly treasured then we are at the gateway of eternity."
