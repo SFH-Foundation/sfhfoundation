@@ -1,27 +1,17 @@
-# SFH Knowledge Archive
+# The Human Story
 
-Human beings are living in a world where the challenges they face are increasingly complex. This refers to both the modern realities of day-to-day living, as well as the age-old human drive to know and realise the meaning of life, which is continuous. Religions have served a great purpose in bringing stability and justice to diverse beings. The higher purpose of religion has always been to awaken people to the ever-present sacred Cosmic Reality, which governs all that occurs within space and time.
+## From Darkness to Light
 
-## Need & response  
+Life on earth emerged a long time ago as simple awareness, driven by the desire to perpetuate itself. It had subsequently evolved over many millennia into the numerous complex forms of living beings we observe on earth, in sky and underwater. Human beings are naturally driven to explore, discover and know both what is obvious and that which is beyond. The human mind bridges the cosmic soul or spirit, with the self or individual identity. Every human being is a combination of a boundless and timeless divine soul and its shadow self which is bracketed between birth and death and structured around a physical body, brain and various faculties and organs.
 
-The SFH Foundation had come about as a consequence of making the essence of Islam and Sufism accessible to people from diverse cultures. It is based on the light of the Qur’an and prophetic transformative methods to sacred realization.
+All human experiences are contained within opposite or complementary forces such as pleasure and pain, health and illness, sleep and wakefulness, and countless other attractions and repulsions. All of our experiences occur due to our mind and sensory faculties producing limited and conditioned consciousness which is just one kind of manifestation of boundless consciousness or divine presence.
 
-## Hope  
+Our quest for freedom or liberation is an indication of our drive towards cosmic consciousness, which is both our origin and destiny. Evolution spanning millennia has resulted in the blueprint of Adamic Awakening. Living this blueprint means acknowledging how all visible terrestrial forces are due to the light of an all-encompassing celestial Reality which is the source of life. Normal human consciousness is balanced between what is desirable and what is not. We experience suffering and confusion as well as occasional contentment and joy. This is the nature of our temporary, limited consciousness on earth whose source is boundless, cosmic, and eternal. The notion of paradise on earth, or being godly, simply reflects the presence of a cosmic soul or spirit within the heart. Irrespective of circumstance, there is always hope which is transmitted from the sacred soul within. True contentment occurs when the earthly self calibrates with the perfect state of the heavenly soul.
 
-To present understandable facets of realities and the dynamics of the forces in life, so that effort is made to live a meaningful and balanced life with hope and justice and the experience of higher consciousness. Every human being is a soul or spirit far greater than the limitations of the space and time in which they experience life.
+## Balance
 
-## Goal
+Our world is out of balance in that earthly consciousness is excessively emphasized leading to a culture of fear and distraction, which hampers any attempt to integrate self and soul and thereby awaken to truth. The nature of the inner soul is that of heavenly paradise and the nature of its shadowy lower self is darkness and uncertainty. When conditioned consciousness leaves the temporal life of duality, it touches upon the higher zone of full consciousness which is ever permanent and glorious. By reason and rationality we may reduce our outer confusions and ignorance, but only by **complete transcendence of mind and personal identity** will we touch upon the zone of perpetual light emanating from the soul within a purified heart.
 
-Provide a single source of information about an optimum way of being. We use the accessible language and symbolism developed by Shaykh Haeri in order to present the timeless prophetic teachings and relate them to the modern world.
->
->"For once we have observed the divine transcendent beauty and majesty in creation, we wish to remain in that state. The truth is that we are already in that unified state, but it is up to us to remain conscious of it. This is the choice given to us."  
->  
-> There is nothing new in our search for freedom. There is nothing new in our ability to reach that state of limitless freedom, and there is nothing new in the fact that the only way to that freedom is by our submission to truth and thereby our awakening to it. The only new dimension is time itself, for the moment never repeats. It is forever fresh and new.  
->   
-> As Abi ibn Ali Talib said, 'You are the evident book by whose signs that which was hidden becomes apparent'. The greatest puzzle is that the eternal secret is ever effulgent. But are our eyes strong enough to look at the sun?"
+This website attempts to make accessible the great classical teachings which have emerged from scripture, world religions and prophetic revelations – especially the Quran, which is a magnificent distillation of previous declarations. This universal path can enable people, at any period of time or geographic location, to live as **decent human beings celebrating life** on earth as a prelude and preparation for the next stage of full awakening, which – in most cases – occurs after death. What unites all human beings is the genuine drive towards awakening to the ever-present and prevailing truth of oneness, veiled behind numerous dualities, pluralities and mental differentiations. Personal or communal calamities, or catastrophic fear, is tempered and reduced when recalibrated with the eternal truth of perpetual life from which all emerged. To save one’s self from the lower self and its shadow play, we need to connect our personal life diligently and intelligently to the eternal life beyond the limitations of time and space. We need to unify – by effort, prayers, and meditation – the celestial and the terrestrial within us. Only then can you live cheerfully with your transience, alive to the knowledge of the soul’s permanency. Being on earth as a heavenly reality.
 
 ![SFH in prayer](./assets/images/sfh_prayer.jpg)
-
-The only contact we have with Allah is now. Yesterday is of no use and we don’t know if we will be here tomorrow or not. The only gift we have is the present moment. If the moment is fully and utterly treasured then we are at the gateway of eternity.
-
-This site is the core of SFH Foundation. Our knowledge is open source and hosted on GitHub which means that anyone has the ability to contribute. The goal is to make sure the information is available, clear, concise and up to date.
