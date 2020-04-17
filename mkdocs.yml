@@ -161,7 +161,8 @@ nav:
       - 'Ultimate Contentment': 'videos/conversations/ultimate-contentment.md'
       - 'Collected Interactions': 'videos/conversations/collected.md'
 - Audios:
-  - 'Overview': 'audios/index.md'
+  - 'Most Recent': 'audios/index.md'
+  - 'Guide to Listening': 'audios/guide.md'
   - 'Single Talks': 'audios/single-talks.md'
   - Series:
     - 'Enlightenment': 'audios/series/enlightenment.md'
