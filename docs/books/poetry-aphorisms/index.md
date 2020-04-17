@@ -91,3 +91,31 @@ Shaykh Fadhlalla Haeri’s poetry capture in brush strokes the human condition a
 </div>
 
 </div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Bursts of Silence**
+
+<div markdown="2" class="book-image">
+![Bursts of Silence](./img/burst-silence.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./bursts-of-silence)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Sound Waves**
+
+<div markdown="2" class="book-image">
+![Sound Waves](./img/sound-waves.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./sound-waves)
+</div>
+
+</div>

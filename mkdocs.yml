@@ -2,7 +2,7 @@
 site_name: SFH Foundation
 site_description: Self, Soul, and Joyful Surrender
 site_url: https://sfh-foundation.github.io/sfhfoundation/site/
-site_dir: public/site
+site_dir: public/knowledge
 logo_nav: https://sfh-foundation.github.io/sfhfoundation/
 
 # Configuration
@@ -130,6 +130,8 @@ nav:
       - 'The Garden of Meaning': 'books/poetry-aphorisms/garden-meaning.md'
       - 'The Hikam - The Wisdom of Ibn `Ata’ Allah': 'books/poetry-aphorisms/hikam.md'
       - '101 Helpful Illusions': 'books/poetry-aphorisms/101-helpful-illusions.md'
+      - 'Bursts of Silence': 'books/poetry-aphorisms/bursts-of-silence.md'
+      - 'Sound Waves': 'books/poetry-aphorisms/sound-waves.md'
   - Biography:
       - 'Introduction': 'books/biography/index.md'
       - 'Son of Karbala': 'books/biography/son-karbala.md'
@@ -241,6 +243,7 @@ nav:
   - 'This City Has No Roads': 'poetry/city-no-roads.md'
 - Aphorisms:
   - 'Aphorisms': 'aphorisms/index.md'
+  - 'Journey Through The Spectrum': 'aphorisms/spectrum.md'
 - Glossary:
   - 'Arabic Terms': 'glossary/index.md'
   - 'Key Words': 'glossary/key-words.md'

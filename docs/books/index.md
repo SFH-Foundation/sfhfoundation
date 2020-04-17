@@ -472,10 +472,10 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**Keys to the Qur’an: The Juz Amma**
+**Keys to the Qur’an**
 
 <div markdown="2" class="book-image">
-![Keys to the Qur’an: The Juz Amma](./quran/img/keys-quran.jpg)
+![Keys to the Qur’an](./quran/img/keys-quran.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -550,6 +550,34 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="3" class="book-link">
 [Read It](./poetry-aphorisms/look-again)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Sound Waves**
+
+<div markdown="2" class="book-image">
+![Sound Waves](./poetry-aphorisms/img/sound-waves.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./poetry-aphorisms/sound-waves)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Bursts of Silence**
+
+<div markdown="2" class="book-image">
+![Bursts of Silence](./poetry-aphorisms/img/burst-silence.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./poetry-aphorisms/bursts-of-silence)
 </div>
 
 </div>

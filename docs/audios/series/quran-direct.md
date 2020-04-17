@@ -92,3 +92,49 @@ Some of these themes include: the etiquette and courtesy in appropriately approa
 </div>
 
 <div markdown="1" class="clear"></div>
+
+## Part 3
+
+This discourse is a Qur’anic commentary overviewing four key Surahs in the last section of the Qur’an commonly referred to as the _Qul’s_. The Qur’anic disclosures repeatedly reflect the link between the seen and unseen, relative and absolute. These four-short surahs considered to be foundational and fundamental in the Muhammadi path focus on the nature of Reality and Truth. Shaykh Fadhlalla highlights the Arabic key words in these short surahs and the dimensions and meanings surrounding them and their linguistic roots. Various reflections relating to practice on the essential Islamic path are interweaved with insights around the self, its nature and the keys that increase awareness, watchfulness and access to the light of soul.
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Qur'an Direct: The 4 Quls](../../videos/img/sfh_who.jpg)
+</div>
+
+**Qur'an Direct: The 4 Quls**
+
+<div markdown="3" class="video-link">
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Quran-Direct-Episode-3--The-4-Quls-ecg79k)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
+
+## Part 4
+
+This discourse is a combination of reflection and commentary on three Surahs from the final section of the Qur’an: 
+
+1. _Al Zilzal_ (The earthquake) 
+2. _Al Adiyat_ (The Chargers) 
+3. _Al Qar’iah_ (The Calamity)
+
+Shaykh Fadhlallah begins by introducing and exploring the nature of Authority and its dynamics from both a cosmic and local perspective as reflected in the Qur’an, which is regarded as ‘the Authority’ on the Muhammadi path. The appropriate historical, sociological and linguistic modes of approaching the Qur’an are explored in relation to its spectrum of meanings. The Shaykh demonstrates this authoritative approach in a distilled presentation of these Surahs. He highlights the various windows of meaning woven into these verses and connects a range of topics to them which include the temporality of earthly life, the next phase, the singularity of truth, birth and death of the cosmos, freedom and decree in tandem with various key indications regarding the nature of the self and living the path of Qur’an.
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Qur'an Direct: Surah Zilzal and Qariah](../../videos/img/sfh_elusive.jpg)
+</div>
+
+**Qur'an Direct: Surah Zilzal and Qariah**
+
+<div markdown="3" class="video-link">
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Quran-Direct-Episode-4--Commentary-on-Surah-Zilzal-and-Qariah-ecqdlb)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>

@@ -53,6 +53,34 @@ This page collects all of the various audio recordings of Shaykh Fadhlalla's tal
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![Qur'an Direct: Surah Zilzal and Qariah](../videos/img/sfh_elusive.jpg)
+</div>
+
+**Qur'an Direct: Surah Zilzal and Qariah**
+
+<div markdown="3" class="video-link">
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Quran-Direct-Episode-4--Commentary-on-Surah-Zilzal-and-Qariah-ecqdlb)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Qur'an Direct: The 4 Quls](../videos/img/sfh_who.jpg)
+</div>
+
+**Qur'an Direct: The 4 Quls**
+
+<div markdown="3" class="video-link">
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Quran-Direct-Episode-3--The-4-Quls-ecg79k)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Qur'an Direct: Surat Al-Fattāh](../videos/img/sfh_islam.jpg)
 </div>
 
@@ -74,34 +102,6 @@ This page collects all of the various audio recordings of Shaykh Fadhlalla's tal
 
 <div markdown="3" class="video-link">
 [Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Quran-Direct-Episode-1---Qurans-Ultimate-Disclosures-ebk3o3)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Human Consciousness](../videos/img/sfh_three_cs.jpg)
-</div>
-
-**Human Consciousness**
-
-<div markdown="3" class="video-link">
-[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Human-Consciousness-eb0e9n)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Muslim Awakening](../videos/img/sfh_elusive.jpg)
-</div>
-
-**Muslim Awakening**
-
-<div markdown="3" class="video-link">
-[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Muslim-Awakening-eak5bc)
 </div>
 
 </div>
@@ -153,13 +153,27 @@ This page collects all of the various audio recordings of Shaykh Fadhlalla's tal
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Sufi 21st Century](../videos/img/sfh_diff_same.jpg)
+![Human Consciousness](../videos/img/sfh_three_cs.jpg)
 </div>
 
-**What Does It Mean To Be A Sufi In The 21st Century?**
+**Human Consciousness**
 
 <div markdown="3" class="video-link">
-[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/What-Does-It-Mean-To-Be-A-Sufi-In-The-XXI-Century-eag95e)
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Human-Consciousness-eb0e9n)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Muslim Awakening](../videos/img/sfh_elusive.jpg)
+</div>
+
+**Muslim Awakening**
+
+<div markdown="3" class="video-link">
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Muslim-Awakening-eak5bc)
 </div>
 
 </div>
@@ -174,6 +188,20 @@ This page collects all of the various audio recordings of Shaykh Fadhlalla's tal
 
 <div markdown="3" class="video-link">
 [Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Die-before-you-die-eak57i)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Sufi 21st Century](../videos/img/sfh_diff_same.jpg)
+</div>
+
+**What Does It Mean To Be A Sufi In The 21st Century?**
+
+<div markdown="3" class="video-link">
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/What-Does-It-Mean-To-Be-A-Sufi-In-The-XXI-Century-eag95e)
 </div>
 
 </div>
