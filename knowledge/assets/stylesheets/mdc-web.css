@@ -105,6 +105,18 @@ div.three-column :first-child {
   font-size: 14px;
   height: 60px;
 }
+.card.audio {
+  float: left;
+  width: 44%;
+  height: 340px;
+}
+.card.audio h2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+.card.audio p {
+  text-align: left;
+}
 .card.flat {
   box-shadow: none;
 }
@@ -382,10 +394,13 @@ img[align="right"]{ padding-left:10px }
 /* Media Queries for cards */
 
 @media (max-width: 761px) {
-  .card.book {
+  .card.book, .card.audio {
     width: 90%;
   }
   .card.video {
     width: 44%;
+  }
+  .card.audio {
+    height: none;
   }
 }

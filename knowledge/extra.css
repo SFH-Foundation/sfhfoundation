@@ -95,6 +95,10 @@
     margin: 0 0 0 30px;
   }
 
+  .audio-img {
+    text-align: center;
+  }
+
   .clear {
     clear: both;
   }
