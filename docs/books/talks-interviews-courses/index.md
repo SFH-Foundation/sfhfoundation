@@ -51,3 +51,31 @@ In our current times, when nations and communities are increasingly subject to d
 </div>
 
 </div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**The Spiritual Path**
+
+<div markdown="2" class="book-image">
+![The Spiritual Path](./img/spiritual-path.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./spiritual-path)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**The Connection Between the Absolute and the Relative**
+
+<div markdown="2" class="book-image">
+![The Connection Between the Absolute and the Relative](./img/absolute-relative.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./connection-absolute-relative)
+</div>
+
+</div>

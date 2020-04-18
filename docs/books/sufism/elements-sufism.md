@@ -17,6 +17,12 @@ Sufism is the heart of Islam. This introduction to Sufism describes its origins 
 – What it means to be a Sufi
 – The relevance of Sufism in modern life
 
+## Purchase
+
 <div markdown="3" class="purchase-link">
-[Purchase Book](https://www.amazon.com/Elements-Sufism-Shaykh-Fadhlalla-Haeri/dp/1919897062/)
+[Amazon](http://www.amazon.com/dp/B01J81DSUA)
+</div>
+
+<div markdown="3" class="purchase-link">
+[Apple iBookStore](http://itunes.apple.com/us/book/id1144990885)
 </div>

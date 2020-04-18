@@ -14,6 +14,12 @@ The primal design of human beings is based on an intrinsic knowledge of perfecti
 
 >“In this book, we have presented a brief discourse on the doors of entry into the vast, boundless divine light created through supplication and calling upon Allah. Our hope is to facilitate its use, benefit and transformation for the traveler along the path. Thus, the repeated reading and use of this book by the seeker is recommended to open up the numerous horizons and subtleties of Allah’s ways of grace.”
 
+## Purchase
+
 <div markdown="3" class="purchase-link">
-[Purchase Book](https://www.amazon.com/dp/1928329071)
+[Amazon](https://www.amazon.com/dp/1928329071)
+</div>
+
+<div markdown="3" class="purchase-link">
+[Apple iBookStore](http://itunes.apple.com/us/book/id1144695091)
 </div>

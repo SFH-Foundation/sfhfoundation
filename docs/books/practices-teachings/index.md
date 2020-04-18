@@ -26,14 +26,14 @@ This section of writings are primarily rooted in the _Ja’fari_ school which re
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**Journey of the Self**
+**Transformative Worship in Islam**
 
 <div markdown="2" class="book-image">
-![Journey of the Self](./img/journey-self.jpg)
+![Transformative Worship](./img/transformative-worship.jpg)
 </div>
 
 <div markdown="3" class="book-link">
-[Read It](./journey-self)
+[Read It](./transformative-worship)
 </div>
 
 </div>
@@ -48,6 +48,20 @@ This section of writings are primarily rooted in the _Ja’fari_ school which re
 
 <div markdown="3" class="book-link">
 [Read It](./happiness-life-death)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Journey of the Self**
+
+<div markdown="2" class="book-image">
+![Journey of the Self](./img/journey-self.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./journey-self)
 </div>
 
 </div>

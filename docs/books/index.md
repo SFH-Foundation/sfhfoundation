@@ -2,7 +2,15 @@ title: Overview - Books
 
 description: An overview of all the books written by Shaykh Fadlalla Haeri
 
-# Main Categories
+# Books
+
+<div markdown="1" class="zp-logo">
+![Zahra Publications Logo](./zahra_logo.png)
+</div>
+
+Zahra Publications has been publishing books on Islam and Sufism since 1981. Dedicated to disseminating the original teachings of Islam through contemporary and classical works alike, Zahra Publications titles lay particular emphasis on spiritual and transformative teachings.
+
+Islam reflects the constant compassion and presence of the Divine Light. In these crucial times, more than ever before, Muslims and seekers of a life lived with integrity and harmony need to renew their knowledge and awaken to the original Prophetic path.
 
 <div markdown="1" class="card article sidebar center">
 
@@ -27,7 +35,7 @@ This collection of writings by Shaykh Fadhlalla Haeri offers the contemporary re
 **The Qur’an**
 
 <div markdown="2" class="article-image cat-img">
-![The Qur’an](./quran/img/essential-quran.jpg)
+![The Qur’an](./quran/img/keys-quran.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -45,7 +53,7 @@ The new millennium has dawned as an age of great complexity, chaos and constant 
 **Sufism and Self-Knowledge**
 
 <div markdown="2" class="article-image cat-img">
-![Sufism and Self-Knowledge](./sufism/img/sufi-self-enfoldment.jpg)
+![Sufism and Self-Knowledge](./sufism/img/spectrum.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -63,7 +71,7 @@ Known as _Tasawwuf_ by its practitioners, Sufism is often characterized as the �
 **Practices and Teachings**
 
 <div markdown="2" class="article-image cat-img">
-![Practices and Teachings](./practices-teachings/img/decree-destiny.jpg)
+![Practices and Teachings](./practices-teachings/img/transformative-worship.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -144,6 +152,20 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="3" class="book-link">
 [Read It](./poetry-aphorisms/garden-meaning)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Keys to the Qur’an**
+
+<div markdown="2" class="book-image">
+![Keys to the Qur’an](./quran/img/keys-quran.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./quran/keys-quran)
 </div>
 
 </div>
@@ -262,14 +284,14 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**The Heart of the Qur’an - Surat Yā Sīn**
+**Sacred Alchemy: Qur’anic Verses**
 
 <div markdown="2" class="book-image">
-![The Heart of the Qur’an - Surat Yā Sīn](./quran/img/heart-perfect-mizan.jpg)
+![Sayings of the Prophet Muhammad](./quran/img/sacred-alchemy.jpg)
 </div>
 
 <div markdown="3" class="book-link">
-[Read It](./quran/heart-quran-perfect-mizan)
+[Read It](./quran/sacred-alchemy)
 </div>
 
 </div>
@@ -284,20 +306,6 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="3" class="book-link">
 [Read It](./general-islam/sayings-muhammad)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**Sacred Alchemy: Qur’anic Verses**
-
-<div markdown="2" class="book-image">
-![Sayings of the Prophet Muhammad](./quran/img/sacred-alchemy.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./quran/sacred-alchemy)
 </div>
 
 </div>
@@ -472,20 +480,6 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**Keys to the Qur’an**
-
-<div markdown="2" class="book-image">
-![Keys to the Qur’an](./quran/img/keys-quran.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./quran/keys-quran)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
 **Qur’an's Prescriptions for Life**
 
 <div markdown="2" class="book-image">
@@ -578,6 +572,48 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="3" class="book-link">
 [Read It](./poetry-aphorisms/bursts-of-silence)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**The Spiritual Path**
+
+<div markdown="2" class="book-image">
+![The Spiritual Path](./talks-interviews-courses/img/spiritual-path.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./talks-interviews-courses/spiritual-path)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**The Connection Between the Absolute and the Relative**
+
+<div markdown="2" class="book-image">
+![The Connection Between the Absolute and the Relative](./talks-interviews-courses/img/absolute-relative.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./talks-interviews-courses/connection-absolute-relative)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Living Islam - East and West**
+
+<div markdown="2" class="book-image">
+![Living Islam](./general-islam/img/living-islam.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./general-islam/living-islam)
 </div>
 
 </div>

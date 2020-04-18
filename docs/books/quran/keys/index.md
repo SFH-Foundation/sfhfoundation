@@ -1,11 +1,11 @@
+---
 title: Keys to the Qur’an - Volume 5 The Juz Amma
-
-description:
+---
 
 # Keys to the Qur’an
 
 <div markdown="1" class="cover-image">
-![Book cover](./img/keys-quran.jpg)
+![Book cover](../img/keys-quran.jpg)
 </div>
 
 ## Background
@@ -27,40 +27,9 @@ What is stopping us from knowing Allah is ourselves. We are far because of the s
 These commentaries on several essential chapters of the Qur'an are based on Shaykh Fadhlalla Haeri's teachings in the West. The chapters include Surahs Fatiha, Baqarah, Al Imran, Yaseen, Al Ankabut, Al Rahman,Al Waqiah, Al Mulk and the entire Juz Amma (last section of the Qur'an). These explorations of selected chapters of the Qur’an are aimed at those seeking guidance and transformation in the modern world. Emphasising the timeless wisdom of the Qur’an, Shaykh Fadhlalla Haeri uses the linguistic roots of the key terms to offer illuminating insights into its deep inner meanings, and shows its relevance to our present day lives. As a source of understanding for both Muslims and non-Muslims, this volume of 5 parts will be greatly valued.
 
 <div markdown="3" class="purchase-link">
-[Purchase Book](https://www.amazon.com/dp/1919826688/)
+[Amazon](https://www.amazon.com/dp/1919826688/)
 </div>
 
-## Individual Versions
-
-### Volume 1: Commentary on Surah Baqarah
-
-<div markdown="3" class="purchase-link">
-[Purchase Book](https://www.amazon.com/Keys-Quran-Commentary-Fatiha-Baqarah/dp/1928329004/)
-</div>
-
-### Volume 2: Commentary on Surah Al Imran
-
-<div markdown="3" class="purchase-link">
-[Purchase Book](https://www.amazon.com/Keys-Quran-Commentary-Surah-Imran/dp/1928329012/)
-</div>
-
-### Volume 3: Commentary on Surah Yasin
-
-<div markdown="3" class="purchase-link">
-[Purchase Book](https://www.amazon.com/Keys-Quran-Commentary-Surah-Yasin/dp/1928329020/)
-</div>
-
-### Volume 4: Commentary on Surahs Ankabut, Al-Rahman, Al-Waqi`ah and Al-Mulk
-
-<div markdown="3" class="purchase-link">
-[Purchase Book](https://www.amazon.com/Keys-Quran-Commentary-Al-Rahman-Al-Waqi`ah/dp/1928329039/)
-</div>
-
-### Volume 5: Commentary on Juz Amma
-
-<div markdown="3" class="purchase-link">
-[Purchase Book](https://www.amazon.com/Keys-Quran-Commentary-Juz-Amma/dp/1928329047/)
-</div>
 
 
 

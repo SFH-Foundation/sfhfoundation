@@ -16,7 +16,12 @@ This collection of verses from the Qur’an and traditions from the Prophet Muha
 
 From this book one can learn a great deal about the Islamic conception of God and prophecy, of worship and virtue, of the character of the Shi`ah Imams and even of early Islamic history. Furthermore, one can also learn much about the human state, its origin and end, and the meaning of terrestrial existence and our role here on earth. The book therefore addresses itself not only to the lovers of the Ahl al-Bayt and all Muslims, but in fact to all human beings, whatever their background may be, as long as they are attracted to the world of the Spirit and are in quest of meaning in their transient lives here on earth.
 
+## Purchase
 
 <div markdown="3" class="purchase-link">
-[Purchase Book](https://www.amazon.com/Prophetic-Traditions-Islam-Authority-Prophet-ebook/dp/B01IVVIRGS/)
+[Amazon](http://www.amazon.com/dp/B01IVVIRGS)
+</div>
+
+<div markdown="3" class="purchase-link">
+[Apple iBookStore](http://itunes.apple.com/us/book/id1144972467)
 </div>

@@ -16,6 +16,8 @@ The ‘Refinement of Character’ discourses offered by Shaykh Fadhlalla Haeri i
 
 >“Become emotional and you are disturbing the heart, which represents the access to your soul. Through the soul you perceive the appropriateness of knowledge.”
 
+## Purchase
+
 <div markdown="3" class="purchase-link">
-[Purchase Book](https://www.amazon.com/Refinement-Character-Shaykh-Fadhlalla-Haeri/dp/1928329055/)
+[Amazon](https://www.amazon.com/Refinement-Character-Shaykh-Fadhlalla-Haeri/dp/1928329055/)
 </div>

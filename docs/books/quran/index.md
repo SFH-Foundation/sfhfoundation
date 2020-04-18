@@ -68,20 +68,6 @@ Shaykh Fadhlalla Haeri’s unique approach unwraps deep spiritual truths of the 
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**The Heart of the Qur’an - Surat Yā Sīn**
-
-<div markdown="2" class="book-image">
-![The Heart of the Qur’an - Surat Yā Sīn](./img/heart-perfect-mizan.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./heart-quran-perfect-mizan)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
 **Keys to the Qur’an: Five Volume Collection**
 
 <div markdown="2" class="book-image">
@@ -89,7 +75,7 @@ Shaykh Fadhlalla Haeri’s unique approach unwraps deep spiritual truths of the 
 </div>
 
 <div markdown="3" class="book-link">
-[Read It](./keys-quran)
+[Read It](./keys/)
 </div>
 
 </div>

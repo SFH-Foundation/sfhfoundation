@@ -10,6 +10,7 @@ Topics covered are Islamic practices and theology, such as the cosmology and pur
 
 ## Titles
 
+
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
 **Transformative Worship in Islam**
@@ -20,6 +21,20 @@ Topics covered are Islamic practices and theology, such as the cosmology and pur
 
 <div markdown="3" class="book-link">
 [Read It](./transformative-worship)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Elements of Islam**
+
+<div markdown="2" class="book-image">
+![Elements of Islam](./img/elements-islam.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./elements-islam)
 </div>
 
 </div>
@@ -68,14 +83,15 @@ Topics covered are Islamic practices and theology, such as the cosmology and pur
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**Elements of Islam**
+**Living Islam**
 
 <div markdown="2" class="book-image">
-![Elements of Islam](./img/elements-islam.jpg)
+![Living Islam](./img/living-islam.jpg)
 </div>
 
 <div markdown="3" class="book-link">
-[Read It](./elements-islam)
+[Read It](./living-islam)
 </div>
 
 </div>
+

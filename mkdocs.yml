@@ -87,16 +87,22 @@ nav:
       - 'The Thoughtful Guide to Islam': 'books/general-islam/thoughtful-guide-islam.md'
       - 'Elements of Islam': 'books/general-islam/elements-islam.md'
       - 'Sayings of the Prophet Muhammad': 'books/general-islam/sayings-muhammad.md'
-      - 'Prophetic Traditions in Islam: On the Authority of the Family of the Prophet': 'books/general-islam/prophetic-traditions.md'
+      - 'Prophetic Traditions in Islam': 'books/general-islam/prophetic-traditions.md'
+      - 'Living Islam - East & West': 'books/general-islam/living-islam.md'
   - The Qur’an:
       - 'Introduction': 'books/quran/index.md'
       - 'Qur’an: 50 Vital Verses': 'books/quran/50-vital-verses.md'
+      - Keys to the Qur’an:
+        - 'Collected Volume': 'books/quran/keys/index.md'
+        - 'Surah Fatiha & Baqarah': 'books/quran/keys/keys-1.md'
+        - 'Surat Al-`Imran': 'books/quran/keys/keys-2.md'
+        - 'Surat Yasin': 'books/quran/keys/keys-3.md'
+        - 'Surah Ankabut, Al-Rahman, Al-Waqi`ah and Al-Mulk': 'books/quran/keys/keys-4.md'
+        - 'The Juz Amma': 'books/quran/keys/keys-5.md'
       - 'The Story of Creation in the Qur’an': 'books/quran/story-creation-quran.md'
       - 'The Mercy of the Qur’an and The Advent of Zaman': 'books/quran/mercy-quran-advent-zaman.md'
-      - 'The Heart of the Qur’an - Surat Yā Sīn': 'books/quran/heart-quran-perfect-mizan.md'
       - 'The Essential Message Of the Qur’an': 'books/quran/essential-quran.md'
       - 'Sacred Alchemy: A Collection of Qur’anic Verses': 'books/quran/sacred-alchemy.md'
-      - 'Keys to the Qur’an - Volume 5 The Juz Amma': 'books/quran/keys-quran.md'
       - 'Qur’an’s Prescription for Life': 'books/quran/quran-prescriptions.md'
   - Sufism and Self-Knowledge: 
       - 'Introduction': 'books/sufism/index.md'
@@ -108,6 +114,7 @@ nav:
       - 'Lantern of the Path': 'books/sufism/lantern-path.md'
   - Practices and Teachings:
       - 'Introduction': 'books/practices-teachings/index.md'
+      - 'Transformative Worship In Islam': 'books/practices-teachings/transformative-worship.md'
       - 'Spectrum of Reality: Sufi Insights': 'books/practices-teachings/spectrum-reality.md'
       - 'Journey of the Self': 'books/practices-teachings/journey-self.md'
       - 'Happiness in Life and After Death': 'books/practices-teachings/happiness-life-death.md'
@@ -122,6 +129,8 @@ nav:
       - 'Friday Discourses': 'books/talks-interviews-courses/friday-discourses.md'
       - 'Refinement of Character: Friday Discourses': 'books/talks-interviews-courses/refinement-character.md'
       - 'Journey of the Self': 'books/talks-interviews-courses/journey-self.md'
+      - 'The Spiritual Path': 'books/talks-interviews-courses/spiritual-path.md'
+      - 'The Connection Between the Absolute and the Relative': 'books/talks-interviews-courses/connection-absolute-relative.md'
   - Poetry & Aphorisms:
       - 'Introduction': 'books/poetry-aphorisms/index.md'
       - 'Ripples of Light': 'books/poetry-aphorisms/ripples-light.md'

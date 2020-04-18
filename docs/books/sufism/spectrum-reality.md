@@ -25,6 +25,18 @@ Dr. Ali Allawi, visiting professor at the National University of Singapore and K
 
 > "Spectrum of Reality is a true masterpiece, a life long work, and a very well written book, which is sure to satisfy all those who earnestly yearn to know and understand the actual Meaning of Life, What is the Nature of Reality? and How to Awaken to the Divine Self, that is lying latent in each human being, and waiting to be Realised. I highly recommend this significant and priceless publication for all earnest seekers who wish to understand the Real Truth of the World in which we live."
 
+## Purchase
+
 <div markdown="3" class="purchase-link">
-[Purchase Book](https://www.amazon.com/Spectrum-Reality-Shaykh-Fadhlalla-Haeri/dp/1919826955/)
+[Amazon](https://www.amazon.com/Spectrum-Reality-Shaykh-Fadhlalla-Haeri/dp/1919826955/)
 </div>
+
+## Website
+
+We have made a [specific and stand-alone website](http://spectrumofreality.com) for some of the amazing content in this seminal work. Please feel free to navigate on and share it with like minded friends and family.
+
+> "There is a mysterious and unique light or energy from which the universe emanated and through which it is sustained and to which it returns. During the past few thousand years, many shamans, prophets, philosophers, seers and sages have emerged, propelled by the power and force of the discovery of this majestic One Reality.  
+
+> Spectrum of Reality explores the mystery of countless dualities that emerge from this unity and submerge back into it. It presents sketches and maps illustrating the connections between meanings and forms, the levels and zones of consciousness and human experiences, the direction and purpose of life, and the ultimate destiny of the universe.  
+
+> Approach this atlas of life as a door to deep meditation, rather than for analysis. Let these sketches and maps allow you to navigate through the intricate visible and invisible realities of life. Life on earth is a beautiful journey for those who are awakened; it becomes a liberating process from all illusions except the Real." Shaykh Fadhlalla Haeri

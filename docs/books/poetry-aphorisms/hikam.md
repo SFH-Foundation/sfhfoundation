@@ -16,6 +16,12 @@ Short but immensely thought provoking, dense in their significance and insightfu
 
 With the publication of Shaykh Fadhlalla Haeri’s new translation and with the aid of his accompanying commentary, students and adepts alike can now gain a profounder understanding of these timeless teachings from the wellspring of the heart of Islam.
 
+## Purchase
+
 <div markdown="3" class="purchase-link">
-[Purchase Book](https://www.amazon.com/Hikam-Wisdom-Ibn`ataallah-Al-Iskandari/dp/1928329063/)
+[Amazon](http://www.amazon.com/dp/B01JBIYTPI)
+</div>
+
+<div markdown="3" class="purchase-link">
+[Apple iBookStore](http://itunes.apple.com/us/book/id1145019417)
 </div>

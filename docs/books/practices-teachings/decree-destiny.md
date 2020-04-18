@@ -14,7 +14,13 @@ Free will or determinism has been the frequent topic of philosophical debate fro
 
 > "Shaykh Fadhlalla Haeri's book has the great advantage that it presents to the Western reader the deepest aspects of the problems of decree and destiny through the actual words of the Qur'an, the Prophet Muhammad and the Imams of his Household. Many of the Sayings translated in this work, especially those of the Imams, have not been available in such a manner before'." -- From the Foreword by Seyyed Hossein Nasr
 
+## Purchase
+
 <div markdown="3" class="purchase-link">
-[Purchase Book](https://www.amazon.com/Decree-Destiny-Shaykh-Fadhlalla-Haeri/dp/1919826785/)
+[Amazon](http://www.amazon.com/dp/B01J46EJJ8)
+</div>
+
+<div markdown="3" class="purchase-link">
+[Apple iBookStore](http://itunes.apple.com/us/book/id1144927606)
 </div>
 

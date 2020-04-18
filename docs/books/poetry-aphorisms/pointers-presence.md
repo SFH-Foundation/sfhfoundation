@@ -12,7 +12,12 @@ description: Shaykh Fadhlalla Haeri emphasizes inner transformation and the refi
 
 Shaykh Fadhlalla Haeri emphasizes inner transformation and the refinement of conduct, as preludes to the realization of the prevalence of Divine Grace. He considers that the purpose of life is to know and resonate with the eternal essence of the one and only Life giver – Allah.
 
+## Purchase
 
 <div markdown="3" class="purchase-link">
-[Purchase Book](https://www.amazon.com/Pointers-Presence-Collection-Aphorisms-Wayfarer/dp/191982670X/)
+[Amazon](http://www.amazon.com/dp/B01IKZ5QIW)
+</div>
+
+<div markdown="3" class="purchase-link">
+[Apple iBookStore](http://itunes.apple.com/us/book/id1144117161)
 </div>
