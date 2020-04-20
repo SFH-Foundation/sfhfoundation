@@ -404,7 +404,7 @@ Determination and grace are required to awaken to your Soul. It is when you expe
 
 ## Where Land Meets Sea - A Selection
 
-Where Lands Meets Sea is a wonderful YouTube channel curated by some very close friends of the Shaykh Fadhlalla Haeri Foundation based in Sweden. We encourage you to watch as many of the videos as you can make time for on this fantastic channel. Below, we list some choice clips we have been enjoying:
+Where Lands Meets Sea is a YouTube channel curated by friends of the Shaykh Fadhlalla Haeri Foundation based in Sweden. We encourage you to watch as many of the videos as you can make time for in this fantastic selection. Below, we list some choice clips we have been enjoying:
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 

@@ -95,3 +95,33 @@ Topics covered are Islamic practices and theology, such as the cosmology and pur
 
 </div>
 
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Health Sciences in Early Islam - Volume 1**
+
+<div markdown="2" class="book-image">
+![Health Sciences in Early Islam - Volume 1](./img/health-sciences-1.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./health-sciences/)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Health Sciences in Early Islam - Volume 2**
+
+<div markdown="2" class="book-image">
+![Health Sciences in Early Islam - Volume 2](./img/health-sciences-2.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./health-sciences/volume-2)
+</div>
+
+</div>
+
+
+

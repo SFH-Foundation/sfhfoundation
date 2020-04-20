@@ -150,4 +150,18 @@ This section of writings are primarily rooted in the _Ja’fari_ school which re
 
 </div>
 
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Cosmology Of The Self**
+
+<div markdown="2" class="book-image">
+![Cosmology Of The Self](./img/cosmology-self.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./cosmology-self)
+</div>
+
+</div>
+
 

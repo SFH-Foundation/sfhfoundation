@@ -145,6 +145,34 @@ This short series of 9 videos will give you a good introduction to Shaykh Haeri 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![Is God Male or Female?](./img/sfh_god_gender.jpg)
+</div>
+
+**Is God Male or Female?**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=byVUsVucmAA)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Origin of Good and Bad](./img/sfh_war_religion.jpg)
+</div>
+
+**Why Is There War Between Religions?**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=n6ajIEmwQqE)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![The Origin of Good and Bad](./img/sfh_good_bad.jpg)
 </div>
 

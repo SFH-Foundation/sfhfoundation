@@ -79,3 +79,31 @@ In our current times, when nations and communities are increasingly subject to d
 </div>
 
 </div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**ASK Course 1 - A Sufi Map of Self**
+
+<div markdown="2" class="book-image">
+![ASK Course 1 - A Sufi Map of Self](./img/ask-1-sufi-map-self.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./ask-1-sufi-map-self)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**ASK Course 2 - A Prophetic Way of Life**
+
+<div markdown="2" class="book-image">
+![ASK Course 2 - A Prophetic Way of Life](./img/ask-2-prophetic-way-life.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./ask-2-prophetic-way-life)
+</div>
+
+</div>

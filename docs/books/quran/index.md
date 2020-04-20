@@ -108,3 +108,17 @@ Shaykh Fadhlalla Haeri’s unique approach unwraps deep spiritual truths of the 
 
 </div>
 
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**The Qur’an In Islam**
+
+<div markdown="2" class="book-image">
+![The Qur’an In Islam](./img/quran-islam.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./quran-islam)
+</div>
+
+</div>
+

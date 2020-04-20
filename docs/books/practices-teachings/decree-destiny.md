@@ -24,3 +24,7 @@ Free will or determinism has been the frequent topic of philosophical debate fro
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144927606)
 </div>
 
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/decree-destiny-1)
+</div>
+

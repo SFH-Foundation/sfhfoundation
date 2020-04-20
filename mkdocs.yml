@@ -89,6 +89,9 @@ nav:
       - 'Sayings of the Prophet Muhammad': 'books/general-islam/sayings-muhammad.md'
       - 'Prophetic Traditions in Islam': 'books/general-islam/prophetic-traditions.md'
       - 'Living Islam - East & West': 'books/general-islam/living-islam.md'
+      - Health Sciences - Early Islam:
+        - 'Volume 1': 'books/general-islam/health-sciences/index.md'
+        - 'Volume 2': 'books/general-islam/health-sciences/volume-2.md'
   - The Qur’an:
       - 'Introduction': 'books/quran/index.md'
       - 'Qur’an: 50 Vital Verses': 'books/quran/50-vital-verses.md'
@@ -113,6 +116,7 @@ nav:
       - 'Witnessing Perfection: A Sufi Guide': 'books/sufism/witnessing-perfection.md'
       - 'Lantern of the Path': 'books/sufism/lantern-path.md'
       - 'Beginning’s End': 'books/sufism/beginnings-end.md'
+      - 'Leaves From A Sufi Journal': 'books/sufism/leaves-sufi-journal.md'
   - Practices and Teachings:
       - 'Introduction': 'books/practices-teachings/index.md'
       - 'Transformative Worship In Islam': 'books/practices-teachings/transformative-worship.md'
@@ -125,12 +129,15 @@ nav:
       - 'The Hikam': 'books/practices-teachings/hikam.md'
       - '101 Helpful Illusions': 'books/practices-teachings/101-helpful-illusions.md'
       - 'The Sayings & Wisdom of Imam `Ali': 'books/practices-teachings/sayings-imam-ali.md'
+      - 'Cosmology Of The Self': 'books/practices-teachings/cosmology-self.md'
   - Talks, Interviews, and Courses:
       - 'Introduction': 'books/talks-interviews-courses/index.md'
       - 'Friday Discourses': 'books/talks-interviews-courses/friday-discourses.md'
       - 'Refinement of Character: Friday Discourses': 'books/talks-interviews-courses/refinement-character.md'
       - 'Journey of the Self': 'books/talks-interviews-courses/journey-self.md'
       - 'The Spiritual Path': 'books/talks-interviews-courses/spiritual-path.md'
+      - 'ASK Course 1 - A Sufi Map of Self': 'books/talks-interviews-courses/ask-1-sufi-map-self.md'
+      - 'ASK Course 2 - A Prophetic Way of Life': 'books/talks-interviews-courses/ask-2-prophetic-way-life.md'
       - 'The Connection Between the Absolute and the Relative': 'books/talks-interviews-courses/connection-absolute-relative.md'
   - Poetry & Aphorisms:
       - 'Introduction': 'books/poetry-aphorisms/index.md'

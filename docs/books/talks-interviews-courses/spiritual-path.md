@@ -27,3 +27,7 @@ Deeply engaging and inspiring for any serious seeker, these interviews were tran
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1460280842)
 </div>
+
+<div markdown="3" class="purchase-link">
+[Kobo Store](https://www.kobo.com/ca/en/ebook/the-connection-between-the-absolute-and-the-relative)
+</div>

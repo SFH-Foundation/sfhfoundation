@@ -578,20 +578,6 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**The Connection Between the Absolute and the Relative**
-
-<div markdown="2" class="book-image">
-![The Connection Between the Absolute and the Relative](./talks-interviews-courses/img/absolute-relative.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./talks-interviews-courses/connection-absolute-relative)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
 **Beginning's End**
 
 <div markdown="2" class="book-image">
@@ -642,6 +628,104 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="3" class="book-link">
 [Read It](./general-islam/living-islam)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**The Connection Between the Absolute and the Relative**
+
+<div markdown="2" class="book-image">
+![The Connection Between the Absolute and the Relative](./talks-interviews-courses/img/absolute-relative.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./talks-interviews-courses/connection-absolute-relative)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Cosmology Of The Self**
+
+<div markdown="2" class="book-image">
+![Cosmology Of The Self](./practices-teachings/img/cosmology-self.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./practices-teachings/cosmology-self)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Leaves From A Sufi Journal**
+
+<div markdown="2" class="book-image">
+![Leaves From A Sufi Journal](./sufism/img/leaves-sufi-journal.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./sufism/leaves-sufi-journal)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**ASK Course 1 - A Sufi Map of Self**
+
+<div markdown="2" class="book-image">
+![ASK Course 1 - A Sufi Map of Self](./talks-interviews-courses/img/ask-1-sufi-map-self.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./talks-interviews-courses/ask-1-sufi-map-self)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**ASK Course 2 - A Prophetic Way of Life**
+
+<div markdown="2" class="book-image">
+![ASK Course 2 - A Prophetic Way of Life](./talks-interviews-courses/img/ask-2-prophetic-way-life.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./talks-interviews-courses/ask-2-prophetic-way-life)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Health Sciences in Early Islam - Volume 1**
+
+<div markdown="2" class="book-image">
+![Health Sciences in Early Islam - Volume 1](./general-islam/img/health-sciences-1.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./general-islam/health-sciences/)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Health Sciences in Early Islam - Volume 2**
+
+<div markdown="2" class="book-image">
+![Health Sciences in Early Islam - Volume 2](./general-islam/img/health-sciences-2.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./general-islam/health-sciences/volume-2)
 </div>
 
 </div>

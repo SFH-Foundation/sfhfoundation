@@ -95,3 +95,17 @@ This collection offers a practical and accessible distillation of the _tawhidi_ 
 </div>
 
 </div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Leaves From A Sufi Journal**
+
+<div markdown="2" class="book-image">
+![Leaves From A Sufi Journal](./img/leaves-sufi-journal.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./leaves-sufi-journal)
+</div>
+
+</div>
