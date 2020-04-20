@@ -24,6 +24,42 @@ Practice stillness in body, mind, and heart: beginning with proper preparation a
 
 <div markdown="1" class="card article sidebar center">
 
+**Maps & Models of the Self**
+
+<div markdown="2" class="article-image">
+![Sufis](../assets/images/01.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+A basic mapping of the modern self, it's different levels, and the journeys it can undergo in this life as it progresses through various layers or rungs of consciousness.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./7-stations-4-journeys)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Virtuous Being and Higher Conduct**
+
+<div markdown="2" class="article-image">
+![Virtuous Being and Higher Conduct](../assets/images/15.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+Virtue is behaviour occurring at the centre of two extremes, both of which are unvirtuous. From this base, Shaykh Haeri explores loyalty, higher consciousness and the eternal now.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./virtue-higher-conduct)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
 **Self Knowledge and Unfolding Into Presence**
 
 <div markdown="2" class="article-image">
@@ -36,24 +72,6 @@ A collection of excerpts from various books written by Shaykh Fadhlalla over the
 
 <div markdown="3" class="article-link">
 [Read More](./self-knowledge-presence)
-</div>
-
-</div>
-
-<div markdown="1" class="card article sidebar center">
-
-**The Self and its Journeys**
-
-<div markdown="2" class="article-image">
-![Sufis](../assets/images/01.jpg)
-</div>
-
-<div markdown="3" class="article-para">
-A basic mapping of the modern self, it's different levels, and the journeys it can undergo in this life as it progresses through various layers or rungs of consciousness.
-</div>
-
-<div markdown="3" class="article-link">
-[Read More](./7-stations-4-journeys)
 </div>
 
 </div>

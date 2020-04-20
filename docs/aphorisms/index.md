@@ -12,7 +12,7 @@ In addition to the journeys organised under the "Spectrum" heading, you can brow
 [Begin The Journey](./spectrum/)
 </div>
 
-![Aphorims Begin](../../assets/images/18.jpg)
+![Aphorims Begin](../assets/images/18.jpg)
 
 ## Collected Gems
 
