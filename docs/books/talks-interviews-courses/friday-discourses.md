@@ -21,3 +21,7 @@ In these Friday talks at the Rasooli Centre, Pretoria, South Africa, Shaykh Fadh
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144952082)
 </div>
+
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/friday-discourses-volume-1)
+</div>

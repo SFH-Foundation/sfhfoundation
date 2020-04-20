@@ -9,7 +9,7 @@ description: An overview of all the articles written by Shaykh Fadlalla Haeri an
 **Dhikr, Fikr, and Himmah**
 
 <div markdown="2" class="article-image">
-![Dhikr](./img/sfh_dhikr.jpg)
+![Dhikr](../assets/images/01.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -27,13 +27,11 @@ A basic introduction to three critical and interrelated aspects of The Path: rem
 **Less is More**
 
 <div markdown="2" class="article-image">
-![Sufis](./img/less_more.jpg)
+![Sufis](../assets/images/11.jpg)
 </div>
 
 <div markdown="3" class="article-para">
 Before reaching spiritual maturity Sufi literature can encourage fantasy or act as a placebo with uncertain outcome. In the material realm more is sought, in the spiritual realm the reverse is true.
-
-The accomplished Master will help the seeker to focus on his goal and the devotee to give up attachment to everything.
 </div>
 
 <div markdown="3" class="article-link">
@@ -47,7 +45,7 @@ The accomplished Master will help the seeker to focus on his goal and the devote
 **Pointers to Haqq**
 
 <div markdown="2" class="article-image">
-![Pointing to Haqq](./img/sfh_journeys.jpg)
+![Pointing to Haqq](../assets/images/22.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -65,7 +63,7 @@ Human needs, desires and questions never end. We always hope to discover answers
 **Eid - The Return**
 
 <div markdown="2" class="article-image">
-![Eid](./img/sfh_eid.jpg)
+![Eid](../assets/images/23.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -83,7 +81,7 @@ This article is an extract from an Eid Talk given by Shaykh Fadhalla Haeri in So
 **Natural Illusions**
 
 <div markdown="2" class="article-image">
-![SFH in Nature](./img/sfh_nature.jpg)
+![SFH in Nature](../assets/images/24.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -101,13 +99,11 @@ A brief excerpt from _101 Helpful Illusions_ which explores consciousness, light
 **Decree, Destiny and Enlightenment**
 
 <div markdown="2" class="article-image">
-![People of Light](./img/sfh_decree.jpg)
+![People of Light](../assets/images/20.jpg)
 </div>
 
 <div markdown="3" class="article-para">
-The final destiny of every man is his awakening to his permanent, non-time reality, from which he has emerged. We are given the experience of this life, with all its decrees, for us to know them, accept them and become one with them so that we can see our destiny within them, and our destiny beyond them, when time stops at the point of death.
-
-The human destiny is potentially the highest of known creations – as was our beginning...
+The final destiny of every man is his awakening to his permanent, non-time reality, from which he has emerged. We are given the experience of this life, with all its decrees, for us to know them, accept them and become one with them...
 </div>
 
 <div markdown="3" class="article-link">
@@ -121,7 +117,7 @@ The human destiny is potentially the highest of known creations – as was our b
 **The Thread of Truth**
 
 <div markdown="2" class="article-image">
-![Thread of Truth](./img/sfh_thread_truth.jpg)
+![Thread of Truth](../assets/images/18.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -139,7 +135,7 @@ The revitalised interest in Islam and Sufism, as well as Sufi Shaykhs are signs 
 **Sufism and the Sufi**
 
 <div markdown="2" class="article-image">
-![Sufis](./img/sfh_sufis.jpg)
+![Sufis](../assets/images/17.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -157,7 +153,7 @@ Sufism has maintained a clear line of direct transmission of wisdom back to orig
 **The Shock of Awakening**
 
 <div markdown="2" class="article-image">
-![Sufis](./img/sfh_divine_madness.jpg)
+![Sufis](../assets/images/10.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -175,7 +171,7 @@ Succour for those experience inner realities which make them question their sani
 **To Be Alive**
 
 <div markdown="2" class="article-image">
-![Sufis](./img/sfh_alive.jpg)
+![Sufis](../assets/images/09.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -193,7 +189,7 @@ A brief explanantion of the two kinds of being alive and the essential differenc
 **The Cycles of Life and Reality**
 
 <div markdown="2" class="article-image">
-![Cycles of Life](./img/sfh_cycles.jpg)
+![Cycles of Life](../assets/images/02.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -211,7 +207,7 @@ A collection of excerpts on the topic of the Cycles of Life and Reality through 
 **Consciousness**
 
 <div markdown="2" class="article-image">
-![Cycles of Life](./img/sfh_celebrate.jpg)
+![Cycles of Life](../assets/images/03.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -229,7 +225,7 @@ A selection from across the whole archive of Shaykh Fadhlalla insights into this
 **The Parable of the Spider's House**
 
 <div markdown="2" class="article-image">
-![Sufis](./img/webs.jpg)
+![Sufis](../assets/images/14.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -247,7 +243,7 @@ One’s attachments, phobias and habits are as secure as the wisp of thought tha
 **The Journey of Transformation**
 
 <div markdown="2" class="article-image">
-![Sufis](./img/arrival.jpg)
+![Sufis](../assets/images/16.jpg)
 </div>
 
 <div markdown="3" class="article-para">

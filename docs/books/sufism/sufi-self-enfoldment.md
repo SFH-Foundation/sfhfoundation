@@ -24,6 +24,10 @@ This book is based on a collection of talks which were given in the eighties in 
 [Apple iBookStore](http://itunes.apple.com/us/book/id1145049185)
 </div>
 
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/the-sufi-way-to-self-unfoldment)
+</div>
+
 ## Reader Review
 
 _By Sadiqa_

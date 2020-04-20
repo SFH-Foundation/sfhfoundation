@@ -22,3 +22,7 @@ This unique guide to spiritual psychology presents Western readers with an Islam
 [Apple iBookStore](http://itunes.apple.com/us/book/id1145031110)
 </div>
 
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/the-journey-of-the-self)
+</div>
+

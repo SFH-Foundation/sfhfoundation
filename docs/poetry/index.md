@@ -9,7 +9,7 @@ description: Overview of Poetry Section
 **What Is It?**
 
 <div markdown="2" class="book-image">
-![What Is It?](./img/sfh_what_is_it.jpg)
+![What Is It?](../assets/images/24.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -23,7 +23,7 @@ description: Overview of Poetry Section
 **Step With Caution**
 
 <div markdown="2" class="book-image">
-![Step With Caution](./img/step-caution.jpg)
+![Step With Caution](../assets/images/23.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -37,7 +37,7 @@ description: Overview of Poetry Section
 **Binary Experience**
 
 <div markdown="2" class="book-image">
-![Binary Experience](./img/sfh_binary.jpg)
+![Binary Experience](../assets/images/21.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -46,12 +46,12 @@ description: Overview of Poetry Section
 
 </div>
 
-<div markdown="1" class="card book sidebar center gemoji center-content">
+<div markdown="1" class="card poetry sidebar center gemoji center-content">
 
 **Morning in the Plantation**
 
 <div markdown="2" class="book-image">
-![Morning in the Plantation](./img/sfh_plantation.jpg)
+![Morning in the Plantation](../assets/images/22.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -60,12 +60,12 @@ description: Overview of Poetry Section
 
 </div>
 
-<div markdown="1" class="card book sidebar center gemoji center-content">
+<div markdown="1" class="card poetry sidebar center gemoji center-content">
 
 **Human Modesty**
 
 <div markdown="2" class="book-image">
-![Human Modesty](./img/sfh_burn.jpg)
+![Human Modesty](../assets/images/20.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -74,12 +74,12 @@ description: Overview of Poetry Section
 
 </div>
 
-<div markdown="1" class="card book sidebar center gemoji center-content">
+<div markdown="1" class="card poetry sidebar center gemoji center-content">
 
 **The Candle**
 
 <div markdown="2" class="book-image">
-![The Candle](./img/sfh_candle.jpg)
+![The Candle](../assets/images/19.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -93,7 +93,7 @@ description: Overview of Poetry Section
 **Perpetual**
 
 <div markdown="2" class="book-image">
-![Perpetually in truth](./img/lightning.jpg)
+![Perpetually in truth](../assets/images/18.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -107,7 +107,7 @@ description: Overview of Poetry Section
 **Big Questions**
 
 <div markdown="2" class="book-image">
-![Big Question](./img/sfh_obsessed.jpg)
+![Big Question](../assets/images/17.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -121,7 +121,7 @@ description: Overview of Poetry Section
 **Gravity**
 
 <div markdown="2" class="book-image">
-![Gravity](./img/sfh_gravity.jpg)
+![Gravity](../assets/images/16.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -130,12 +130,12 @@ description: Overview of Poetry Section
 
 </div>
 
-<div markdown="1" class="card book sidebar center gemoji center-content">
+<div markdown="1" class="card poetry sidebar center gemoji center-content">
 
 **Troubles**
 
 <div markdown="2" class="book-image">
-![Troubles?](./img/sfh_troubles.jpg)
+![Troubles?](../assets/images/15.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -144,12 +144,12 @@ description: Overview of Poetry Section
 
 </div>
 
-<div markdown="1" class="card book sidebar center gemoji center-content">
+<div markdown="1" class="card poetry sidebar center gemoji center-content">
 
 **The First Journey**
 
 <div markdown="2" class="book-image">
-![The First Journey](./img/sfh_first_journey.jpg)
+![The First Journey](../assets/images/14.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -158,12 +158,12 @@ description: Overview of Poetry Section
 
 </div>
 
-<div markdown="1" class="card book sidebar center gemoji center-content">
+<div markdown="1" class="card poetry sidebar center gemoji center-content">
 
 **The Passage of Time**
 
 <div markdown="2" class="book-image">
-![Passing Time](./img/sfh_passage.jpg)
+![Passing Time](../assets/images/13.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -177,7 +177,7 @@ description: Overview of Poetry Section
 **Sleepwalking**
 
 <div markdown="2" class="book-image">
-![Sleeping](./img/sfh_sleepwalking.jpg)
+![Sleeping](../assets/images/12.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -191,7 +191,7 @@ description: Overview of Poetry Section
 **One Face**
 
 <div markdown="2" class="book-image">
-![The Face](./img/sfh_face.jpg)
+![The Face](../assets/images/11.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -205,7 +205,7 @@ description: Overview of Poetry Section
 **Enlightened Teachers**
 
 <div markdown="2" class="book-image">
-![Enlightened Teacher](./img/sfh_eid.jpg)
+![Enlightened Teacher](../assets/images/10.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -219,7 +219,7 @@ description: Overview of Poetry Section
 **Fate**
 
 <div markdown="2" class="book-image">
-![Fate](./img/sfh_self.jpg)
+![Fate](../assets/images/09.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -233,7 +233,7 @@ description: Overview of Poetry Section
 **Remember To Forget**
 
 <div markdown="2" class="book-image">
-![Remembering to Forget](./img/arrival.jpg)
+![Remembering to Forget](../assets/images/08.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -247,7 +247,7 @@ description: Overview of Poetry Section
 **This City Has No Roads**
 
 <div markdown="2" class="book-image">
-![No roads here](./img/sfh_thread_truth.jpg)
+![No roads here](../assets/images/07.jpg)
 </div>
 
 <div markdown="3" class="book-link">

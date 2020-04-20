@@ -26,3 +26,7 @@ Sufism is the heart of Islam. This introduction to Sufism describes its origins 
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144990885)
 </div>
+
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/the-elements-of-sufism)
+</div>

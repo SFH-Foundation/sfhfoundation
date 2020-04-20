@@ -21,3 +21,7 @@ title: Keys to the Qur’an Volume 1 - Surah Fatiha and Surah Baqarah
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144700040)
 </div>
+
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/commentaries-on-chapters-one-and-two-of-the-qur-an)
+</div>

@@ -104,14 +104,15 @@ nav:
       - 'The Essential Message Of the Qur’an': 'books/quran/essential-quran.md'
       - 'Sacred Alchemy: A Collection of Qur’anic Verses': 'books/quran/sacred-alchemy.md'
       - 'Qur’an’s Prescription for Life': 'books/quran/quran-prescriptions.md'
+      - 'The Qur’an in Islam': 'books/quran/quran-islam.md'
   - Sufism and Self-Knowledge: 
       - 'Introduction': 'books/sufism/index.md'
-      - 'The Thoughtful Guide to Sufism': 'books/sufism/thoughtful-guide-sufism.md'
       - 'Elements of Sufism': 'books/sufism/elements-sufism.md'
       - 'Spectrum of Reality: Sufi Insights': 'books/sufism/spectrum-reality.md'
       - 'The Sufi Way of Self-Enfoldment': 'books/sufism/sufi-self-enfoldment.md'
       - 'Witnessing Perfection: A Sufi Guide': 'books/sufism/witnessing-perfection.md'
       - 'Lantern of the Path': 'books/sufism/lantern-path.md'
+      - 'Beginning’s End': 'books/sufism/beginnings-end.md'
   - Practices and Teachings:
       - 'Introduction': 'books/practices-teachings/index.md'
       - 'Transformative Worship In Islam': 'books/practices-teachings/transformative-worship.md'
@@ -141,6 +142,7 @@ nav:
       - '101 Helpful Illusions': 'books/poetry-aphorisms/101-helpful-illusions.md'
       - 'Bursts of Silence': 'books/poetry-aphorisms/bursts-of-silence.md'
       - 'Sound Waves': 'books/poetry-aphorisms/sound-waves.md'
+      - 'Beyond Windows': 'books/poetry-aphorisms/beyond-windows.md'
   - Biography:
       - 'Introduction': 'books/biography/index.md'
       - 'Son of Karbala': 'books/biography/son-karbala.md'
@@ -253,7 +255,22 @@ nav:
   - 'This City Has No Roads': 'poetry/city-no-roads.md'
 - Aphorisms:
   - 'Aphorisms': 'aphorisms/index.md'
-  - 'Journey Through The Spectrum': 'aphorisms/spectrum.md'
+  - A Spectrum of Journeys: 
+    - '1 - Nature, Desire, Harmony': 'aphorisms/spectrum/index.md'
+    - '2 - Duality': 'aphorisms/spectrum/duality.md'
+    - '3 - Guidance & Excellence': 'aphorisms/spectrum/guidance.md'
+    - '4 - Victory & Gatheredness': 'aphorisms/spectrum/victory-gatheredness.md'
+    - '5 - Wealth, Beauty, & Treasure': 'aphorisms/spectrum/wealth-beauty-treasure.md'
+    - '6 - Trust & Presence': 'aphorisms/spectrum/trust-presence.md'
+    - '7 - Heart': 'aphorisms/spectrum/heart.md'
+    - '8 - Soul': 'aphorisms/spectrum/soul.md'
+    - '9 - Truth & Light': 'aphorisms/spectrum/truth-light.md'
+    - '10 - Differentiated Sameness': 'aphorisms/spectrum/differentiated-sameness.md'
+    - '11 - Balance': 'aphorisms/spectrum/balance.md'
+    - '12 - Service': 'aphorisms/spectrum/service.md'
+    - '13 - Awakening': 'aphorisms/spectrum/awakening.md'
+    - '14 - Purpose': 'aphorisms/spectrum/purpose.md'
+    - '15 - Happiness & Content': 'aphorisms/spectrum/happiness-content.md'
 - Glossary:
   - 'Arabic Terms': 'glossary/index.md'
   - 'Key Words': 'glossary/key-words.md'

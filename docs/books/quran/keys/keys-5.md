@@ -25,3 +25,7 @@ The message of the Qur'an emanates from the original Divine blueprint which also
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144197186)
 </div>
+
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/beams-of-illumination-from-the-divine-revelation)
+</div>

@@ -119,3 +119,17 @@ Shaykh Fadhlalla Haeri’s poetry capture in brush strokes the human condition a
 </div>
 
 </div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Beyond Windows**
+
+<div markdown="2" class="book-image">
+![Beyond Windows](./img/beyond-windows.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./beyond-windows)
+</div>
+
+</div>

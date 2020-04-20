@@ -16,4 +16,12 @@ This chapter unveils truth and insight regarding the human self, society, this w
 
 <div markdown="3" class="purchase-link">
 [Amazon](https://www.amazon.com/Keys-Quran-Commentary-Surah-Imran/dp/1928329012/)
+</div>http://itunes.apple.com/us/book/id1145002464
+
+<div markdown="3" class="purchase-link">
+[Apple iBookStore](http://itunes.apple.com/us/book/id1145002464)
+</div>
+
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/the-family-of-imran)
 </div>

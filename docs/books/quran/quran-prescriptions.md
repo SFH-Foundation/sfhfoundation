@@ -21,3 +21,7 @@ The Qur’an is the foundation of the “Deen” (life-transaction), containing 
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1145040986)
 </div>
+
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/the-qur-anic-prescription-for-life)
+</div>

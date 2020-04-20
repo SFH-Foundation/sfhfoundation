@@ -19,3 +19,7 @@ These four chapters from the Meccan period are thematically interconnected, cove
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144703533)
 </div>
+
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/commentaries-on-four-selected-chapters-of-the-qur-an)
+</div>

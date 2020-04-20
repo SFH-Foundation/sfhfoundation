@@ -2,7 +2,19 @@ title: Aphorisms
 
 description: A collection of Shaykh Fadhlalla Haeri's aphorisms
 
-# Collected Aphorisms
+# Aphorism Journeys
+
+This section is organised into separate "journeys", made up of small groups of aphorisms. Each saying is - in itself - a key to wisdom and deeper understanding. The intention is that you travel through each journey separately and return numerous times as each stage takes you deeper into your experience; into your own heart. We know that the nature of digital media can lead one to thoughtless consumption, so take your time here, read and reflect on each aphorism for an extended period and come back tomorrow again. This site isn't going anywhere...
+
+In addition to the journeys organised under the "Spectrum" heading, you can browse a few collected gems below to get a sense of what you can expect on each journey.
+
+<div markdown="3" class="purchase-link">
+[Begin The Journey](./spectrum/)
+</div>
+
+![Aphorims Begin](../../assets/images/18.jpg)
+
+## Collected Gems
 
 "The silence within is the knock on the inner door."
 
@@ -38,7 +50,7 @@ description: A collection of Shaykh Fadhlalla Haeri's aphorisms
 
 "The paradox is that you cannot stop looking for security and you will never find it within conditioned human consciousness or the body and mind."
 
-"_Justice_ prevails when otherness and differences submerge into oneness and sameness."
+"Justice prevails when otherness and differences submerge into oneness and sameness."
 
 "In truth, there is only the truth. But we discover it through different levels of falsehood."
 

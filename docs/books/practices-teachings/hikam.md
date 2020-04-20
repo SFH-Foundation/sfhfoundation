@@ -25,3 +25,7 @@ With the publication of Shaykh Fadhlalla Haeri’s new translation and with the 
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1145019417)
 </div>
+
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/the-hikam-the-wisdom-of-ibn-ata-allah)
+</div>

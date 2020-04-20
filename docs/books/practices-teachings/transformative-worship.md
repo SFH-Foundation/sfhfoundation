@@ -22,9 +22,13 @@ This book bridges the traditional practices and beliefs, culture and language of
 [Apple iBookStore](http://itunes.apple.com/us/book/id1145051883)
 </div>
 
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/transformative-worship-in-islam)
+</div>
+
 ## Reader Review
 
- I cannot begin to truly express the way 'Transformative Worship in Islam' by Shaykh Fadhlalla Haeri changed my life. I'm someone who is constantly reading and learning and found this book to be within a whole new class of its own. Spirituality is not a romantic ideal, but a very real endeavour of tearing away the self accumulated junk; the Shaykh, for me, was able to give me the tools to be able to do this. I particularly resonated with his section on the prayer. He wrote of perspectives that were so unusual they could only be divine and yet upon reflection they were what I needed all along, a transformative interpretation of all that is done within the prayer.
+I cannot begin to truly express the way 'Transformative Worship in Islam' by Shaykh Fadhlalla Haeri changed my life. I'm someone who is constantly reading and learning and found this book to be within a whole new class of its own. Spirituality is not a romantic ideal, but a very real endeavour of tearing away the self accumulated junk; the Shaykh, for me, was able to give me the tools to be able to do this. I particularly resonated with his section on the prayer. He wrote of perspectives that were so unusual they could only be divine and yet upon reflection they were what I needed all along, a transformative interpretation of all that is done within the prayer.
 
 My prayers hold a very different meaning since I've read his book.
 

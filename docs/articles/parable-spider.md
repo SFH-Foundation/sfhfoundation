@@ -4,7 +4,7 @@ description: One’s attachments, phobias and habits are as secure as the wisp o
 
 # The Parable of the Spider's House
 
-_Shaykh Fadhlalla Haeri from the book “The Mercy of Qur’an and The Advent of Zaman Tafsir of Surat Ankabut, Rahman, Waqiá, Mulk”_
+_Shaykh Fadhlalla Haeri from the book [“The Mercy of Qur’an and The Advent of Zaman Tafsir of Surat Ankabut, Rahman, Waqiá, Mulk”](../../books/quran/keys/keys-4/)_
 
 > “The parable of those who take guardians besides Allah is like the parable of the spider that spins for itself a house. Most surely the frailest of houses is the spider’s web if only they understood.” – Qur’an, 29:41.
 
@@ -20,5 +20,5 @@ From Prophetic traditions we know that one hour’s reflection is better than th
 
 Observing the lives of the prophets and the great ones, one finds that they were afflicted to the limit of endurance; but because of their proximity to Allah, outer events did not affect their inner blessing and joy.
 
-![Webs of light](./img/webs.jpg)
+![Webs of light](../../assets/images/06.jpg)
 

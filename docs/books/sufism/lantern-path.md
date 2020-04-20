@@ -23,3 +23,7 @@ The sixth Imam in the line of the Twelve Imams descended from the Prophet Muhamm
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144665817)
 </div>
+
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/the-lantern-of-the-path)
+</div>

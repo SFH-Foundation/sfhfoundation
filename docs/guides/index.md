@@ -9,13 +9,11 @@ description: Overview of the various guides and maps provided by Shaykh Fadhlall
 **Specific Practices**
 
 <div markdown="2" class="article-image">
-![People of Light](./img/people-light.jpg)
+![People of Light](../assets/images/11.jpg)
 </div>
 
 <div markdown="3" class="article-para">
-A description of the three stages in the practice of stillness in body, mind, and heart.
-
-We begin with proper preparation and intention, move into the ocean, and then transcend space and time. Various techniques from visualisation and _dhikr_, to recitation of the Qur'an are described briefly in this piece.
+Practice stillness in body, mind, and heart: beginning with proper preparation and intention; moving into the ocean; then transcend space and time. Various techniques from visualisation and _dhikr_, to recitation of the Qur'an are described briefly in this piece.
 </div>
 
 <div markdown="3" class="article-link">
@@ -29,7 +27,7 @@ We begin with proper preparation and intention, move into the ocean, and then tr
 **Self Knowledge and Unfolding Into Presence**
 
 <div markdown="2" class="article-image">
-![Self Knowledge and Presence](./img/sfh_celebrate.jpg)
+![Self Knowledge and Presence](../assets/images/10.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -47,7 +45,7 @@ A collection of excerpts from various books written by Shaykh Fadhlalla over the
 **The Self and its Journeys**
 
 <div markdown="2" class="article-image">
-![Sufis](./img/sfh_self.jpg)
+![Sufis](../assets/images/01.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -65,7 +63,7 @@ A basic mapping of the modern self, it's different levels, and the journeys it c
 **Fasting**
 
 <div markdown="2" class="article-image">
-![Sufis](./img/sfh_laughing.jpg)
+![Sufis](../assets/images/18.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -83,7 +81,7 @@ Everything you could ever want to know about fasting, it's history, its benefits
 **Pilgrimage**
 
 <div markdown="2" class="article-image">
-![Pilgrimage](./img/pilgrimage.jpg)
+![Pilgrimage](../assets/images/20.jpg)
 </div>
 
 <div markdown="3" class="article-para">

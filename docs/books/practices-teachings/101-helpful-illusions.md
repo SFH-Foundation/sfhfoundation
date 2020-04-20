@@ -17,3 +17,11 @@ description: 101 Helpful Illusions highlights natural veils waiting to be transc
 <div markdown="3" class="purchase-link">
 [Amazon](https://www.amazon.com/Helpful-Illusions-Shaykh-Fadhlalla-Haeri/dp/1846942780/)
 </div>
+
+<div markdown="3" class="purchase-link">
+[Apple iBookStore](http://itunes.apple.com/us/book/id1144127579)
+</div>
+
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/101-helpful-illusions)
+</div>

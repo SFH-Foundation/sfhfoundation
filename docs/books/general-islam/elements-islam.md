@@ -22,4 +22,8 @@ At a time when communities increasingly tend to view each other with suspicion, 
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144988283)
 </div>
 
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/the-elements-of-islam)
+</div>
+
 

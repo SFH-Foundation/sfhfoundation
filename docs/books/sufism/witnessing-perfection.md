@@ -24,6 +24,10 @@ _Witnessing Perfection_ addresses the concerns of those who are aware that an ur
 [Apple iBookStore](http://itunes.apple.com/us/book/id1145054429)
 </div>
 
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/witnessing-perfection)
+</div>
+
 ## Reader Review
 
 _By Hasan Joban_

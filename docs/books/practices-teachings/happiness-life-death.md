@@ -26,6 +26,10 @@ Based on the Qur’an and Prophetic Message, this book offers a splendid collect
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144957454)
 </div>
 
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/happiness-in-life-and-after-death)
+</div>
+
 ## Reader's Review
 
 _By J.K. Lafene_

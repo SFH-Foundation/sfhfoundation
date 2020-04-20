@@ -23,3 +23,7 @@ In Living Islam, Shaykh Fadhlalla Haeri shows how it is possible to apply the et
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144968591)
 </div>
+
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/living-islam)
+</div>

@@ -91,7 +91,7 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 **Spectrum of Reality: Sufi Insights**
 
 <div markdown="2" class="book-image">
-![Thoughtful Guide to Sufism](./sufism/img/spectrum.jpg)
+![Spectrum of Reality: Sufi Insights](./sufism/img/spectrum.jpg)
 </div>
 
 <div markdown="3" class="book-link">
@@ -180,20 +180,6 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="3" class="book-link">
 [Read It](./general-islam/thoughtful-guide-islam)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**The Thoughtful Guide to Sufism**
-
-<div markdown="2" class="book-image">
-![Thoughtful Guide to Sufism](./sufism/img/sfh-guide-sufism.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./sufism/thoughtful-guide-sufism)
 </div>
 
 </div>
@@ -600,6 +586,48 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="3" class="book-link">
 [Read It](./talks-interviews-courses/connection-absolute-relative)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Beginning's End**
+
+<div markdown="2" class="book-image">
+![Beginning's End](./sufism/img/beginnings-end.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./sufism/beginnings-end)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Beyond Windows**
+
+<div markdown="2" class="book-image">
+![Beyond Windows](./poetry-aphorisms/img/beyond-windows.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./poetry-aphorisms/beyond-windows)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**The Qur’an In Islam**
+
+<div markdown="2" class="book-image">
+![The Qur’an In Islam](./quran/img/quran-islam.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./quran/quran-islam)
 </div>
 
 </div>

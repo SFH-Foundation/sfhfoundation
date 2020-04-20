@@ -27,3 +27,7 @@ The sayings and wisdom of Imam ’Ali transcend superficial differences, to reve
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1145043352)
 </div>
+
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/the-sayings-wisdom-of-imam-ali)
+</div>

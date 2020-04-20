@@ -25,3 +25,7 @@ From this book one can learn a great deal about the Islamic conception of God an
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144972467)
 </div>
+
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/prophetic-traditions-in-islam)
+</div>

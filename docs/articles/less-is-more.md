@@ -4,7 +4,7 @@ description: Before reaching spiritual maturity Sufi literature can encourage fa
 
 # Less Is More
 
-_By Shaykh Fadhlalla Haeri and Muneera Haeri, from the book "Sufi Links – Illumined Encounters"_
+_By Shaykh Fadhlalla Haeri and Muneera Haeri, from the book ["Sufi Links – Illumined Encounters"](../../books/biography/sufi-encounters/)_
 
 The accomplished Master will help the seeker to focus on his goal and the devotee to give up attachment to everything. It is important to see the teachings of the Prophets and Spiritual Masters in their full context. Ibn al-‘Arabi writes about the virtues of generosity, asceticism, night vigils but equally emphasizes the importance of giving up identification and the image of being generous. Role-playing, irrespective of how good the role may be, is a spiritual hindrance.
 
@@ -14,4 +14,4 @@ I benefited from Ibn al-‘Arabi when I had experienced the states and stations 
 
 Before reaching spiritual maturity Sufi literature can encourage fantasy or act as a placebo with uncertain outcome. It is best, for this reason, to avoid specific spiritual terms and discussion of spiritual hierarchies. In the material realm more is sought, in the spiritual realm the reverse is true. Many spiritual seekers see the path as a process of getting something. The soul within has it all but needs a pure heart to allow the light to shine through.
 
-![Less](./img/less_more.jpg)
+![Less](../../assets/images/09.jpg)

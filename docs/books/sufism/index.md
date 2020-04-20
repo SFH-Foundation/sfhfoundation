@@ -14,20 +14,6 @@ This collection offers a practical and accessible distillation of the _tawhidi_ 
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**The Thoughtful Guide to Sufism**
-
-<div markdown="2" class="book-image">
-![Thoughtful Guide to Sufism](./img/sfh-guide-sufism.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./thoughtful-guide-sufism)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
 **Spectrum of Reality: Sufi Insights**
 
 <div markdown="2" class="book-image">
@@ -92,6 +78,20 @@ This collection offers a practical and accessible distillation of the _tawhidi_ 
 
 <div markdown="3" class="book-link">
 [Read It](./lantern-path)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Beginning's End**
+
+<div markdown="2" class="book-image">
+![Beginning's End](./img/beginnings-end.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./beginnings-end)
 </div>
 
 </div>

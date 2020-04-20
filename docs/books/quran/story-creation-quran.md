@@ -22,4 +22,8 @@ This book is an exposition of the Qur’anic verses relating to the nature of ph
 [Apple iBookStore](http://itunes.apple.com/us/book/id1145046683)
 </div>
 
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/the-story-of-creation-in-the-qur-an)
+</div>
+
 

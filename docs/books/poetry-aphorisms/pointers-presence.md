@@ -21,3 +21,7 @@ Shaykh Fadhlalla Haeri emphasizes inner transformation and the refinement of con
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144117161)
 </div>
+
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/pointers-to-presence)
+</div>

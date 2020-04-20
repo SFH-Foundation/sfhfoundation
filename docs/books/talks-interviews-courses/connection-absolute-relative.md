@@ -21,3 +21,7 @@ This book is a transcript of a 1990 conversation with Shaykh Fadhlalla Haeri, in
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://books.apple.com/us/book/id1465775083)
 </div>
+
+<div markdown="3" class="purchase-link">
+[Kobo Store](https://www.kobo.com/ca/en/ebook/the-spiritual-path-1)
+</div>

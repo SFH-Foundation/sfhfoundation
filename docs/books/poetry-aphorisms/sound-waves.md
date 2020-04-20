@@ -23,3 +23,7 @@ Sound Waves is a collection of Shaykh Fadhlalla Haeri's aphorisms and maxims tha
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144125277)
 </div>
+
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/sound-waves)
+</div>

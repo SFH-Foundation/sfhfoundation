@@ -21,3 +21,7 @@ These inspired aphorisms are remedies for hearts that seek the truth. They provi
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1143941206)
 </div>
+
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/bursts-of-silence)
+</div>

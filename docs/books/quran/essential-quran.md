@@ -22,6 +22,11 @@ The Essential Message of the Qur’an captures the spiritual significance of the
 [Apple iBookStore](http://itunes.apple.com/us/book/id1145000400)
 </div>
 
+<div markdown="3" class="purchase-link">
+[Kobo Store](http://store.kobobooks.com/en-CA/ebook/the-essential-message-of-the-qur-an)
+</div>
+
+
 ## Reader Review
 
 _By Nazo Hadi_
