@@ -12,6 +12,12 @@ In addition to the journeys organised under the "Spectrum" heading, you can brow
 [Begin The Journey](./spectrum/)
 </div>
 
+If you'd like to receive one of these aphorisms every two weeks, directly into your inbox, please follow the link below:
+
+<div markdown="3" class="purchase-link">
+[Aphorisms](http://connect.sfhfoundation.com/bf.php?fid=1171)
+</div>
+
 ![Aphorims Begin](../assets/images/18.jpg)
 
 ## Collected Gems

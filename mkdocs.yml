@@ -284,6 +284,10 @@ nav:
   - 'Journey Words': 'glossary/journey-words.md' 
   - Sideways Dictionary:
     - 'What is the sideways dictionary?': 'glossary/sideways-dictionary/what-is-the-sideways-dictionary.md'
+- Gatherings & News:
+  - 'Join Us': 'gatherings-news/index.md'
+  - Latest:
+    - 'COVID-19': 'gatherings-news/latest/index.md'
 
 # Google Analytics
 google_analytics:
