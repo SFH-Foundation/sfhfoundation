@@ -86,7 +86,6 @@ nav:
       - 'Transformative Worship in Islam': 'books/general-islam/transformative-worship.md'
       - 'The Thoughtful Guide to Islam': 'books/general-islam/thoughtful-guide-islam.md'
       - 'Elements of Islam': 'books/general-islam/elements-islam.md'
-      - 'Sayings of the Prophet Muhammad': 'books/general-islam/sayings-muhammad.md'
       - 'Prophetic Traditions in Islam': 'books/general-islam/prophetic-traditions.md'
       - 'Living Islam - East & West': 'books/general-islam/living-islam.md'
       - Health Sciences - Early Islam:
@@ -103,11 +102,9 @@ nav:
         - 'Surah Ankabut, Al-Rahman, Al-Waqi`ah and Al-Mulk': 'books/quran/keys/keys-4.md'
         - 'The Juz Amma': 'books/quran/keys/keys-5.md'
       - 'The Story of Creation in the Qur’an': 'books/quran/story-creation-quran.md'
-      - 'The Mercy of the Qur’an and The Advent of Zaman': 'books/quran/mercy-quran-advent-zaman.md'
       - 'The Essential Message Of the Qur’an': 'books/quran/essential-quran.md'
       - 'Sacred Alchemy: A Collection of Qur’anic Verses': 'books/quran/sacred-alchemy.md'
       - 'Qur’an’s Prescription for Life': 'books/quran/quran-prescriptions.md'
-      - 'The Qur’an in Islam': 'books/quran/quran-islam.md'
   - Sufism and Self-Knowledge: 
       - 'Introduction': 'books/sufism/index.md'
       - 'Elements of Sufism': 'books/sufism/elements-sufism.md'
@@ -288,6 +285,7 @@ nav:
   - 'Join Us': 'gatherings-news/index.md'
   - Latest:
     - 'COVID-19': 'gatherings-news/latest/index.md'
+    - 'Ramadan 2020': 'gatherings-news/latest/ramadan-2020.md'
 
 # Google Analytics
 google_analytics:
