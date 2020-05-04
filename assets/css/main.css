@@ -241,6 +241,10 @@ input, select, textarea {
 
 	}
 
+	.logo-img {
+		width: 95%;
+	}
+
 	sub {
 		font-size: 0.8rem;
 		position: relative;
@@ -704,10 +708,6 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
-		.image.logo {
-			width: 80px;
-			height: 80px;
-		}
 
 		@media screen and (max-width: 736px) {
 
@@ -1296,16 +1296,6 @@ input, select, textarea {
 				display: none;
 			}
 
-		#header .logo {
-			width: 5.5rem;
-			height: 5.5rem;
-			line-height: 5.5rem;
-		}
-
-			#header .logo .icon:before {
-				font-size: 2rem;
-			}
-
 		#header .content {
 			border-style: solid;
 			border-color: #E0B24D;
@@ -1443,16 +1433,6 @@ input, select, textarea {
 				#header > *:before {
 					top: calc(-2rem - 1px);
 					height: calc(2rem + 1px);
-				}
-
-			#header .logo {
-				width: 4.75rem;
-				height: 4.75rem;
-				line-height: 4.75rem;
-			}
-
-				#header .logo .icon:before {
-					font-size: 1.75rem;
 				}
 
 			#header .content .inner {
