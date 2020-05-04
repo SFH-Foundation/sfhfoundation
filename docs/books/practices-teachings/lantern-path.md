@@ -16,9 +16,13 @@ The sixth Imam in the line of the Twelve Imams descended from the Prophet Muhamm
 
 ## Purchase
 
+### Paperback
+
 <div markdown="3" class="purchase-link">
-[Amazon](http://www.amazon.com/dp/B01JCZY4TG)
+[Amazon](https://www.amazon.com/gp/product/1928329098/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329098&linkId=022aeeb7e144d15d9ca0e1ee54284c5f)
 </div>
+
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144665817)

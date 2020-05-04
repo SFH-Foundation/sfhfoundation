@@ -18,9 +18,15 @@ The new millennium opens in an age of great complexities, chaos and constant cha
 
 The message of the Qur'an emanates from the original Divine blueprint which also lies latent in the human heart. All of us seek the path of ease, knowledge, security, love and contentment. No happiness lasts unless it is based on the knowledge of Allah and submission to His intended purpose and ways. The Qur`an is the key to this awakening.
 
+## Purchase
+
+### Paperback
+
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/Keys-Quran-Commentary-Juz-Amma/dp/1928329047/)
+[Amazon](https://www.amazon.com/gp/product/1928329047/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329047&linkId=fb65b60fd27b0a496c45eda4b3ee5e08)
 </div>
+
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144197186)

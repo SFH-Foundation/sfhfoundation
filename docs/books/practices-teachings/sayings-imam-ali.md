@@ -20,9 +20,13 @@ The sayings and wisdom of Imam ’Ali transcend superficial differences, to reve
 
 ## Purchase
 
+### Paperback and Kindles
+
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/dp/B01JCZY6OE)
+[Amazon](https://www.amazon.com/gp/product/1928329071/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329071&linkId=979c2515837c35ab2b79bade8bf53634)
 </div>
+
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1145043352)

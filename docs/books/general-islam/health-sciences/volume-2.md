@@ -20,8 +20,10 @@ Dr. Hamarneh was born on February 2, 1925 in Madaba, Jordan. He did his B.Sc. in
 
 ## Purchase
 
+### E-Book
+
 <div markdown="3" class="purchase-link">
-[Amazon](http://www.amazon.com/dp/B01JDLTSAO)
+[Amazon](https://www.amazon.com/gp/product/B01JDLTSAO/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01JDLTSAO&linkId=17d74aa53e0b1d7377500a73aaffcd8a)
 </div>
 
 <div markdown="3" class="purchase-link">

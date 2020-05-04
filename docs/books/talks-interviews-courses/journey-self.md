@@ -15,7 +15,13 @@ This unique guide to spiritual psychology presents Western readers with an Islam
 ## Purchase
 
 <div markdown="3" class="purchase-link">
-[Amazon](http://www.amazon.com/dp/B01J93ZHII)
+[Amazon](https://www.amazon.com/gp/product/0062503766/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=0062503766&linkId=f44f5efca3895525cad37da54516d7b6)
+</div>
+
+### E-Book
+
+<div markdown="3" class="purchase-link">
+[Amazon](https://www.amazon.com/gp/product/B01J93ZHII/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J93ZHII&linkId=8befc4d4e6aa9087733504339c8cf01e)
 </div>
 
 <div markdown="3" class="purchase-link">

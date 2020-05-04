@@ -18,8 +18,10 @@ These poems are a portal to an essentially private spiritual journey, beyond the
 
 ## Purchase
 
+### E-Book
+
 <div markdown="3" class="purchase-link">
-[Amazon](http://www.amazon.com/dp/B01IKZN7EC)
+[Amazon](https://www.amazon.com/gp/product/B01IKZN7EC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01IKZN7EC&linkId=a6fd555e4dee78a1dfb8bc13f5c8087a)
 </div>
 
 <div markdown="3" class="purchase-link">

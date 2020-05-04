@@ -19,5 +19,5 @@ The book is at once an autobiography, a didactic treatise and a literary opus fu
 ## Purchase
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/Sufi-Encounters-Sharing-Wisdom-Enlightened/dp/1786781859)
+[Amazon](https://www.amazon.com/gp/product/1786781859/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1786781859&linkId=15d14190b2c1eb7445ec9717b8cf3e5c)
 </div>

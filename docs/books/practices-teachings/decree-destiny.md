@@ -16,8 +16,16 @@ Free will or determinism has been the frequent topic of philosophical debate fro
 
 ## Purchase
 
+### Paperback
+
 <div markdown="3" class="purchase-link">
-[Amazon](http://www.amazon.com/dp/B01J46EJJ8)
+[Amazon](https://www.amazon.com/gp/product/1919826785/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826785&linkId=ab480c69906c99d7caae2733db3775f5)
+</div>
+
+### E-Book
+
+<div markdown="3" class="purchase-link">
+[Amazon](https://www.amazon.com/gp/product/B01J46EJJ8/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J46EJJ8&linkId=3e49b74bfb958498efafc9c8d5a5fb4b)
 </div>
 
 <div markdown="3" class="purchase-link">

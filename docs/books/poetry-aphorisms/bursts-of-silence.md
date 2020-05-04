@@ -14,8 +14,10 @@ These inspired aphorisms are remedies for hearts that seek the truth. They provi
 
 ## Purchase
 
+### E-Book
+
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/dp/B01II2SW1K)
+[Amazon](https://www.amazon.com/gp/product/B01II2SW1K/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01II2SW1K&linkId=b167bca079be365699f29295ed322761)
 </div>
 
 <div markdown="3" class="purchase-link">

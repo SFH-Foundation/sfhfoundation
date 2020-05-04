@@ -40,20 +40,6 @@ Shaykh Fadhlalla Haeri’s unique approach unwraps deep spiritual truths of the 
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**The Mercy of Qur’an and The Advent of Zaman**
-
-<div markdown="2" class="book-image">
-![The Mercy of Qur’an and The Advent of Zaman](./img/mercy-advent-zaman.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./mercy-quran-advent-zaman)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
 **The Essential Message Of the Qur'an**
 
 <div markdown="2" class="book-image">
@@ -104,20 +90,6 @@ Shaykh Fadhlalla Haeri’s unique approach unwraps deep spiritual truths of the 
 
 <div markdown="3" class="book-link">
 [Read It](./sacred-alchemy)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**The Qur’an In Islam**
-
-<div markdown="2" class="book-image">
-![The Qur’an In Islam](./img/quran-islam.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./quran-islam)
 </div>
 
 </div>

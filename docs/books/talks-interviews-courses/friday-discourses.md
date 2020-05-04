@@ -14,8 +14,10 @@ In these Friday talks at the Rasooli Centre, Pretoria, South Africa, Shaykh Fadh
 
 ## Purchase
 
+### E-Book
+
 <div markdown="3" class="purchase-link">
-[Amazon](http://www.amazon.com/dp/B01JD9JBWG)
+[Amazon](https://www.amazon.com/gp/product/B01JD9JBWG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01JD9JBWG&linkId=4961a401569d5d454844e4c70d499036)
 </div>
 
 <div markdown="3" class="purchase-link">

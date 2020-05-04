@@ -14,9 +14,15 @@ title: Keys to the Qur’an Volume 1 - Surah Fatiha and Surah Baqarah
 
 **_Surat al-Baqarah_** scans the history of humankind from Adam to the time of the Prophet Muhammad. It contains a blueprint of how a community can live, how its members should behave as individuals, within their families, and in economic and social terms. It also gives guidance and prescriptions regarding inner and outer struggle and development.
 
+## Purchase
+
+### Paperback
+
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/Keys-Quran-Commentary-Fatiha-Baqarah/dp/1928329004/)
+[Amazon](https://www.amazon.com/gp/product/1928329004/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329004&linkId=bc08c11009a80108eb9086e95ab92e1d)
 </div>
+
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144700040)

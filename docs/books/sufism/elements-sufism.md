@@ -19,8 +19,16 @@ Sufism is the heart of Islam. This introduction to Sufism describes its origins 
 
 ## Purchase
 
+### Paperback
+
 <div markdown="3" class="purchase-link">
-[Amazon](http://www.amazon.com/dp/B01J81DSUA)
+[Amazon](https://www.amazon.com/gp/product/1919897062/ref=as_li_tl?ie=UTF8&tag=zahrapublicat-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1919897062&linkId=3e8529aa207c8e7e373469a3cce259f7)
+</div>
+
+### E-Book
+
+<div markdown="3" class="purchase-link">
+[Amazon](https://www.amazon.com/gp/product/B01J81DSUA/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J81DSUA&linkId=b66fbd1ffa67b1d42f1ad710cb44e700)
 </div>
 
 <div markdown="3" class="purchase-link">

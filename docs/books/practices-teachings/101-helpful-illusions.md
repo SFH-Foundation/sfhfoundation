@@ -14,9 +14,13 @@ description: 101 Helpful Illusions highlights natural veils waiting to be transc
 
 ## Purchase
 
+### Paperback and Kindle
+
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/Helpful-Illusions-Shaykh-Fadhlalla-Haeri/dp/1846942780/)
+[Amazon](https://www.amazon.com/gp/product/B01ITGN544/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01ITGN544&linkId=0c6ca204e2eac3e0507648bccf0aa800)
 </div>
+
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144127579)

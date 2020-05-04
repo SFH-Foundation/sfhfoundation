@@ -12,11 +12,21 @@ Zahra Publications has been publishing books on Islam and Sufism since 1981. Ded
 
 Islam reflects the constant compassion and presence of the Divine Light. In these crucial times, more than ever before, Muslims and seekers of a life lived with integrity and harmony need to renew their knowledge and awaken to the original Prophetic path.
 
-If you'd like to subscribe to our dedicated list and receive updates directly to your inbox and only about new and revised ZP publications, please follow the link below:
+Only the most recent and up-to-date titles appear on this page. If you'd like to see all the e-book options we provide and get further information about our books, as well as browse some older titles, please make sure to visit the full Zahra Publications website by clicking below:
+
+<div markdown="3" class="purchase-link">
+[Zahra](http://www.zahrapublications.pub/)
+</div>
+
+If you'd like to subscribe to our dedicated mailing list and receive updates directly to your inbox (only about new and revised ZP publications), please follow the link below:
 
 <div markdown="3" class="purchase-link">
 [Books](http://connect.sfhfoundation.com/bf.php?fid=1174)
 </div>
+
+## Categories
+
+**Please Note:** If you'd like to purchase physical books, follow the Amazon links on each page. If there are hardcopies in stock, they are available there. Otherwise, we offer all our titles in Kindle, iBookStore, and Kobo versions (all of which are e-books). Kindle versions are also accessible through the same Amazon links.
 
 <div markdown="1" class="card article sidebar center">
 
@@ -206,20 +216,6 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**The Mercy of Qur’an and The Advent of Zaman**
-
-<div markdown="2" class="book-image">
-![The Mercy of Qur’an and The Advent of Zaman](./quran/img/mercy-advent-zaman.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./quran/mercy-quran-advent-zaman)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
 **The Essential Message Of the Qur'an**
 
 <div markdown="2" class="book-image">
@@ -279,25 +275,11 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 **Sacred Alchemy: Qur’anic Verses**
 
 <div markdown="2" class="book-image">
-![Sayings of the Prophet Muhammad](./quran/img/sacred-alchemy.jpg)
+![Sacred Alchemy: Qur’anic Verses](./quran/img/sacred-alchemy.jpg)
 </div>
 
 <div markdown="3" class="book-link">
 [Read It](./quran/sacred-alchemy)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**Sayings of the Prophet Muhammad**
-
-<div markdown="2" class="book-image">
-![Sayings of the Prophet Muhammad](./general-islam/img/sayings-muhammad.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./general-islam/sayings-muhammad)
 </div>
 
 </div>
@@ -606,20 +588,6 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="3" class="book-link">
 [Read It](./poetry-aphorisms/beyond-windows)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**The Qur’an In Islam**
-
-<div markdown="2" class="book-image">
-![The Qur’an In Islam](./quran/img/quran-islam.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./quran/quran-islam)
 </div>
 
 </div>

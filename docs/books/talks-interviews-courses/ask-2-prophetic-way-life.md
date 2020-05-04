@@ -20,8 +20,10 @@ The objective of this course is to enable the seeker to love the One uncondition
 
 ## Purchase
 
+### E-Book
+
 <div markdown="3" class="purchase-link">
-[Amazon](http://www.amazon.com/dp/B01JD72Q3Y)
+[Amazon](https://www.amazon.com/gp/product/B01JD72Q3Y/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01JD72Q3Y&linkId=44f0be917cf71b279b1d76ff9f8cb4b5)
 </div>
 
 <div markdown="3" class="purchase-link">

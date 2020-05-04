@@ -15,5 +15,5 @@ At a time when communities increasingly tend to view each other with suspicion, 
 ## Purchase
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/Thoughtful-Guide-Islam-Shaykh-Fadhlalla/dp/8186505806/)
+[Amazon](https://www.amazon.com/gp/product/8186505806/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=8186505806&linkId=014dc558d78488daa9d6bcade2a41bb2)
 </div>

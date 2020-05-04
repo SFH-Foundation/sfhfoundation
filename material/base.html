@@ -27,11 +27,11 @@
       {% endif %}
       <meta property="og:site_name" content="{{ config.site_name }}" />
 		  <meta property="og:type" content="website" />
-      <meta property="og:image" content="https://sfh-foundation.github.io/sfhfoundation/site/assets/images/sfh_prayer.jpg" />
+      <meta property="og:image" content="https://sfh-foundation.github.io/sfhfoundation/knowledge/assets/images/sfh_prayer.jpg" />
       <meta name="twitter:card" content="summary_large_image" />
 	    <meta name="twitter:site" content="@SFH_Foundation" />
       <meta name="twitter:creator" content="@cryptowanderer" />
-      <meta name="twitter:image" content="https://sfh-foundation.github.io/sfhfoundation/site/assets/images/sfh_prayer.jpg" />
+      <meta name="twitter:image" content="https://sfh-foundation.github.io/sfhfoundation/knowledge/assets/images/sfh_prayer.jpg" />
 		  <meta name="twitter:image:alt" content="Shaykh Fadhlalla haeri" />
       {% if page and page.meta and page.meta.redirect %}
         <script>var anchor=window.location.hash.substr(1);location.href="{{ page.meta.redirect }}"+(anchor?"#"+anchor:"")</script>
@@ -109,6 +109,10 @@
       {% if config.google_analytics %}
         {% include "partials/integrations/analytics.html" %}
       {% endif %}
+    {% endblock %}
+    {% block amazon %}
+    <div id="amzn-assoc-ad-1d598660-b8ce-40e3-bf6d-571dbfe07544"></div>
+    <script async src="https://z-na.associates-amazon.com/onetag/v2?MarketPlace=US&instanceId=1d598660-b8ce-40e3-bf6d-571dbfe07544"></script> 
     {% endblock %}
     {% block extrahead %}{% endblock %}
   </head>

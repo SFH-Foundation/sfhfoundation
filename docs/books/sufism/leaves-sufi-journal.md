@@ -18,8 +18,10 @@ Written by both classical and contemporary writers, this compilation includes co
 
 ## Purchase
 
+### E-Book
+
 <div markdown="3" class="purchase-link">
-[Amazon](http://www.amazon.com/dp/B01J82P0H8)
+[Amazon](https://www.amazon.com/gp/product/B01J82P0H8/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J82P0H8&linkId=f90e23ca07b9cf27c61382fe4661af94)
 </div>
 
 <div markdown="3" class="purchase-link">

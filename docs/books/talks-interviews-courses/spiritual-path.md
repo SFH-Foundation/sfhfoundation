@@ -20,9 +20,15 @@ Drawing out Shaykh Haeri's far-reaching views on the future of religion, Sufi or
 
 Deeply engaging and inspiring for any serious seeker, these interviews were transcribed by Julia Khadija Lafene and edited by Anjum Jaleel. In order to publish it as a book, chapter headings, subheadings and footnotes have been added, many gaps within the conversations have been filled, and footnotes and a glossary have been added. 
 
+## Purchase
+
+### Paperback and Kindle
+
 <div markdown="3" class="purchase-link">
-[Amazon](http://www.amazon.com/dp/192832911X)
+[Amazon](https://www.amazon.com/gp/product/B07QW35SXK/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B07QW35SXK&linkId=96eb2a3e58290528a48e15925207ce6a)
 </div>
+
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1460280842)

@@ -26,8 +26,12 @@ What is stopping us from knowing Allah is ourselves. We are far because of the s
 
 These commentaries on several essential chapters of the Qur'an are based on Shaykh Fadhlalla Haeri's teachings in the West. The chapters include Surahs Fatiha, Baqarah, Al Imran, Yaseen, Al Ankabut, Al Rahman,Al Waqiah, Al Mulk and the entire Juz Amma (last section of the Qur'an). These explorations of selected chapters of the Qur’an are aimed at those seeking guidance and transformation in the modern world. Emphasising the timeless wisdom of the Qur’an, Shaykh Fadhlalla Haeri uses the linguistic roots of the key terms to offer illuminating insights into its deep inner meanings, and shows its relevance to our present day lives. As a source of understanding for both Muslims and non-Muslims, this volume of 5 parts will be greatly valued.
 
+## Purchase
+
+### Paperback
+
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/dp/1919826688/)
+[Amazon](https://www.amazon.com/gp/product/1919826688/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826688&linkId=fb106603fcd6a5f22af5518bc0288910)
 </div>
 
 

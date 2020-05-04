@@ -14,9 +14,15 @@ title: Keys to the Qur’an Volume 2 - Commentary on Surah Al Imran
 
 This chapter unveils truth and insight regarding the human self, society, this world and the Next Life.
 
+## Purchase
+
+### Paperback
+
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/Keys-Quran-Commentary-Surah-Imran/dp/1928329012/)
-</div>http://itunes.apple.com/us/book/id1145002464
+[Amazon](https://www.amazon.com/gp/product/1928329012/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329012&linkId=b0b2dce3acca5da1959a26cfe6a31c05)
+</div>
+
+## E-Book
 
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1145002464)

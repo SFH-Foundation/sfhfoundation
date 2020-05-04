@@ -16,9 +16,13 @@ In Living Islam, Shaykh Fadhlalla Haeri shows how it is possible to apply the et
 
 ## Purchase
 
+### Paperback
+
 <div markdown="3" class="purchase-link">
-[Amazon](http://www.amazon.com/dp/B01IVTK8T4)
+[Amazon](https://www.amazon.com/gp/product/B01IVTK8T4/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01IVTK8T4&linkId=74ba713db8fa0fd56f725ea524040c3c)
 </div>
+
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144968591)

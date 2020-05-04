@@ -18,8 +18,16 @@ From this book one can learn a great deal about the Islamic conception of God an
 
 ## Purchase
 
+### Paperback
+
 <div markdown="3" class="purchase-link">
-[Amazon](http://www.amazon.com/dp/B01IVVIRGS)
+[Amazon](https://www.amazon.com/gp/product/1919826920/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826920&linkId=323aa6567d6bb3ec63d1f2f2b9b4b917)
+</div>
+
+### E-Book
+
+<div markdown="3" class="purchase-link">
+[Amazon](https://www.amazon.com/gp/product/B01IVVIRGS/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01IVVIRGS&linkId=884509e27ac3ebe7d8b6b059aee9ccff)
 </div>
 
 <div markdown="3" class="purchase-link">

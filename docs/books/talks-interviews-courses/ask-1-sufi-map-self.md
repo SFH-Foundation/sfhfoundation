@@ -21,11 +21,11 @@ The course takes us a step at a time towards the realization that we are outward
 ## Purchase
 
 <div markdown="3" class="purchase-link">
-[Amazon](http://itunes.apple.com/us/book/id1145048135)
+[Amazon](https://www.amazon.com/gp/product/B01JD6CO82/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01JD6CO82&linkId=24de1a7659546a50ca1087ebebdccc22)
 </div>
 
 <div markdown="3" class="purchase-link">
-[Apple iBookStore](http://books.apple.com/us/book/id1465775083)
+[Apple iBookStore](https://books.apple.com/us/book/id1145048135)
 </div>
 
 <div markdown="3" class="purchase-link">

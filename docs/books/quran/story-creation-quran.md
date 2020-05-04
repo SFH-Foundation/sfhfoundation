@@ -14,8 +14,10 @@ This book is an exposition of the Qur’anic verses relating to the nature of ph
 
 ## Purchase
 
+### E-Book
+
 <div markdown="3" class="purchase-link">
-[Amazon](http://www.amazon.com/dp/B01J1YDJRQ)
+[Amazon](https://www.amazon.com/gp/product/B01J1YDJRQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J1YDJRQ&linkId=04039656cf12c7a3d38c78aa92b14ca3)
 </div>
 
 <div markdown="3" class="purchase-link">

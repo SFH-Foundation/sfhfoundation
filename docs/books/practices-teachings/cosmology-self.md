@@ -16,9 +16,13 @@ This book is a practical and accessible distillation of the tawhidi (unitive) Is
 
 ## Purchase
 
+### Paperback and Kindle
+
 <div markdown="3" class="purchase-link">
-[Amazon](http://www.amazon.com/dp/B01J4LOCKO)
+[Amazon](https://www.amazon.com/gp/product/B01J4LOCKO/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J4LOCKO&linkId=9bd5214d6f4fb636d9b8929b603e7898)
 </div>
+
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144709005)

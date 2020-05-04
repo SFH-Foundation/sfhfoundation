@@ -55,20 +55,6 @@ Topics covered are Islamic practices and theology, such as the cosmology and pur
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**Sayings of the Prophet Muhammad**
-
-<div markdown="2" class="book-image">
-![Sayings of the Prophet Muhammad](./img/sayings-muhammad.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./sayings-muhammad)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
 **Prophetic Traditions**
 
 <div markdown="2" class="book-image">

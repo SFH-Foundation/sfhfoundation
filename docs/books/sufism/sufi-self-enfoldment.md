@@ -16,9 +16,13 @@ This book is based on a collection of talks which were given in the eighties in 
 
 ## Purchase
 
+### Paperback and Kindle
+
 <div markdown="3" class="purchase-link">
-[Amazon](http://www.amazon.com/dp/B01J93IIKC)
+[Amazon](https://www.amazon.com/gp/product/B01J93IIKC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J93IIKC&linkId=cee044d91468200a2194b895f2093c8f)
 </div>
+
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1145049185)

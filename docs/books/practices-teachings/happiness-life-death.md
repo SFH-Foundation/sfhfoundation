@@ -18,9 +18,13 @@ Based on the Qur’an and Prophetic Message, this book offers a splendid collect
 
 ## Purchase
 
+### Paperback and Kindle
+
 <div markdown="3" class="purchase-link">
-[Amazon](http://www.amazon.com/dp/B01J81DSWI)
+[Amazon](https://www.amazon.com/gp/product/B01J81DSWI/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J81DSWI&linkId=eae58088f11224ae94ec16346aa9c73c)
 </div>
+
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Apple iBookStore](http://itunes.apple.com/us/book/id1144957454)

@@ -14,8 +14,16 @@ The Qur’an is the foundation of the “Deen” (life-transaction), containing 
 
 ## Purchase
 
+### Paperback
+
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/Qurans-Prescription-Shaykh-Fadhlalla-Haeri/dp/1919826904/)
+[Amazon](https://www.amazon.com/gp/product/1919826904/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826904&linkId=9f798cb4ca3ea0e8c677a7e83eee4bbf)
+</div>
+
+### E-Book
+
+<div markdown="3" class="purchase-link">
+[Amazon](https://www.amazon.com/gp/product/B01J284G50/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J284G50&linkId=477cebe3bf6ede2d25ff119d00b14b78)
 </div>
 
 <div markdown="3" class="purchase-link">

@@ -14,8 +14,10 @@ These inspired aphorisms and poems are remedies for hearts that seek the truth. 
 
 ## Purchase
 
+### E-Book
+
 <div markdown="3" class="purchase-link">
-[Amazon](http://www.amazon.com/dp/B01IKYONJG)
+[Amazon](https://www.amazon.com/gp/product/B01IKYONJG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01IKYONJG&linkId=d72ac7765af1c2a3d2fe67a0ef9a336f)
 </div>
 
 <div markdown="3" class="purchase-link">
