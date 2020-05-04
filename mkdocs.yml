@@ -29,7 +29,7 @@ theme:
     text: Roboto
     code: Roboto Mono
   favicon: assets/images/favicon.png
-  logo: 'sfh_logo.png'
+  logo: 'logo.png'
 
 extra_css: [extra.css]
 
@@ -42,10 +42,12 @@ plugins:
 # Customization
 extra:
   social:
+    - type: 'facebook'
+      link: 'https://www.facebook.com/sfhfoundation/'
+    - type: 'twitter'
+      link: 'https://twitter.com/SFH_Foundation'
     - type: 'github'
       link: 'https://github.com/SFH-Foundation/sfhfoundation'
-    - type: 'twitter'
-      link: 'https://twitter.com/cryptowanderer'
 
 # Extensions
 markdown_extensions:
