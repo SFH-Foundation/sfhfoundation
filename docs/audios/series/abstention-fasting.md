@@ -52,7 +52,7 @@ It is an accompaniment to another discourse in this series on Fasting, which is 
 
 The layers of fasting are explored as per the prophetic injunctions as the basis required for recognizing and turning away from the impermanent in order to recognize and experience the presence and perfection of the real. The relation between restriction and worship is presented with further explanations provided on the nature of the path as a means of aligning with the various fundamental laws and patterns of life. Special focus is given to the complimentary opposites of abstention and expansion and the courtesies of moving along this arc experientially as per the Qur’anic indications and key prophetic traditions. All is this is discussed with an eye to using abstention and restriction as means to experience, worship and live by the essence.
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![Abstention](../../videos/img/sfh_angels.jpg)
@@ -89,7 +89,7 @@ Key excerpts include:
 
 > “That is the purpose of our restriction of the outer: to have expansion, and to have a horizon, in the inner. Otherwise it remains sets of rituals without transformation. That transformation is only up to you, if you improve your intention. If you come with the right courtesy to the Presence of the sacred Light.”
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![Fasting as a Means of Improving Conduct](../../videos/img/sfh_foundation.jpg)

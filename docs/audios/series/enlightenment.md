@@ -54,7 +54,7 @@ You are what you make of yourself; a mixture of a lower and a higher self. Light
 
 It is not the thing, but the meaning that you are after-we are in an impermanent world seeking the boundless and permanent.
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![Enlightenment](../../videos/img/sfh_path_1.jpg)
@@ -74,7 +74,7 @@ It is not the thing, but the meaning that you are after-we are in an impermanent
 
 We experience light by its shadow. Pure light cannot be perceived except as a rainbow. Everything we experience in zone of time/space are images on the screen of non-change. What drives us is the love of that Absolute non-change. We are fueled by the infinite hierarchy of love and passion for beauty, health, harmony etc and ending up with Love by Love unto love. Light is only shown and known by its shadow. Light is both photon as well as wave. A photon is an entity and dies whereas a waveband continues forever, the same applies for individuals; an aspect of us dies, and an aspect of continues on.
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![Enlightenment](../../videos/img/sfh_path_2.jpg)
@@ -110,7 +110,7 @@ This episode takes the form of many important questions which the Shaykh poses a
 14. What, really, is the illness of the world around us?
 15. Is there hope?
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![Enlightenment](../../videos/img/sfh_path_3.jpg)
@@ -130,7 +130,7 @@ This episode takes the form of many important questions which the Shaykh poses a
 
 Unfortunately, there is no description of this episode readily available. Listen for yourself and let us know what you think!
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![Enlightenment](../../videos/img/sfh_path_4.jpg)
@@ -161,7 +161,7 @@ This final episode in the series also takes the form of a series of questions as
 9. Why is the path to enlightenment presented as something mysterious and mystical?
 10. Do you have practical advice after these five talks for seeking enlightenment?
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![Enlightenment](../../videos/img/sfh_path_1.jpg)

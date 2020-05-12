@@ -50,7 +50,7 @@ Shaykh Fadhlalla presents both the interrelation and particularity of these thre
 
 The Original Prophetic teachings, allegory and the prescriptive and descriptive nature of selected Qur’anic revelations are interspersed with select Sufi insights, presenting a rich tapestry of keys and sign posts that reflect the inherent design of human interaction with life, its connection to the ethical and cosmic possibilities available to human consciousness in being enlivened & aligned with the inner dimension by the prophetic model of, "Die before you die."
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![part 1](../../videos/img/sfh_ult_cont_1.jpg)
@@ -74,7 +74,7 @@ These two forces are critical complementary dynamics that frame the basket of hu
 
 An understanding of the parallels of this evolutionary dimension is critical in approaching revealed knowledges and ancient tradition in the drive to appropriately connect with the timeless meaning beneath the relative filter of these emergences. This episode presents the existential sketch of the categories of fear before introducing the Qur’anic model expounding upon the degrees of fear in relation to Higher consciousness. The Prescriptive and descriptive nature of selected Qur’anic expressions coupled with the Prophetic teaching is presented in the frame of expanding knowledge and modification of the self in tandem with the states and stages of attunement to the absolute.
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![part 2](../../videos/img/sfh_ult_cont_2.jpg)
@@ -98,7 +98,7 @@ A complex and detailed exposition on both issues is presented, via the reference
 
 The appropriate prescriptive steps and descriptive qualifications in, adequately navigating through the interplay of these dynamics are presented through Qur’anic expressions. The faculty of the heart is presented as the central locus of experience in these processes. The talk presents the modes in which inner awareness and interaction with the state of the heart connect with the way we relate to events. Fundamentally, this serves as the transformative ladder that enables the sensitivity of witnessing, experiencing and resonating with perpetual presence of the essence.
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![part 3](../../videos/img/sfh_ult_cont_3.jpg)
@@ -122,7 +122,7 @@ This talk traces the evolutionary arc of human consciousness and its relation to
 
 Various important descriptive elements are echoed in the Qur’anic revelations: accountability, the illusory nature of the changing self, the innate capacity of the divine qualities is coupled with the prescriptive elements in reflecting the modes of interaction with levels of suffering that belong to the plane of the self. The necessity of sensitivity to the interconnections and collapses on the various levels of life, and the issue of collective responsibility is given emphasis.
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![part 4](../../videos/img/sfh_ult_cont_4.jpg)

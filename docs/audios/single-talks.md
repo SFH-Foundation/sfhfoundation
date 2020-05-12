@@ -62,7 +62,7 @@ The entire talk is well summarised in the following key excerpt:
 
 > “You can do it quietly, you don’t have to tell people, you don’t have to show off. Nothing changes! Be as you are, just do the _salaat_! And then _dhikr_: remember it is **lā ʾilāha ʾillā llāh**. No need to change and say, ‘I am now a different person!’ You are not. You are the same idiot you have been all along, it’s just that your channel to Allah is clearly open, and you recognize that higher Reality. Prostrate yourself and you will come to see that there is nowhere where Allah is not.”
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![Islam and Tawhid](../videos/img/sfh_islam.jpg)
@@ -92,7 +92,7 @@ Shaykh Fadhlalla summarises the talk perfectly in this excerpt:
 
 Further talks on this topic can be found in [another audio series](./series/enlightenment) entirely devoted to it.
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![Enlightenment](../videos/img/sfh_perennial.jpg)
@@ -124,7 +124,7 @@ The Shaykh then unpacks the Academy of Self Knowledge basic presentation of huma
 
 Finally, he considers the developmental stages of consciousness as is emergent in the human being from infancy to full consciousness, outlined in five phases. The whole talk is interspersed with various Islamic and Qur’anic references and concludes with a short Q&A at its closure.
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![Human Consciousness](../videos/img/sfh_three_cs.jpg)
@@ -148,7 +148,7 @@ The Skaykh then examines the heart as the spiritual center of the human being, a
 
 Several key representations of life’s paradoxes are engaged: the critical dichotomy between otherness and oneness; the basis of generosity; the levels of meaning; and cause and effect - all accompanied by a distilled presentation of the various outstanding contributors to the science of the self. The essential indications relevant to grooming of the lower self are presented so as to assist you in working with the driving forces that make up the self and universal attributes. Grooming and containing the lower self is a means of attaining a balanced inner ecology that is the foundation of inner harmony and justice and the basis of liberation from the shadows of the past and concerns for the future. Once balanced, you may knock at the doorway of presence.
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![Muslim Awakening](../videos/img/sfh_diff_same.jpg)
@@ -172,7 +172,7 @@ Reflections on various contemporary recorded experiences of near death are prese
 
 An understanding of the complimentary nature in which the forces of life and death relate is offered, interspersed with reflections on Qur’anic verses, terms, prescriptions and descriptions of the world, the next life, and the process of inner death as the purification of your heart's clutter. This decreases one's attachment to this transient life, allowing for the amplified resonance with the soul within. Various allusions to the classical cosmology of the self are made, and death is modelled as the transcendence of limited consciousness into the zone of higher consciousness.
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![Die Before You Die](../videos/img/sfh_elusive.jpg)
@@ -192,7 +192,7 @@ An understanding of the complimentary nature in which the forces of life and dea
 
 This is a recording of a webinar on 25 January 2020 with Shaykh Fadhlalla Haeri (South Africa), Issa Baba (Turkey) and Shaykh Saadi (Neil Douglas-Klotz, Scotland). Organized by the Beyond Initiative of the Dances of Universal Peace. Interviewers: Arjun Calero (Columbia) and Aziz Dixon (England).
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![Sufi XXI Century](../videos/img/sfh_diff_same.jpg)
@@ -214,7 +214,7 @@ A tree is a good metaphor for indicating the dynamic manifestation of Reality in
 
 In this audio recording Shaykh Fadhlalla Haeri takes the listener on an incredible journey through an enlightened experience of the Now.
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![The Perpetual Now](../videos/img/sfh_conduct.jpg)
