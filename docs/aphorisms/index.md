@@ -4,7 +4,7 @@ description: A collection of Shaykh Fadhlalla Haeri's aphorisms
 
 # Aphorism Journeys
 
-This section is organised into separate "journeys", made up of small groups of aphorisms. Each saying is - in itself - a key to wisdom and deeper understanding. The intention is that you travel through each journey separately and return numerous times as each stage takes you deeper into your experience; into your own heart. We know that the nature of digital media can lead one to thoughtless consumption, so take your time here, read and reflect on each aphorism for an extended period and come back tomorrow again. This site isn't going anywhere...
+This section is organised into separate "journeys", made up of small groups of aphorisms. Each saying is - in itself - a key to wisdom and deeper understanding. The intention is that you travel through each journey separately and return numerous times as each stage takes you deeper into your experience; into your own heart. We know that the nature of digital media can lead one to thoughtless consumption, so take your time, read, reflect and flow with these pathways to and from original silence.
 
 In addition to the journeys organised under the "Spectrum" heading, you can browse a few collected gems below to get a sense of what you can expect on each journey.
 

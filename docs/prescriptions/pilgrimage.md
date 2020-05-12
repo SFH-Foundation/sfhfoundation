@@ -66,7 +66,7 @@ There are many actions that are considered to be voluntary, preferable actions. 
 
 ## The Pilgrimage of the Adepts
 
-![Pilgrimage in Africa](./img/pilgrimage.jpg)
+![Pilgrimage in Africa](../assets/images/16.jpg)
 
 At the next level the advanced pilgrim will visit the House of Allah – the Spiritual Ka`bah. This sacred House can be considered from two viewpoints: from that of the ‘Horizons’ (i.e. the macrocosm) and from that of the self (i.e. the microcosm). With regard to the ‘Horizons’, this refers to the original human (_insān_) heart, also called the ‘Universal Self’, "the Visited House" (Qur'an, 52:4) and the "Preserved Tablet" (Qur'an, 85:22". The ‘self’ as used here refers to the heart of lesser man which is referred to as the "heart, the breast, or the articulating self."
 
@@ -214,4 +214,4 @@ Finally he returns to Mina, to the world of multiplicity and the three stages wh
 
 > "…today I have completed for you your way of life (Islam) and I have perfected My Grace upon you and I am contented with Islam as a way of life for you." Qur'an, 5:3
 
-![Pilgrimage](./img/sfh_meditation.jpg)
+![Pilgrimage](../assets/images/20.jpg)

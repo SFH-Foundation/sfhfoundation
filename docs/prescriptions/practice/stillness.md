@@ -4,7 +4,9 @@ description:
 
 # The Practice of Stillness and Retreat
 
-Now that you have reflected upon the practices of meditation - which is found across most of the major religious traditions in the world - and supplication, which has a unique application is Islam, this guide will take you through a deeper understanding of stillness as it is applied in our tradition. To get a fuller perspective than what is provided below, please read the book, "[Transformative Worship in Islam: Experiencing Perfection](../../../books/general-islam/transformative-worship)".
+Across all world religions and spiritual systems various practices are prescribed in moving from basic conditioned consciousness into the vastness of soul consciousness or boundless consciousness. The art of stillness is the heart of all these practices and endeavours.
+
+Further information on the dynamics of transformative worship and the unique applications of the Essential Islamic model can be found in the publication "[Transformative Worship in Islam: Experiencing Perfection](../../../books/general-islam/transformative-worship)".
 
 ## Stillness
 

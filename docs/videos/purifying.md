@@ -1,14 +1,15 @@
-title: Learning
+title: Purifying
 
 description: A collection of talks given by Shaykh Haeri considered by his students to be a good introduction to, and basic overview of, his more general work.
 
-# Getting to Know Shaykh Haeri
+# Purifying
 
 ## Overarching Ideas
 
-These four videos are exemplary of some of the Shaykh's overarching ideas. While it is not possible to summarise his massive body of work into four simple videos, each one of these illustrates a key tenet of his teaching. The three basic pillars of **Islam** (surrender, submission, acceptance), **Iman** (trust, faith) and **Ihsan** (contentment, excellence) will reveal the need to learn how to conduct one's self properly. 
+These four videos are a broad stroke presentation of Shaykh Fadhlalla’s work. Regard these excerpts as introductory illustrations of key tenets of the essentail teaching. The three basic pillars of **Islam** are (surrender, submission, acceptance), **Iman** (trust, faith) and **Ihsan** (contentment, excellence). Harmonious and wholesome interactions and behaviour with the phenomenal world is seamlessly connected to divinity.  
 
-Being correct and courteous in all of one's outer actions naturally leads one to begin questioning some of the inner meanings so-called correct conduct is based upon. Questioning these is not actually a matter of faith, but of a certain kind of knowing that grows from seeing yourself, your thoughts, and your actions within the wider framework of what the Shaykh often calls "The Three C's" - connection, continuity and consciousness. This most useful and broad map, when applied with awareness and understanding, can lead one to experience differentiated sameness in every perfect moment: seeing everywhere the multiple faces of One God.
+Being correct and courteous in all of one's outer actions naturally leads one to begin questioning the meanings behind the dynamics of activity. This inquiry is born and fostered through faith; awareness; trust in the oneness of reality; and an evolving, unfolding knowing that grows from seeing and examining yourself, your thoughts, and your actions within the wider framework of three of life's major forces - connection, continuity and consciousness. This most useful and broad map, when applied with awareness and understanding, can assist one in progressively witnessing the perfection of the moment, and resonating with the immensity of the unchanging now.
+
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 

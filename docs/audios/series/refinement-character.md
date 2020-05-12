@@ -4,7 +4,7 @@ description:
 
 # Refinement of Character
 
-_If you prefer reading to listenting, we highly recommend the text guide "[Maps & Models of the Self](../../guides/7-stations-4journeys)", which covers similar topics in a different format._
+_If you prefer reading to listenting, we highly recommend the text guide "[Maps & Models of the Self](../../prescriptions/7-stations-4journeys)", which covers similar topics in a different format._
 
 In this ground-breaking series of talks, Shaykh Fadhlallah Haeri presents a map for refinement of character in the Prophetic tradition as an essential step to Enlightenment and Connection with the One, unhindered by reflections of the lower self. Shaykh Fadhlallah unravels the mystery of such Prophetic refinement and presents a path which can be followed with clarity and ease, should the student of Enlightenment wish to discover the Bliss it presents.
 

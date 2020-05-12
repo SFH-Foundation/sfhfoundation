@@ -188,6 +188,20 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
+**Pointers to Reality**
+
+<div markdown="2" class="book-image">
+![Pointers to Reality](./poetry-aphorisms/img/pointers-reality.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./poetry-aphorisms/pointers-to-reality)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
 **The Thoughtful Guide to Islam**
 
 <div markdown="2" class="book-image">

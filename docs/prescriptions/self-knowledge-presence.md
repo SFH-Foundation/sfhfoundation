@@ -4,9 +4,7 @@ description: A collection of excerpts from various books written by Shaykh Fadhl
 
 # Self Knowledge and Unfolding Into Presence
 
-## The Self
-
-This guide is comprised of a series of interlinked extracts from various books written by Shaykh Fadhlalla over the years on the theme of Self Knowledge, Presence, and how to deepen one's practice of both. As always, these guides are only meant to serve as cursory maps - it is incumbent upon you to read them attentively, reflect on them fully, and put them into practice in your own life in a way which you find to be transformative.
+This guide is made up of of a series of interlinked extracts from various books written by Shaykh Fadhlalla over the years on the theme of Self Knowledge and Presence. It is incumbent upon you to read them attentively, reflect on them fully, and apply them appropriately as aids on the path of transformation.
 
 ### Energy and Awareness   
 
@@ -52,4 +50,4 @@ Everything that exists has an outer and an inner facet, which are in balance. Fo
 
 **_Discriminating between outer and inner is the first step to realizing their inseparability in essence._** 
 
-![Self Knowledge and Presence](./img/sfh_celebrate.jpg)
+![Self Knowledge and Presence](../assets/images/09.jpg)

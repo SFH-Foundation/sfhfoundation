@@ -20,7 +20,7 @@ The path, therefore, has to do with stopping those concerns and starting from a 
 
 ## Pleasure and Happiness  
 
-_From the book "[The Mercy of Qur’an and The Advent of Zaman – Tafsir of Surat Ankabut, Rahman, Waqiá, Mulk](../../books/quran/mercy-quran-advent-zaman)"_
+_From the book "[Keys to the Qur'an Volume 4 – Commentary on Surat Ankabut, Al-Rahman, Al-Waqi`ah and Al-Mulk](../../books/quran/keys/keys-4)"_
 
 A pleasure is something one can share, one can buy. It is related to attachment and is a worldly thing while _surur_, joy, is for its own sake. The bird sings because its nature is to sing, irrespective of whether the hunter is hunting it or the neighborhood is giving it extra food. A pleasure is a result of something that has occurred. A person is lonely, then he meets a companion who echoes much of what he believes in – that is a pleasure. Someone was hungry, there was emptiness in his stomach and it was filled with food – that is a pleasure. Pleasure is like neutralization: the negative and the positive meet and are neutralized.  
 

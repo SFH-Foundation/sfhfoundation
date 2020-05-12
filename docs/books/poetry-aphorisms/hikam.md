@@ -2,7 +2,7 @@ title: The Hikam - The Wisdom of Ibn `Ata’ Allah
 
 description:
 
-# The Wisdom of Ibn `Ata’ Allah
+# The Hikam - The Wisdom of Ibn `Ata’ Allah
 
 <div markdown="1" class="cover-image">
 ![Book cover](./img/hikam.jpg)

@@ -20,5 +20,5 @@ From Prophetic traditions we know that one hour’s reflection is better than th
 
 Observing the lives of the prophets and the great ones, one finds that they were afflicted to the limit of endurance; but because of their proximity to Allah, outer events did not affect their inner blessing and joy.
 
-![Webs of light](../../assets/images/06.jpg)
+![Webs of light](../assets/images/06.jpg)
 

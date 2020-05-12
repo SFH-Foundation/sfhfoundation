@@ -4,7 +4,7 @@ description: Stand-alone talks given by Shaykh Fadhlalla Haeri and recorded in v
 
 # Single Talks
 
-On this page, you will find all the stand-alone talks Shaykh Fadhlalla has given over the years, as opposed to ones organised and grouped together under a common theme. Each of these talks contains unique insights from the Shaykh and, while many of them require an hour or so to listen to in full, we assure you that it will be an hour well spent.
+On this page, you will find all the stand-alone talks Shaykh Fadhlalla has given over the years, as opposed to ones organised and grouped together under a common theme. Each of these talks is unique, containing an array of insights and threads presenting the amazing connections between the absolute and the relative.
 
 <div markdown="1" class="card article sidebar center">
 

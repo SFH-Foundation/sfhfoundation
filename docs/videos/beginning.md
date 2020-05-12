@@ -1,8 +1,8 @@
-title: Beginning
+title: Emptying
 
 description: This page hosts a few, short videos which serve as a great starting point for those who are not at all familiar with Shaykh haeri and his work and teachings.
 
-# Beginning with Shaykh Haeri
+# Emptying Out - The Beginning
 
 Human beings are driven to higher consciousness by prayer, meditation and a host of creative pursuits such as the arts, music and other transcendental activities, all of which reflect our yearning to return to a blissful state of contented happiness - paradise. It is ultimately supreme consciousness that we all desire, here and now.
 

@@ -12,8 +12,6 @@ Human interest in fasting is deeply rooted in our consciousness. Fasting has lon
 
 Islam has prescribed the practice of abstinence and fasting as a means of self-purification and worship. The act of restraining the self from fulfilling its desires purifies and enhances awareness at physical, mental and spiritual levels and sensitizes human consciousness. The seeker realizes the weakness of the self and is gratified by the discipline, restriction and prohibitions, for these limitations are windows to Allah’s limitlessness.
 
-![Laughing Everlastingly](../img/sfh_laughing.jpg)
-
 ## Fasting in History
 
 In many cultures, such as the Indians of North America, tribes of Brazil, the people of the Pacific Islands and numerous Asian, African and European peoples, fasting has been used as a rite of initiation, marking puberty, prior to hunting and as part of the rites of marriage. In some cultures such as those in the Andaman Islands, Fiji, Samoa, China, Korea and others fasting is observed as a rite of mourning. In general, we find whenever human beings are in need, suppressed, or in fear, they seek God or higher powers through abstinence or penance. When our limited state of knowledge and consciousness is insufficient fasting guides us out of difficulties to find other means of inspiration and solutions.
@@ -27,3 +25,5 @@ The institution of fasting and abstinence from certain foods in Christianity has
 Over time there has been a gradual mitigation in the frequency and rigor of the fasts and abstinences prescribed by Church laws due to extenuating circumstances such as age, health, poverty, hard or continued labor and changing social conditions. Today few are obliged to fast strictly, while some are excused even from abstinence. Roman Catholic legislation further provides for dispensations to be granted by the Church authorities. The overall result is that the practice of fasting has declined and is almost forgotten as a religious exercise.
 
 During the twentieth century fasting has sometimes been used as a tool of political and social protest by individuals as well as groups. During the national struggles for independence from colonial rule, several leaders of the third world in Asia and Africa resorted to fasting to highlight their plight and struggle, often with some success.
+
+![Fasting](../../assets/images/19.jpg)

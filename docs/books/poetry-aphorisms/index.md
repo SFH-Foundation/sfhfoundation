@@ -10,6 +10,34 @@ Shaykh Fadhlalla Haeri’s poetry capture in brush strokes the human condition a
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
+**The Garden of Meaning**
+
+<div markdown="2" class="book-image">
+![The Garden of Meaning](./img/garden-meaning.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./garden-meaning)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Pointers to Reality**
+
+<div markdown="2" class="book-image">
+![Pointers to Reality](./img/pointers-reality.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./pointers-to-reality)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
 **Ripples of Light**
 
 <div markdown="2" class="book-image">
@@ -46,20 +74,6 @@ Shaykh Fadhlalla Haeri’s poetry capture in brush strokes the human condition a
 
 <div markdown="3" class="book-link">
 [Read It](./look-again)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**The Garden of Meaning**
-
-<div markdown="2" class="book-image">
-![The Garden of Meaning](./img/garden-meaning.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./garden-meaning)
 </div>
 
 </div>

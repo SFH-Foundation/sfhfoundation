@@ -4,14 +4,14 @@ description: An overview of all the videos of talks and conversations involving 
 
 # Videos
 
-## Beginning
+## Emptying
 
 <div markdown="1" class="card article sidebar center">
 
 **Start here...**
 
 <div markdown="2" class="article-image">
-![Transformation](../guides/img/sfh_transformed.jpg)
+![Transformation](../prescriptions/img/sfh_transformed.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -24,7 +24,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Haeri 
 
 </div>
 
-## Learning
+## Purifying
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -82,7 +82,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Haeri 
 
 </div>
 
-## Polishing
+## Sweetening
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -141,6 +141,48 @@ This short series of 9 videos will give you a good introduction to Shaykh Haeri 
 </div>
 
 ## Most Recent
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Jumuah Talk](./img/sfh_foundation.jpg)
+</div>
+
+**Jumuah Talk - 24/04/2020**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=iB5hnJLcUAw)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Selected Āyāt From The Qur'an](./img/sfh_foundation.jpg)
+</div>
+
+**Selected Āyāt From The Qur'an**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=Gzj7mO8ejrg)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Crisis of Islamic Civilisation](./img/sfh_foundation.jpg)
+</div>
+
+**The Crisis of Islamic Civilisation**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=CFaT26y91I8)
+</div>
+
+</div>
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 

@@ -18,4 +18,4 @@ that which Is
 perpetual  
 That is what it is  
 
-![SFH Asking](./img/sfh_what_is_it.jpg)
+![SFH Asking](../assets/images/01.jpg)

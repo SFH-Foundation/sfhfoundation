@@ -4,7 +4,7 @@ description:
 
 # Abstention, Fasting and Better Conduct
 
-If you prefer reading to listening, you can find a full [text guide on fasting here](../../../guides/fasting).
+If you prefer reading to listening, you can find a full [text guide on fasting here](../../../prescriptions/fasting).
 
 <div markdown="1" class="card article sidebar center">
 

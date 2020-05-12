@@ -35,4 +35,4 @@ on the evergreen tree free of blight.
 And the ants will re-build again  
 In praise of life and light.  
 
-![Step With Caution](./img/step-caution.jpg)
+![Step With Caution](../assets/images/17.jpg)

@@ -4,7 +4,7 @@ description: An overview of all the audios made available by the Shaykh Fadhlall
 ---
 # A Guide For Listening
 
-This page presents a selection of audio recordings from Shaykh Fadhlalla's talks and conversations over the years. You will find the most universalist, insightful and educational talks given by the Shaykh here. This is a page to be returned to often, sipped, and enjoyed at your leisure. Whenever you are lost, come back here to reflect, repose and return to the path.
+This page presents a key selection of audio recordings from Shyakh Fadhlalla’s talks and conversations over the years. Here you will find various essential themes and categories into which we have organised the discourses on the Prophetic Path, spirituality, and other contemporary and classical issues relevant to the human story and the timeless quest for oneness. This is a page to be returned to often.
 
 **We release audios on a number of platforms. Please find your preferred one below. All the indivdual links on pages in this section of the archive go to Anchor FM, from which you can easily access Apple, Spotify, Breaker, Google Podcast, Overcast, Pocket Casts, and RadioPublic.**
 

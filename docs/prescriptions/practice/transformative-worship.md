@@ -31,7 +31,7 @@ Muslims often refer to this sacred tradition (_hadith qudsi_) of the Prophet (pb
 
 Human beings are driven to higher consciousness by prayer, meditation and a host of creative pursuits such as the arts, music and other transcendental activities, all of which reflect our yearning to return to a blissful state of contented happiness - paradise. It is ultimately supreme consciousness that we all desire, here and now.
 
-All acts of worhsip begin with self-awareness and a desire for higher knowledge. The preparation for worship is the declaration of intent and the hope to be focussed, attentive and engaged in the process of deepening one's state of awareness. A point may arrive when the worshiper loses concerns with worldly mundane matters and begins to experience subtler levels of awareness which are deeper than the normal day to day variety. The ultimate purpose of worship and prayer is to realize experientially a state that is not subject to earthly or mental limitations. This may be variously identified as the sacred void, inner bliss, pure peace, or ultimate or higher consciousness.
+All acts of worship begin with self-awareness and a desire for higher knowledge. The preparation for worship is the declaration of intent and the hope to be focussed, attentive and engaged in the process of deepening one's state of awareness. A point may arrive when the worshiper loses concerns with worldly mundane matters and begins to experience subtler levels of awareness which are deeper than the normal day to day variety. The ultimate purpose of worship and prayer is to realize experientially a state that is not subject to earthly or mental limitations. This may be variously identified as the sacred void, inner bliss, pure peace, or ultimate or higher consciousness.
 
 ## Tawhid
 
@@ -39,5 +39,5 @@ Islam is founded upon experiential _tawhīd_. The whole universe has emanated fr
 
 ![Transforming hearts](../img/sfh_transformed.jpg)
 
-_These excerpts come from only the first few pages of "[Transformative Worship in Islam: Experiencing Perfection](../../../books/general-islam/transformative-worship)". For more detailed descriptions of actual practices, and for your own deeper understanding and insight, please refer to the entire book_.
+_These excerpts come from the first few pages of "[Transformative Worship in Islam: Experiencing Perfection](../../../books/general-islam/transformative-worship)". For detailed descriptions on application of practices and their meanings please refer to the entire book_.
 

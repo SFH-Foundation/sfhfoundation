@@ -14,4 +14,4 @@ I benefited from Ibn al-‘Arabi when I had experienced the states and stations 
 
 Before reaching spiritual maturity Sufi literature can encourage fantasy or act as a placebo with uncertain outcome. It is best, for this reason, to avoid specific spiritual terms and discussion of spiritual hierarchies. In the material realm more is sought, in the spiritual realm the reverse is true. Many spiritual seekers see the path as a process of getting something. The soul within has it all but needs a pure heart to allow the light to shine through.
 
-![Less](../../assets/images/09.jpg)
+![Less](../assets/images/09.jpg)

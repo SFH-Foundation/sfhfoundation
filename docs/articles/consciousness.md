@@ -4,15 +4,21 @@ description: A selection of excerpts from various books by Shaykh Fadhlalla on t
 
 # Consciousness - An Overview
 
-The question of what really constitues consciousness has been addressed in many different ways, and multiple different formats by Shaykh Fadhlalla over the years. For instance, you can find talks on this topic across our archives, like:
+This article collects and presents various windows and aspects of the incredible mystery that is consciousness. Many of the following excerpts are taken from the book "[Spectrum of Reality](../../books/sufism/spectrum-reality)".
 
-1. [Human Consciousness](../../audios/single-talks/#human-consciousness) which covers consciousness as we experience it in day-to-day life.
-2. [Abstention & Fasting](../../audios/series/abstention-fasting) which is a two-part series that goes into detail about how such practices can lead to experiencing higher consciousness.
-3. [Descriptive & Prescriptive Qur'an](../../audios/series/descriptive-prescriptive-quran) which is a four-part series that deals, in part, with Qur'anic descriptions of the phenomena and prescriptions for aligning with it optimally.
+Catalogued throughout this site you will find various videos and discourses further elaborating on this vast topic. Read to the end to find other recommendations that discuss the same phenomena from a multitude of other perspectives.
 
-There are also many videos we have provided on this broad topic, the most directly relevant of which is the two part series [From Darkness to Light](../../videos/quran/darkness-to-light/) which discusses both the two zones of consciousness that form a major tenet within the Shaykh's teaching, as well as a full-length talk offering invaluable keys to an awakened life.
+## Consciousness
 
-In the selection below, we offer you various excerpts from some of Shaykh Fadhlalla's books produced over the years to lead you in considering for yourself what you make of this most important phenomena and experience.
+Life is discerned via consciousness. Human consciousness spans a very wide spectrum of experiencing and understanding of realities. Consciousness may be defined as an energy field or light that generates other subtle forces such as intelligence, knowledge, understanding, feeling, emotion and other mental and spiritual states.   
+
+Like colours that emanate from visible light, consciousness produces many discernible qualities such as love, generosity and other attributes, both high and low. We are conscious of the positive effect of kindness and empathy and shun enmity and discordance; we prefer connection.  
+
+It is in human nature to have a clear and sharp mind and to understand and relate to what is happening around us. We are driven towards stability, balance and peace and to connect our inner world, of body and mind, to the outer world. We receive and transmit signals, signs and other complex visible or subtle linguistic expressions.   
+
+We continuously seek self-sustained joy and goodness. We quest for eternal life, beyond our personal, conditioned and limited life.The biography of consciousness begins with basic life within the tidal pools of lakes and oceans. The simple chemistry of earth, water and sun was energized alchemically and gave the first cells their life -  the birth of consciousness. 
+
+We are driven to experience connectedness and continuity in what gives us stability, pleasure or happiness. The dynamics of human nature are based on the interplay between the eternal soul within us and its shadow companion, the lower self. Initially we think we are in charge and can choose our own intentions or actions. The fortunate few realize that what was in charge throughout was a holographic representation of supreme reality – the cosmic soul – the soul within the heart. 
 
 ## Why?
 
@@ -59,7 +65,7 @@ merely dreams within a dream.
 
 ## The Aware Heart
 
-All human endeavours that increase knowledge, ability, efficiency and wholseomeness imply a journey towards higher consciousness. Life begins with basic sentiency and ends with spontaneous awareness of awareness. The arrow of time moves from 'no-thingness' towards absolute Oneness. Worship can be ragarded as an evolutionary spiritual exercise to transcend the mind and come into unison with the divine soul within. Ultimat eliberation and enlightenment implies taking constant reference from the immutable soul. In a sacred tradition Allah declares that:
+All human endeavours that increase knowledge, ability, efficiency and wholseomeness imply a journey towards higher consciousness. Life begins with basic sentiency and ends with spontaneous awareness of awareness. The arrow of time moves from 'no-thingness' towards absolute Oneness. Worship can be regarded as an evolutionary spiritual exercise to transcend the mind and come into unison with the divine soul within. Ultimate celebration and enlightenment implies taking constant reference from the immutable soul. In a sacred tradition, Allah declares that:
 
 > The Heavens and Earth do not contain Me, but the heart of he who believes contains Me."
 
@@ -75,4 +81,12 @@ Oneness is beyond all values and differentiation, whereas in duality there canno
 
 All dualities have their root in the original Oneness to which they return — the Perpetual One.   
 
-![Wake up!](./img/sfh_celebrate.jpg)
+![Wake up!](../assets/images/05.jpg)
+
+## Further Exploration
+
+1. [Human Consciousness](../../audios/single-talks/#human-consciousness) which covers consciousness as we experience it in day-to-day life.
+2. [Abstention & Fasting](../../audios/series/abstention-fasting) which is a two-part series that goes into detail about how such practices can lead to experiencing higher consciousness.
+3. [Descriptive & Prescriptive Qur'an](../../audios/series/descriptive-prescriptive-quran) which is a four-part series that deals, in part, with Qur'anic descriptions of the phenomena and prescriptions for aligning with it optimally.
+
+There are also many videos we have provided on this broad topic, the most directly relevant of which is the two part series [From Darkness to Light](../../videos/quran/darkness-to-light/) which discusses both the two zones of consciousness that form a major tenet within the Shaykh's teaching, as well as a full-length talk offering invaluable keys to an awakened life.

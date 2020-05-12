@@ -4,21 +4,21 @@ description: A brief description, with examples, of the practice of supplication
 
 # The Practice of Supplication
 
-If you prefer video to reading, please refer to the YouTube recording linked below:
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
 ![Personality](../img/sfh_supplication.jpg)
 </div>
 
-**The Role of Supplication in Human Transformation**
+**Supplication & Human Transformation**
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=RnSE_C3Z-9g)
 </div>
 
 </div>
+
+<div markdown="1" class="clear"></div>
 
 ## A Prophetic Supplication to Remove Darkness and Impurity and Attract Light
 
@@ -54,5 +54,5 @@ Being with people, serving them, and putting up with their difficulties is balan
 
 Smaller periods of time are also practiced regularly. The smallest period is ultimately symbolized by the salat which punctuates the day five times, giving us the chance to reconnect in awareness with the underlying reality that grounds our existence.
 
-Further information on the above two sections can be found in the book [Transformative Worship in Islam - Experiencing Perfection](../../books/general-islam/transformative-worship).
+Further information on the dynamics of transformative worship and the unique applications of the Essential Islamic model can be found in the publication [Transformative Worship in Islam - Experiencing Perfection](../../../books/general-islam/transformative-worship).
 

@@ -1,8 +1,8 @@
-title: Guides to the Optimum Life
+title: Prescriptions for the Optimum Life
 
 description: Overview of the various guides and maps provided by Shaykh Fadhlalla Haeri
 
-# Guides to the Optimum Life
+# Prescriptions for the Optimum Life
 
 <div markdown="1" class="card article sidebar center">
 
