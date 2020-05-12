@@ -33,16 +33,23 @@
     margin-bottom: 40px;
   }
 
-  .book-link, .video-link {
-    background:#E0B24D;
+  .book-link p, .video-link p {
+    background:#f3eab2;
     border-radius: 5px;
     width: 70%;
     margin: 0 auto;
+    border: 1px solid #E0B24D;
+    padding: 5px;
+  }
+
+  .book-link p:hover,
+  .video-link p:hover,
+  .purchase-link p:hover,
+  .audio-link p:hover {
+    background: none;
   }
 
   .audio-link {
-    background:#E0B24D;
-    border-radius: 5px;
     width: 23.5%;
     float: left;
     margin: 4px 8px 0 0;
@@ -52,32 +59,28 @@
   .audio-link p {
     margin: 1px;
     text-align: center;
-  }
-
-  .book-link p {
-    padding: 5px;
+    border: 1px solid #E0B24D;
+    border-radius: 5px;
+    background:#f3eab2;
   }
 
   .video-link p {
-    padding: 5px;
     height: 35px !important;
   }
 
   .book-link a, .purchase-link a, .video-link a, .audio-link a {
-    color: #fff !important;
+    color: #E0B24D !important;
     font-weight: bold;
   }
 
-  .purchase-link {
-    background:#E0B24D;
+  .purchase-link p {
+    background:#f3eab2;
     border-radius: 5px;
     width: 30%;
-    margin: 0 auto;
-  }
-
-  .purchase-link p {
+    margin: 5px auto;
     padding: 5px;
     text-align: center;
+    border: 1px solid #E0B24D;
   }
 
   .article-image {
