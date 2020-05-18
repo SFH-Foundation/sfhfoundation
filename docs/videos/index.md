@@ -145,13 +145,84 @@ This short series of 9 videos will give you a good introduction to Shaykh Haeri 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Jumuah Talk](./img/sfh_foundation.jpg)
+![ZA
+Sufi Cosmology Of Life - Part 2](./img/sfh_foundation.jpg)
 </div>
 
-**Jumuah Talk - 24/04/2020**
+**Sufi Cosmology Of Life - Part 2**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=iB5hnJLcUAw)
+[Watch](https://www.youtube.com/watch?v=8LC2Lo1j3lI)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Reflections on Ubudiya & Ruhaniyya](./img/sfh_foundation.jpg)
+</div>
+
+**Reflections on Ubudiya & Ruhaniyya - Part 2**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=cyVqbbMSop0)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Sufi Cosmology Of Life - Part 1](./img/sfh_foundation.jpg)
+</div>
+
+**Sufi Cosmology Of Life - Part 1**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=vRfT9Om4nXc)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Insights of Divinity Through Humanity](./img/sfh_foundation.jpg)
+</div>
+
+**Insights of Divinity Through Humanity**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=mEDEk0Pjato)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Reflections on Ubudiya & Ruhaniyya](./img/sfh_foundation.jpg)
+</div>
+
+**Reflections on Ubudiya & Ruhaniyya - Part 1**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=Q_TF_U8jKX8)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Crisis of Islamic Civilisation](./img/sfh_foundation.jpg)
+</div>
+
+**The Crisis of Islamic Civilisation**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=CFaT26y91I8)
 </div>
 
 </div>
@@ -173,13 +244,13 @@ This short series of 9 videos will give you a good introduction to Shaykh Haeri 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Crisis of Islamic Civilisation](./img/sfh_foundation.jpg)
+![Jumuah Talk](./img/sfh_foundation.jpg)
 </div>
 
-**The Crisis of Islamic Civilisation**
+**The Most Powerful Drives in Humanity - Jumuah Talk**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=CFaT26y91I8)
+[Watch](https://www.youtube.com/watch?v=iB5hnJLcUAw)
 </div>
 
 </div>
@@ -208,76 +279,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Haeri 
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=n6ajIEmwQqE)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Origin of Good and Bad](./img/sfh_good_bad.jpg)
-</div>
-
-**The Origin of Good and Bad**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=HkYFYz6cPds&list=PLzFr0xRIkb3gZ8fH7Ru4Z0aCngiEgt4JJ&index=17)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Way of Muhammad Today](./img/sfh_way_muhammad.jpg)
-</div>
-
-**The Way of Muhammad Today**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=DMJWvJIsmL8&list=PLzFr0xRIkb3gZ8fH7Ru4Z0aCngiEgt4JJ&index=16)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Role of Men & Women](./img/sfh_role_men_women.jpg)
-</div>
-
-**The Role of Men & Women**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=5dWxeKQdbZ0&list=PLzFr0xRIkb3gZ8fH7Ru4Z0aCngiEgt4JJ&index=15)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Impact of Social Media](./img/sfh_impact_social_media.jpg)
-</div>
-
-**The Impact of Social Media**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=rIrEe-qU-zI&list=PLzFr0xRIkb3gZ8fH7Ru4Z0aCngiEgt4JJ&index=14)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Failure of Political Leadership](./img/sfh_political_leadership.jpg)
-</div>
-
-**The Failure of Political Leadership**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=JskioL2nauM&list=PLzFr0xRIkb3gZ8fH7Ru4Z0aCngiEgt4JJ&index=13)
 </div>
 
 </div>
