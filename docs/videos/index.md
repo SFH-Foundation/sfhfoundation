@@ -145,8 +145,21 @@ This short series of 9 videos will give you a good introduction to Shaykh Haeri 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![ZA
-Sufi Cosmology Of Life - Part 2](./img/sfh_foundation.jpg)
+![Human Consciousness From The Quran](./img/sfh_foundation.jpg)
+</div>
+
+**Human Consciousness From The Quran**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=LWLbJ4W8m2I)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Sufi Cosmology Of Life - Part 2](./img/sfh_foundation.jpg)
 </div>
 
 **Sufi Cosmology Of Life - Part 2**
@@ -279,20 +292,6 @@ Sufi Cosmology Of Life - Part 2](./img/sfh_foundation.jpg)
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=n6ajIEmwQqE)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Economism as the New Religion](./img/sfh_economism.jpg)
-</div>
-
-**Economism as the New Religion**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=pH6T2sG-6JY&list=PLzFr0xRIkb3gZ8fH7Ru4Z0aCngiEgt4JJ&index=12)
 </div>
 
 </div>

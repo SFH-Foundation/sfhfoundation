@@ -107,6 +107,11 @@
     width: 40%;
   }
 
+  .center-text {
+    font-size: 14px;
+    text-align: center;
+  }
+
   .clear {
     clear: both;
   }

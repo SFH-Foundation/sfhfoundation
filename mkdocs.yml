@@ -176,8 +176,10 @@ nav:
     - '2020 - Reflections and Actions': 'videos/conferences/2020.md'
   - Conversations:
       - 'Highwood': 'videos/conversations/highwood.md'
-      - 'Ultimate Contentment': 'videos/conversations/ultimate-contentment.md'
+      - 'Uncommon Dialogues': 'videos/conversations/uncommon-dialogues.md'
+      - 'Living Qur’an': 'videos/conversations/living-quran.md'
       - 'Collected Interactions': 'videos/conversations/collected.md'
+      - 'Ultimate Contentment': 'videos/conversations/ultimate-contentment.md'
 - Audios:
   - 'Most Recent': 'audios/index.md'
   - 'Guide to Listening': 'audios/guide.md'
@@ -227,19 +229,7 @@ nav:
     - 'Feast of Fast-Breaking': 'prescriptions/fasting/feast-fast-breaking.md'
   - 'Pilgrimage': 'prescriptions/pilgrimage.md'
 - ASK:
-  - 'Academy of Self Knowledge': 'a-s-k/ask.md'
-  - Cosmology of the Self:
-    - 'Who am I?': 'a-s-k/cosmology-self/index.md'
-    - Course Outline:
-      - 'Early Childhood': 'a-s-k/cosmology-self/childhood.md'
-      - 'Ethics & Character Traits': 'a-s-k/cosmology-self/ethics-character-traits.md'
-      - 'Body-Mind-Spirit': 'a-s-k/cosmology-self/body-mind-spirit.md'
-  - The Prophetic Way of Life:
-    - 'Timeless Wisdom and the Modern World': 'a-s-k/prophetic-way/index.md'
-    - Course Outline:
-      - 'Conscious Worship': 'a-s-k/prophetic-way/conscious-worship.md'
-      - 'Evolving Relationships': 'a-s-k/prophetic-way/evolving-relationships.md'
-      - 'Guidance from Allah': 'a-s-k/prophetic-way/guidance-allah.md'
+  - 'Academy of Self Knowledge': 'ask/index.md'
 - Poetry:
   - 'Overview': 'poetry/index.md'
   - 'What Is It?': 'poetry/what-is-it.md'
