@@ -1164,8 +1164,8 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/11.jpg");
-			background-position: center;
+			background-image: url("../../images/p11.jpeg");
+			background-position: top;
 			background-size: cover;
 			background-repeat: no-repeat;
 			z-index: 1;
@@ -1176,10 +1176,6 @@ input, select, textarea {
 			-webkit-transform: scale(1.0825);
 			-ms-transform: scale(1.0825);
 			transform: scale(1.0825);
-			-moz-filter: blur(0.2rem);
-			-webkit-filter: blur(0.2rem);
-			-ms-filter: blur(0.2rem);
-			filter: blur(0.2rem);
 		}
 
 		body.is-preload #bg:before {
