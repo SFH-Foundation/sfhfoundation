@@ -1,10 +1,10 @@
+---
 title: New ASK - Touching Supreme Consciousness
-
+template: no_toc.html
 description: Maps of truth that will illumine the journey in this life and the hereafter
+---
 
 # New ASK
-
-![Touching light](../assets/images/01.jpg)
 
 <div markdown="1" class="center-text">
 _Formerly The Academy of Self Knowledge_
@@ -24,22 +24,24 @@ The cosmology of the Self is predicated on the knowledge and experience of the i
 
 ### What you will learn:
 
-1. You are the meeting point of the earthly (self) and the divine (soul) 
-2. How to: 
-    1. cultivate self-awareness 
-    2. adopt new behaviours
-    3. let go of limiting habits and patterns of thinking 
-    4. befriend your subconscious and transcend conditioning
-    5. tap into soul consciousness – true nature
-        1. hope
-        2. action
-        3. will
-    6. live with an open heart and have more
-        1. love 
-        2. gratitude
-        3. compassion
-        4. peace
-    7. discover the immensity and perfection of the moment 
-    8. navigate towards the lived application of the essential driving forces of life and their interplay.  
+- **You are the meeting point of the earthly (self) and the divine (soul)** 
+- **How to:** 
+    - cultivate self-awareness 
+    - adopt new behaviours
+    - let go of limiting habits and patterns of thinking 
+    - befriend your subconscious and transcend conditioning
+    - tap into soul consciousness – true nature
+        - _hope_
+        - _action_
+        - _will_
+    - live with an open heart and have more
+        - _love_ 
+        - _gratitude_
+        - _compassion_
+        - _peace_
+    - discover the immensity and perfection of the moment 
+    - navigate towards the lived application of the essential driving forces of life and their interplay.  
 
 For further information about The Cosmology of the Self and its activities, please send an email to [ask@sfhfoundation.com](mailto:ask@sfhfoundation.com).
+
+![Touching light](../assets/images/p21.jpeg)

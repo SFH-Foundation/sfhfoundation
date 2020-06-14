@@ -31,11 +31,11 @@ Practice stillness in body, mind, and heart: beginning with proper preparation a
 </div>
 
 <div markdown="3" class="article-para">
-A basic mapping of the modern self, it's different levels, and the journeys it can undergo in this life as it progresses through various layers or rungs of consciousness.
+A basic mapping of the modern self and the journeys it can undergo in this life as it progresses through various layers or rungs of consciousness.
 </div>
 
 <div markdown="3" class="article-link">
-[Read More](./7-stations-4-journeys)
+[Read More](./4-journeys)
 </div>
 
 </div>

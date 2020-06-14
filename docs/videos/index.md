@@ -145,6 +145,20 @@ This short series of 9 videos will give you a good introduction to Shaykh Haeri 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![Sufi Cosmology Of Life - Part 3](./img/sfh_foundation.jpg)
+</div>
+
+**Sufi Cosmology Of Life - Part 3**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=J7aOAk3Bti8)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Human Consciousness From The Quran](./img/sfh_foundation.jpg)
 </div>
 
@@ -292,20 +306,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Haeri 
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=n6ajIEmwQqE)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Are You Ready to Face the Absolute?](./img/sfh_absolute.jpg)
-</div>
-
-**Are You Ready to Face the Absolute?**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=YrDrrh5Ol5Q&list=PLzFr0xRIkb3gZ8fH7Ru4Z0aCngiEgt4JJ&index=11)
 </div>
 
 </div>

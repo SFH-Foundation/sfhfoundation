@@ -120,6 +120,20 @@ This page presents a collection of uncommon dialogues conducted during Ramadan 2
 
 </div>
 
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Sufi Cosmology Of Life - Part 3](../img/sfh_foundation.jpg)
+</div>
+
+**Sufi Cosmology Of Life - Part 3**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=J7aOAk3Bti8)
+</div>
+
+</div>
+
 <div markdown="1" class="clear"></div>
 
 ![Aphorims Begin](../../assets/images/14.jpg)
