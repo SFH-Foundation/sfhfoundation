@@ -1,0 +1,88 @@
+{% extends "overrides/main.html" %}
+{% block body %}
+{{ super() }}
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="content">
+							<div class="inner">
+								<img class="logo-img" src="overrides/images/sfh_logo.png" alt="" />
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="#intro">About</a></li>
+								<li><a href="#contact">Contact</a></li>
+								<li><a href="./human-story">Learn</a></li>
+								<li><a href="https://sfhfoundation.substack.com">News</a></li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Intro -->
+							<article id="intro">
+								<h2 class="major">About</h2>
+								<span class="image main"><img src="overrides/images/sfh_transformed.jpg" alt="" /></span>
+								<p>This website is the result of several years of sharing a way of life in our uncertain world with people from diverse backgrounds and cultures. This way reduces fear, suffering, and darkness and enables us to face difficulties and calamity with equanimity and grace. It has its foundation in awareness of – and constant calibration with – the eternal light of the soul within us, which is the source of all life. Awareness of eternal cosmic light will dispel much human discontent and provide hope that is beyond the limitations of birth and death. Our way goes beyond temporary notions of good and bad to reveal and revel in glorious divine presence – the purpose of human life.</p>
+							</article>
+
+						<!-- Contact -->
+							<article id="contact">
+								<h2 class="major">Contact</h2>
+								<p>We are living in a world where the challenges we face as humanity are increasingly complex. Yet, our continuous drive towards higher consciousness and the desire to connect with others and live meaningful lives remains constant.
+									We hope to present here the understandable facets of reality and the dynamics of the forces in life, so that you can live a balanced existence, while experiencing higher consciousness. Every human being is a soul or spirit far greater than the limitations of the spacetime in which we must act.
+								</p>
+								<p>
+									If you have any thoughts on how we can improve, or would just like to ask a question or connect with us, please fill in the form below.
+								</p>
+								<form method="POST" action="https://formspree.io/xaydjbpk">
+									<div class="fields">
+										<div class="field half">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name" />
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" />
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" name="message" rows="4"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary" /></li>
+										<li><input type="reset" value="Reset" class="primary" /></li>
+									</ul>
+								</form>
+								<ul class="icons">
+									<li><a href="https://twitter.com/SFH_Foundation" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="https://www.facebook.com/sfhfoundation/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="https://www.instagram.com/sfh_foundation/ " class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="https://www.youtube.com/channel/UCHiMY_Scws1sB_bn84G-YXg" class="icon brands fa-youtube"><span class="label">GitHub</span></a></li>
+								</ul>
+							</article>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+	</body>
+{% endblock %}
+
+
+

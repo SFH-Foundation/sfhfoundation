@@ -1,9 +1,17 @@
 # Project information
 site_name: SFH Foundation
 site_description: Self, Soul, and Joyful Surrender
-site_url: https://sfh-foundation.github.io/sfhfoundation/site/
-site_dir: public/knowledge
-logo_nav: https://sfh-foundation.github.io/sfhfoundation/
+
+# Specific to set up
+site_url: https://sfh-foundation.github.io/sfhfoundation/
+site_dir: public
+
+# Repository
+repo_name: sfhfoundation
+repo_url: https://github.com/SFH-Foundation/sfhfoundation
+edit_uri: ""
+
+extra_css: [extra.css]
 
 # Configuration
 theme:
@@ -20,18 +28,16 @@ theme:
 
   # Default values, taken from mkdocs_theme.yml
   language: en
-  feature:
-    tabs: true
+  features:
+    - tabs
   palette:
     primary: orange
     accent: indigo
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/images/favicon.png
   logo: 'logo.png'
-
-extra_css: [extra.css]
+  favicon: assets/images/favicon.ico
 
 # Plugins
 plugins:
@@ -52,6 +58,7 @@ extra:
 # Extensions
 markdown_extensions:
   - markdown.extensions.admonition
+  - markdown.extensions.attr_list
   - markdown.extensions.codehilite:
       guess_lang: false
   - markdown.extensions.def_list
@@ -68,217 +75,219 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:pymdownx.emoji.twemoji
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  # - pymdownx.highlight:
+  #     linenums_style: pymdownx-inline
   - pymdownx.inlinehilite
   - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: andytudhope
+      repo: africa
   - pymdownx.mark
   - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
   - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.tilde
   - pymdownx.extra
+  
 
 # Page tree
 nav:
-- Landing Page: '../'
-- Newsletter: 'https://sfhfoundation.substack.com/'
-- Books:
-  - 'Overview': 'books/index.md'
-  - General on Islam: 
-      - 'Introduction': 'books/general-islam/index.md'
-      - 'Transformative Worship in Islam': 'books/general-islam/transformative-worship.md'
-      - 'The Thoughtful Guide to Islam': 'books/general-islam/thoughtful-guide-islam.md'
-      - 'Elements of Islam': 'books/general-islam/elements-islam.md'
-      - 'Prophetic Traditions in Islam': 'books/general-islam/prophetic-traditions.md'
-      - 'Living Islam - East & West': 'books/general-islam/living-islam.md'
-      - Health Sciences - Early Islam:
-        - 'Volume 1': 'books/general-islam/health-sciences/index.md'
-        - 'Volume 2': 'books/general-islam/health-sciences/volume-2.md'
-  - The Qur’an:
-      - 'Introduction': 'books/quran/index.md'
-      - 'Qur’an: 50 Vital Verses': 'books/quran/50-vital-verses.md'
-      - Keys to the Qur’an:
-        - 'Collected Volume': 'books/quran/keys/index.md'
-        - 'Surah Fatiha & Baqarah': 'books/quran/keys/keys-1.md'
-        - 'Surat Al-`Imran': 'books/quran/keys/keys-2.md'
-        - 'Surat Yasin': 'books/quran/keys/keys-3.md'
-        - 'Surah Ankabut, Al-Rahman, Al-Waqi`ah and Al-Mulk': 'books/quran/keys/keys-4.md'
-        - 'The Juz Amma': 'books/quran/keys/keys-5.md'
-      - 'The Story of Creation in the Qur’an': 'books/quran/story-creation-quran.md'
-      - 'The Essential Message Of the Qur’an': 'books/quran/essential-quran.md'
-      - 'Sacred Alchemy: A Collection of Qur’anic Verses': 'books/quran/sacred-alchemy.md'
-      - 'Qur’an’s Prescription for Life': 'books/quran/quran-prescriptions.md'
-  - Sufism and Self-Knowledge: 
-      - 'Introduction': 'books/sufism/index.md'
-      - 'Elements of Sufism': 'books/sufism/elements-sufism.md'
-      - 'Spectrum of Reality: Sufi Insights': 'books/sufism/spectrum-reality.md'
-      - 'The Sufi Way of Self-Enfoldment': 'books/sufism/sufi-self-enfoldment.md'
-      - 'Witnessing Perfection: A Sufi Guide': 'books/sufism/witnessing-perfection.md'
-      - 'Lantern of the Path': 'books/sufism/lantern-path.md'
-      - 'Beginning’s End': 'books/sufism/beginnings-end.md'
-      - 'Leaves From A Sufi Journal': 'books/sufism/leaves-sufi-journal.md'
-  - Practices and Teachings:
-      - 'Introduction': 'books/practices-teachings/index.md'
-      - 'Transformative Worship In Islam': 'books/practices-teachings/transformative-worship.md'
-      - 'Spectrum of Reality: Sufi Insights': 'books/practices-teachings/spectrum-reality.md'
-      - 'Journey of the Self': 'books/practices-teachings/journey-self.md'
-      - 'Happiness in Life and After Death': 'books/practices-teachings/happiness-life-death.md'
-      - 'Decree and Destiny': 'books/practices-teachings/decree-destiny.md'
-      - 'Calling Allah By His Most Beautiful Names': 'books/practices-teachings/calling-allah-beautiful-names.md'
-      - 'Lantern of the Path': 'books/practices-teachings/lantern-path.md'
-      - 'The Hikam': 'books/practices-teachings/hikam.md'
-      - '101 Helpful Illusions': 'books/practices-teachings/101-helpful-illusions.md'
-      - 'The Sayings & Wisdom of Imam `Ali': 'books/practices-teachings/sayings-imam-ali.md'
-      - 'Cosmology Of The Self': 'books/practices-teachings/cosmology-self.md'
-  - Talks, Interviews, and Courses:
-      - 'Introduction': 'books/talks-interviews-courses/index.md'
-      - 'Friday Discourses': 'books/talks-interviews-courses/friday-discourses.md'
-      - 'Refinement of Character: Friday Discourses': 'books/talks-interviews-courses/refinement-character.md'
-      - 'Journey of the Self': 'books/talks-interviews-courses/journey-self.md'
-      - 'The Spiritual Path': 'books/talks-interviews-courses/spiritual-path.md'
-      - 'ASK Course 1 - A Sufi Map of Self': 'books/talks-interviews-courses/ask-1-sufi-map-self.md'
-      - 'ASK Course 2 - A Prophetic Way of Life': 'books/talks-interviews-courses/ask-2-prophetic-way-life.md'
-      - 'The Connection Between the Absolute and the Relative': 'books/talks-interviews-courses/connection-absolute-relative.md'
-  - Poetry & Aphorisms:
-      - 'Introduction': 'books/poetry-aphorisms/index.md'
-      - 'The Garden of Meaning': 'books/poetry-aphorisms/garden-meaning.md'
-      - 'Pointers to Reality': 'books/poetry-aphorisms/pointers-to-reality.md'
-      - 'Ripples of Light': 'books/poetry-aphorisms/ripples-light.md'
-      - 'Pointers to Presence': 'books/poetry-aphorisms/pointers-presence.md'
-      - 'Look Again': 'books/poetry-aphorisms/look-again.md'
-      - 'The Hikam': 'books/poetry-aphorisms/hikam.md'
-      - '101 Helpful Illusions': 'books/poetry-aphorisms/101-helpful-illusions.md'
-      - 'Bursts of Silence': 'books/poetry-aphorisms/bursts-of-silence.md'
-      - 'Sound Waves': 'books/poetry-aphorisms/sound-waves.md'
-      - 'Beyond Windows': 'books/poetry-aphorisms/beyond-windows.md'
-  - Biography:
-      - 'Introduction': 'books/biography/index.md'
-      - 'Son of Karbala': 'books/biography/son-karbala.md'
-      - 'Sufi Encounters': 'books/biography/sufi-encounters.md'
-- Videos:
-  - 'Overview': 'videos/index.md'
-  - Emptying: 'videos/beginning.md'
-  - Purifying: 'videos/purifying.md'
-  - Sweetening: 'videos/sweetening.md'
-  - Qur’an:
-    - 'Human Duty and Destiny': 'videos/quran/duty-destiny.md'
-    - 'Qur’an and Happiness': 'videos/quran/quran-happiness.md'
-    - 'From Darkness to Light': 'videos/quran/darkness-to-light.md'
-    - 'Sacred Expressions': 'videos/quran/sacred-expressions.md'
-    - 'Prescriptions for Living': 'videos/quran/prescriptions-for-living.md'
-    - 'Surat al-Hadid': 'videos/quran/al-Hadid.md'
-    - 'Surat al-Balad': 'videos/quran/al-Balad.md'
+  - Home:
+    - 'Human Story': 'human-story.md'
+    - Newsletter: 'https://sfhfoundation.substack.com/'
+  - Books:
+    - 'Overview': 'books/index.md'
+    - General on Islam: 
+        - 'Introduction': 'books/general-islam/index.md'
+        - 'Transformative Worship in Islam': 'books/general-islam/transformative-worship.md'
+        - 'The Thoughtful Guide to Islam': 'books/general-islam/thoughtful-guide-islam.md'
+        - 'Elements of Islam': 'books/general-islam/elements-islam.md'
+        - 'Prophetic Traditions in Islam': 'books/general-islam/prophetic-traditions.md'
+        - 'Living Islam - East & West': 'books/general-islam/living-islam.md'
+        - Health Sciences - Early Islam:
+          - 'Volume 1': 'books/general-islam/health-sciences/index.md'
+          - 'Volume 2': 'books/general-islam/health-sciences/volume-2.md'
+    - The Qur’an:
+        - 'Introduction': 'books/quran/index.md'
+        - 'Qur’an: 50 Vital Verses': 'books/quran/50-vital-verses.md'
+        - Keys to the Qur’an:
+          - 'Collected Volume': 'books/quran/keys/index.md'
+          - 'Surah Fatiha & Baqarah': 'books/quran/keys/keys-1.md'
+          - 'Surat Al-`Imran': 'books/quran/keys/keys-2.md'
+          - 'Surat Yasin': 'books/quran/keys/keys-3.md'
+          - 'Surah Ankabut, Al-Rahman, Al-Waqi`ah and Al-Mulk': 'books/quran/keys/keys-4.md'
+          - 'The Juz Amma': 'books/quran/keys/keys-5.md'
+        - 'The Story of Creation in the Qur’an': 'books/quran/story-creation-quran.md'
+        - 'The Essential Message Of the Qur’an': 'books/quran/essential-quran.md'
+        - 'Sacred Alchemy: A Collection of Qur’anic Verses': 'books/quran/sacred-alchemy.md'
+        - 'Qur’an’s Prescription for Life': 'books/quran/quran-prescriptions.md'
+    - Sufism and Self-Knowledge: 
+        - 'Introduction': 'books/sufism/index.md'
+        - 'Elements of Sufism': 'books/sufism/elements-sufism.md'
+        - 'Spectrum of Reality: Sufi Insights': 'books/sufism/spectrum-reality.md'
+        - 'The Sufi Way of Self-Enfoldment': 'books/sufism/sufi-self-enfoldment.md'
+        - 'Witnessing Perfection: A Sufi Guide': 'books/sufism/witnessing-perfection.md'
+        - 'Lantern of the Path': 'books/sufism/lantern-path.md'
+        - 'Beginning’s End': 'books/sufism/beginnings-end.md'
+        - 'Leaves From A Sufi Journal': 'books/sufism/leaves-sufi-journal.md'
+    - Practices and Teachings:
+        - 'Introduction': 'books/practices-teachings/index.md'
+        - 'Transformative Worship In Islam': 'books/practices-teachings/transformative-worship.md'
+        - 'Spectrum of Reality: Sufi Insights': 'books/practices-teachings/spectrum-reality.md'
+        - 'Journey of the Self': 'books/practices-teachings/journey-self.md'
+        - 'Happiness in Life and After Death': 'books/practices-teachings/happiness-life-death.md'
+        - 'Decree and Destiny': 'books/practices-teachings/decree-destiny.md'
+        - 'Calling Allah By His Most Beautiful Names': 'books/practices-teachings/calling-allah-beautiful-names.md'
+        - 'Lantern of the Path': 'books/practices-teachings/lantern-path.md'
+        - 'The Hikam': 'books/practices-teachings/hikam.md'
+        - '101 Helpful Illusions': 'books/practices-teachings/101-helpful-illusions.md'
+        - 'The Sayings & Wisdom of Imam `Ali': 'books/practices-teachings/sayings-imam-ali.md'
+        - 'Cosmology Of The Self': 'books/practices-teachings/cosmology-self.md'
+    - Talks, Interviews, and Courses:
+        - 'Introduction': 'books/talks-interviews-courses/index.md'
+        - 'Friday Discourses': 'books/talks-interviews-courses/friday-discourses.md'
+        - 'Refinement of Character: Friday Discourses': 'books/talks-interviews-courses/refinement-character.md'
+        - 'Journey of the Self': 'books/talks-interviews-courses/journey-self.md'
+        - 'The Spiritual Path': 'books/talks-interviews-courses/spiritual-path.md'
+        - 'ASK Course 1 - A Sufi Map of Self': 'books/talks-interviews-courses/ask-1-sufi-map-self.md'
+        - 'ASK Course 2 - A Prophetic Way of Life': 'books/talks-interviews-courses/ask-2-prophetic-way-life.md'
+        - 'The Connection Between the Absolute and the Relative': 'books/talks-interviews-courses/connection-absolute-relative.md'
+    - Poetry & Aphorisms:
+        - 'Introduction': 'books/poetry-aphorisms/index.md'
+        - 'The Garden of Meaning': 'books/poetry-aphorisms/garden-meaning.md'
+        - 'Pointers to Reality': 'books/poetry-aphorisms/pointers-to-reality.md'
+        - 'Ripples of Light': 'books/poetry-aphorisms/ripples-light.md'
+        - 'Pointers to Presence': 'books/poetry-aphorisms/pointers-presence.md'
+        - 'Look Again': 'books/poetry-aphorisms/look-again.md'
+        - 'The Hikam': 'books/poetry-aphorisms/hikam.md'
+        - '101 Helpful Illusions': 'books/poetry-aphorisms/101-helpful-illusions.md'
+        - 'Bursts of Silence': 'books/poetry-aphorisms/bursts-of-silence.md'
+        - 'Sound Waves': 'books/poetry-aphorisms/sound-waves.md'
+        - 'Beyond Windows': 'books/poetry-aphorisms/beyond-windows.md'
+    - Biography:
+        - 'Introduction': 'books/biography/index.md'
+        - 'Son of Karbala': 'books/biography/son-karbala.md'
+        - 'Sufi Encounters': 'books/biography/sufi-encounters.md'
+  - Videos:
+    - 'Overview': 'videos/index.md'
+    - Emptying: 'videos/beginning.md'
+    - Purifying: 'videos/purifying.md'
+    - Sweetening: 'videos/sweetening.md'
+    - Qur’an:
+      - 'Human Duty and Destiny': 'videos/quran/duty-destiny.md'
+      - 'Qur’an and Happiness': 'videos/quran/quran-happiness.md'
+      - 'From Darkness to Light': 'videos/quran/darkness-to-light.md'
+      - 'Sacred Expressions': 'videos/quran/sacred-expressions.md'
+      - 'Prescriptions for Living': 'videos/quran/prescriptions-for-living.md'
+      - 'Surat al-Hadid': 'videos/quran/al-Hadid.md'
+      - 'Surat al-Balad': 'videos/quran/al-Balad.md'
+    - ASK:
+      - '2012': 'videos/ask/2012.md'
+      - '2013': 'videos/ask/2013.md'
+    - Conferences:
+      - '2018 - What Are We Seeking?': 'videos/conferences/2018.md'
+      - '2019 - The Human Quest': 'videos/conferences/2019.md'
+      - '2020 - Reflections and Actions': 'videos/conferences/2020.md'
+    - Conversations:
+        - 'Highwood': 'videos/conversations/highwood.md'
+        - 'Uncommon Dialogues': 'videos/conversations/uncommon-dialogues.md'
+        - 'Living Qur’an': 'videos/conversations/living-quran.md'
+        - 'Collected Interactions': 'videos/conversations/collected.md'
+        - 'Ultimate Contentment': 'videos/conversations/ultimate-contentment.md'
+  - Audios:
+    - 'Most Recent': 'audios/index.md'
+    - 'Guide to Listening': 'audios/guide.md'
+    - 'Single Talks': 'audios/single-talks.md'
+    - Series:
+      - 'Enlightenment': 'audios/series/enlightenment.md'
+      - 'Refinement of Character': 'audios/series/refinement-character.md'
+      - 'Descriptive, Prescriptive Qur’an': 'audios/series/descriptive-prescriptive-quran.md'
+      - 'Enhancing Human Experience': 'audios/series/practice-enhance-experience.md'
+      - 'Islam and the Environment': 'audios/series/islam-environment.md'
+      - 'Abstention, Fasting, Conduct': 'audios/series/abstention-fasting.md'
+      - 'Qur’an Direct': 'audios/series/quran-direct.md'    
+  - Articles:
+    - 'Overview': 'articles/index.md'
+    - 'Dhikr, Fikr, Himmah': 'articles/dhikr-fikr-himmah.md'
+    - 'Less is More': 'articles/less-is-more.md'
+    - 'Pointers to Haqq': 'articles/pointers-to-haqq.md'
+    - 'Eid - The Return': 'articles/eid.md'
+    - 'Natural Illusions': 'articles/natural-illusions.md'
+    - 'Decree, Destiny and Enlightenment': 'articles/decree-destiny-enlightenment.md'
+    - 'The Thread of Truth': 'articles/thread-of-truth.md'
+    - 'Sufism and the Sufi': 'articles/sufism-sufi.md'
+    - 'The Shock of Awakening': 'articles/shock-awakening.md'
+    - 'To Be Alive': 'articles/to-be-alive.md'
+    - 'The Cycles of Life and Reality': 'articles/cycles-life-reality.md'
+    - 'Consciousness': 'articles/consciousness.md'
+    - 'The Parable of the Spider’s House': 'articles/parable-spider.md' 
+    - 'The Journey of Transformation': 'articles/journey-transformation.md'
+  - Prescriptions:
+    - 'Overview': 'prescriptions/index.md'
+    - Practices: 
+      - 'Meditation': 'prescriptions/practice/meditation.md'
+      - 'Supplication': 'prescriptions/practice/supplication.md'
+      - 'Stillness': 'prescriptions/practice/stillness.md'
+      - 'Transformative Worship': 'prescriptions/practice/transformative-worship.md'
+      - 'Witnessing Perfection': 'prescriptions/practice/witnessing-perfection.md'
+    - 'Maps & Models of Self': 'prescriptions/4-journeys.md'
+    - 'Virtuous Being, Higher Conduct': 'prescriptions/virtue-higher-conduct.md'
+    - 'Self Knowledge and Presence': 'prescriptions/self-knowledge-presence.md'
   - ASK:
-    - '2012': 'videos/ask/2012.md'
-    - '2013': 'videos/ask/2013.md'
-  - Conferences:
-    - '2018 - What Are We Seeking?': 'videos/conferences/2018.md'
-    - '2019 - The Human Quest': 'videos/conferences/2019.md'
-    - '2020 - Reflections and Actions': 'videos/conferences/2020.md'
-  - Conversations:
-      - 'Highwood': 'videos/conversations/highwood.md'
-      - 'Uncommon Dialogues': 'videos/conversations/uncommon-dialogues.md'
-      - 'Living Qur’an': 'videos/conversations/living-quran.md'
-      - 'Collected Interactions': 'videos/conversations/collected.md'
-      - 'Ultimate Contentment': 'videos/conversations/ultimate-contentment.md'
-- Audios:
-  - 'Most Recent': 'audios/index.md'
-  - 'Guide to Listening': 'audios/guide.md'
-  - 'Single Talks': 'audios/single-talks.md'
-  - Series:
-    - 'Enlightenment': 'audios/series/enlightenment.md'
-    - 'Refinement of Character': 'audios/series/refinement-character.md'
-    - 'Descriptive, Prescriptive Qur’an': 'audios/series/descriptive-prescriptive-quran.md'
-    - 'Enhancing Human Experience': 'audios/series/practice-enhance-experience.md'
-    - 'Islam and the Environment': 'audios/series/islam-environment.md'
-    - 'Abstention, Fasting, Conduct': 'audios/series/abstention-fasting.md'
-    - 'Qur’an Direct': 'audios/series/quran-direct.md'    
-- Articles:
-  - 'Overview': 'articles/index.md'
-  - 'Dhikr, Fikr, Himmah': 'articles/dhikr-fikr-himmah.md'
-  - 'Less is More': 'articles/less-is-more.md'
-  - 'Pointers to Haqq': 'articles/pointers-to-haqq.md'
-  - 'Eid - The Return': 'articles/eid.md'
-  - 'Natural Illusions': 'articles/natural-illusions.md'
-  - 'Decree, Destiny and Enlightenment': 'articles/decree-destiny-enlightenment.md'
-  - 'The Thread of Truth': 'articles/thread-of-truth.md'
-  - 'Sufism and the Sufi': 'articles/sufism-sufi.md'
-  - 'The Shock of Awakening': 'articles/shock-awakening.md'
-  - 'To Be Alive': 'articles/to-be-alive.md'
-  - 'The Cycles of Life and Reality': 'articles/cycles-life-reality.md'
-  - 'Consciousness': 'articles/consciousness.md'
-  - 'The Parable of the Spider’s House': 'articles/parable-spider.md' 
-  - 'The Journey of Transformation': 'articles/journey-transformation.md'
-- Prescriptions:
-  - 'Overview': 'prescriptions/index.md'
-  - Practices: 
-    - 'Meditation': 'prescriptions/practice/meditation.md'
-    - 'Supplication': 'prescriptions/practice/supplication.md'
-    - 'Stillness': 'prescriptions/practice/stillness.md'
-    - 'Transformative Worship': 'prescriptions/practice/transformative-worship.md'
-    - 'Witnessing Perfection': 'prescriptions/practice/witnessing-perfection.md'
-  - 'Maps & Models of Self': 'prescriptions/7-stations-4-journeys.md'
-  - 'Virtuous Being, Higher Conduct': 'prescriptions/virtue-higher-conduct.md'
-  - 'Self Knowledge and Presence': 'prescriptions/self-knowledge-presence.md'
-  - Fasting: 
-    - 'Fasting in History': 'prescriptions/fasting/history.md'
-    - 'The Islamic Fast': 'prescriptions/fasting/islamic.md'
-    - 'Meaning and Benefits': 'prescriptions/fasting/meaning-benefits.md'
-    - 'Outward Abstention': 'prescriptions/fasting/outward-abstention.md'
-    - 'Inward Abstention': 'prescriptions/fasting/inward-abstention.md'
-    - 'The Awakened Seeker': 'prescriptions/fasting/awakened-seeker.md'
-    - 'Feast of Fast-Breaking': 'prescriptions/fasting/feast-fast-breaking.md'
-  - 'Pilgrimage': 'prescriptions/pilgrimage.md'
-- ASK:
-  - 'Academy of Self Knowledge': 'ask/index.md'
-- Poetry:
-  - 'Overview': 'poetry/index.md'
-  - 'What Is It?': 'poetry/what-is-it.md'
-  - 'The First Journey': 'poetry/first-journey.md'
-  - 'Morning in the Plantation': 'poetry/morning-plantation.md'
-  - 'Step With Caution': 'poetry/step-caution.md'
-  - 'Binary Experience': 'poetry/binary-experience.md'
-  - 'Human Modesty': 'poetry/human-modesty.md'
-  - 'Perpetual': 'poetry/perpetual.md'
-  - 'Big Questions': 'poetry/big-questions.md'
-  - 'The Candle': 'poetry/the-candle.md'
-  - 'Gravity': 'poetry/gravity.md'
-  - 'Troubles': 'poetry/troubles.md'
-  - 'The Passage of Time': 'poetry/passage-time.md'
-  - 'Sleepwalking': 'poetry/sleepwalking.md'
-  - 'One Face': 'poetry/one-face.md'
-  - 'Enlightened Teachers': 'poetry/enlightened-teachers.md'
-  - 'Fate': 'poetry/fate.md'
-  - 'To Remember You Must Forget': 'poetry/remember-forget.md'
-  - 'This City Has No Roads': 'poetry/city-no-roads.md'
-- Aphorisms:
-  - 'Aphorisms': 'aphorisms/index.md'
-  - A Spectrum of Journeys: 
-    - '1 - Nature, Desire, Harmony': 'aphorisms/spectrum/index.md'
-    - '2 - Duality': 'aphorisms/spectrum/duality.md'
-    - '3 - Guidance & Excellence': 'aphorisms/spectrum/guidance.md'
-    - '4 - Victory & Gatheredness': 'aphorisms/spectrum/victory-gatheredness.md'
-    - '5 - Wealth, Beauty, & Treasure': 'aphorisms/spectrum/wealth-beauty-treasure.md'
-    - '6 - Trust & Presence': 'aphorisms/spectrum/trust-presence.md'
-    - '7 - Heart': 'aphorisms/spectrum/heart.md'
-    - '8 - Soul': 'aphorisms/spectrum/soul.md'
-    - '9 - Truth & Light': 'aphorisms/spectrum/truth-light.md'
-    - '10 - Differentiated Sameness': 'aphorisms/spectrum/differentiated-sameness.md'
-    - '11 - Balance': 'aphorisms/spectrum/balance.md'
-    - '12 - Service': 'aphorisms/spectrum/service.md'
-    - '13 - Awakening': 'aphorisms/spectrum/awakening.md'
-    - '14 - Purpose': 'aphorisms/spectrum/purpose.md'
-    - '15 - Happiness & Content': 'aphorisms/spectrum/happiness-content.md'
-- Glossary:
-  - 'Arabic Terms': 'glossary/index.md'
-  - 'Key Words': 'glossary/key-words.md'
-  - 'Journey Words': 'glossary/journey-words.md' 
-  - Sideways Dictionary:
-    - 'What is the sideways dictionary?': 'glossary/sideways-dictionary/what-is-the-sideways-dictionary.md'
-- Gatherings & News:
-  - 'Join Us': 'gatherings-news/index.md'
-  - Latest:
-    - 'COVID-19': 'gatherings-news/latest/index.md'
-    - 'Ramadan 2020': 'gatherings-news/latest/ramadan-2020.md'
+    - 'Academy of Self Knowledge': 'ask/index.md'
+  - Poetry:
+    - 'Overview': 'poetry/index.md'
+    - 'What Is It?': 'poetry/what-is-it.md'
+    - 'The First Journey': 'poetry/first-journey.md'
+    - 'Morning in the Plantation': 'poetry/morning-plantation.md'
+    - 'Step With Caution': 'poetry/step-caution.md'
+    - 'Binary Experience': 'poetry/binary-experience.md'
+    - 'Human Modesty': 'poetry/human-modesty.md'
+    - 'Perpetual': 'poetry/perpetual.md'
+    - 'Big Questions': 'poetry/big-questions.md'
+    - 'The Candle': 'poetry/the-candle.md'
+    - 'Gravity': 'poetry/gravity.md'
+    - 'Troubles': 'poetry/troubles.md'
+    - 'The Passage of Time': 'poetry/passage-time.md'
+    - 'Sleepwalking': 'poetry/sleepwalking.md'
+    - 'One Face': 'poetry/one-face.md'
+    - 'Enlightened Teachers': 'poetry/enlightened-teachers.md'
+    - 'Fate': 'poetry/fate.md'
+    - 'To Remember You Must Forget': 'poetry/remember-forget.md'
+    - 'This City Has No Roads': 'poetry/city-no-roads.md'
+  - Aphorisms:
+    - 'Aphorisms': 'aphorisms/index.md'
+    - A Spectrum of Journeys: 
+      - '1 - Nature, Desire, Harmony': 'aphorisms/spectrum/index.md'
+      - '2 - Duality': 'aphorisms/spectrum/duality.md'
+      - '3 - Guidance & Excellence': 'aphorisms/spectrum/guidance.md'
+      - '4 - Victory & Gatheredness': 'aphorisms/spectrum/victory-gatheredness.md'
+      - '5 - Wealth, Beauty, & Treasure': 'aphorisms/spectrum/wealth-beauty-treasure.md'
+      - '6 - Trust & Presence': 'aphorisms/spectrum/trust-presence.md'
+      - '7 - Heart': 'aphorisms/spectrum/heart.md'
+      - '8 - Soul': 'aphorisms/spectrum/soul.md'
+      - '9 - Truth & Light': 'aphorisms/spectrum/truth-light.md'
+      - '10 - Differentiated Sameness': 'aphorisms/spectrum/differentiated-sameness.md'
+      - '11 - Balance': 'aphorisms/spectrum/balance.md'
+      - '12 - Service': 'aphorisms/spectrum/service.md'
+      - '13 - Awakening': 'aphorisms/spectrum/awakening.md'
+      - '14 - Purpose': 'aphorisms/spectrum/purpose.md'
+      - '15 - Happiness & Content': 'aphorisms/spectrum/happiness-content.md'
+  - Glossary:
+    - 'Arabic Terms': 'glossary/index.md'
+    - 'Key Words': 'glossary/key-words.md'
+    - 'Journey Words': 'glossary/journey-words.md' 
+    - Sideways Dictionary:
+      - 'What is the sideways dictionary?': 'glossary/sideways-dictionary/what-is-the-sideways-dictionary.md'
+  - Gatherings & News:
+    - 'Join Us': 'gatherings-news/index.md'
+    - Latest:
+      - 'COVID-19': 'gatherings-news/latest/index.md'
+      - 'Ramadan 2020': 'gatherings-news/latest/ramadan-2020.md'
 
 # Google Analytics
 google_analytics:

@@ -1,0 +1,48 @@
+{% import "partials/language.html" as lang with context %}
+<!doctype html>
+<html lang="{{ lang.t('language') }}" class="no-js">
+  <head>
+    {% block site_meta %}
+      <title>SFH Foundation</title>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+      <meta property="og:site_name" content="SFH Foundation" />
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content="SFH Foundation" />
+      <meta property="og:image" content="https://sfh-foundation.github.io/sfhfoundation/overrides/assets/images/sfh_prayer.jpg" />
+      <meta property="og:description" content="A Foundation for Our Future" />
+      <meta property="og:url" content="https://sfh-foundation.github.io/sfhfoundation/" />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:site" content="@SFH_Foundation" />
+      <meta name="twitter:creator" content="@cryptowanderer" />
+      <meta name="twitter:description" content="A Foundation for Our Future" />
+      <meta name="twitter:image" content="https://sfh-foundation.github.io/sfhfoundation/overrides/assets/images/sfh_prayer.jpg" />
+      <meta name="twitter:image:alt" content="Shaykh Fadhlalla haeri" />
+    {% endblock %}
+
+    {% block styles %}
+      <link rel="stylesheet" href="overrides/assets/css/main.css" />
+      <noscript><link rel="stylesheet" href="overrides/assets/css/noscript.css" /></noscript>
+    {% endblock %}
+
+    {% block analytics %}
+      {% if config.google_analytics %}
+        {% include "partials/integrations/analytics.html" %}
+      {% endif %}
+    {% endblock %}
+  </head>
+
+    {% block body %}
+
+    {% endblock %}
+
+    {% block scripts %}
+      <script src="overrides/assets/js/jquery.min.js"></script>
+      <script src="overrides/assets/js/browser.min.js"></script>
+      <script src="overrides/assets/js/breakpoints.min.js"></script>
+      <script src="overrides/assets/js/util.js"></script>
+      <script src="overrides/assets/js/main.js"></script>
+    {% endblock %}
+
+</html>
+

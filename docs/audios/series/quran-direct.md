@@ -166,13 +166,35 @@ In this discourse Shaykh Fadhlalla elaborates on the fundamentals and basis of t
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Qur'an Direct: Surah Inshirah](../../videos/img/sfh_diff_same.jpg)
+![Qur'an Direct: Transformative Worship](../../videos/img/sfh_diff_same.jpg)
 </div>
 
 **Qur'an Direct: Transformative Worship**
 
 <div markdown="3" class="video-link">
 [Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Quran-Direct-Episode-6Transformative-Worship-edcipa)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
+
+## Part 7
+
+In the setting of a Friday Jum’ah lecture, Shaykh Fadhlalla presents the two of fundamental elements of the Muhammdi path: _Tawhid_ (Oneness) and Transformation.
+
+The discourse begins by emphasizing the responsibility that accompanies inheriting the vast well of illumined knowledge borne from the prophetic teaching, Qur’an and continuum of Muhammadi masters. Further moving into essential descriptions of the Adamic nature and multidimensionality of human reality and the nature of the Qur’an as the clear mirror and guide book reflecting cosmic patterns and realities throughout existence and within man. The interplay between the human being and the Qur’an is discussed. Focus is then drawn to the micro level and the basis of transformation built into the Qur’anic and prophetic way of being relevant to the arc of the human journey. The key issues relevant to living the path of transformation are then elaborated regarding several Qur’anic verses. These themes include: servanthood; appropriate awareness; courtesy toward different aspects of consciousness; the purpose of the message and the nature of warning; sincerity and accountability; and the means and meaning of witnessing the ever-present perfection of truth. A host of prophetic traditions and guidelines to help refine your conduct are related in tandem with the Qur’anic commentary. This final talk in the series culminates in a fluid yet expansive presentation on the way of Muhammad.
+
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
+
+<div markdown="2" class="video-image">
+![Qur'an Direct: Tawhid & Transformation](../../videos/img/sfh_constant_change.jpg)
+</div>
+
+**Qur'an Direct: Tawhid & Transformation**
+
+<div markdown="3" class="video-link">
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Quran-Direct-Episode-7Tawhid--Transformation-ef0b5v)
 </div>
 
 </div>

@@ -1,21 +1,23 @@
 # Welcome to the SFH Foundation
 
-The goal of this archive is to provide a single source of information about an optimum way of being. We use the accessible language and symbolism developed by Shaykh Fadlalla Haeri in order to present the timeless prophetic teachings and relate them to the modern world. We attempt to accomplish this goal through three main areas:
+The goal of this archive is to provide a rich source of information about what we consider to be the optimum way of being. We use accessible language and the symbolism developed by Shaykh Fadlalla Haeri in order to present timeless prophetic teachings and relate them to the modern world.
 
-1. [Website](https://sfhfoundation.com) - Open source, easy to understand documentation
-2. [Audio](https://sfhfoundation.com) - Into the Ether podcast
-3. [Newsletter](https://sfhfoundation.substack.com) - EthHub on Medium
+Our intention is to open source knowledge that has previously not been available to the wider public. You can follow the website link above to access it, or run it yourself.
 
-This site is the core of SFH Foundation. Our knowledge is open source and hosted on GitHub which means that anyone has the ability to contribute. The goal is to make sure the information is available, clear, concise and up to date.
+## Contributing
 
-## Contribution Guidelines
+Follow these simple steps to get the website running locally so that you can start contributing to the way our teachings are presented.
 
-In the interest of keeping the content on SFH Foundation looking uniform, we have set up a template that you can use when adding your own pages to the github repo.
+### Dependencies
 
-There are also some basic guidelines that need to be followed when contributing to SFH Foundation:
+1. Git (v2.17.1 or above is recommended)
+2. Python (v2.7.17 is recommended) _Note: the maintainers use `python = python v2` and `python3 == python v3` for their local environments_
+3. [Mkdocs](https://www.mkdocs.org/) v1.0.4
 
-* All pages should have links to supporting sources/documentation and additional resources
-* No marketing or sponsored posts
-* No inappropriate content
+### Getting Started
 
-**DISCLAIMER: SFH Foundation is a completely independent and open-source initiative.**
+1. `git clone https://github.com/SFH-Foundation/sfhfoundation/`
+2. `cd sfhfoundation`
+3.  `mkdocs serve`
+
+

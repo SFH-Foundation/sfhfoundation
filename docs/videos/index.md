@@ -145,6 +145,20 @@ This short series of 9 videos will give you a good introduction to Shaykh Haeri 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![Creation - The Evolution Of Meaning And Form](./img/sfh_foundation.jpg)
+</div>
+
+**Creation - The Evolution Of Meaning And Form**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=Gb7isTAsFOM)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Sufi Cosmology Of Life - Part 3](./img/sfh_foundation.jpg)
 </div>
 
@@ -292,20 +306,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Haeri 
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=byVUsVucmAA)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Origin of Good and Bad](./img/sfh_war_religion.jpg)
-</div>
-
-**Why Is There War Between Religions?**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=n6ajIEmwQqE)
 </div>
 
 </div>

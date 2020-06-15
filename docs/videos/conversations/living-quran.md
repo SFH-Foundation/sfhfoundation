@@ -22,6 +22,20 @@ This page collects a series of talks on the Qur’an broadcast fortnightly in th
 
 </div>
 
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Creation - The Evolution Of Meaning And Form](../img/sfh_foundation.jpg)
+</div>
+
+**Creation - The Evolution Of Meaning And Form**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=Gb7isTAsFOM)
+</div>
+
+</div>
+
 <div markdown="1" class="clear"></div>
 
 ![Aphorims Begin](../../assets/images/22.jpg)
