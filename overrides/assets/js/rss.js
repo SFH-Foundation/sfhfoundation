@@ -15,10 +15,9 @@ fetch(url).then((res) => {
                 let temp = document.importNode(document.querySelector('template').content, true);
                 let i = item.querySelector.bind(item)
                 let t = temp.querySelector.bind(temp)
-                t('h2').textContent = !!i('title') ? i('title').textContent.slice(0, 63) : ' -'
+                t('h4').textContent = !!i('title') ? i('title').textContent.slice(0, 63) : ' -'
                 t('a').textContent = t('a').href = !!i('link') ? i('link').textContent : '#'
                 t('a').innerHTML = 'Listen Now'
-                t('p').innerHTML = !!i('description') ? i('description').textContent.slice(0, 250) + '...' : '-'
                 frag.appendChild(temp)
             })
         } catch (e) {

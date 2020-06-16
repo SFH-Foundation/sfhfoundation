@@ -107,12 +107,8 @@ height: 60px;
 }
 .card.audio {
 float: left;
-width: 44%;
-height: 360px;
-}
-.card.audio h2 {
-font-size: 20px;
-font-weight: bold;
+width: 22%;
+height: 205px;
 }
 .card.audio p {
 text-align: left;
@@ -397,14 +393,18 @@ iframe.excel-frame { zoom: 1;  }
 /* Media Queries for cards */
 
 @media (max-width: 761px) {
-.card.book, .card.audio {
+.card.book {
   width: 90%;
 }
 .card.video {
   width: 44%;
 }
 .card.audio {
-  height: none;
+  height: 150px;
+  width: 43%;
+}
+.card.audio h4 {
+  font-size: 12px !important;
 }
 .center-card {
   margin-left: 28%;
