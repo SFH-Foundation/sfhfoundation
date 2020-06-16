@@ -181,7 +181,7 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 </div>
 
 <div markdown="3" class="book-link">
-[Read It](./quran/keys-quran)
+[Read It](./quran/keys/)
 </div>
 
 </div>

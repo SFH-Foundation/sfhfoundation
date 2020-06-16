@@ -4,7 +4,7 @@ description: A collection of recordings showing Shaykh Fadhlalla and Shaykh Musl
 
 # Surat al-Hadid Tafsir
 
-On this page, you will find a collection of shorter clips cut from a conversation between Shaykh Fadhlalla and Shaykh Muslim about _Surat al-Hadid_. In order to introduce this work properly, please reflect for a moment on these excerpts from two of Shaykh Fadhlalla's books specifically discussing the Qur'an, _"[Beams of Illumination from the Divine Revelation](../../../books/quran/keys-quran)"_ and _“[The Heart of the Qur’an and the Perfect Mizan – Surat Yā Sīn](../../../books/quran/heart-quran-perfect-mizan)”_:
+On this page, you will find a collection of shorter clips cut from a conversation between Shaykh Fadhlalla and Shaykh Muslim about _Surat al-Hadid_. In order to introduce this work properly, please reflect for a moment on these excerpts from two of Shaykh Fadhlalla's books specifically discussing the Qur'an, _"[Beams of Illumination from the Divine Revelation](../../../books/quran/keys/keys-3/)"_ and _“[The Heart of the Qur’an and the Perfect Mizan – Surat Yā Sīn](../../../books/quran/heart-quran-perfect-mizan)”_:
 
 ## The Eye of Ḥaqīqah and the Eye of Sharī’ah
 

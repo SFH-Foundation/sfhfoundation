@@ -540,6 +540,6 @@ Everything that exists has an outer and an inner facet, which are in balance. Fo
 
 <div markdown="1" class="clear"></div>
 
-If this topic interests you, please consider reading [the full book](../../books/quran/keys-quran) in which many of these beams are described in detail by Shaykh Haeri.
+If this topic interests you, please consider reading [the full book](../../books/quran/keys/) in which many of these beams are described in detail by Shaykh Haeri.
 
 You have to be present all the time, visibly, physically, mentally. If you are not, rectify it. You must catch yourself instantly. Do not delay. If you delay you will become fossilized and it will be more difficult. It is all about being available to any situation as a full-grown human being, with faith and good opinion and optimism, with inner realization that you have come from that total ocean of infinity and to that ocean of infinity you are returning. In between is a tiny little flicker!
