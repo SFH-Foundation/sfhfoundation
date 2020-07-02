@@ -145,6 +145,34 @@ This short series of 9 videos will give you a good introduction to Shaykh Haeri 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![The Process Of Spiritual Transformation](./img/sfh_foundation.jpg)
+</div>
+
+**The Process Of Spiritual Transformation**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=OjoszYssKSY)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Faith and Humanity](./img/sfh_foundation.jpg)
+</div>
+
+**Faith and Humanity**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=MHDKJSeVKvA)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Creation - The Evolution Of Meaning And Form](./img/sfh_foundation.jpg)
 </div>
 
@@ -278,34 +306,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Haeri 
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=Gzj7mO8ejrg)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Jumuah Talk](./img/sfh_foundation.jpg)
-</div>
-
-**The Most Powerful Drives in Humanity - Jumuah Talk**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=iB5hnJLcUAw)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Is God Male or Female?](./img/sfh_god_gender.jpg)
-</div>
-
-**Is God Male or Female?**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=byVUsVucmAA)
 </div>
 
 </div>

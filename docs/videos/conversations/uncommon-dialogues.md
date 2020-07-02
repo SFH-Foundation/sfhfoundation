@@ -134,6 +134,34 @@ This page presents a collection of uncommon dialogues conducted during Ramadan 2
 
 </div>
 
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Faith and Humanity](../img/sfh_foundation.jpg)
+</div>
+
+**Faith and Humanity**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=MHDKJSeVKvA)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Process Of Spiritual Transformation](../img/sfh_foundation.jpg)
+</div>
+
+**The Process Of Spiritual Transformation**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=OjoszYssKSY)
+</div>
+
+</div>
+
 <div markdown="1" class="clear"></div>
 
 ![Aphorims Begin](../../assets/images/14.jpg)
