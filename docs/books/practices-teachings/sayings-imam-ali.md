@@ -20,18 +20,14 @@ The sayings and wisdom of Imam ’Ali transcend superficial differences, to reve
 
 ## Purchase
 
-### Paperback and Kindles
+### Amazon
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/1928329071/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329071&linkId=979c2515837c35ab2b79bade8bf53634)
+[Buy Now](https://www.amazon.com/gp/product/1928329071/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329071&linkId=979c2515837c35ab2b79bade8bf53634)
 </div>
 
-### E-Book
+### Other Formats
 
 <div markdown="3" class="purchase-link">
-[Apple iBookStore](http://itunes.apple.com/us/book/id1145043352)
-</div>
-
-<div markdown="3" class="purchase-link">
-[Kobo Store](http://store.kobobooks.com/en-CA/ebook/the-sayings-wisdom-of-imam-ali)
+[Zahra Publications](http://www.zahrapublications.pub/book-TheSayingsAndWisdomOfImamAli.php#bookTitle)
 </div>

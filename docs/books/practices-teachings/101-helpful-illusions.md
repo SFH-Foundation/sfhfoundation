@@ -14,18 +14,14 @@ description: 101 Helpful Illusions highlights natural veils waiting to be transc
 
 ## Purchase
 
-### Paperback and Kindle
+### Amazon
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/B01ITGN544/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01ITGN544&linkId=0c6ca204e2eac3e0507648bccf0aa800)
+[Buy Now](https://www.amazon.com/gp/product/B01ITGN544/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01ITGN544&linkId=0c6ca204e2eac3e0507648bccf0aa800)
 </div>
 
-### E-Book
+###  Other formats
 
 <div markdown="3" class="purchase-link">
-[Apple iBookStore](http://itunes.apple.com/us/book/id1144127579)
-</div>
-
-<div markdown="3" class="purchase-link">
-[Kobo Store](http://store.kobobooks.com/en-CA/ebook/101-helpful-illusions)
+[Zahra Publications](http://www.zahrapublications.pub/book-101-Helpful-Illusions.php#bookTitle)
 </div>

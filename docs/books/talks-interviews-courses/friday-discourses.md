@@ -14,16 +14,14 @@ In these Friday talks at the Rasooli Centre, Pretoria, South Africa, Shaykh Fadh
 
 ## Purchase
 
-### E-Book
+### Amazon
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/B01JD9JBWG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01JD9JBWG&linkId=4961a401569d5d454844e4c70d499036)
+[Buy Now](https://www.amazon.com/gp/product/B01JD9JBWG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01JD9JBWG&linkId=4961a401569d5d454844e4c70d499036)
 </div>
 
-<div markdown="3" class="purchase-link">
-[Apple iBookStore](http://itunes.apple.com/us/book/id1144952082)
-</div>
+### Other Formats
 
 <div markdown="3" class="purchase-link">
-[Kobo Store](http://store.kobobooks.com/en-CA/ebook/friday-discourses-volume-1)
+[Zahra Publications](http://www.zahrapublications.pub/book-FridayDiscourses-Volume1.php#bookTitle)
 </div>

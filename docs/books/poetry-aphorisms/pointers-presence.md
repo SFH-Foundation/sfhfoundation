@@ -14,18 +14,14 @@ Shaykh Fadhlalla Haeri emphasizes inner transformation and the refinement of con
 
 ## Purchase
 
-### Paperback and Kindle
+### Amazon
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/B01IKZ5QIW/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01IKZ5QIW&linkId=5dbab3f9456e079c1e4c66608d0a5684)
+[Buy Now](https://www.amazon.com/gp/product/B01IKZ5QIW/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01IKZ5QIW&linkId=5dbab3f9456e079c1e4c66608d0a5684)
 </div>
 
-### E-Book
+### Other Formats
 
 <div markdown="3" class="purchase-link">
-[Apple iBookStore](http://itunes.apple.com/us/book/id1144117161)
-</div>
-
-<div markdown="3" class="purchase-link">
-[Kobo Store](http://store.kobobooks.com/en-CA/ebook/pointers-to-presence)
+[Zahra Publications](http://www.zahrapublications.pub/book-PointersToPresence.php#bookTitle)
 </div>

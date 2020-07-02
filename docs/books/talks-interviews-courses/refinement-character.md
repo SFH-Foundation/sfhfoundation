@@ -18,8 +18,8 @@ The ‘Refinement of Character’ discourses offered by Shaykh Fadhlalla Haeri i
 
 ## Purchase
 
-### Paperback
+### Amazon
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/1928329055/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329055&linkId=730fe368d6db2a94d479b7dfe340444d)
+[Buy Now](https://www.amazon.com/gp/product/1928329055/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329055&linkId=730fe368d6db2a94d479b7dfe340444d)
 </div>

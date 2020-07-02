@@ -31,7 +31,7 @@ These commentaries on several essential chapters of the Qur'an are based on Shay
 ### Paperback
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/1919826688/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826688&linkId=fb106603fcd6a5f22af5518bc0288910)
+[Buy Now](https://www.amazon.com/gp/product/1919826688/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826688&linkId=fb106603fcd6a5f22af5518bc0288910)
 </div>
 
 

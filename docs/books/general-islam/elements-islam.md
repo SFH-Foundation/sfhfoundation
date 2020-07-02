@@ -14,22 +14,16 @@ At a time when communities increasingly tend to view each other with suspicion, 
 
 ## Purchase
 
-### Paperback
-
-Coming soon!
-
-### E-Book
+### Amazon
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/B01J81DSUA/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J81DSUA&linkId=ad8e0e9d1530d8c1c8f2ad2e73f68e77)
+[Buy Now](https://www.amazon.com/gp/product/B01J81DSUA/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J81DSUA&linkId=ad8e0e9d1530d8c1c8f2ad2e73f68e77)
 </div>
 
-<div markdown="3" class="purchase-link">
-[Apple iBookStore](http://itunes.apple.com/us/book/id1144988283)
-</div>
+### Other Formats
 
 <div markdown="3" class="purchase-link">
-[Kobo Store](http://store.kobobooks.com/en-CA/ebook/the-elements-of-islam)
+[Zahra Publications](http://www.zahrapublications.pub/book-ElementsOfIslam.php#bookTitle)
 </div>
 
 

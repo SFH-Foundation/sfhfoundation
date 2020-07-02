@@ -20,16 +20,14 @@ The objective of this course is to enable the seeker to love the One uncondition
 
 ## Purchase
 
-### E-Book
+### Amazon
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/B01JD72Q3Y/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01JD72Q3Y&linkId=44f0be917cf71b279b1d76ff9f8cb4b5)
+[Buy Now](https://www.amazon.com/gp/product/B01JD72Q3Y/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01JD72Q3Y&linkId=44f0be917cf71b279b1d76ff9f8cb4b5)
 </div>
 
-<div markdown="3" class="purchase-link">
-[Apple iBookStore](http://itunes.apple.com/us/book/id1145039121)
-</div>
+### Other Formats
 
 <div markdown="3" class="purchase-link">
-[Kobo Store](http://store.kobobooks.com/en-CA/ebook/the-prophetic-way-of-life)
+[Zahra Publications](http://www.zahrapublications.pub/book-ASKCourseTWO-ThePropheticWayOfLife.php#bookTitle)
 </div>

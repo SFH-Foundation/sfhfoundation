@@ -27,10 +27,10 @@ Dr. Ali Allawi, visiting professor at the National University of Singapore and K
 
 ## Purchase
 
-### Paperback
+### Amazon
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/1919826955/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826955&linkId=1b4142423f7e6390527c319b38a90bfa)
+[Buy Now](https://www.amazon.com/gp/product/1919826955/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826955&linkId=1b4142423f7e6390527c319b38a90bfa)
 </div>
 
 ## Website

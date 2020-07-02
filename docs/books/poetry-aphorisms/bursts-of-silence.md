@@ -14,16 +14,14 @@ These inspired aphorisms are remedies for hearts that seek the truth. They provi
 
 ## Purchase
 
-### E-Book
+### Amazon
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/B01II2SW1K/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01II2SW1K&linkId=b167bca079be365699f29295ed322761)
+[Buy Now](https://www.amazon.com/gp/product/B01II2SW1K/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01II2SW1K&linkId=b167bca079be365699f29295ed322761)
 </div>
 
-<div markdown="3" class="purchase-link">
-[Apple iBookStore](http://itunes.apple.com/us/book/id1143941206)
-</div>
+### Other Formats
 
 <div markdown="3" class="purchase-link">
-[Kobo Store](http://store.kobobooks.com/en-CA/ebook/bursts-of-silence)
+[Zahra Publications](http://www.zahrapublications.pub/book-BurstsOfSilence.php#bookTitle)
 </div>

@@ -14,18 +14,14 @@ These four chapters from the Meccan period are thematically interconnected, cove
 
 ## Purchase
 
-### Paperback
+### Amazon
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/1928329039/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329039&linkId=5ee6024ae36bb314491d33eda1cd3d2d)
+[Buy Now](https://www.amazon.com/gp/product/1928329039/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329039&linkId=5ee6024ae36bb314491d33eda1cd3d2d)
 </div>
 
-### E-Book
+### Other Formats
 
 <div markdown="3" class="purchase-link">
-[Apple iBookStore](http://itunes.apple.com/us/book/id1144703533)
-</div>
-
-<div markdown="3" class="purchase-link">
-[Kobo Store](http://store.kobobooks.com/en-CA/ebook/commentaries-on-four-selected-chapters-of-the-qur-an)
+[Zahra Publications](http://www.zahrapublications.pub/book-CommentariesOnFourChaptersOfQuran.php#bookTitle)
 </div>

@@ -14,18 +14,14 @@ title: Keys to the Qur’an Volume Volume 3 - Commentary on Surah Yasin
 
 ## Purchase
 
-### Paperback
+### Amazon
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/1928329020/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329020&linkId=d4ff85a5754ee0835a43b3c2880f5978)
+[Buy Now](https://www.amazon.com/gp/product/1928329020/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329020&linkId=d4ff85a5754ee0835a43b3c2880f5978)
 </div>
 
-### E-Book
+### Other Formats
 
 <div markdown="3" class="purchase-link">
-[Apple iBookStore](http://itunes.apple.com/us/book/id1145016709)
-</div>
-
-<div markdown="3" class="purchase-link">
-[Kobo Store](http://store.kobobooks.com/en-CA/ebook/the-heart-of-the-qur-an)
+[Zahra Publications](http://www.zahrapublications.pub/book-TheHeartOfTheQuran.php#bookTitle)
 </div>

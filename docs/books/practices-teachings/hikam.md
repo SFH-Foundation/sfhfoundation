@@ -18,22 +18,22 @@ With the publication of Shaykh Fadhlalla Haeri’s new translation and with the 
 
 ## Purchase
 
-### Paperback
+### Amazon
+
+<div class="center-text">Paperback</div>
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/1928329063/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329063&linkId=2163b5925b7d9cb8dfbba7ee96741e2b)
+[Buy Now](https://www.amazon.com/gp/product/1928329063/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329063&linkId=2163b5925b7d9cb8dfbba7ee96741e2b)
 </div>
 
-### E-Book
+<div class="center-text">Kindle</div>
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/B01JBIYTPI/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01JBIYTPI&linkId=66f1e1fda2f8038b75721ed45ce42787)
+[Buy Now](https://www.amazon.com/gp/product/B01JBIYTPI/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01JBIYTPI&linkId=66f1e1fda2f8038b75721ed45ce42787)
 </div>
 
-<div markdown="3" class="purchase-link">
-[Apple iBookStore](http://itunes.apple.com/us/book/id1145019417)
-</div>
+### Other Formats
 
 <div markdown="3" class="purchase-link">
-[Kobo Store](http://store.kobobooks.com/en-CA/ebook/the-hikam-the-wisdom-of-ibn-ata-allah)
+[Zahra Publications](http://www.zahrapublications.pub/book-TheHikamTheWisdomOfIbnAtaAllah.php#bookTitle)
 </div>

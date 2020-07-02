@@ -16,20 +16,16 @@ The primal design of human beings is based on an intrinsic knowledge of perfecti
 
 ## Purchase
 
-### Paperback and Kindle
+### Amazon
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/B01ITJ5J1I/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01ITJ5J1I&linkId=7872ce0d392887eafe90f45da6f64134)
+[Buy Now](https://www.amazon.com/gp/product/B01ITJ5J1I/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01ITJ5J1I&linkId=7872ce0d392887eafe90f45da6f64134)
 </div>
 
-### E-Book
+### Other Formats
 
 <div markdown="3" class="purchase-link">
-[Apple iBookStore](http://itunes.apple.com/us/book/id1144695091)
-</div>
-
-<div markdown="3" class="purchase-link">
-[Kobo Store](http://store.kobobooks.com/en-CA/ebook/calling-allah-by-his-most-beautiful-names)
+[Zahra Publications](http://www.zahrapublications.pub/book-CallingAllahByHisMostBeautifulNames.php#bookTitle)
 </div>
 
 ## Reader Review

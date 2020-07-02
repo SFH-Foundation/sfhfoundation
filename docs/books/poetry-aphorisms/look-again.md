@@ -14,8 +14,8 @@ _Look Again_ invites us to cast our sight beyond things as they appear to be. In
 
 ## Purchase
 
-### Paperback
+### Amazon
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/191982698X/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=191982698X&linkId=e80e8f266642a042ea60ea96c2f66ab5)
+[Buy Now](https://www.amazon.com/gp/product/191982698X/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=191982698X&linkId=e80e8f266642a042ea60ea96c2f66ab5)
 </div>

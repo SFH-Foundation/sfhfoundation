@@ -16,20 +16,16 @@ This book is based on a collection of talks which were given in the eighties in 
 
 ## Purchase
 
-### Paperback and Kindle
+### Amazon
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/B01J93IIKC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J93IIKC&linkId=cee044d91468200a2194b895f2093c8f)
+[Buy Now](https://www.amazon.com/gp/product/B01J93IIKC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J93IIKC&linkId=cee044d91468200a2194b895f2093c8f)
 </div>
 
-### E-Book
+### Other Formats
 
 <div markdown="3" class="purchase-link">
-[Apple iBookStore](http://itunes.apple.com/us/book/id1145049185)
-</div>
-
-<div markdown="3" class="purchase-link">
-[Kobo Store](http://store.kobobooks.com/en-CA/ebook/the-sufi-way-to-self-unfoldment)
+[Zahra Publications](http://www.zahrapublications.pub/book-TheSufiWayToSelf-Unfoldment.php#bookTitle)
 </div>
 
 ## Reader Review

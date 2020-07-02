@@ -20,18 +20,14 @@ _Beginning's End_ is a contemporary outlook on the Sufi sciences of self-knowled
 
 ## Purchase
 
-### Paperback and Kindle
+### Amazon
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/0710302207/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=0710302207&linkId=f573d6c1a81cd161746077c935fe98a8)
+[Buy Now](https://www.amazon.com/gp/product/0710302207/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=0710302207&linkId=f573d6c1a81cd161746077c935fe98a8)
 </div>
 
-### E-Book
+### Other Formats
 
 <div markdown="3" class="purchase-link">
-[Apple iBookStore](http://itunes.apple.com/us/book/id1144990885)
-</div>
-
-<div markdown="3" class="purchase-link">
-[Kobo Store](http://store.kobobooks.com/en-CA/ebook/beginning-s-end)
+[Zahra Publications](http://www.zahrapublications.pub/book-BeginningsEnd.php#bookTitle)
 </div>

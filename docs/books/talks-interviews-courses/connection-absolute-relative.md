@@ -14,18 +14,14 @@ This book is a transcript of a 1990 conversation with Shaykh Fadhlalla Haeri, in
 
 ## Purchase
 
-### Paperback and Kindle
+### Amazon
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/B07SD7RRBZ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B07SD7RRBZ&linkId=5c8cd68be6d88abeed7c3d32807d3438)
+[Buy Now](https://www.amazon.com/gp/product/B07SD7RRBZ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B07SD7RRBZ&linkId=5c8cd68be6d88abeed7c3d32807d3438)
 </div>
 
-### E-Book
+### Other Formats
 
 <div markdown="3" class="purchase-link">
-[Apple iBookStore](http://books.apple.com/us/book/id1465775083)
-</div>
-
-<div markdown="3" class="purchase-link">
-[Kobo Store](https://www.kobo.com/ca/en/ebook/the-spiritual-path-1)
+[Zahra Publications](http://www.zahrapublications.pub/book-TheConnection.php#bookTitle)
 </div>

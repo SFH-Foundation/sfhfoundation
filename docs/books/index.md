@@ -12,10 +12,10 @@ Zahra Publications has been publishing books on Islam and Sufism since 1981. Ded
 
 Islam reflects the constant compassion and presence of the Divine Light. In these crucial times, more than ever before, Muslims and seekers of a life lived with integrity and harmony need to renew their knowledge and awaken to the original Prophetic path.
 
-Only the most recent and up-to-date titles appear on this page. If you'd like to see all the e-book options we provide and get further information about our books, as well as browse some older titles, please make sure to visit the full Zahra Publications website by clicking below:
+If you'd like to see all the e-book options we provide and get further information about all the books we have available, please make sure to visit the full Zahra Publications website by clicking below:
 
 <div markdown="3" class="purchase-link">
-[Zahra](http://www.zahrapublications.pub/)
+[Zahra Publications](http://www.zahrapublications.pub/)
 </div>
 
 If you'd like to subscribe to our dedicated mailing list and receive updates directly to your inbox (only about new and revised ZP publications), please follow the link below:

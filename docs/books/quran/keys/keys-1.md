@@ -16,18 +16,14 @@ title: Keys to the Qur’an Volume 1 - Surah Fatiha and Surah Baqarah
 
 ## Purchase
 
-### Paperback
+### Amazon
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/1928329004/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329004&linkId=bc08c11009a80108eb9086e95ab92e1d)
+[Buy Now](https://www.amazon.com/gp/product/1928329004/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329004&linkId=bc08c11009a80108eb9086e95ab92e1d)
 </div>
 
-### E-Book
+### Other Formats
 
 <div markdown="3" class="purchase-link">
-[Apple iBookStore](http://itunes.apple.com/us/book/id1144700040)
-</div>
-
-<div markdown="3" class="purchase-link">
-[Kobo Store](http://store.kobobooks.com/en-CA/ebook/commentaries-on-chapters-one-and-two-of-the-qur-an)
+[Zahra Publications](http://www.zahrapublications.pub/book-CommentariesOnCh1AndCh2OfQuran.php#bookTitle)
 </div>

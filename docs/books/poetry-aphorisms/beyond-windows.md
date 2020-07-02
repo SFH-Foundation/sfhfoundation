@@ -18,16 +18,14 @@ These poems are a portal to an essentially private spiritual journey, beyond the
 
 ## Purchase
 
-### E-Book
+### Amazon
 
 <div markdown="3" class="purchase-link">
-[Amazon](https://www.amazon.com/gp/product/B01IKZN7EC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01IKZN7EC&linkId=a6fd555e4dee78a1dfb8bc13f5c8087a)
+[Buy Now](https://www.amazon.com/gp/product/B01IKZN7EC/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01IKZN7EC&linkId=a6fd555e4dee78a1dfb8bc13f5c8087a)
 </div>
 
-<div markdown="3" class="purchase-link">
-[Apple iBookStore](http://itunes.apple.com/us/book/id1144102926)
-</div>
+### Other Formats
 
 <div markdown="3" class="purchase-link">
-[Kobo Store](http://store.kobobooks.com/en-CA/ebook/beyond-windows)
+[Zahra Publications](http://www.zahrapublications.pub/book-BeyondWindows.php#bookTitle)
 </div>
