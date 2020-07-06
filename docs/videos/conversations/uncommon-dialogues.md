@@ -2,11 +2,11 @@ title: Uncommon Dialogues - Ramadan 2020
 
 description: A collection of uncommon dialogues conducted during Ramadan 2020 while the majority of the world was in lockdown due to COVID-19.
 
-# Uncommon Dialogues - Ramadan 2020
+# Uncommon Dialogues 2020
 
 This page presents a collection of uncommon dialogues conducted during Ramadan 2020 while the majority of the world was in lockdown due to COVID-19. In these talks, Shaykh Haeri and people like Dr Adnan Al-Adnani, Saadi Dr Neil Douglas Klotz, Dr Ali Allawi, and Professor Sadiyya Shaikh discuss a broad range of topics: from Islamic Civilisation, to the Qur'an, to Sufi Cosmology and everything in between.
 
-## Videos
+## The Month of Ramadan
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -120,6 +120,14 @@ This page presents a collection of uncommon dialogues conducted during Ramadan 2
 
 </div>
 
+<div markdown="1" class="clear"></div>
+
+## Extended
+
+The response to these uncommon dialogues from our community was so positive that we have extended them beyond the month of Ramadan so that more esteemed guests from various traditions and backgrounds can join Shaykh Haeri in discussing the perennial questions most pertinent to the modern world. Professor Sadiyya Shaikh returned to complete her 3 part series on Sufi Cosmology, while other guests include Umesh Bahadur, Matthew Green and Amir Freimann.
+
+Shaykh Haeri's discussions with Dr Adnan Al-Adnani continue in a section of their own, entitled [Living Qur'an](../living-quran).
+
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
@@ -158,6 +166,20 @@ This page presents a collection of uncommon dialogues conducted during Ramadan 2
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=OjoszYssKSY)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Surrender and Transcendence](../img/sfh_foundation.jpg)
+</div>
+
+**Surrender and Transcendence in Sufism**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=2krm8-Rhi6A)
 </div>
 
 </div>

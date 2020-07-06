@@ -145,6 +145,20 @@ This short series of 9 videos will give you a good introduction to Shaykh Haeri 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![Surrender and Transcendence](./img/sfh_foundation.jpg)
+</div>
+
+**Surrender and Transcendence in Sufism**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=2krm8-Rhi6A)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![The Process Of Spiritual Transformation](./img/sfh_foundation.jpg)
 </div>
 
@@ -292,20 +306,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Haeri 
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=CFaT26y91I8)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Selected Āyāt From The Qur'an](./img/sfh_foundation.jpg)
-</div>
-
-**Selected Āyāt From The Qur'an**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=Gzj7mO8ejrg)
 </div>
 
 </div>

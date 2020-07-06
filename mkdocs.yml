@@ -101,6 +101,7 @@ nav:
     - Newsletter: 'https://sfhfoundation.substack.com/'
   - Books:
     - 'Overview': 'books/index.md'
+    - 'Publication Partners': 'books/pub-partners.md'
     - General on Islam: 
         - 'Introduction': 'books/general-islam/index.md'
         - 'Transformative Worship in Islam': 'books/general-islam/transformative-worship.md'
@@ -183,6 +184,7 @@ nav:
       - 'From Darkness to Light': 'videos/quran/darkness-to-light.md'
       - 'Sacred Expressions': 'videos/quran/sacred-expressions.md'
       - 'Prescriptions for Living': 'videos/quran/prescriptions-for-living.md'
+      - 'The Verse of Light': 'videos/quran/verse-of-light.md'
       - 'Surat al-Hadid': 'videos/quran/al-Hadid.md'
       - 'Surat al-Balad': 'videos/quran/al-Balad.md'
     - ASK:
@@ -287,7 +289,7 @@ nav:
     - 'Join Us': 'gatherings-news/index.md'
     - Latest:
       - 'COVID-19': 'gatherings-news/latest/index.md'
-      - 'Ramadan 2020': 'gatherings-news/latest/ramadan-2020.md'
+      - 'Ramadan 2020': 'videos/conversations/uncommon-dialogues.md'
 
 # Google Analytics
 google_analytics:
