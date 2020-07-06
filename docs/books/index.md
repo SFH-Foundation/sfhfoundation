@@ -30,18 +30,18 @@ If you'd like to subscribe to our dedicated mailing list and receive updates dir
 
 <div markdown="1" class="card article sidebar center">
 
-**General on Islam**
+**Sufism and Self-Knowledge**
 
 <div markdown="2" class="article-image cat-img">
-![General Islam](./general-islam/img/elements-islam.jpg)
+![Sufism and Self-Knowledge](./sufism/img/spectrum.jpg)
 </div>
 
 <div markdown="3" class="article-para">
-This collection of writings by Shaykh Fadhlalla Haeri offers the contemporary reader an introduction into Islam and the Qur’an. The sincere reader can use these accessible texts to expand, deepen and strengthen their working knowledge and understanding of the beliefs practices, and philosophy of Islam.
+Known as _Tasawwuf_ by its practitioners, Sufism is often characterized as the ‘heart of Islam’. The Sufi engages in the conscious search for spiritual truths within the tradition of Islam, rooted in the Qur’an, and embodied in the example of the Prophetic Muhammad (S), who said: **"Whoever knows himself, knows his Lord."**
 </div>
 
 <div markdown="3" class="article-link">
-[Learn More](./general-islam)
+[Learn More](./sufism)
 </div>
 
 </div>
@@ -66,24 +66,6 @@ The new millennium has dawned as an age of great complexity, chaos and constant 
 
 <div markdown="1" class="card article sidebar center">
 
-**Sufism and Self-Knowledge**
-
-<div markdown="2" class="article-image cat-img">
-![Sufism and Self-Knowledge](./sufism/img/spectrum.jpg)
-</div>
-
-<div markdown="3" class="article-para">
-Known as _Tasawwuf_ by its practitioners, Sufism is often characterized as the ‘heart of Islam’. The Sufi engages in the conscious search for spiritual truths within the tradition of Islam, rooted in the Qur’an, and embodied in the example of the Prophetic Muhammad (S), who said: **"Whoever knows himself, knows his Lord."**
-</div>
-
-<div markdown="3" class="article-link">
-[Learn More](./sufism)
-</div>
-
-</div>
-
-<div markdown="1" class="card article sidebar center">
-
 **Practices and Teachings**
 
 <div markdown="2" class="article-image cat-img">
@@ -100,6 +82,24 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 </div>
 
+<div markdown="1" class="card article sidebar center">
+
+**General on Islam**
+
+<div markdown="2" class="article-image cat-img">
+![General Islam](./general-islam/img/elements-islam.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+This collection of writings by Shaykh Fadhlalla Haeri offers the contemporary reader an introduction into Islam and the Qur’an. The sincere reader can use these accessible texts to expand, deepen and strengthen their working knowledge and understanding of the beliefs practices, and philosophy of Islam.
+</div>
+
+<div markdown="3" class="article-link">
+[Learn More](./general-islam)
+</div>
+
+</div>
+
 ## All Titles
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
@@ -112,48 +112,6 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="3" class="book-link">
 [Read It](./sufism/spectrum-reality)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**Transformative Worship in Islam**
-
-<div markdown="2" class="book-image">
-![Transformative Worship](./general-islam/img/transformative-worship.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./general-islam/transformative-worship)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**Qur’an: 50 Vital Verses**
-
-<div markdown="2" class="book-image">
-![The Story of Creation in the Qur’an](./quran/img/50_vital_verses.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./quran/50-vital-verses)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**Decree and Destiny**
-
-<div markdown="2" class="book-image">
-![Decree and Destiny](./practices-teachings/img/decree-destiny.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./practices-teachings/decree-destiny)
 </div>
 
 </div>
@@ -202,28 +160,14 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**The Thoughtful Guide to Islam**
+**Qur’an: 50 Vital Verses**
 
 <div markdown="2" class="book-image">
-![Thoughtful Guide to Islam](./general-islam/img/sfh-guide-islam.jpg)
+![The Story of Creation in the Qur’an](./quran/img/50_vital_verses.jpg)
 </div>
 
 <div markdown="3" class="book-link">
-[Read It](./general-islam/thoughtful-guide-islam)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**The Story of Creation in the Qur’an**
-
-<div markdown="2" class="book-image">
-![The Story of Creation in the Qur’an](./quran/img/story-of-creation.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./quran/story-creation-quran)
+[Read It](./quran/50-vital-verses)
 </div>
 
 </div>
@@ -238,6 +182,76 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="3" class="book-link">
 [Read It](./quran/essential-quran)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Sufi Encounters**
+
+<div markdown="2" class="book-image">
+![Sufi Encounters](./biography/img/sufi-encounters.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./biography/sufi-encounters)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Elements of Sufism**
+
+<div markdown="2" class="book-image">
+![Elements of Sufism](./sufism/img/elements-sufism.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./sufism/elements-sufism)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Witnessing Perfection**
+
+<div markdown="2" class="book-image">
+![Witnessing Perfection](./sufism/img/witnessing-perfection.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./sufism/witnessing-perfection)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Decree and Destiny**
+
+<div markdown="2" class="book-image">
+![Decree and Destiny](./practices-teachings/img/decree-destiny.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./practices-teachings/decree-destiny)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Transformative Worship in Islam**
+
+<div markdown="2" class="book-image">
+![Transformative Worship](./general-islam/img/transformative-worship.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./general-islam/transformative-worship)
 </div>
 
 </div>
@@ -314,14 +328,28 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**Friday Discourses**
+**The Thoughtful Guide to Islam**
 
 <div markdown="2" class="book-image">
-![Friday Discourses](./talks-interviews-courses/img/friday-discourses.jpg)
+![Thoughtful Guide to Islam](./general-islam/img/sfh-guide-islam.jpg)
 </div>
 
 <div markdown="3" class="book-link">
-[Read It](./talks-interviews-courses/friday-discourses)
+[Read It](./general-islam/thoughtful-guide-islam)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**The Story of Creation in the Qur’an**
+
+<div markdown="2" class="book-image">
+![The Story of Creation in the Qur’an](./quran/img/story-of-creation.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./quran/story-creation-quran)
 </div>
 
 </div>
@@ -336,48 +364,6 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="3" class="book-link">
 [Read It](./talks-interviews-courses/refinement-character)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**Sufi Encounters**
-
-<div markdown="2" class="book-image">
-![Sufi Encounters](./biography/img/sufi-encounters.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./biography/sufi-encounters)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**Elements of Sufism**
-
-<div markdown="2" class="book-image">
-![Elements of Sufism](./sufism/img/elements-sufism.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./sufism/elements-sufism)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
-**Witnessing Perfection**
-
-<div markdown="2" class="book-image">
-![Witnessing Perfection](./sufism/img/witnessing-perfection.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./sufism/witnessing-perfection)
 </div>
 
 </div>
@@ -566,20 +552,6 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**The Spiritual Path**
-
-<div markdown="2" class="book-image">
-![The Spiritual Path](./talks-interviews-courses/img/spiritual-path.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./talks-interviews-courses/spiritual-path)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
 **Beginning's End**
 
 <div markdown="2" class="book-image">
@@ -602,6 +574,34 @@ The practice of Islam encompasses multiple layers of outer and inner knowledge t
 
 <div markdown="3" class="book-link">
 [Read It](./poetry-aphorisms/beyond-windows)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**The Spiritual Path**
+
+<div markdown="2" class="book-image">
+![The Spiritual Path](./talks-interviews-courses/img/spiritual-path.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./talks-interviews-courses/spiritual-path)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Friday Discourses**
+
+<div markdown="2" class="book-image">
+![Friday Discourses](./talks-interviews-courses/img/friday-discourses.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./talks-interviews-courses/friday-discourses)
 </div>
 
 </div>

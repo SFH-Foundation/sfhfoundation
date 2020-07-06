@@ -33,6 +33,16 @@
     margin-bottom: 40px;
   }
 
+  .book {
+    position: relative;
+  }
+
+  .book-link {
+    position: absolute;
+    bottom: 20px;
+    width: 90%;
+  }
+
   .book-link p, .video-link p {
     background:#f3eab2;
     border-radius: 5px;

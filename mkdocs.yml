@@ -102,16 +102,15 @@ nav:
   - Books:
     - 'Overview': 'books/index.md'
     - 'Publication Partners': 'books/pub-partners.md'
-    - General on Islam: 
-        - 'Introduction': 'books/general-islam/index.md'
-        - 'Transformative Worship in Islam': 'books/general-islam/transformative-worship.md'
-        - 'The Thoughtful Guide to Islam': 'books/general-islam/thoughtful-guide-islam.md'
-        - 'Elements of Islam': 'books/general-islam/elements-islam.md'
-        - 'Prophetic Traditions in Islam': 'books/general-islam/prophetic-traditions.md'
-        - 'Living Islam - East & West': 'books/general-islam/living-islam.md'
-        - Health Sciences - Early Islam:
-          - 'Volume 1': 'books/general-islam/health-sciences/index.md'
-          - 'Volume 2': 'books/general-islam/health-sciences/volume-2.md'
+    - Sufism and Self-Knowledge: 
+        - 'Introduction': 'books/sufism/index.md'
+        - 'Elements of Sufism': 'books/sufism/elements-sufism.md'
+        - 'Spectrum of Reality: Sufi Insights': 'books/sufism/spectrum-reality.md'
+        - 'The Sufi Way of Self-Enfoldment': 'books/sufism/sufi-self-enfoldment.md'
+        - 'Witnessing Perfection: A Sufi Guide': 'books/sufism/witnessing-perfection.md'
+        - 'Lantern of the Path': 'books/sufism/lantern-path.md'
+        - 'Beginning’s End': 'books/sufism/beginnings-end.md'
+        - 'Leaves From A Sufi Journal': 'books/sufism/leaves-sufi-journal.md'
     - The Qur’an:
         - 'Introduction': 'books/quran/index.md'
         - 'Qur’an: 50 Vital Verses': 'books/quran/50-vital-verses.md'
@@ -126,15 +125,6 @@ nav:
         - 'The Essential Message Of the Qur’an': 'books/quran/essential-quran.md'
         - 'Sacred Alchemy: A Collection of Qur’anic Verses': 'books/quran/sacred-alchemy.md'
         - 'Qur’an’s Prescription for Life': 'books/quran/quran-prescriptions.md'
-    - Sufism and Self-Knowledge: 
-        - 'Introduction': 'books/sufism/index.md'
-        - 'Elements of Sufism': 'books/sufism/elements-sufism.md'
-        - 'Spectrum of Reality: Sufi Insights': 'books/sufism/spectrum-reality.md'
-        - 'The Sufi Way of Self-Enfoldment': 'books/sufism/sufi-self-enfoldment.md'
-        - 'Witnessing Perfection: A Sufi Guide': 'books/sufism/witnessing-perfection.md'
-        - 'Lantern of the Path': 'books/sufism/lantern-path.md'
-        - 'Beginning’s End': 'books/sufism/beginnings-end.md'
-        - 'Leaves From A Sufi Journal': 'books/sufism/leaves-sufi-journal.md'
     - Practices and Teachings:
         - 'Introduction': 'books/practices-teachings/index.md'
         - 'Transformative Worship In Islam': 'books/practices-teachings/transformative-worship.md'
@@ -148,6 +138,16 @@ nav:
         - '101 Helpful Illusions': 'books/practices-teachings/101-helpful-illusions.md'
         - 'The Sayings & Wisdom of Imam `Ali': 'books/practices-teachings/sayings-imam-ali.md'
         - 'Cosmology Of The Self': 'books/practices-teachings/cosmology-self.md'
+    - General on Islam: 
+        - 'Introduction': 'books/general-islam/index.md'
+        - 'Transformative Worship in Islam': 'books/general-islam/transformative-worship.md'
+        - 'The Thoughtful Guide to Islam': 'books/general-islam/thoughtful-guide-islam.md'
+        - 'Elements of Islam': 'books/general-islam/elements-islam.md'
+        - 'Prophetic Traditions in Islam': 'books/general-islam/prophetic-traditions.md'
+        - 'Living Islam - East & West': 'books/general-islam/living-islam.md'
+        - Health Sciences - Early Islam:
+          - 'Volume 1': 'books/general-islam/health-sciences/index.md'
+          - 'Volume 2': 'books/general-islam/health-sciences/volume-2.md'
     - Talks, Interviews, and Courses:
         - 'Introduction': 'books/talks-interviews-courses/index.md'
         - 'Friday Discourses': 'books/talks-interviews-courses/friday-discourses.md'
@@ -290,8 +290,3 @@ nav:
     - Latest:
       - 'COVID-19': 'gatherings-news/latest/index.md'
       - 'Ramadan 2020': 'videos/conversations/uncommon-dialogues.md'
-
-# Google Analytics
-google_analytics:
-  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
-  - auto

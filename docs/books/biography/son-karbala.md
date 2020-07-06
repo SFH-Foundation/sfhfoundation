@@ -1,6 +1,7 @@
+---
 title: Son of Karbala - The Spiritual Journey of an Iraqi Muslim
-
 description: For anyone interested in how Iraq got to where it is now, in how Muslims regard their own history, and in how the message of Islam meets both individual needs and that of the world today, this is a timely and thought-provoking book.
+---
 
 # Son of Karbala: The Spiritual Journey of an Iraqi Muslim
 

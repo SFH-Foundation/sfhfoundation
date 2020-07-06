@@ -1,6 +1,7 @@
+---
 title: Biography
-
-description: Biography Book Category
+description: An overview of the biographical books written by Shaykh Fadhlalla Haeri, an acknowledged Sufi master and adept in the way of self-knowledge and transformation.
+---
 
 # Biography
 
