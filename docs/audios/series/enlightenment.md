@@ -1,6 +1,8 @@
+---
 title: Enlightenment
-
-description: This page hosts 5 audio clips designed for both the general public and spiritual seekers on the theme of Enlightenment.
+description: These 5 audio clips are designed for both the general public and spiritual seekers on the theme of Enlightenment in the Sufi tradition.
+image: assets/images/08.jpg
+---
 
 # Enlightenment
 

@@ -1,4 +1,8 @@
+---
 title: Sleepwalking
+description: Timeless Sufi poetry for the soul
+image: poetry/img/sfh_sleepwalking.jpg
+---
 
 # Sleepwalking
 

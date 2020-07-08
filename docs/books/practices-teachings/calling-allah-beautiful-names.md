@@ -1,6 +1,8 @@
+---
 title: Calling Allah By His Most Beautiful Names
-
-description:
+description: The primal design of human beings is based on an intrinsic knowledge of perfection and its yearning and journeying towards it. This book of Sufi practices for living by that perfection will guide you to truly transformative worship.
+image: books/practices-teachings/img/calling-allah-beautiful-names.jpg
+---
 
 # Calling Allah By His Most Beautiful Names
 

@@ -1,6 +1,8 @@
+---
 title: Sacred Alchemy - A Collection of Qur’anic Verses
-
-description:
+description: This collection of Qur’anic verses represent key verses to imbibe and meditate upon in your alchemical spiritual journey from self to soul.
+image: books/quran/img/sacred-alchemy.jpg
+---
 
 # Sacred Alchemy: A Collection of Qur’anic Verses
 

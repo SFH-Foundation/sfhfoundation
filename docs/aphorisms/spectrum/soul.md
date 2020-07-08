@@ -1,4 +1,8 @@
+---
 title: Journey 8 - Soul
+description: Short sufi indications for the journey from self to soul
+image: assets/images/10.jpg
+---
 
 # Journey 8 - Soul
 

@@ -1,6 +1,8 @@
+---
 title: Poetry & Aphorisms
-
-description: Poetry & Aphorisms Book Category
+description: An overview of the books of Poetry & Aphorisms by Shaykh Fadhlalla Haeri, an acknowledged Sufi master and adept in the way of self-knowledge and transformation.
+image: books/poetry-aphorisms/img/garden-meaning.jpg
+---
 
 # Poetry and Aphorisms
 

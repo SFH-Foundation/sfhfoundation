@@ -1,6 +1,8 @@
+---
 title: Self Knowledge and Unfolding Into Presence
-
-description: A collection of excerpts from various books written by Shaykh Fadhlalla over the years on the theme of Self Knowledge, Presence, and how to deepen one's practice of both.
+description: A collection of Sufi excerpts on the theme of Self Knowledge, Presence, and how to deepen one's practice of both.
+image: assets/images/09.jpg
+---
 
 # Self Knowledge and Unfolding Into Presence
 

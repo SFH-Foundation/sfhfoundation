@@ -1,6 +1,8 @@
+---
 title: Happiness in Life and After Death
-
 description: Based on the Qur’an and Prophetic Message, this book offers a splendid collection of revelations and spiritual teachings that map a basic path towards a wholesome way of living without forgetting death.
+image: books/practices-teachings/img/happiness-life-death.jpg
+---
 
 # Happiness in Life and After Death
 

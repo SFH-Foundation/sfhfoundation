@@ -1,6 +1,8 @@
+---
 title: Burst of Silence
-
-description:
+description: These inspired Sufi aphorisms are remedies for hearts that seek the truth. They provide keys to the doors of inner knowledge, as well as antidotes to distraction and confusion.
+image: books/poetry-aphorisms/img/burst-silence.jpg
+---
 
 # Bursts of Silence
 

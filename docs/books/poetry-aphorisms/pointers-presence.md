@@ -1,6 +1,8 @@
+---
 title: Pointers to Presence
-
-description: Shaykh Fadhlalla Haeri emphasizes inner transformation and the refinement of conduct, as preludes to the realization of the prevalence of Divine Grace.
+description: These Sufi aphorisms emphasize inner transformation and the refinement of conduct, as preludes to the realization of the prevalence of Divine Grace.
+image: books/poetry-aphorisms/img/pointers-presence.jpg
+---
 
 # Pointers to Presence
 

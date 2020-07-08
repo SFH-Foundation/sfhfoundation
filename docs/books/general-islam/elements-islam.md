@@ -1,6 +1,8 @@
+---
 title: The Elements of Islam
-
 description: At a time when communities increasingly tend to view each other with suspicion, The Elements of Islam cuts through the morass of misunderstanding and misinformation to give a true and timely overview of the universality and light of the prophetic message of Islam.
+image: books/general-islam/img/elements-islam.jpg
+---
 
 # The Elements of Islam
 

@@ -1,6 +1,8 @@
+---
 title: The Parable of the Spider's House
-
 description: One’s attachments, phobias and habits are as secure as the wisp of thought that repeatedly brings them about. The ultimate refuge is with Allah.
+image: assets/images/06.jpg
+---
 
 # The Parable of the Spider's House
 

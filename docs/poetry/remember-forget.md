@@ -1,4 +1,8 @@
+---
 title: To Remember You Must Forget
+description: Timeless Sufi poetry for the soul
+image: poetry/img/arrival.jpg
+---
 
 # To Remember You Must Forget
 

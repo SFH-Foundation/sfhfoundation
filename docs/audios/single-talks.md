@@ -1,6 +1,8 @@
+---
 title: Single Talks
-
-description: Stand-alone talks given by Shaykh Fadhlalla Haeri and recorded in various places across the world over the years.
+description: Stand-alone talks on the Sufi path, enlightenment, awakening, the Qur'an and various other topics given by Shaykh Fadhlalla Haeri and recorded in various places across the world over the years.
+image: assets/images/12.jpg
+---
 
 # Single Talks
 

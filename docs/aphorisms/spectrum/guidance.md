@@ -1,4 +1,8 @@
+---
 title: Journey 3 - Guidance and Excellence
+description: Short sufi indications for moving with guidance towards your most excellent state
+image: assets/images/04.jpg
+---
 
 # Journey 3 - Guidance and Excellence
 

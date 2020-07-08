@@ -1,6 +1,8 @@
+---
 title: Sound Waves
-
 description: Sound Waves is a collection of Shaykh Fadhlalla Haeri's aphorisms and maxims that help us to reflect and discover the intricate connection between self and soul. 
+image: books/poetry-aphorisms/img/sound-waves.jpg
+---
 
 # Sound Waves
 

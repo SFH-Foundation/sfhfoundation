@@ -1,6 +1,8 @@
+---
 title: To Be Alive
-
 description: A brief explanantion of the two kinds of being alive and the essential differences between them, especially in terms of limited conditionality.
+image: articles/img/sfh_alive.jpg
+---
 
 # To Be Alive
 

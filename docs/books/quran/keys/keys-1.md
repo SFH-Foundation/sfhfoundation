@@ -1,5 +1,7 @@
 ---
 title: Keys to the Qur’an Volume 1 - Surah Fatiha and Surah Baqarah
+description: Surat al-Fatiha is placed at the beginning of the Qur'an because it signifies the opening of knowledge and so the victory over ignorance. Surat al-Baqarah scans the history of humankind and contains a blueprint of how a community can live optimally.
+image: books/quran/img/keys-1.jpg
 ---
 
 # Volume 1: Surah Fatiha and Baqarah

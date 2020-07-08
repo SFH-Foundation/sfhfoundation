@@ -1,6 +1,8 @@
+---
 title: Less Is More
-
 description: Before reaching spiritual maturity Sufi literature can encourage fantasy or act as a placebo with uncertain outcome. In the material realm more is sought, in the spiritual realm the reverse is true.
+image: assets/images/09.jpg
+---
 
 # Less Is More
 

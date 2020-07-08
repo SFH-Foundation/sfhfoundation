@@ -1,6 +1,8 @@
+---
 title: Talks, Interviews, and Courses
-
-description: Talks, Interviews, and Courses Book Category
+description: An overview of the Talks, Interviews, and Courses given by Shaykh Fadhlalla Haeri, an acknowledged Sufi master and adept in the way of self-knowledge and transformation
+image: books/talks-interviews-courses/img/refinement-character.jpg
+---
 
 # Talks, Interviews, and Courses
 

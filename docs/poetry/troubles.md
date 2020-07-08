@@ -1,4 +1,8 @@
+---
 title: Troubles
+description: Timeless Sufi poetry for the soul
+image: poetry/img/sfh_troubles.jpg
+---
 
 # Troubles
 

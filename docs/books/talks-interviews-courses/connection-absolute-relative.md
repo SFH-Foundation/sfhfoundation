@@ -1,5 +1,7 @@
 ---
 title: The Connection Between the Absolute and the Relative
+description: This book is a transcript of a 1990 conversation with Shaykh Fadhlalla Haeri is as relevant today as it was when it was first conducted, for it presents Islam as the archetypal, universal, Adamic path that began when humanity rose in consciousness began its journey from the relative back to Absolute Unity.
+image: books/talks-interviews-courses/img/absolute-relative.jpg
 ---
 
 # The Connection Between the Absolute and the Relative

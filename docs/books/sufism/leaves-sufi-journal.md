@@ -1,6 +1,8 @@
+---
 title: Leaves From A Sufi Journal
-
-description:
+description: This book is a unique collection of articles presenting an outstanding introduction to the areas of Sufism and original Islamic teachings.
+image: books/sufism/img/leaves-sufi-journal.jpg
+---
 
 # Leaves From A Sufi Journal
 

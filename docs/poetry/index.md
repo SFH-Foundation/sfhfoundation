@@ -1,6 +1,8 @@
+---
 title: Poetry
-
-description: Overview of Poetry Section
+description: A small collection of Shaykh Fadhlalla Haeri's poetic works to give you a taste of Sufi cosmology and poetic insight.
+image: assets/images/22.jpg
+---
 
 # Poetry
 

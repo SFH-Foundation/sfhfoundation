@@ -1,4 +1,8 @@
+---
 title: Journey 4 - Victory and Gatheredness
+description: Short sufi indications for moving into the perpetual victory and constant-gatheredness of truth - there is only One.
+image: assets/images/20.jpg
+---
 
 # Journey 4 - Victory and Gatheredness
 

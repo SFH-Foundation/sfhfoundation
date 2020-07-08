@@ -1,5 +1,7 @@
 ---
 title: Keys to the Qur’an Volume 2 - Commentary on Surah Al Imran
+description: Surat Al-`Imran demonstrates the meaning of hypocrisy, courage and belief, using the historical setting of the Battle of Uhud. This chapter unveils truth and insight regarding the human self, society, this world and the Next Life.
+image: books/quran/img/keys-2.jpg
 ---
 
 # Volume 2: Commentary on Surat Al-`Imran

@@ -1,6 +1,8 @@
+---
 title: Sayings of the Prophet Muhammad
-
 description: A collection of selected sayings of the Prophet Muhammad, arranged in a way that increases awareness of the higher spiritual purpose and speaks to the inner heart. 
+image: books/general-islam/img/sayings-muhammad.jpg
+---
 
 # Sayings of the Prophet Muhammad
 

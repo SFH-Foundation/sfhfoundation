@@ -1,4 +1,8 @@
+---
 title: Fate
+description: Timeless Sufi poetry for the soul
+image: poetry/img/sfh_self.jpg
+---
 
 # Fate
 

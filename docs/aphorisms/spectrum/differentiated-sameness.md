@@ -1,4 +1,8 @@
+---
 title: Journey 10 - Differentiated Sameness
+description: Short sufi indications for navigating the the world of changes with knowledge of that which is ever-constant.
+image: assets/images/21.jpg
+---
 
 # Journey 10 - Differentiated Sameness
 

@@ -1,6 +1,8 @@
+---
 title: Dhikr, Fikr, and Himmah
-
-description: A basic introduction to three critical and interrelated aspects of The Path: remembrance, discrimination, and the energy that arises from yearning.
+description: A basic introduction to three critical and interrelated aspects of The Path; remembrance, discrimination, and the energy that arises from yearning.
+image: articles/img/sfh_dhikr.jpg
+---
 
 # Dhikr, Fikr, and Himmah
 

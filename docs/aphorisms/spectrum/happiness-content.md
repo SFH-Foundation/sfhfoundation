@@ -1,4 +1,8 @@
+---
 title: Journey 15 - Happiness and Content
+description: Short sufi indications for realising happiness and contentment now.
+image: assets/images/24.jpg
+---
 
 # Journey 15 - Happiness and Content
 

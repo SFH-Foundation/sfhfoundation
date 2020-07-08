@@ -1,4 +1,8 @@
+---
 title: Journey 14 - Purpose
+description: Short sufi indications for understanding the purpose of human life and aligning yourself with the way of truth.
+image: assets/images/03.jpg
+---
 
 # Journey 14 - Purpose
 

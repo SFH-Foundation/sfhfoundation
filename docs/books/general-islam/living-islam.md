@@ -1,5 +1,7 @@
 ---
 title: Living Islam - East and West
+description: This is the journal of a contemporary Sufi master's travels through many lands in the East and West. From Japan to India, to Britain and America, he speaks to contemporary audiences about the timeless eternal reality of the path of dynamic submission and the way to self-fulfillment.
+image: books/general-islam/img/living-islam.jpg
 ---
 
 # Living Islam - East and West

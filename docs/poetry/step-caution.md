@@ -1,4 +1,8 @@
+---
 title: Step With Caution
+description: Timeless Sufi poetry for the soul
+image: assets/images/17.jpg
+---
 
 # Step With Caution
 

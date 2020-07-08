@@ -1,6 +1,8 @@
-title The Garden of Meaning
-
-description: ʻThe Garden of Meaningʼ expresses the truth of the ever present Origin of all dualities, pluralities and diversities.
+---
+title: The Garden of Meaning
+description: This book of Sufi wisdom expresses the truth of the ever present Origin of all dualities, pluralities and diversities.
+image: books/poetry-aphorisms/img/garden-meaning.jpg
+---
 
 # The Garden of Meaning
 

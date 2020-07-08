@@ -1,6 +1,8 @@
+---
 title: Refinement of Character
-
-description:
+description: Shaykh Fadhlallah Haeri presents a map for refinement of character in the Prophetic tradition as an essential step to Enlightenment and Connection with the One, unhindered by reflections of the lower self.
+image: assets/images/03.jpg
+---
 
 # Refinement of Character
 

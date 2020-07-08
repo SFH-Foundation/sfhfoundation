@@ -1,6 +1,8 @@
+---
 title: Witnessing Perfection
-
-description: A brief series of excerpts from the book "Witnessing Perfection", which detail the specifically Islamic notion of "witnessing" or "shahada" in Arabic, and how this can lead one to realizing the perfection of each and every moment.
+description: A discussion of the Islamic notion of "witnessing", or "shahada", and how this can lead one to realizing the perfection of each and every moment.
+image: prescriptions/img/sfh_witnessing.jpg
+---
 
 # Witnessing Perfection
 

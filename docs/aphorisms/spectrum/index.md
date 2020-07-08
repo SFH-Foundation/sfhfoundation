@@ -1,4 +1,8 @@
+---
 title: Journey 1 - Nature, Desire, Harmony
+description: Short sufi indications for living in harmony with the forces of nature and your own desire.
+image: assets/images/09.jpg
+---
 
 # Journey 1 - Nature, Desire, Harmony
 

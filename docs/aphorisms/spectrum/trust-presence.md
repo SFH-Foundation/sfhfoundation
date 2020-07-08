@@ -1,4 +1,8 @@
+---
 title: Journey 6 - Trust and Presence
+description: Short sufi indications for living in a fully present state and trusting the perfection of each moment.
+image: assets/images/24.jpg
+---
 
 # Journey 6 - Trust and Presence
 

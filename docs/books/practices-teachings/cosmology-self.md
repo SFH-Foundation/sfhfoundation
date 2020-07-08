@@ -1,6 +1,8 @@
+---
 title: Cosmology Of The Self
-
-description: Islamic teachings of _tawhid_ (Unity) with insights into the human self - understanding the inner landscape is essential foundation for progress on the path of knowledge.
+description: This Sufi text presents core islamic teachings of tawhid (Unity) with insights into the human self - understanding the inner landscape is essential foundation for progress on the path of knowledge.
+image: books/practices-teachings/img/cosmology-self.jpg
+---
 
 # Cosmology Of The Self
 

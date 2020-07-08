@@ -1,6 +1,8 @@
-tital: Qur’an: 50 Vital Verses
-
-description: The selected verses in this booklet are exceptionally potent when reflected upon. They lift human consciousness towards its cosmic origin and therefore complete the story and meaning of human life.
+---
+title: Qur’an - 50 Vital Verses
+description: These selected verses are exceptionally potent when reflected upon. They lift human consciousness towards its cosmic origin and therefore complete the story and meaning of human life.
+image: books/quran/img/50_vital_verses.jpg
+---
 
 # Qur’an: 50 Vital Verses
 

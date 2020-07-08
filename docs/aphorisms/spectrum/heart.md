@@ -1,4 +1,8 @@
+---
 title: Journey 7 - Heart 
+description: Short sufi indications for living with a full, purified and light heart.
+image: assets/images/01.jpg
+---
 
 # Journey 7 - Heart 
 

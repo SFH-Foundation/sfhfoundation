@@ -1,6 +1,8 @@
+---
 title: Natural Illusions
-
-description:
+description: Life’s numerous paradoxes, enigmas and apparent contradictions can be resolved when we consider the human being as a balanced composition between the self and a soul.
+image: articles/img/sfh_nature.jpg
+---
 
 # Illusions
 

@@ -1,6 +1,8 @@
+---
 title: The Qur’an
-
-description: The Qur’an Book Category
+description: An overview of the tafsir, or commentary on The Qur’an by Shaykh Fadhlalla Haeri, an acknowledged Sufi master and adept in the way of self-knowledge and transformation
+image: books/quran/img/keys-quran.jpg
+---
 
 # The Qur’an
 

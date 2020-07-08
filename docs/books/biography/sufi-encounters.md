@@ -1,6 +1,8 @@
+---
 title: Sufi Encounters - Sharing the Wisdom of Enlightened Sufis
-
 description: An unparalleled exploration of Sufism as it is practised around the world, describing meetings with today’s enlightened teachers as well as including wonderfully inspiring translations of the great Sufi masters of the past.
+image: books/biography/img/sufi-encounters.jpg
+---
 
 # Sufi Encounters: Sharing the Wisdom of Enlightened Sufis
 

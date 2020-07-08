@@ -1,10 +1,12 @@
+---
 title: The Thread of Truth
-
 description: The revitalised interest in Islam and Sufism, as well as Sufi Shaykhs are signs that our scientific and material development is reaching a point that needs the revitalization of the heart and awakening to the inner light of the soul.
+image: articles/img/sfh_thread_truth.jpg
+---
 
 # The Thread of Truth
 
-_By Shaykh Fadhlalla Haeri and Muneera Haeri, from the book "Sufi Links – Illumined Encounters"_
+_By Shaykh Fadhlalla Haeri and Muneera Haeri, from the book "[Sufi Links – Illumined Encounters](../../books/biography/sufi-encounters)"_
 
 A vast body of academic work including chronicles, biographies, treaties, translations on Islam and Sufism has arisen out of the interest in religion and spirituality over the recent past. The internet and other media makes this easily accessible to all, rather than being the preserve of the few. This has had a huge impact on understanding of Sufi tariqas, masters and their teachings.
 

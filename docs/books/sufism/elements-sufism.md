@@ -1,6 +1,8 @@
+---
 title: The Elements of Sufism
-
 description: Sufism is the heart of Islam. This introduction to Sufism describes its origins and practices, its historical background and its spread throughout the world.
+image: books/sufism/img/elements-sufism.jpg
+---
 
 # The Elements of Sufism
 

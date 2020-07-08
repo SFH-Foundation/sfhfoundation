@@ -1,6 +1,8 @@
+---
 title: Prophetic Traditions in Islam
-
-description: This collection of verses from the Qur’an and traditions from the Prophet Muhammad (may the peace and blessings of Allah be upon him and his family) and the Imams is unique for it makes available for the first time in English a comprehensive selection of Islamic teachings arranged according to topics that deal with belief and worship as well as the social and spiritual values which Islam upholds.
+description: This collection of verses from the Qur’an and traditions from the Prophet Muhammad (pbuh) and the Imams makes available for the first time in English a comprehensive selection of Islamic teachings that deal with belief and worship as well as social and spiritual values.
+image: books/general-islam/img/prophetic-traditions.jpg
+---
 
 # Prophetic Traditions in Islam: On the Authority of the Family of the Prophet
 

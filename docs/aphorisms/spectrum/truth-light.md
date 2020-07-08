@@ -1,4 +1,8 @@
+---
 title: Journey 9 - Truth and Light
+description: Short sufi indications for perceiving the truth and light at every instant of this life
+image: assets/images/06.jpg
+---
 
 # Journey 9 - Truth and Light
 

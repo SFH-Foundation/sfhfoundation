@@ -1,6 +1,8 @@
+---
 title: The Essential Message Of the Qur'an
-
 description: The Essential Message of the Qur'an captures the spiritual significance of the sacred text of Islam and how it inspired countless millions across the ages.
+image: books/quran/img/essential-quran.jpg
+---
 
 # The Essential Message Of the Qur'an
 

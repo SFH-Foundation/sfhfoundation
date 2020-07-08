@@ -1,6 +1,8 @@
+---
 title: ASK Course 1 - A Sufi Map of Self
-
 description: This workbook explores the entire cosmology of the self through time, and maps the evolution of the self from before birth through life, death and beyond.
+image: books/talks-interviews-courses/img/ask-1-sufi-map-self.jpg
+---
 
 # ASK Course 1 - A Sufi Map of Self
 

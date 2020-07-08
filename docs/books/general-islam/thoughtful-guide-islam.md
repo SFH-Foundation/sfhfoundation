@@ -1,6 +1,8 @@
+---
 title: The Thoughtful Guide to Islam
-
 description: At a time when communities increasingly tend to view each other with suspicion, The Elements of Islam cuts through the morass of misunderstanding and misinformation to give a true and timely overview of the universality and light of the prophetic message of Islam.
+image: books/general-islam/img/sfh-guide-islam.jpg
+---
 
 # The Thoughtful Guide to Islam
 

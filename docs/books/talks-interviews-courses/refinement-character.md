@@ -1,6 +1,8 @@
-title: Refinement of Character: Friday Discourses
-
-description:
+---
+title: Refinement of Character - Friday Discourses
+description: These discourses present a comprehensive and complete package of essentials regarding the self and its emergence, and of the interplay between the ego and the soul.
+image: books/talks-interviews-courses/img/refinement-character.jpg
+---
 
 # Refinement of Character: Friday Discourses
 

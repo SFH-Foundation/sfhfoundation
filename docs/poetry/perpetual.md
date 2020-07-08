@@ -1,4 +1,8 @@
+---
 title: Perpetual
+description: Timeless Sufi poetry for the soul
+image: poetry/img/lightning.jpg
+---
 
 # Perpetual
 

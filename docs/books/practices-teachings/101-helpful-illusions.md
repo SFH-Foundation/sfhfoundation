@@ -1,6 +1,8 @@
+---
 title: 101 Helpful Illusions
-
-description: 101 Helpful Illusions highlights natural veils waiting to be transcended by disciplined courage, wisdom and insight. Everything in creation has a purpose relevant to a specific situation that could lead the seeker of higher knowledge towards the ultimate spiritual truth of oneness.
+description: 101 Helpful Illusions is a book of Sufi spiritual guidance which highlights natural veils waiting to be transcended by disciplined courage, wisdom and insight. 
+image: books/practices-teachings/img/helpful-illusions.jpg)
+---
 
 # 101 Helpful Illusions
 

@@ -1,6 +1,8 @@
+---
 title: Consciousness - An Overview
-
-description: A selection of excerpts from various books by Shaykh Fadhlalla on the critical concept and experience of consciousness.
+description: A selection of excerpts from various books by Shaykh Fadhlalla on the critical concept and experience of consciousness as understood within the Sufi cosmology.
+image: assets/images/05.jpg
+---
 
 # Consciousness - An Overview
 

@@ -1,6 +1,8 @@
+---
 title: Transformative Worship in Islam
-
 description: This book bridges the traditional practices and beliefs, culture and language of Islam with the transformative spiritual states described by the Sufis and Gnostics.
+image: books/general-islam/img/transformative-worship.jpg
+---
 
 # Transformative Worship in Islam
 

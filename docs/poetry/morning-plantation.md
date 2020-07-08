@@ -1,4 +1,8 @@
+---
 title: Morning in the Plantation
+description: Timeless Sufi poetry for the soul
+image: poetry/img/sfh_plantation.jpg
+---
 
 # Morning in the Plantation
 

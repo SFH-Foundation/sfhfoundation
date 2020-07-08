@@ -1,4 +1,8 @@
+---
 title: Journey 5 - Real Wealth, Beauty, and Treasure
+description: Short sufi indications for understanding the inner meaning of lasting wealth, beauty and the treasure of your own heart.
+image: assets/images/11.jpg
+---
 
 # Journey 5 - Real Wealth, Beauty, and Treasure
 

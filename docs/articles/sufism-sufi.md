@@ -1,6 +1,8 @@
+---
 title: Sufism and the Sufi
-
 description: What is relevant to us today about Sufism is that it has maintained a clear thread and line of direct transmission of wisdom back to original Islam. The key to Sufism is that of inner awakening, freedom and joy through recognition of outer restriction by choice and discrimination.
+image: articles/img/sfh_sufis.jpg
+---
 
 # Sufism and the Sufi
 

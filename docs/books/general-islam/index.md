@@ -1,6 +1,8 @@
+---
 title: General Islam
-
-description: General on Islam Book Category
+description: An overview of the general Islamic books written by Shaykh Fadhlalla Haeri, an acknowledged Sufi master and adept in the way of self-knowledge and transformation.
+image: books/general-islam/img/elements-islam.jpg
+---
 
 # General on Islam
 

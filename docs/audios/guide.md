@@ -1,6 +1,7 @@
 ---
 title: Audio Guide
 description: An overview of all the audios made available by the Shaykh Fadhlalla Haeri Foundation.
+image: assets/images/10.jpg
 ---
 # A Guide For Listening
 

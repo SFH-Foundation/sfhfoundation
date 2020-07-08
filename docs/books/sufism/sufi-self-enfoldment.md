@@ -1,6 +1,8 @@
+---
 title: The Sufi Way to Self-Unfoldment
-
-description:
+description: There can be no doubt that there is only one message in man’s heart, to be fulfilled, to live a life that is honorable and fearless, that has within it no darkness, ignorance or abuse.
+image: books/sufism/img/sufi-self-enfoldment.jpg
+---
 
 # The Sufi Way to Self-Unfoldment
 

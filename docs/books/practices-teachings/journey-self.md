@@ -1,6 +1,8 @@
+---
 title: Journey of The Self
-
 description: This unique guide to spiritual psychology presents Western readers with an Islamic concept of ‘personality’, the wellspring of the Enneagram and other Sufi theories of personality.
+image: books/practices-teachings/img/journey-self.jpg
+---
 
 # Journey of The Self
 

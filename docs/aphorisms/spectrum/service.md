@@ -1,4 +1,8 @@
+---
 title: Journey 12 - Service
+description: Short sufi indications for how best to serve in this world.
+image: assets/images/19.jpg
+---
 
 # Journey 12 - Service
 

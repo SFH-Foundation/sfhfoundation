@@ -1,6 +1,8 @@
+---
 title: The Keys to Meditation
-
 description: A brief overview of the keys to meditation from an Islamic perspective, with a focus on practical, lived experience and example.
+image: prescriptions/img/sfh_pilgrim.jpg
+---
 
 # The Keys To Meditation
 

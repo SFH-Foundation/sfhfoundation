@@ -1,6 +1,8 @@
+---
 title: ASK Course 2 - A Prophetic Way of Life
-
 description: This workbook explores how the code of ethics that govern religious practice and the Prophetic ways are in fact transformational tools to enlightened awakening.
+image: books/talks-interviews-courses/img/ask-2-prophetic-way-life.jpg
+---
 
 # ASK Course 2 - A Prophetic Way of Life
 

@@ -1,6 +1,8 @@
+---
 title: Qur'an Direct
-
-description:
+description: A 7 part series of talks which provides directed commentary on several critical Surahs in the Qur'an, highlighting the universal indications which can be used by any seeker at any time or place.
+image: assets/images/16.jpg
+---
 
 # Qur'an Direct
 

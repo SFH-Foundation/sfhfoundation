@@ -1,6 +1,8 @@
+---
 title: Transformative Worship in Islam
-
-description: A brief series of excerpts from the book "Transformative Worship in Islam: Experiencing Perfection" that detail some of the basics of worship and the kinds of personal and communal transformation it is intended to engender within an Islamic framework.
+description: A description of the basics of worship and the kinds of personal and communal transformation it is intended to engender within an Islamic framework.
+image: prescriptions/img/sfh_transformed.jpg
+---
 
 # Transformative Worship in Islam
 

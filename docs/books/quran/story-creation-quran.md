@@ -1,6 +1,8 @@
+---
 title: The Story of Creation in the Qur’an
-
-description:
+description: This book is an exposition of the Qur’anic verses relating to the nature of physical phenomena, including the origins of the universe, the nature of light, matter, space and time, and the evolution of biological and sentient beings.
+image: books/quran/img/story-of-creation.jpg
+---
 
 # The Story of Creation in the Qur’an
 

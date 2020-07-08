@@ -1,6 +1,8 @@
+---
 title: Look Again
-
-description: Look Again invites us to cast our sight beyond things as they appear to be. Insight. The most consistent need of every human being is to know the Truth or Reality and its permanency, hidden behind infinite varieties of appearances and existences.
+description: Look Again invites us to cast our sight beyond things as they appear to be, moving ever closer towards insight into the nature of our reality.
+image: books.poetry-aphorisms/img/look-again.jpg
+---
 
 # Look Again
 

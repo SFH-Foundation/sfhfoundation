@@ -1,6 +1,8 @@
+---
 title: The Practice of Stillness
-
-description:
+description: The art of stillness is the heart of all true spiritual practices and endeavours.
+image: prescriptions/img/people-light.jpg
+---
 
 # The Practice of Stillness and Retreat
 

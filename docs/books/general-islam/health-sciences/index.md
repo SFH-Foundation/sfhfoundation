@@ -1,6 +1,8 @@
+---
 title: Health Sciences in Early Islam - Volume 1
-
-description: Health Sciences in Early Islam is a pioneering study of Islamic medicine that opens up new chapters of knowledge in the history of the healing sciences. This two volume work covers the development of Islamic medicine between the 6th and 12th centuries A.D.
+description: This book is a pioneering study of Islamic medicine that opens up new chapters of knowledge in the history of the healing sciences.
+image: books/general-islam/img/health-sciences-1.jpg
+---
 
 # Health Sciences in Early Islam - Volume 1
 

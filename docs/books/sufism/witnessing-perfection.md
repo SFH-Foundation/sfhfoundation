@@ -1,6 +1,8 @@
+---
 title: Witnessing Perfection - A Sufi Guide
-
-description: Witnessing Perfection addresses the concerns of those who are aware that an urgent redress in the balance between head and heart is needed and who comprehend that this can only be fulfilled by personal spiritual development.
+description: This work addresses the concerns of those who are aware that an urgent redress in the balance between head and heart is needed and who comprehend that this can only be fulfilled by personal spiritual development.
+image: books/sufism/img/witnessing-perfection.jpg
+---
 
 # Witnessing Perfection: A Sufi Guide
 

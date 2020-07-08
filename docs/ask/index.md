@@ -2,6 +2,7 @@
 title: New ASK - Touching Supreme Consciousness
 template: no_toc.html
 description: Maps of truth that will illumine the journey in this life and the hereafter
+image: assets/images/p21.jpeg
 ---
 
 # New ASK

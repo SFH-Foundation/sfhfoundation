@@ -1,4 +1,8 @@
+---
 title: The Passage of Time
+description: Timeless Sufi poetry for the soul
+image: poetry/img/sfh_passage.jpg
+---
 
 # The Passage of Time
 

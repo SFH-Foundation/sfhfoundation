@@ -1,4 +1,8 @@
+---
 title: The First Journey
+description: Timeless Sufi poetry for the soul
+image: poetry/img/sfh_first_journey.jpg
+---
 
 # The First Journey
 

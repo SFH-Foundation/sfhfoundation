@@ -1,6 +1,8 @@
+---
 title: The Cycles of Life and Reality
-
 description: A collection of excerpts from various books by Shaykh Fadhlalla on the topic of the Cycles of Life and Reality through which we all must travel on our life journey.
+image: articles/img/sfh_cycles.jpg
+---
 
 # Cycles of Life and Reality
 

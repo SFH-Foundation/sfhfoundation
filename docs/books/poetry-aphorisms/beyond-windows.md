@@ -1,6 +1,8 @@
+---
 title: Beyond Windows
-
-description: The collection is a finely woven quilt of deep expression in which the yearning of the soul's quest to live (and die) in the aura and divine sheen of the Creator permeates every line and stanza
+description: The Sufi collection is a finely woven quilt of deep expression in which the yearning of the soul's quest to live (and die) in the aura and divine sheen of the Creator permeates every line and stanza
+image: books/poetry-aphorisms/img/beyond-windows.jpg
+---
 
 # Beyond Windows
 

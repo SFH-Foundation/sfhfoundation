@@ -1,6 +1,8 @@
+---
 title: The Thoughtful Guide to Sufism
-
 description: Sufism is the heart of Islam. This introduction to Sufism describes its origins and practices, its historical background and its spread throughout the world.
+image: books/sufism/img/sfh-guide-sufism.jpg
+---
 
 # The Thoughtful Guide to Sufism
 

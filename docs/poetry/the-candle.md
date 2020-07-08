@@ -1,4 +1,8 @@
+---
 title: The Candle
+description: Timeless Sufi poetry for the soul
+image: poetry/img/sfh_candle.jpg
+---
 
 # The Candle
 

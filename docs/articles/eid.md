@@ -1,6 +1,8 @@
-title: _Eid_ - The Return
-
-description: May every instant of our lives be full of joyful optimism as we progress from one level of understanding and inner light to a higher one, until such time there is nothing left for us to do in this world other than to remain in the ecstasy of truly saying, knowing, singing _"la ilaha illallah"_
+---
+title: Eid - The Return
+description: May every instant of our lives be full of joyful optimism as we progress from one level of understanding and inner light to a higher one, until such time there is nothing left for us to do in this world other than to remain in the ecstasy of truly saying, knowing, singing "la ilaha illallah".
+image: articles/img/sfh_celebrate.jpg
+---
 
 # _Eid_ - The Return
 

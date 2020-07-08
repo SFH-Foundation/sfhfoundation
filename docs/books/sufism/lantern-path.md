@@ -1,6 +1,8 @@
+---
 title: The Lantern of the Path
-
-description: “The Lantern of The Path” comprises ninety-nine chapters. Each one is a threshold to the next, guiding the reader through the broad spectrum of ageless wisdom, like a lantern along the path of reality.
+description: A true gem of the Sufi path, this book comprises ninety-nine chapters. Each one is a threshold to the next, guiding the reader through the broad spectrum of ageless wisdom, like a lantern along the path of reality.
+image: books/sufism/img/lantern-path.jpg
+---
 
 # The Lantern of the Path
 

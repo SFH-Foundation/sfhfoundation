@@ -1,6 +1,8 @@
+---
 title: Overview - Videos
-
-description: An overview of all the videos of talks and conversations involving Shaykh Fadlalla Haeri
+description: All the videos of Shaykh Fadlalla Haeri and his teachings on Islam, Sufism, the Qur'an and universal indications for awakening. A treasure trove of recorded knowledge.
+image: assets/images/11.jpg
+---
 
 # Videos
 

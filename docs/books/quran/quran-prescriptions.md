@@ -1,6 +1,8 @@
+---
 title: Qur’an's Prescription for Life
-
 description: The purpose of this collection is to make the Qur’an accessible, with easy reference to key issues concerning life and the path of Islam.
+image: books/quran/img/quran-prescriptions.jpg
+---
 
 # Qur’an's Prescription for Life
 

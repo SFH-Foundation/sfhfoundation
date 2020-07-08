@@ -1,6 +1,8 @@
+---
 title: Islam and the Environment
-
-description:
+description: These talks present a contemporary Sufi view on the environment, ecology, sustainability and the growing awareness of human systems and our collective encroachment on natural systems.
+image: assets/images/17.jpg
+---
 
 # Islam and the Environment
 

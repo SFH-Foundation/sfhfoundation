@@ -1,6 +1,8 @@
+---
 title: Sweetening
-
-description: A collection of talks given by Shaykh Haeri which some more advanced students have recommended for those who are more familiar with the Shaykh's work and teachings.
+description: A collection of talks given by Shaykh Haeri which some more advanced students have recommended for those who are more familiar with Sufism and Islam.
+image: assets/images/05.jpg
+---
 
 # Sweetening
 

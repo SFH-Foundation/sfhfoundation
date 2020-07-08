@@ -1,5 +1,7 @@
 ---
 title: Keys to the Qur’an Volume Volume 3 - Commentary on Surah Yasin
+description: Surat Ya Sin is the heart of the Qur'an. It is the chapter of the Qur'an which is read over the dead; therefore it is a chapter of great importance to the living.
+image: books/quran/img/keys-3.jpg
 ---
 
 # Volume 3: Commentary on Surat Yasin

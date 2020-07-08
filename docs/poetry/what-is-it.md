@@ -1,4 +1,8 @@
+---
 title: What Is It?
+description: Timeless Sufi poetry for the soul
+image: assets/images/01.jpg
+---
 
 # What Is It?
 

@@ -1,4 +1,8 @@
+---
 title: Human Modesty
+description: Timeless Sufi poetry for the soul
+image: poetry/img/sfh_burn.jpg
+---
 
 # Human Modesty
 

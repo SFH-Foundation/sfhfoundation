@@ -1,6 +1,8 @@
+---
 title: Practices That Enhance the Experience of Human Life
-
-description:
+description: A long series which discusses the actual practices and methods for achieving transformation along the Sufi path. Intended for advanced students.
+image: assets/images/22.jpg
+---
 
 # Practices That Enhance Human Experience
 

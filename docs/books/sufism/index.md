@@ -1,6 +1,8 @@
+---
 title: Sufism and Self-Knowledge
-
-descrtiption: Sufism and Self-Knowledge Book Category
+descrtiption: An overview of Sufism and Self-Knowledge as described by Shaykh Fadhlalla Haeri, an acknowledged Sufi master and adept in the way of self-knowledge and transformation
+image: books/sufism/spectrum.jpg
+---
 
 # Sufism and Self-Knowledge
 

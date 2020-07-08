@@ -1,4 +1,8 @@
+---
 title: Journey 2 - Duality
+description: Short sufi indications for understanding duality and it's single source
+image: assets/images/22.jpg
+---
 
 # Journey 2 - Duality
 

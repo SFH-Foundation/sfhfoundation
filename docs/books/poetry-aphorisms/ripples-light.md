@@ -1,6 +1,8 @@
+---
 title: Ripples of Light
-
-description: These inspired aphorisms and poems are remedies for hearts that seek the truth.
+description: These inspired Sufi aphorisms and poems are remedies for hearts that seek the truth.
+images: books/poetry-aphorisms/img/ripples-light.jpg
+---
 
 # Ripples of Light
 

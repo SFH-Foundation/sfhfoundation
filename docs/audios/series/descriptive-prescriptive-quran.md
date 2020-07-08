@@ -1,6 +1,8 @@
+---
 title: Descriptive and Prescriptive Qur'an
-
-description:
+description: These talks cover various aspects of the Qur'anic prescriptions for living a good life and are meant for any modern seeker interested in the path of Sufism and Islam.
+image: assets/images/13.jpg
+---
 
 # Descriptive and Prescriptive Qur'an
 

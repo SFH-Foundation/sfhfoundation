@@ -1,6 +1,8 @@
+---
 title: The Hikam - The Wisdom of Ibn `Ata’ Allah
-
-description:
+description: The Hikam, or Wisdom, of the great Sufi Master Ibn `Ata’ Allah al-Iskandari has long been acknowledged as an essential and classic masterwork of the Islamic science of enlightenment.
+image: books/practices-teachings/img/hikam.jpg
+---
 
 # The Hikam - The Wisdom of Ibn `Ata' Allah
 

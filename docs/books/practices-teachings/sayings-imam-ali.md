@@ -1,6 +1,8 @@
+---
 title: The Sayings and Wisdom of Imam ’Ali
-
-description:
+description: Imam ’Ali, who was a cousin of the Prophet Muhammad, was the first man to accept Islam and for the next twenty-three years he was one of the Prophet’s closest companions. Here is a selection of this great man’s recorded sayings – gathered together from authentic and reliable sources.
+image: books/practices-teachings/img/sayings-imam-ali.jpg
+---
 
 # The Sayings and Wisdom of Imam ’Ali
 

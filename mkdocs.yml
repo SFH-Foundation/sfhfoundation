@@ -1,6 +1,6 @@
 # Project information
 site_name: SFH Foundation
-site_description: Self, Soul, and Joyful Surrender
+site_description: Self, soul, and yoyful surrender
 
 # Specific to set up
 site_url: https://sfh-foundation.github.io/sfhfoundation/
@@ -211,7 +211,8 @@ nav:
       - 'Enhancing Human Experience': 'audios/series/practice-enhance-experience.md'
       - 'Islam and the Environment': 'audios/series/islam-environment.md'
       - 'Abstention, Fasting, Conduct': 'audios/series/abstention-fasting.md'
-      - 'Qur’an Direct': 'audios/series/quran-direct.md'    
+      - 'Qur’an Direct': 'audios/series/quran-direct.md'
+      - 'Gateways to Enlightenment': 'audios/series/gateways-to-enlightenment.md'    
   - Articles:
     - 'Overview': 'articles/index.md'
     - 'Dhikr, Fikr, Himmah': 'articles/dhikr-fikr-himmah.md'

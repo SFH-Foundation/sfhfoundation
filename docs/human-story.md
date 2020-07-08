@@ -1,5 +1,7 @@
 ---
 title: The Human Story
+description: Our quest for freedom or liberation is an indication of our drive towards cosmic consciousness, which is both our origin and destiny. This site hosts the knowledge to help you along the cosmic journey from self to soul.
+image: assets/images/sfh_prayer.jpg
 ---
 
 # The Human Story

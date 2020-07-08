@@ -2,6 +2,7 @@
 title: Audio Stream
 template: overrides/rss-feed.html
 description: An automated feed of the latest talks released by the Shaykh Fadhlalla Haeri Foundation
+image: assets/images/20.jpg
 ---
 
 # Audios

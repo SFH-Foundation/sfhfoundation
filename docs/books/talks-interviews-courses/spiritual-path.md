@@ -1,5 +1,7 @@
 ---
 title: The Spiritual Path
+description: This book is a transcription of extensive interviews between Professor Ali A. Allawi and Shaykh Fadhlalla Haeri, conducted in South Africa during January - February of 2014.
+image: books/talks-interviews-courses/img/spiritual-path.jpg
 ---
 
 # The Spiritual Path

@@ -1,4 +1,8 @@
+---
 title: One Face
+description: Timeless Sufi poetry for the soul
+image: poetry/img/sfh_face.jpg
+---
 
 # One Face
 

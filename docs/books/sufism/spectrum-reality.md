@@ -1,6 +1,8 @@
+---
 title: Spectrum of Reality
-
-description: Spectrum of Reality synthesizes a comprehensive analysis of the human condition and the way we perceive reality. Shaykh Fadhlalla Haeri makes difficult concepts accessible, especially through the use of metaphors, allegories, and insights from modern science.
+description: This Sufi masterwork synthesizes a comprehensive analysis of the human condition and the way we perceive reality. Shaykh Fadhlalla Haeri makes difficult concepts accessible, especially through the use of metaphors, allegories, and insights from modern science.
+image: books/sufism/img/spectrum.jpg
+---
 
 # Spectrum of Reality: Sufi Insights
 

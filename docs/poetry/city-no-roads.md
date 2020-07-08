@@ -1,4 +1,8 @@
+---
 title: This City Has No Roads
+description: Timeless Sufi poetry for the soul
+image: poetry/img/sfh_thread_truth.jpg
+---
 
 # This City Has No Roads
 

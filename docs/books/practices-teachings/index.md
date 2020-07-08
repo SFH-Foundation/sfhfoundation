@@ -1,6 +1,8 @@
+---
 title: Practices and Teachings
-
-description: Practices and Teachings Book Category
+description: An overview of the Practices and Teachings described by Shaykh Fadhlalla Haeri, an acknowledged Sufi master and adept in the way of self-knowledge and transformation
+image: books/practices-teachings/journey-self.jpg
+---
 
 # Practices and Teachings
 

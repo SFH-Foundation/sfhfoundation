@@ -1,6 +1,8 @@
+---
 title: Overview - Articles
-
-description: An overview of all the articles written by Shaykh Fadlalla Haeri and the Foundation
+description: An overview of all the articles written by Shaykh Fadlalla Haeri covering various topics related to Sufism and Islam.
+image: assets/images/01.jpg
+---
 
 # Articles
 

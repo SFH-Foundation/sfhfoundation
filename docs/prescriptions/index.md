@@ -1,6 +1,8 @@
+---
 title: Prescriptions for the Optimum Life
-
-description: Overview of the various guides and maps provided by Shaykh Fadhlalla Haeri
+description: All the various Sufi, Islamic and Qur'anic guides and maps provided by Shaykh Fadhlalla Haeri
+image: assets/images/11.jpg
+---
 
 # Prescriptions for the Optimum Life
 

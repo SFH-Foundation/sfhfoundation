@@ -1,4 +1,8 @@
+---
 title: Enlightened Teachers
+description: Timeless Sufi poetry for the soul
+image: poetry/img/sfh_eid.jpg
+---
 
 # Enlightened Teachers
 

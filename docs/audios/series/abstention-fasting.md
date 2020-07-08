@@ -1,6 +1,8 @@
+---
 title: Abstention, Fasting and Better Conduct
-
-description:
+description: These talks are distilled presentations of the meanings of abstention and restriction as a process for awakening to truth and higher consciousness, with special focus on the Islamic path.
+image: assets/images/23.jpg
+---
 
 # Abstention, Fasting and Better Conduct
 

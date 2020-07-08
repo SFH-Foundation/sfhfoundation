@@ -1,4 +1,8 @@
+---
 title: Gravity
+description: Timeless Sufi poetry for the soul
+image: poetry/img/sfh_gravity.jpg
+---
 
 # Gravity
 

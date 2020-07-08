@@ -1,6 +1,8 @@
+---
 title: Friday Discourses
-
-description: In these Friday talks at the Rasooli Centre, Pretoria, South Africa, Shaykh Fadhlalla Haeri boldly addresses many topics that influence Muslims at the core of what it means to be a Muslim in today’s global village, and how to be transformed by truly living the Din of Islam.
+description: In these Friday talks at the Rasooli Centre in South Africa, Shaykh Fadhlalla Haeri addresses many topics that speak to the core of what it means to be a Muslim in today’s global village, and how to be transformed by truly living the Din of Islam.
+image: books/talks-interviews-courses/img/friday-discourses.jpg
+---
 
 # Friday Discourse
 

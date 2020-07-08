@@ -1,6 +1,8 @@
+---
 title: Aphorisms
-
-description: A collection of Shaykh Fadhlalla Haeri's aphorisms
+description: A collection of universal Sufi aphorisms written by Shaykh Fadhlalla Haeri
+image: assets/images/22.jpg
+---
 
 # Aphorism Journeys
 

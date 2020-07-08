@@ -1,5 +1,7 @@
 ---
-title: Keys to the Qur’an - Volume 5 The Juz Amma
+title: Keys to the Qur’an
+description: The message of the Qur’an emanates from the original Divine blueprint which also lies latent in the human heart. All of us seek the path of ease, knowledge, security, love and contentment.
+image: books/quran/img/keys-quran.jpg
 ---
 
 # Keys to the Qur’an

@@ -1,4 +1,8 @@
+---
 title: Big Questions
+description: Timeless Sufi poetry for the soul
+image: poetry/img/sfh_obsessed.jpg
+---
 
 # Big Questions
 

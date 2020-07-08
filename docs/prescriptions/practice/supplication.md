@@ -1,6 +1,8 @@
+---
 title: Supplication
-
 description: A brief description, with examples, of the practice of supplication and its benefits for any seeker.
+image: prescriptions/img/sfh_supplication.jpg
+---
 
 # The Practice of Supplication
 

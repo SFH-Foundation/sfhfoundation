@@ -1,4 +1,8 @@
+---
 title: Journey 11 - Balance
+description: Short sufi indications for living a more balanced life
+image: assets/images/07.jpg
+---
 
 # Journey 11 - Balance
 

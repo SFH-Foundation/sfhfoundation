@@ -1,6 +1,8 @@
+---
 title: The Shock of Awakening
-
 description: Succour for those experience inner realities which make them question their sanity in the context of an outer world and society which largely denies the existence of such states of consciousness.
+image: articles/img/sfh_divine_madness.jpg
+---
 
 # The Shock of Awakening
 
@@ -16,7 +18,7 @@ Like other seekers before and after him, he went to solitary places for his peri
 
 ## The Black Stone of the Ka‘bah
 
-When this has been seen, the seeker moves on single-pointedly to blacking out, symbolized by the Black Stone of the Ka‘bah. It's important to understand this symbol more deeply. We live in duality, and we seek to neutralize, but how do we neutralize? We neutralize our _nafs_ by [remaining silent](../practice-stillness), genuinely and positively. In that silence we have direct knowledge of the meaning of the Black Stone which is set into the corner of the Ka‘bah in Mecca. Few Muslims know the meaning of the Black Stone, even though they perform the rite of circling it and kissing it during the Ḥajj (pilgrimage) every year. Black contains all the colors — it symbolizes death, from which comes life. Life cannot be understood unless one is willing to die.
+When this has been seen, the seeker moves on single-pointedly to blacking out, symbolized by the Black Stone of the Ka‘bah. It's important to understand this symbol more deeply. We live in duality, and we seek to neutralize, but how do we neutralize? We neutralize our _nafs_ by [remaining silent](../../prescriptions/practice/stillness), genuinely and positively. In that silence we have direct knowledge of the meaning of the Black Stone which is set into the corner of the Ka‘bah in Mecca. Few Muslims know the meaning of the Black Stone, even though they perform the rite of circling it and kissing it during the Ḥajj (pilgrimage) every year. Black contains all the colors — it symbolizes death, from which comes life. Life cannot be understood unless one is willing to die.
 
 Thus the Prophet, _ṣalla-llāhu ‘alayhi wa ālihi wa sallam_, moves toward a state of no attributes, reaching, as the Sufis say, close to the suns of essence, moving away from the stars of attributes. First, he quietens his actions. Next, he moves into a subtler realm of attributes, and from there he crosses the boundary of essence. From that point on, one is traversing another realm. This process is not directly discernable or describable; another set of rules begins to apply. It is a no-man’s land where no one can help anybody else, except by discussing its outer boundaries. It is an experiential state that everyone interprets differently. It is like an event which causes a great shock and which everybody tries to describe in a different language. It is a taste, a higher taste; it is a great opening. It is the explosive germination of the heart.
 

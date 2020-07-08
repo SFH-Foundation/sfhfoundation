@@ -1,6 +1,8 @@
+---
 title: Emptying
-
-description: This page hosts a few, short videos which serve as a great starting point for those who are not at all familiar with Shaykh haeri and his work and teachings.
+description: A few, short videos which serve as a great starting point for those who are not at all familiar with Shaykh Haeri and his work and teachings.
+image: assets/images/07.jpg
+---
 
 # Emptying Out - The Beginning
 

@@ -1,5 +1,7 @@
 ---
 title: Keys to the Qur’an - Volume 5 The Juz Amma
+description: No happiness lasts unless it is based on the knowledge of Allah and submission to His intended purpose and ways. The Qur`an is the key to this awakening.
+image: books/quran/img/keys-5.jpg
 ---
 
 # Volume 5 The Juz Amma

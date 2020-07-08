@@ -1,4 +1,8 @@
+---
 title: Journey 13 - Awakening
+description: Short sufi indications for awakening to truth
+image: assets/images/07.jpg
+---
 
 # Journey 13 - Awakening
 

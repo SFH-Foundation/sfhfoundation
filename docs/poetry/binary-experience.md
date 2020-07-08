@@ -1,4 +1,8 @@
+---
 title: Binary Experience
+description: Timeless Sufi poetry for the soul
+image: poetry/img/sfh_binary.jpg
+---
 
 # Binary Experience
 

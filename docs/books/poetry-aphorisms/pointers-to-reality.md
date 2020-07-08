@@ -1,6 +1,8 @@
+---
 title: Pointers to Reality
-
-description: Consciousness is the cosmic mystery that provides all the ingredients to the majesty and beauty of Life and existence on earth. We take the simple day-to-day awareness of this Life for granted, without the respect that it deserves.
+description: This collection of Sufi aphorisms are meant to give you the sparks of delight required to continue searching for the purpose of life. Consciousness is the cosmic mystery that provides all the ingredients to the majesty and beauty of Life and existence on earth.
+image: books/poetry-aphorisms/img/pointers-reality.jpg
+---
 
 # Pointers to Reality
 

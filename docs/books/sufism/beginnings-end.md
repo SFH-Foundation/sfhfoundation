@@ -1,6 +1,8 @@
+---
 title: Beginning's End
-
-description: _Beginning's End_ is a contemporary outlook on the Sufi sciences of self-knowledge, intended for Muslims and non-Muslims alike.
+description: This book is a contemporary outlook on the Sufi sciences of self-knowledge, intended for Muslims and non-Muslims alike.
+image: books/sufism/img/beginnings-end.jpg
+---
 
 # Beginning's End
 

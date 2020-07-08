@@ -1,5 +1,7 @@
 ---
 title: Keys to the Qur’an Volume 4 - Commentary on Surahs Ankabut, Al-Rahman, Al-Waqi`ah and Al-Mulk
+description: These four interconnected chapters carry a message of balance and mercy, and of Divine Unity, compelling the reader to reflect on the interconnectedness of all facets of life.
+image: books/quran/img/keys-4.jpg
 ---
 
 # Volume 4: Commentary on Surah Ankabut, Al-Rahman, Al-Waqi`ah and Al-Mulk
