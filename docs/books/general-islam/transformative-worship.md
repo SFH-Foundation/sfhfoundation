@@ -18,16 +18,8 @@ This book bridges the traditional practices and beliefs, culture and language of
 
 ### Amazon
 
-<div class="center-text">Paperback</div>
-
 <div markdown="3" class="purchase-link">
 [Buy Now](https://www.amazon.com/gp/product/1919826769/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826769&linkId=18674c73433282ccbbf966489b36451a)
-</div>
-
-<div class="center-text">Kindle</div>
-
-<div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/B01JAGGN0K/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01JAGGN0K&linkId=14d0d183878674ee9200d91f245ab4cf)
 </div>
 
 ### Other Formats

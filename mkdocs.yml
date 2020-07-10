@@ -104,12 +104,14 @@ nav:
     - 'Publication Partners': 'books/pub-partners.md'
     - Sufism and Self-Knowledge: 
         - 'Introduction': 'books/sufism/index.md'
-        - 'Elements of Sufism': 'books/sufism/elements-sufism.md'
+        - 'The Garden of Meaning': 'books/sufism/garden-meaning.md'
         - 'Spectrum of Reality: Sufi Insights': 'books/sufism/spectrum-reality.md'
-        - 'The Sufi Way of Self-Enfoldment': 'books/sufism/sufi-self-enfoldment.md'
+        - 'Sufi Encounters': 'books/sufism/sufi-encounters.md'
+        - 'Journey of the Self': 'books/sufism/journey-self.md'
+        - 'Elements of Sufism': 'books/sufism/elements-sufism.md'
         - 'Witnessing Perfection: A Sufi Guide': 'books/sufism/witnessing-perfection.md'
-        - 'Lantern of the Path': 'books/sufism/lantern-path.md'
         - 'Beginning’s End': 'books/sufism/beginnings-end.md'
+        - 'The Sufi Way of Self-Enfoldment': 'books/sufism/sufi-self-enfoldment.md'
         - 'Leaves From A Sufi Journal': 'books/sufism/leaves-sufi-journal.md'
     - The Qur’an:
         - 'Introduction': 'books/quran/index.md'
@@ -141,8 +143,9 @@ nav:
     - General on Islam: 
         - 'Introduction': 'books/general-islam/index.md'
         - 'Transformative Worship in Islam': 'books/general-islam/transformative-worship.md'
-        - 'The Thoughtful Guide to Islam': 'books/general-islam/thoughtful-guide-islam.md'
         - 'Elements of Islam': 'books/general-islam/elements-islam.md'
+        - 'Lantern of the Path': 'books/general-islam/lantern-path.md'
+        - 'The Thoughtful Guide to Islam': 'books/general-islam/thoughtful-guide-islam.md'
         - 'Prophetic Traditions in Islam': 'books/general-islam/prophetic-traditions.md'
         - 'Living Islam - East & West': 'books/general-islam/living-islam.md'
         - Health Sciences - Early Islam:
@@ -286,8 +289,8 @@ nav:
     - 'Journey Words': 'glossary/journey-words.md' 
     - Sideways Dictionary:
       - 'What is the sideways dictionary?': 'glossary/sideways-dictionary/what-is-the-sideways-dictionary.md'
-  - Gatherings & News:
-    - 'Join Us': 'gatherings-news/index.md'
+  - Gatherings & Volunteers:
+    - 'Join Us': 'gatherings-volunteer/index.md'
     - Latest:
-      - 'COVID-19': 'gatherings-news/latest/index.md'
+      - 'COVID-19': 'gatherings-volunteer/latest/index.md'
       - 'Ramadan 2020': 'videos/conversations/uncommon-dialogues.md'

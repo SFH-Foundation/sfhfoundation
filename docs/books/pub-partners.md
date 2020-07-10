@@ -4,6 +4,14 @@ title: Zahra Publications Partners
 
 # Zahra Publications Partners
 
+Ebooks are available on Kindle, Kobo and Apple Bookstore. You can find these e-book links (and your local Amazon store links) here:
+
+<div markdown="3" class="purchase-link">
+[Zahra Publications](http://www.zahrapublications.pub/)
+</div>
+
+If you would like to enquire more about books by Shaykh Fadhlalla Haeri or would like to participate in book projects please email [zp@sfhfoundation.com](mailto:zp@sfhfoundation.com).
+
 Zahra Publications print titles are available at the following distribution partners across the world:
 
 ### USA
@@ -42,10 +50,66 @@ Ingram Book Company is a major distributor in the United States, distributing to
 - Peter Pal
 - University Co-operative Bookshop
 
-Ebooks are available on Kindle and Kobo. You can find these e-book links (and your local Amazon store links) here:
+## Global Connect Partners
 
-<div markdown="3" class="purchase-link">
-[Zahra Publications](http://www.zahrapublications.pub/)
-</div>
+### Brazil
 
-If you would like to enquire more about books by Shaykh Fadhlalla Haeri or would like to participate in book projects please email [zp@sfhfoundation.com](mailto:zp@sfhfoundation.com).
+- Meta Brasil
+
+- www.Amazon.com.br; www.Submarino.com.br; www.EstanteVirtual.com.br
+
+### China
+
+- Print partner: CNPIEC
+
+- Physical Connectivity: CNPIEC library catalog
+
+- www.Amazon.CNS
+
+### Germany
+
+- Print Partner: Books on Demand
+
+- Physical Connectivity: Libri (owners of BOD)
+
+- www.libri.de
+
+### India
+
+- Print partner: Repro Knowledgecast
+
+- www.Amazon.in; www.Flipkart.in; www.Snapdeal.in; www.Paytm.in; www.Infibeam.com; www.Rediff.com;  www.shopclues.com
+
+### Italy
+
+- Print partner: Rotomail
+
+- Physical Connectivity: Lampi di Stampa (Messeggerie Italiane); Rizzoli RCS; Messeggerie Internazionale; Mondadori
+
+### Poland
+
+- Print partner: Azymut
+
+- Physical Connectivity: PWN Bookstores
+
+- www.empik.com; www.Krainaksiazek.pl; www.Gigant.pl; www.Czytam.pl
+
+### Russia
+
+- Print partner: T8
+
+- www.ozon.ru; www.read.ru; www.books.ru
+
+### South Korea
+
+- Print Partner: KSI
+
+- www.Yes24.com; www.Aladdin.co.kr; www.Kyobo.co.kr; www.Interpark.com
+
+### Spain
+
+- Print partner: Podiprint
+
+- Physical Connectivity: CEGAL (Spanish Confederation of Guilds and Associations of Booksellers) 
+
+- www.casadellibro.com; www.carrefour.com.es; www.Buscalibre.es; www.Amazon.es; www.Fnac.es; www.elcorteingles.es

@@ -43,6 +43,20 @@ Topics covered are Islamic practices and theology, such as the cosmology and pur
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
+**The Lantern of the Path**
+
+<div markdown="2" class="book-image">
+![The Lantern of the Path](./img/lantern-path.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./lantern-path)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
 **The Thoughtful Guide to Islam**
 
 <div markdown="2" class="book-image">

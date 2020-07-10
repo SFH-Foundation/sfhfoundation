@@ -16,6 +16,20 @@ This collection offers a practical and accessible distillation of the _tawhidi_ 
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
+**The Garden of Meaning**
+
+<div markdown="2" class="book-image">
+![The Garden of Meaning](./img/garden-meaning.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./garden-meaning)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
 **Spectrum of Reality: Sufi Insights**
 
 <div markdown="2" class="book-image">
@@ -30,14 +44,28 @@ This collection offers a practical and accessible distillation of the _tawhidi_ 
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**The Sufi Way of Self-Enfoldment**
+**Sufi Encounters**
 
 <div markdown="2" class="book-image">
-![The Sufi Way of Self-Enfoldment](./img/sufi-self-enfoldment.jpg)
+![Sufi Encounters](./img/sufi-encounters.jpg)
 </div>
 
 <div markdown="3" class="book-link">
-[Read It](./sufi-self-enfoldment)
+[Read It](./sufi-encounters)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Journey of the Self**
+
+<div markdown="2" class="book-image">
+![Journey of the Self](./img/journey-self.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./journey-self)
 </div>
 
 </div>
@@ -72,20 +100,6 @@ This collection offers a practical and accessible distillation of the _tawhidi_ 
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**The Lantern of the Path**
-
-<div markdown="2" class="book-image">
-![The Lantern of the Path](./img/lantern-path.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./lantern-path)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
 **Beginning's End**
 
 <div markdown="2" class="book-image">
@@ -94,6 +108,20 @@ This collection offers a practical and accessible distillation of the _tawhidi_ 
 
 <div markdown="3" class="book-link">
 [Read It](./beginnings-end)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**The Sufi Way of Self-Enfoldment**
+
+<div markdown="2" class="book-image">
+![The Sufi Way of Self-Enfoldment](./img/sufi-self-enfoldment.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./sufi-self-enfoldment)
 </div>
 
 </div>

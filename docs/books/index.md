@@ -513,7 +513,7 @@ This collection of writings by Shaykh Fadhlalla Haeri offers the contemporary re
 **Look Again**
 
 <div markdown="2" class="book-image">
-![The Lantern of the Path](./poetry-aphorisms/img/look-again.jpg)
+![Look Again](./poetry-aphorisms/img/look-again.jpg)
 </div>
 
 <div markdown="3" class="book-link">
