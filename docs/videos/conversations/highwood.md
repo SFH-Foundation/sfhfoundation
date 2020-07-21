@@ -1,6 +1,8 @@
+---
 title: Highwood Talks
-
-description:
+description: A variety of Sufi talks and dialogues recorded at Shaykh Haeri's home in Mpumalanga, South Africa
+image: assets/images/p21.jpeg
+---
 
 # Highwood Talks
 

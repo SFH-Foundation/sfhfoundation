@@ -1,6 +1,8 @@
+---
 title: Surat al-Hadid Tafsir
-
 description: A collection of recordings showing Shaykh Fadhlalla and Shaykh Muslim in conversation about the 57th Surat of the Qur'an, Al Hadid.
+image: assets/images/14.jpg
+---
 
 # Surat al-Hadid Tafsir
 

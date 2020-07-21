@@ -1,6 +1,8 @@
+---
 title: Key Words
-
 description: Key Arabic words used on the website and their full explanantions
+image: assets/images/03.jpg
+---
 
 # Key Words
 

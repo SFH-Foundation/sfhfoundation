@@ -1,6 +1,7 @@
 ---
 title: The Verse of Light Commentary
 description: A series of 3 clips from 2005 in which Shaykh Fadhlalla Haeri discusses the deeper and subtle meanings behind Ayat Al-Nur, or the Verse of Light from the Qur'an.
+image: assets/images/20.jpg
 ---
 
 # The Verse of Light - Ayat al-Nur

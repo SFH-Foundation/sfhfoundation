@@ -1,6 +1,8 @@
+---
 title: The Present Time - COVID19
-
 description: A brief article addressing the urgent situation facing the world with the outbreak of a global pandemic and the resultant lockdowns all around the world.
+image: assets/images/16.jpg
+---
 
 # The Present Time - COVID-19
 

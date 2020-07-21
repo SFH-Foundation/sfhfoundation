@@ -1,6 +1,8 @@
+---
 title: Journey Words
-
 description: Key Arabic words used on the website specifically to do with journey or travel and their full explanantions
+image: assets/images/01.jpg
+---
 
 # Journey Words
 

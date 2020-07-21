@@ -8,16 +8,23 @@ Our intention is to open source knowledge that has previously not been available
 
 Follow these simple steps to get the website running locally so that you can start contributing to the way our teachings are presented.
 
-### Dependencies
+**Dependencies**:
 
-1. Git (v2.17.1 or above is recommended)
-2. Python (v2.7.17 is recommended) _Note: the maintainers use `python = python v2` and `python3 == python v3` for their local environments_
-3. [Mkdocs](https://www.mkdocs.org/) v1.0.4
+1. Python 2. I currently run version `2.7.17`
+2. [Mkdocs](https://www.mkdocs.org/). I currently run version `1.0.4`
+3. [mkdocs-minify-plugin](https://github.com/byrnereese/mkdocs-minify-plugin)
+4. [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
 
-### Getting Started
+_There can be some confusion setting up your environment given the mess that is Python 2 and 3. I have both installed on my machine and simply use `python` for Python 2 and `python3` for Python 3._
 
-1. `git clone https://github.com/SFH-Foundation/sfhfoundation/`
+![SFH Foundation env setup](docs/assets/images/sfh-env.png)
+
+**Steps to run locally**:
+
+1. `git clone https://github.com/SFH-Foundation/sfhfoundation.git`
 2. `cd sfhfoundation`
-3.  `mkdocs serve`
+3. `mkdocs serve`
+
+You can run `mkdocs build` to build the production site, but that shouldn't be necessary for contributions as you can simply use `serve` to check that your changes work before submitting a PR.
 
 

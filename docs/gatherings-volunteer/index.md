@@ -1,6 +1,8 @@
+---
 title: Join Us
-
 description: An overview of how you can help contribute to the SFH Foundation
+image: assets/images/05.jpg
+---
 
 # Join Our Community of Volunteers
 

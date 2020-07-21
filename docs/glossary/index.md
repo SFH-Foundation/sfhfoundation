@@ -1,6 +1,8 @@
+---
 title: Arabic Terms
-
-description: A glossary of commonly used Arabic terms across this website
+description: A glossary of commonly used Sufi, islamic and general Arabic terms across this website
+image: assets/images/24.jpg
+---
 
 # Arabic Terms
 

@@ -184,6 +184,20 @@ Shaykh Haeri's discussions with Dr Adnan Al-Adnani continue in a section of thei
 
 </div>
 
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Insights into Peak Experiences](../img/sfh_foundation.jpg)
+</div>
+
+**Insights into Peak Experiences**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=iE_3-5hhsT0)
+</div>
+
+</div>
+
 <div markdown="1" class="clear"></div>
 
 ![Aphorims Begin](../../assets/images/14.jpg)

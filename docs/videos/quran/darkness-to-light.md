@@ -1,6 +1,8 @@
+---
 title: From Darkness to Light
-
 description: A collection of talks given by Shaykh Haeri on the theme From Darkness to Light
+image: assets.images/01.jpg
+---
 
 # From Darkness to Light
 

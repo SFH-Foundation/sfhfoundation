@@ -147,6 +147,20 @@ This short series of 9 videos will give you a good introduction to Shaykh Haeri 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![Insights into Peak Experiences](./img/sfh_foundation.jpg)
+</div>
+
+**Insights into Peak Experiences**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=iE_3-5hhsT0)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Surrender and Transcendence](./img/sfh_foundation.jpg)
 </div>
 
@@ -294,20 +308,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Haeri 
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=Q_TF_U8jKX8)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Crisis of Islamic Civilisation](./img/sfh_foundation.jpg)
-</div>
-
-**The Crisis of Islamic Civilisation**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=CFaT26y91I8)
 </div>
 
 </div>

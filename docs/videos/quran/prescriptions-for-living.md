@@ -1,6 +1,8 @@
+---
 title: Prescriptions for Living 
-
 description: An older collection of talks given by Shaykh Fadhlalla Haeri in 2005 on the theme of Prescriptions for Living from the Holy Qur'an.
+image: assets/images/07.jpg
+---
 
 # Prescriptions for Living from the Holy Qur'an
 

@@ -1,6 +1,8 @@
+---
 title: Living Qur’an
-
 description: A collection of talks on the Qur’an broadcast fortnightly in the middle of 2020 as the world continues to deal with the fact of global pandemic.
+image: assets/images/22.jpg
+---
 
 # Living Qur’an
 

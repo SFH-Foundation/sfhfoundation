@@ -1,6 +1,8 @@
+---
 title: Surat al-Balad Tafsir
-
 description: A collection of recordings showing Shaykh Fadhlalla and Shaykh Muslim in conversation about the 57th Surat of the Qur'an, al-Balad.
+image: assets/images/10.jpg
+---
 
 # Surat al-Balad Tafsir
 

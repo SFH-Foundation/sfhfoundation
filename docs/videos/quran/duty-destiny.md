@@ -1,6 +1,8 @@
+---
 title: Human Duty and Destiny
-
 description: A collection of talks given by Shaykh Fadhlalla Haeri on the theme of Human Destiny and Duty
+image: assets/images/05.jpg
+---
 
 # Human Duty and Destiny as Illustrated in The Qur'an
 

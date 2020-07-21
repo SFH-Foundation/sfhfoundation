@@ -1,6 +1,8 @@
+---
 title: Ultimate Contentment
-
-description: A collection of videos in which Shaykh Fadhlalla Haeir discusses the theme of ultimate contentment
+description: A collection of Sufi videos in which Shaykh Fadhlalla Haeir discusses the theme of ultimate contentment.
+image: assets/images/24.jpg
+---
 
 # Ultimate Contentment
 
