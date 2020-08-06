@@ -22,13 +22,13 @@ The course takes us a step at a time towards the realization that we are outward
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/B01JD6CO82/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01JD6CO82&linkId=24de1a7659546a50ca1087ebebdccc22)
+[Amazon](https://www.amazon.com/gp/product/B01JD6CO82/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01JD6CO82&linkId=24de1a7659546a50ca1087ebebdccc22)
 </div>
 
-## Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-ASKCourseONE-TheSufiMapOfTheSelf.php#bookTitle)

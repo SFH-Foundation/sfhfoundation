@@ -1,6 +1,8 @@
+---
 title: Overview - Books
-
 description: An overview of all the books written by Shaykh Fadlalla Haeri
+image: books/zahra_logo.png
+---
 
 # Books
 
@@ -26,7 +28,7 @@ If you'd like to subscribe to our dedicated mailing list and receive updates dir
 
 ## Categories
 
-**Please Note:** If you'd like to purchase physical books, follow the Amazon links on each page. If there are hardcopies in stock, they are available there. Otherwise, we offer all our titles in Kindle, iBookStore, and Kobo versions (all of which are e-books). Kindle versions are also accessible through the same Amazon links.
+**Please Note**: If you would like to purchase printed books, kindly follow the Amazon links for each book. Alternatively if you are interested in e-books, kindly follow the link to Zahra Publications.
 
 <div markdown="1" class="card article sidebar center">
 
@@ -37,7 +39,7 @@ If you'd like to subscribe to our dedicated mailing list and receive updates dir
 </div>
 
 <div markdown="3" class="article-para">
-Known as _Tasawwuf_ by its practitioners, Sufism is often characterized as the ‘heart of Islam’. The Sufi engages in the conscious search for spiritual truths within the tradition of Islam, rooted in the Qur’an, and embodied in the example of the Prophetic Muhammad (S), who said: **"Whoever knows himself, knows his Lord."**
+Known as _Tasawwuf_ by its practitioners, Sufism is often characterized as the ‘heart of Islam’. The Sufi engages in the conscious search for spiritual truths within the tradition of Islam, rooted in the Qur’an, and embodied in the example of the Prophet Muhammad (S), who said: **"Whoever knows himself, knows his Lord."**
 </div>
 
 <div markdown="3" class="article-link">

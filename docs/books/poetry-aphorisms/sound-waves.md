@@ -18,13 +18,13 @@ Sound Waves is a collection of Shaykh Fadhlalla Haeri's aphorisms and maxims tha
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/B01IKY430U/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01IKY430U&linkId=d181ecc6f79818a9a8a01bc0381cc416)
+[Amazon](https://www.amazon.com/gp/product/B01IKY430U/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01IKY430U&linkId=d181ecc6f79818a9a8a01bc0381cc416)
 </div>
 
-## Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-SoundWaves.php#bookTitle)

@@ -16,6 +16,10 @@ A collection of selected sayings of the Prophet Muhammad, arranged in a way that
 
 ## Purchase
 
+### Printed Book
+
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/Nawawis-Forty-Hadith-Anthology-Muhammad/dp/B006T7K0DA/ref=sr_1_23?keywords=Sayings+of+the+Prophet+Muhammad&qid=1552380364&s=books&sr=1-23)
+[Amazon](https://www.amazon.com/Nawawis-Forty-Hadith-Anthology-Muhammad/dp/B006T7K0DA/ref=sr_1_23?keywords=Sayings+of+the+Prophet+Muhammad&qid=1552380364&s=books&sr=1-23)
 </div>
+
+** There is currently no e-book available for this title.

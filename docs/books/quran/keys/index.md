@@ -30,11 +30,13 @@ These commentaries on several essential chapters of the Qur'an are based on Shay
 
 ## Purchase
 
-### Paperback
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/1919826688/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826688&linkId=fb106603fcd6a5f22af5518bc0288910)
+[Amazon](https://www.amazon.com/gp/product/1919826688/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826688&linkId=fb106603fcd6a5f22af5518bc0288910)
 </div>
+
+** There is currently no e-book available for this the complete volume, though individual volumes do have e-book versions.
 
 
 

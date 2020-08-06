@@ -16,13 +16,13 @@ image: books/practices-teachings/img/helpful-illusions.jpg)
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/B01ITGN544/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01ITGN544&linkId=0c6ca204e2eac3e0507648bccf0aa800)
+[Amazon](https://www.amazon.com/gp/product/B01ITGN544/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01ITGN544&linkId=0c6ca204e2eac3e0507648bccf0aa800)
 </div>
 
-###  Other formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-101-Helpful-Illusions.php#bookTitle)

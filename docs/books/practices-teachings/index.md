@@ -42,20 +42,6 @@ This section of writings are primarily rooted in the _Ja’fari_ school which re
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
-**Happiness in Life and After Death**
-
-<div markdown="2" class="book-image">
-![Happiness in Life and After Death](./img/happiness-life-death.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./happiness-life-death)
-</div>
-
-</div>
-
-<div markdown="1" class="card book sidebar center gemoji center-content">
-
 **Journey of the Self**
 
 <div markdown="2" class="book-image">
@@ -126,6 +112,20 @@ This section of writings are primarily rooted in the _Ja’fari_ school which re
 
 <div markdown="1" class="card book sidebar center gemoji center-content">
 
+**Prophetic Traditions**
+
+<div markdown="2" class="book-image">
+![Prophetic Traditions in Islam](./img/prophetic-traditions.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./prophetic-traditions)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
 **Calling Allah By His Most Beautiful Names**
 
 <div markdown="2" class="book-image">
@@ -148,6 +148,20 @@ This section of writings are primarily rooted in the _Ja’fari_ school which re
 
 <div markdown="3" class="book-link">
 [Read It](./101-helpful-illusions)
+</div>
+
+</div>
+
+<div markdown="1" class="card book sidebar center gemoji center-content">
+
+**Happiness in Life and After Death**
+
+<div markdown="2" class="book-image">
+![Happiness in Life and After Death](./img/happiness-life-death.jpg)
+</div>
+
+<div markdown="3" class="book-link">
+[Read It](./happiness-life-death)
 </div>
 
 </div>

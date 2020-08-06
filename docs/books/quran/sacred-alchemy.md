@@ -20,8 +20,10 @@ The Qur’an is the ultimate reference guide in revealing hidden and manifest tr
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/0620711825/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=0620711825&linkId=40c3bc9e539f23e9aa5bcaf6511d87f0)
+[Amazon](https://www.amazon.com/gp/product/0620711825/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=0620711825&linkId=40c3bc9e539f23e9aa5bcaf6511d87f0)
 </div>
+
+** There is currently no e-book available for this title.

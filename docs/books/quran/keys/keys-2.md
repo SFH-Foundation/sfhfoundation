@@ -18,13 +18,13 @@ This chapter unveils truth and insight regarding the human self, society, this w
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/1928329012/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329012&linkId=b0b2dce3acca5da1959a26cfe6a31c05)
+[Amazon](https://www.amazon.com/gp/product/1928329012/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329012&linkId=b0b2dce3acca5da1959a26cfe6a31c05)
 </div>
 
-## Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-TheFamilyOfImran.php#bookTitle)

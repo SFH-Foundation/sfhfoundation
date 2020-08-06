@@ -16,13 +16,13 @@ Shaykh Fadhlalla Haeri emphasizes inner transformation and the refinement of con
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/B01IKZ5QIW/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01IKZ5QIW&linkId=5dbab3f9456e079c1e4c66608d0a5684)
+[Amazon](https://www.amazon.com/gp/product/B01IKZ5QIW/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01IKZ5QIW&linkId=5dbab3f9456e079c1e4c66608d0a5684)
 </div>
 
-### Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-PointersToPresence.php#bookTitle)

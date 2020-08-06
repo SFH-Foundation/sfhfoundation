@@ -16,13 +16,13 @@ The Essential Message of the Qur’an captures the spiritual significance of the
 
 ### Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/B01IYM63O2/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01IYM63O2&linkId=b9c4ea3c7d056b32ff0fae8e208a49f4)
+[Amazon](https://www.amazon.com/gp/product/B01IYM63O2/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01IYM63O2&linkId=b9c4ea3c7d056b32ff0fae8e208a49f4)
 </div>
 
-### Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-TheEssentialMessageOfQuran.php#bookTitle)

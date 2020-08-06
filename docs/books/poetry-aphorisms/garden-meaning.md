@@ -18,13 +18,13 @@ Human love for beauty, harmony and gardens simply reflects our desire to connect
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/1919826564/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826564&linkId=dc4e530e6215b8c46e0b56282160d567)
+[Amazon](https://www.amazon.com/gp/product/1919826564/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826564&linkId=dc4e530e6215b8c46e0b56282160d567)
 </div>
 
-### Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-TheGardenOfMeaning.php#bookTitle)

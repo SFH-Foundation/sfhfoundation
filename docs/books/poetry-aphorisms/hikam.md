@@ -20,13 +20,13 @@ With the publication of Shaykh Fadhlalla Haeri’s new translation and with the 
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/1928329063/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329063&linkId=2163b5925b7d9cb8dfbba7ee96741e2b)
+[Amazon](https://www.amazon.com/gp/product/1928329063/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329063&linkId=2163b5925b7d9cb8dfbba7ee96741e2b)
 </div>
 
-### Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-TheHikamTheWisdomOfIbnAtaAllah.php#bookTitle)

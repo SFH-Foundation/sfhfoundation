@@ -22,13 +22,13 @@ The message of the Qur'an emanates from the original Divine blueprint which also
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/1928329047/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329047&linkId=fb65b60fd27b0a496c45eda4b3ee5e08)
+[Amazon](https://www.amazon.com/gp/product/1928329047/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329047&linkId=fb65b60fd27b0a496c45eda4b3ee5e08)
 </div>
 
-### Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-BeamsOfIllumination.php#bookTitle)

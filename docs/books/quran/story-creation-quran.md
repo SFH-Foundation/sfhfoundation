@@ -16,13 +16,13 @@ This book is an exposition of the Qur’anic verses relating to the nature of ph
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/B01J1YDJRQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J1YDJRQ&linkId=04039656cf12c7a3d38c78aa92b14ca3)
+[Amazon](https://www.amazon.com/gp/product/B01J1YDJRQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J1YDJRQ&linkId=04039656cf12c7a3d38c78aa92b14ca3)
 </div>
 
-## Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-TheStoryOfCreationInTheQuran.php#bookTitle)

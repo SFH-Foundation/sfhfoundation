@@ -16,9 +16,11 @@ The Qur'an is a treasure trove providing guidance and help at all times and for 
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/1919826971/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826971&linkId=64d691f9bbd82473704ce9693a620e81)
+[Amazon](https://www.amazon.com/gp/product/1919826971/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826971&linkId=64d691f9bbd82473704ce9693a620e81)
 </div>
+
+** There is currently no e-book available for this title.
 

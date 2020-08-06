@@ -16,13 +16,13 @@ This book bridges the traditional practices and beliefs, culture and language of
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/1919826769/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826769&linkId=18674c73433282ccbbf966489b36451a)
+[Amazon](https://www.amazon.com/gp/product/1919826769/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826769&linkId=18674c73433282ccbbf966489b36451a)
 </div>
 
-### Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-TransformativeWorshipInIslam.php#bookTitle)

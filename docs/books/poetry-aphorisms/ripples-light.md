@@ -16,13 +16,13 @@ These inspired aphorisms and poems are remedies for hearts that seek the truth. 
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/B01IKYONJG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01IKYONJG&linkId=d72ac7765af1c2a3d2fe67a0ef9a336f)
+[Amazon](https://www.amazon.com/gp/product/B01IKYONJG/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01IKYONJG&linkId=d72ac7765af1c2a3d2fe67a0ef9a336f)
 </div>
 
-### Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-RipplesOfLight.php#bookTitle)

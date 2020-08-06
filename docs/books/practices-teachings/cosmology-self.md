@@ -18,13 +18,13 @@ This book is a practical and accessible distillation of the tawhidi (unitive) Is
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/B01J4LOCKO/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J4LOCKO&linkId=9bd5214d6f4fb636d9b8929b603e7898)
+[Amazon](https://www.amazon.com/gp/product/B01J4LOCKO/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J4LOCKO&linkId=9bd5214d6f4fb636d9b8929b603e7898)
 </div>
 
-### Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-CosmologyOfTheSelf.php#bookTitle)

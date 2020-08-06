@@ -18,13 +18,13 @@ _Witnessing Perfection_ addresses the concerns of those who are aware that an ur
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/1846941423/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1846941423&linkId=377b58411f8d68f595523c6f96341b61)
+[Amazon](https://www.amazon.com/gp/product/1846941423/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1846941423&linkId=377b58411f8d68f595523c6f96341b61)
 </div>
 
-### Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-WitnessingPerfection.php#bookTitle)

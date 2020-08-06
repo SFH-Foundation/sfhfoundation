@@ -20,13 +20,13 @@ Written by both classical and contemporary writers, this compilation includes co
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/B01J82P0H8/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J82P0H8&linkId=f90e23ca07b9cf27c61382fe4661af94)
+[Amazon](https://www.amazon.com/gp/product/B01J82P0H8/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J82P0H8&linkId=f90e23ca07b9cf27c61382fe4661af94)
 </div>
 
-### Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-LeavesFromASufiJournal.php#bookTitle)

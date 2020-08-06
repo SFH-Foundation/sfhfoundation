@@ -1,9 +1,9 @@
 # Project information
 site_name: SFH Foundation
-site_description: Self, soul, and yoyful surrender
+site_description: Self, soul, and joyful surrender
 
 # Specific to set up
-site_url: https://sfh-foundation.github.io/sfhfoundation/
+site_url: https://sfhfoundation.com/
 site_dir: public
 
 # Repository
@@ -132,11 +132,12 @@ nav:
         - 'Transformative Worship In Islam': 'books/practices-teachings/transformative-worship.md'
         - 'Spectrum of Reality: Sufi Insights': 'books/practices-teachings/spectrum-reality.md'
         - 'Journey of the Self': 'books/practices-teachings/journey-self.md'
-        - 'Happiness in Life and After Death': 'books/practices-teachings/happiness-life-death.md'
         - 'Decree and Destiny': 'books/practices-teachings/decree-destiny.md'
         - 'Calling Allah By His Most Beautiful Names': 'books/practices-teachings/calling-allah-beautiful-names.md'
         - 'Lantern of the Path': 'books/practices-teachings/lantern-path.md'
         - 'The Hikam': 'books/practices-teachings/hikam.md'
+        - 'Prophetic Traditions in Islam': 'books/practices-teachings/prophetic-traditions.md'
+        - 'Happiness in Life and After Death': 'books/practices-teachings/happiness-life-death.md'
         - '101 Helpful Illusions': 'books/practices-teachings/101-helpful-illusions.md'
         - 'The Sayings & Wisdom of Imam `Ali': 'books/practices-teachings/sayings-imam-ali.md'
         - 'Cosmology Of The Self': 'books/practices-teachings/cosmology-self.md'

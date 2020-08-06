@@ -16,13 +16,13 @@ This unique guide to spiritual psychology presents Western readers with an Islam
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/0062503766/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=0062503766&linkId=f44f5efca3895525cad37da54516d7b6)
+[Amazon](https://www.amazon.com/gp/product/0062503766/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=0062503766&linkId=f44f5efca3895525cad37da54516d7b6)
 </div>
 
-### Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-TheJourneyOfTheSelf.php#bookTitle)

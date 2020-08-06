@@ -18,8 +18,10 @@ Consciousness is the cosmic mystery that provides all the ingredients to the maj
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/1928329179/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329179&linkId=ab53455a151b84cbde5ed1f63e7a1b92)
+[Amazon](https://www.amazon.com/gp/product/1928329179/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329179&linkId=ab53455a151b84cbde5ed1f63e7a1b92)
 </div>
+
+** There is currently no e-book available for this title.

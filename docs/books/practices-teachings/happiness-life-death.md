@@ -20,13 +20,13 @@ Based on the Qur’an and Prophetic Message, this book offers a splendid collect
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/B01J81DSWI/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J81DSWI&linkId=eae58088f11224ae94ec16346aa9c73c)
+[Amazon](https://www.amazon.com/gp/product/B01J81DSWI/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01J81DSWI&linkId=eae58088f11224ae94ec16346aa9c73c)
 </div>
 
-### Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-HappinessInLifeAndAfterDeath.php#bookTitle)

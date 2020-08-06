@@ -24,13 +24,13 @@ Deeply engaging and inspiring for any serious seeker, these interviews were tran
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/B07QW35SXK/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B07QW35SXK&linkId=96eb2a3e58290528a48e15925207ce6a)
+[Amazon](https://www.amazon.com/gp/product/B07QW35SXK/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B07QW35SXK&linkId=96eb2a3e58290528a48e15925207ce6a)
 </div>
 
-### Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-TheSpiritualPath.php#bookTitle)

@@ -16,13 +16,13 @@ Shaykh Fadhlalla Haeri was born in the Iraqi holy city of Karbala, sacred to Shi
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/B01JEJCIIY/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01JEJCIIY&linkId=7527707af0fefcca8c4ee3737ea0f624)
+[Amazon](https://www.amazon.com/gp/product/B01JEJCIIY/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01JEJCIIY&linkId=7527707af0fefcca8c4ee3737ea0f624)
 </div>
 
-### Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-SonOfKarbala.php#bookTitle)

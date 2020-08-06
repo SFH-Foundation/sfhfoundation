@@ -16,13 +16,13 @@ This book is a transcript of a 1990 conversation with Shaykh Fadhlalla Haeri, in
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/B07SD7RRBZ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B07SD7RRBZ&linkId=5c8cd68be6d88abeed7c3d32807d3438)
+[Amazon](https://www.amazon.com/gp/product/B07SD7RRBZ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B07SD7RRBZ&linkId=5c8cd68be6d88abeed7c3d32807d3438)
 </div>
 
-### Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-TheConnection.php#bookTitle)

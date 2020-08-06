@@ -18,13 +18,13 @@ image: books/quran/img/keys-1.jpg
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/1928329004/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329004&linkId=bc08c11009a80108eb9086e95ab92e1d)
+[Amazon](https://www.amazon.com/gp/product/1928329004/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1928329004&linkId=bc08c11009a80108eb9086e95ab92e1d)
 </div>
 
-### Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-CommentariesOnCh1AndCh2OfQuran.php#bookTitle)

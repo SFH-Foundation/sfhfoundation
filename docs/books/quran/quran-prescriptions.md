@@ -16,13 +16,13 @@ The Qur’an is the foundation of the “Deen” (life-transaction), containing 
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/1919826904/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826904&linkId=9f798cb4ca3ea0e8c677a7e83eee4bbf)
+[Amazon](https://www.amazon.com/gp/product/1919826904/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=1919826904&linkId=9f798cb4ca3ea0e8c677a7e83eee4bbf)
 </div>
 
-### Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-TheQuranicPrescriptionForLife.php#bookTitle)

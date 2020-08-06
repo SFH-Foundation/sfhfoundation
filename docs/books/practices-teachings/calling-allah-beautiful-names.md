@@ -18,13 +18,13 @@ The primal design of human beings is based on an intrinsic knowledge of perfecti
 
 ## Purchase
 
-### Amazon
+### Printed Book
 
 <div markdown="3" class="purchase-link">
-[Buy Now](https://www.amazon.com/gp/product/B01ITJ5J1I/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01ITJ5J1I&linkId=7872ce0d392887eafe90f45da6f64134)
+[Amazon](https://www.amazon.com/gp/product/B01ITJ5J1I/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=zahrapublicat-20&creative=9325&linkCode=as2&creativeASIN=B01ITJ5J1I&linkId=7872ce0d392887eafe90f45da6f64134)
 </div>
 
-### Other Formats
+### E-Book
 
 <div markdown="3" class="purchase-link">
 [Zahra Publications](http://www.zahrapublications.pub/book-CallingAllahByHisMostBeautifulNames.php#bookTitle)
