@@ -250,3 +250,17 @@ This page presents a key selection of audio recordings from Shyakh Fadhlalla’s
 </div>
 
 </div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Heart to Heart](../videos/img/sfh_foundation.jpg)
+</div>
+
+**Heart to Heart**
+
+<div markdown="3" class="video-link">
+[Learn More](./series/heart-to-heart)
+</div>
+
+</div>

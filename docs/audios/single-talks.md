@@ -231,3 +231,25 @@ In this audio recording Shaykh Fadhlalla Haeri takes the listener on an incredib
 </div>
 
 <div markdown="1" class="clear"></div>
+
+## Inner Striving and Joy Are Inseparable
+
+In this discourse, Shaykh Fadhlalla begins by reflecting upon several of the major paradoxes and challenges facing human beings today. In a precise yet overarching manner, the challenges of modernity, history and the evolution of Islamic civilization in contrast to western society is considered. The wider elements of a materialistic world culture and the dominant social forces in the modern arena are contrasted with a framework for discerning and accessing the meanings of the current status quo on the variety of collective and individual issues facing human beings today. 
+
+This framework is built around the application and relatability of essential Islam; the revealed and distilled knowledges regarding natural patterns and the cycles of life; the purpose of human life and the pathways and indications in moving along the intended arc of human evolvement. Some key paradoxes on the path of abandonment are relayed: reduction and expansion; trust and responsibility; generosity and confinement with reference to various Qur’anic verse and prophetic teachings. The discourse elaborates upon the interplay of various forces in applying and relating knowledge appropriately so that we may witness and taste divine mercy in all circumstances, whilst persistently yearning and striving along the path of reality.
+
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
+
+<div markdown="2" class="video-image">
+![Inner Striving and Joy Are Inseparable](../videos/img/sfh_diff_same.jpg)
+</div>
+
+**Inner Striving and Joy Are Inseparable**
+
+<div markdown="3" class="video-link">
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Inner-Striving-and-Joy-Are-Inseparable-efi9gh)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>

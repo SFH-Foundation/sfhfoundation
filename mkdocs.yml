@@ -99,6 +99,47 @@ nav:
   - Home:
     - 'Human Story': 'human-story.md'
     - Newsletter: 'https://sfhfoundation.substack.com/'
+  - Videos:
+    - 'Overview': 'videos/index.md'
+    - Emptying: 'videos/beginning.md'
+    - Purifying: 'videos/purifying.md'
+    - Sweetening: 'videos/sweetening.md'
+    - Qur’an:
+      - 'Human Duty and Destiny': 'videos/quran/duty-destiny.md'
+      - 'Qur’an and Happiness': 'videos/quran/quran-happiness.md'
+      - 'From Darkness to Light': 'videos/quran/darkness-to-light.md'
+      - 'Sacred Expressions': 'videos/quran/sacred-expressions.md'
+      - 'Prescriptions for Living': 'videos/quran/prescriptions-for-living.md'
+      - 'The Verse of Light': 'videos/quran/verse-of-light.md'
+      - 'Surat al-Hadid': 'videos/quran/al-Hadid.md'
+      - 'Surat al-Balad': 'videos/quran/al-Balad.md'
+    - ASK:
+      - '2012': 'videos/ask/2012.md'
+      - '2013': 'videos/ask/2013.md'
+    - Conferences:
+      - '2018 - What Are We Seeking?': 'videos/conferences/2018.md'
+      - '2019 - The Human Quest': 'videos/conferences/2019.md'
+      - '2020 - Reflections and Actions': 'videos/conferences/2020.md'
+    - Conversations:
+        - 'Highwood': 'videos/conversations/highwood.md'
+        - 'Uncommon Dialogues': 'videos/conversations/uncommon-dialogues.md'
+        - 'Living Qur’an': 'videos/conversations/living-quran.md'
+        - 'Collected Interactions': 'videos/conversations/collected.md'
+        - 'Ultimate Contentment': 'videos/conversations/ultimate-contentment.md'
+  - Audios:
+    - 'Most Recent': 'audios/index.md'
+    - 'Guide to Listening': 'audios/guide.md'
+    - 'Single Talks': 'audios/single-talks.md'
+    - Series:
+      - 'Enlightenment': 'audios/series/enlightenment.md'
+      - 'Refinement of Character': 'audios/series/refinement-character.md'
+      - 'Descriptive, Prescriptive Qur’an': 'audios/series/descriptive-prescriptive-quran.md'
+      - 'Enhancing Human Experience': 'audios/series/practice-enhance-experience.md'
+      - 'Islam and the Environment': 'audios/series/islam-environment.md'
+      - 'Abstention, Fasting, Conduct': 'audios/series/abstention-fasting.md'
+      - 'Qur’an Direct': 'audios/series/quran-direct.md'
+      - 'Gateways to Enlightenment': 'audios/series/gateways-to-enlightenment.md'  
+      - 'Heart to Heart': 'audios/series/heart-to-heart.md'
   - Books:
     - 'Overview': 'books/index.md'
     - 'Publication Partners': 'books/pub-partners.md'
@@ -176,47 +217,7 @@ nav:
     - Biography:
         - 'Introduction': 'books/biography/index.md'
         - 'Son of Karbala': 'books/biography/son-karbala.md'
-        - 'Sufi Encounters': 'books/biography/sufi-encounters.md'
-  - Videos:
-    - 'Overview': 'videos/index.md'
-    - Emptying: 'videos/beginning.md'
-    - Purifying: 'videos/purifying.md'
-    - Sweetening: 'videos/sweetening.md'
-    - Qur’an:
-      - 'Human Duty and Destiny': 'videos/quran/duty-destiny.md'
-      - 'Qur’an and Happiness': 'videos/quran/quran-happiness.md'
-      - 'From Darkness to Light': 'videos/quran/darkness-to-light.md'
-      - 'Sacred Expressions': 'videos/quran/sacred-expressions.md'
-      - 'Prescriptions for Living': 'videos/quran/prescriptions-for-living.md'
-      - 'The Verse of Light': 'videos/quran/verse-of-light.md'
-      - 'Surat al-Hadid': 'videos/quran/al-Hadid.md'
-      - 'Surat al-Balad': 'videos/quran/al-Balad.md'
-    - ASK:
-      - '2012': 'videos/ask/2012.md'
-      - '2013': 'videos/ask/2013.md'
-    - Conferences:
-      - '2018 - What Are We Seeking?': 'videos/conferences/2018.md'
-      - '2019 - The Human Quest': 'videos/conferences/2019.md'
-      - '2020 - Reflections and Actions': 'videos/conferences/2020.md'
-    - Conversations:
-        - 'Highwood': 'videos/conversations/highwood.md'
-        - 'Uncommon Dialogues': 'videos/conversations/uncommon-dialogues.md'
-        - 'Living Qur’an': 'videos/conversations/living-quran.md'
-        - 'Collected Interactions': 'videos/conversations/collected.md'
-        - 'Ultimate Contentment': 'videos/conversations/ultimate-contentment.md'
-  - Audios:
-    - 'Most Recent': 'audios/index.md'
-    - 'Guide to Listening': 'audios/guide.md'
-    - 'Single Talks': 'audios/single-talks.md'
-    - Series:
-      - 'Enlightenment': 'audios/series/enlightenment.md'
-      - 'Refinement of Character': 'audios/series/refinement-character.md'
-      - 'Descriptive, Prescriptive Qur’an': 'audios/series/descriptive-prescriptive-quran.md'
-      - 'Enhancing Human Experience': 'audios/series/practice-enhance-experience.md'
-      - 'Islam and the Environment': 'audios/series/islam-environment.md'
-      - 'Abstention, Fasting, Conduct': 'audios/series/abstention-fasting.md'
-      - 'Qur’an Direct': 'audios/series/quran-direct.md'
-      - 'Gateways to Enlightenment': 'audios/series/gateways-to-enlightenment.md'    
+        - 'Sufi Encounters': 'books/biography/sufi-encounters.md'  
   - Articles:
     - 'Overview': 'articles/index.md'
     - 'Dhikr, Fikr, Himmah': 'articles/dhikr-fikr-himmah.md'
