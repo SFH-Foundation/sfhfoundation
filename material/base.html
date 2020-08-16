@@ -7,6 +7,14 @@
 <!doctype html>
 <html lang="{{ lang.t('language') }}" class="no-js">
   <head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-175201009-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-175201009-1');
+    </script>
     {% block site_meta %}
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -90,11 +98,6 @@
     {% for path in config["extra_css"] %}
       <link rel="stylesheet" href="{{ path | url }}">
     {% endfor %}
-    {% block analytics %}
-      {% if config.google_analytics %}
-        {% include "partials/integrations/analytics.html" %}
-      {% endif %}
-    {% endblock %}
     {% block amazon %}
       <div id="amzn-assoc-ad-1d598660-b8ce-40e3-bf6d-571dbfe07544"></div>
       <script async src="https://z-na.associates-amazon.com/onetag/v2?MarketPlace=US&instanceId=1d598660-b8ce-40e3-bf6d-571dbfe07544"></script> 
