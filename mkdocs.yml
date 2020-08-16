@@ -97,10 +97,11 @@ markdown_extensions:
 # Page tree
 nav:
   - Home:
-    - 'Human Story': 'human-story.md'
+    - About: 'about.md'
+    - Human Story: 'human-story.md'
     - Newsletter: 'https://sfhfoundation.substack.com/'
   - Videos:
-    - 'Overview': 'videos/index.md'
+    - Overview: 'videos/index.md'
     - Emptying: 'videos/beginning.md'
     - Purifying: 'videos/purifying.md'
     - Sweetening: 'videos/sweetening.md'
@@ -141,8 +142,8 @@ nav:
       - 'Gateways to Enlightenment': 'audios/series/gateways-to-enlightenment.md'  
       - 'Heart to Heart': 'audios/series/heart-to-heart.md'
   - Books:
-    - 'Overview': 'books/index.md'
-    - 'Publication Partners': 'books/pub-partners.md'
+    - Overview: 'books/index.md'
+    - Publication Partners: 'books/pub-partners.md'
     - Sufism and Self-Knowledge: 
         - 'Introduction': 'books/sufism/index.md'
         - 'The Garden of Meaning': 'books/sufism/garden-meaning.md'
