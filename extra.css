@@ -122,6 +122,33 @@
     text-align: center;
   }
 
+  .callout {
+    border: 1px solid #0E879B;
+    border-radius: 5px;
+    font-weight: 500;
+    background-color: #DAF0FC;
+    padding: 10px;
+    box-shadow: 0 0 .2rem rgba(0,0,0,.1),0 .2rem .4rem rgba(0,0,0,.2);
+  }
+
+  .callout1 {
+    background-image: linear-gradient(to right, #D3E4F1, #ffffff);
+    padding: 20px;
+    font-weight: 400;
+  }
+
+  .callout2 {
+    background-color: #D3E4F1;
+    padding: 20px;
+    font-weight: 400;
+  }
+
+  .callout3 {
+    background-color: #EBF3F9;
+    padding: 20px;
+    font-weight: 400;
+  }
+
   .clear {
     clear: both;
   }
