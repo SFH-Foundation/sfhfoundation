@@ -4,14 +4,9 @@ description: A collection of talks given by Shaykh Haeri considered by his stude
 image: assets/images/23.jpg
 ---
 
-# Purifying
-
-## Overarching Ideas
-
 These four videos are a broad stroke presentation of Shaykh Fadhlalla’s work. Regard these excerpts as introductory illustrations of key tenets of the essentail teaching. The three basic pillars of **Islam** are (surrender, submission, acceptance), **Iman** (trust, faith) and **Ihsan** (contentment, excellence). Harmonious and wholesome interactions and behaviour with the phenomenal world is seamlessly connected to divinity.  
 
-Being correct and courteous in all of one's outer actions naturally leads one to begin questioning the meanings behind the dynamics of activity. This inquiry is born and fostered through faith; awareness; trust in the oneness of reality; and an evolving, unfolding knowing that grows from seeing and examining yourself, your thoughts, and your actions within the wider framework of three of life's major forces - connection, continuity and consciousness. This most useful and broad map, when applied with awareness and understanding, can assist one in progressively witnessing the perfection of the moment, and resonating with the immensity of the unchanging now.
-
+Being correct and courteous in all our actions naturally leads us to question the meanings behind the dynamics of all activity. True inquiry is born and fostered through faith; awareness; trust in the oneness of reality; and an evolving, unfolding knowing that grows from seeing and examining yourself, your thoughts, and your actions within the wider framework of three of life's major forces - connection, continuity and consciousness. This most useful and broad map, when applied with awareness and understanding, can assist one in progressively witnessing the perfection of the moment, and resonating with the immensity of the unchanging now.
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -75,7 +70,7 @@ We often search for what is labelled as Truth, God, Reality or The One. People w
 
 Many search for a path to the Divine, though few seem to find one which is durable, sustainable and can serve as a container capable of bearing them along the entire distance they must travel (while revealing that distance to be just another illusion!).  
 
-A tried and tested truth, though, is that more the _[nafs](../../glossary/key-words)_ is restricted, the narrower the path becomes and the  brighter the light of the soul. Everyone is on a path, whether consciously or unconsciously. The important thing is to have a trustworthy reference. On a jagged path, that reference will bring you back to easy passage. Then you are more efficient in realizing presence, uniting the visible and invisible, and returning to One.    
+A tried and tested truth, though, is that the more the self is restricted, the narrower the path becomes and the  brighter the light of the soul. Everyone is on a path, whether consciously or unconsciously. The important thing is to have a trustworthy reference. On a jagged path, that reference will bring you back to easy passage. Then you are more efficient in realizing presence, uniting the visible and invisible, and returning to One.    
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -289,7 +284,7 @@ Frustrations arise out of the disparity between our higher Soul consciousness an
 
 The zone of higher consciousness is infinite and beyond all descriptions like joy, bliss or happiness. A good example of how to move to higher consciousness is riding a bicycle. You are put on the saddle and somebody pushes you. After a while you learn to balance and you feel you can repeat it on your own. Similarly, you first need a map of Reality, and you then follow the path that may lead to your destination.  
 
-Determination and grace are required to awaken to your Soul. It is when you experience that ever-present Reality, you know that your old self was merely a shadow, of the Real. When you transcend your tyrannical or feral self, you perceive that its role was to cause that suffering and thereby act as a prelude for awakening. Your lower self leads you to your real self – the divine spirit within. Life on earth is a struggle because it is a realm of experience between limitations and limitless Reality. You need help and a guiding hand. You need a reference. You need Grace and perception of the sacred presence.    
+Determination and grace are required to awaken to your Soul. It is when you experience that ever-present Reality, you know that your old self was merely a shadow of the Real. When you transcend your tyrannical or feral self, you perceive that its role was to cause that suffering and thereby act as a prelude for awakening. Your lower self leads you to your real self – the divine spirit within. Life on earth is a struggle because it is a realm of experience between limitations and limitless Reality. You need help and a guiding hand. You need a reference. You need Grace and perception of the sacred presence.    
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -407,7 +402,7 @@ Determination and grace are required to awaken to your Soul. It is when you expe
 
 ## Where Land Meets Sea - A Selection
 
-Where Lands Meets Sea is a YouTube channel curated by friends of the Shaykh Fadhlalla Haeri Foundation based in Sweden. We encourage you to watch as many of the videos as you can make time for in this fantastic selection. Below, we list some choice clips we have been enjoying:
+Where Lands Meets Sea is a YouTube channel curated by friends of the Shaykh Fadhlalla Haeri Foundation based in Sweden. We encourage you to watch as many of the videos as you can make time for in their selection.
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 

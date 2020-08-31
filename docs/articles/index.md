@@ -11,7 +11,7 @@ image: assets/images/01.jpg
 **Dhikr, Fikr, and Himmah**
 
 <div markdown="2" class="article-image">
-![Dhikr](../assets/images/01.jpg)
+![Dhikr](../assets/images/red_flower.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -29,7 +29,7 @@ A basic introduction to three critical and interrelated aspects of The Path: rem
 **Less is More**
 
 <div markdown="2" class="article-image">
-![Sufis](../assets/images/11.jpg)
+![Sufis](../assets/images/yellow_flower_sm.jpg)
 </div>
 
 <div markdown="3" class="article-para">

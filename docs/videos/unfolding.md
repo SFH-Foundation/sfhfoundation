@@ -1,20 +1,16 @@
 ---
-title: Sweetening
+title: Unfolding
 description: A collection of talks given by Shaykh Haeri which some more advanced students have recommended for those who are more familiar with Sufism and Islam.
 image: assets/images/05.jpg
 ---
 
-# Sweetening
-
-We suggest that you facilitate your understanding and engagement of the content on this page first by becoming familiar with the teachings and theme’s collected on the [Beginning](../beginning) and [Learning](../learning) pages. This will serve as a most suitable ground for interacting and absorbing these selected talks in which Shaykh Fadhlallah speaks in detail about important and subtle aspects of his work and the tradition of which he is a part.
+We suggest that you facilitate your understanding and engagement of the content on this page by first becoming familiar with the teachings and theme’s collected on the [Emptying](../emptying) and [Purifying](../purifying) pages. This will serve as a most suitable foundation for interacting and absorbing these selected talks in which Shaykh Fadhlallah speaks in detail about important and subtle aspects of his work and the tradition of which he is a part.
 
 ## The Inseparability of Humanity and Divinity
 
-The universe is interconnected at countless levels from the most minute to the galactic. It is the extent of discernibility of these connections and forces that is sought by us. The newly born baby connects with its mother. After a few weeks emotions develop; eye contact and feelings bring about deeper connections. With maturity; subtler senses, feelings and connections develop.     
+The universe is interconnected at countless levels from the most minute to the galactic. We seek to discern these connections and forces. Consciousness of connections originates from our soul, though it may take physical, chemical, intellectual and other dimensions. From that origin, numerous forces of connectedness emerge, most of which are invisible. The different levels of connectedness and their priorities are understood due to the mind, which is illumined by the soul.
 
-Consciousness of connections originates from our soul within the heart and takes physical chemical, intellectual and other dimensions. From that origin, numerous forces of connectedness emerge, most of which are invisible.
-
-The different levels of connectedness and their priorities are understood due to the mind, which is illumined by the soul.
+This interconnectedness may be felt through a lived experience of timelessness, along with a total acceptance that the darkness of our temporary state is only understood due to the light of the permanent soul within.
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -72,9 +68,11 @@ The different levels of connectedness and their priorities are understood due to
 
 </div>
 
+<div markdown="1" class="clear"></div>
+
 ## Duality, Locality and Worldly Wisdom
 
-Quieting the mind is achieved only by discipline and proper behaviour, by living according to proper laws that govern all interactions. This is what is called _shari’ah_. So far, what we have been talking about is _haqiqah_, the inner reality: the individual and the secret of beingness and unity. In order to contain and conserve energy, the individual must move within certain boundaries, be governed by certain basic laws. The source of this knowledge is imprinted in the chromosomes of the individual. "Don’t do to others what you don’t want done to yourself." This is the basis of all moral conduct – the basis of all religions before they became tarnished and adapted, and all sorts of superimpositions were put onto them. It is the absolute code of behaviour. Unless we have correct outward behaviour, we cannot change inwardly.
+Quieting the mind is achieved only by discipline and proper behaviour, by living according to proper laws that govern all interactions. This is what is called _shari’ah_. So far, what we have been talking about is _haqiqah_, the inner reality: the individual and the secret of beingness and unity. In order to contain and conserve energy, the individual must move within certain boundaries, be governed by certain basic laws. The source of this knowledge is imprinted in the chromosomes of the individual. "Don’t do to others what you don’t want done to yourself." This is the basis of all moral conduct – the basis of all religions before they became tarnished.. Unless we have correct outward behaviour, we cannot change inwardly.
 
 _From the book “[The Sufi Way to Self-Unfoldment](../../books/sufism/sufi-self-enfoldment)”_ 
 
@@ -190,11 +188,17 @@ _From the book “[The Sufi Way to Self-Unfoldment](../../books/sufism/sufi-self
 
 </div>
 
+<div markdown="1" class="clear"></div>
+
 ## Now Is Eternal
        
 Identity relates to mind, memory and time. Thoughts connect the past to the present and future. Reflection, meditation and the silent mind enable us to experience the immense present moment – now.  
 
-Much human effort is expended to reduce distance and separation. As for time, we try to go faster than all possibilities or, more effectively, to stop time altogether. Our human conditioned consciousness drives us towards stillness in mind, which opens the door of timelessness and perpetual presence. All human endeavours lead to a point of experience, which occurs when the mind is content and still. The moment of success or heightened pleasure reflects this state. Within the still moment lies the zone of transcendence of mind and time. That is the infinitude of Reality.  
+We are driven to reduce reduce distance and separation, and to move ever faster. However, it is more effective to stop time altogether. Our human conditioned consciousness drives us towards stillness in mind, which opens the door of timelessness and perpetual presence. All human endeavours lead to a point of experience, which occurs when the mind is content and still. The moment of success or heightened pleasure reflects this state. 
+
+<div class="callout1">
+Within the still moment lies the zone of transcendence of mind and time. That is the infinitude of Reality.  
+</div>
 
 When the past is lost  
 and the future is of no concern,   
@@ -290,11 +294,11 @@ that yields a lasting thrill.
 
 ## Witnessing Contentment
 
-The nature of the human self is not to accept blame or responsibility. Hence, an immature person accuses others when experiencing difficulties, hardship or suffering. The evolved person blames himself, however, for ignorance and lack of wisdom and takes responsibility for what has gone wrong. A difficulty is regarded as a good lesson. Constrictions can lead to new knowledge and openings. The habit of self-pity and psychological suffering is a great handicap in one’s life. In order to get out of the case of reinforcing suffering, constant watchfulness of the self’s tendency to justify itself whilst blaming others is required.   
+The nature of the human self is not to accept blame or responsibility. An immature person accuses others when experiencing difficulties, hardship or suffering. However, the evolved person blames themself and takes responsibility for what has gone wrong. A difficulty is regarded as a good lesson. Constrictions can lead to new knowledge and openings. The habit of self-pity and psychological suffering is a great handicap in life. In order to avoid reinforcing suffering, constant watchfulness of the self’s tendency to justify itself whilst blaming others is required.    
 
-Constrictions can lead to new knowledge and openings. The habit of self-pity and psychological suffering is a great handicap in one’s life. In order to get out of the case of reinforcing suffering, constant watchfulness of the self’s tendency to justify itself whilst blaming others is required.  
-
-When you blame others the ego is protected for a while, but if you blame yourself greater wisdom and fresh insights are the rewards.  
+<div class="callout1">
+When you blame others the ego is protected for a while, but if you blame yourself greater wisdom and fresh insights are the rewards. 
+</div> 
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -352,15 +356,19 @@ When you blame others the ego is protected for a while, but if you blame yoursel
 
 </div>
 
+<div markdown="1" class="clear"></div>
+
 If this topic truly interests you, please take a look at this page which is devoted to a series of talks Shaykh Fadhlalla gave on the theme of [Ultimate Contentment](../conversations/ultimate-contentment).
 
 ## Light
 
 A mature mind can recognize what is transient and changeable and what is more durable. We enjoy the changing seasons and excitement of uncertainty, but our main quest is for what is reliable and constant. A relationship that connects human excitement and stimulation with spiritual stability and tranquillity is a durable relationship.  
 
-There are endless levels of realities and the higher points are near the origin of what is constant and perpetual. Whatever reminds us of the ever-present is generally a desirable state. The ever-changing ego celebrates its perpetual origin, the soul within the heart, with remembrance of birthdays or other reminders of the Real.
+There are endless levels of realities and the higher points are near the origin of what is constant and perpetual. Whatever reminds us of the ever-present is generally a desirable state. The ever-changing ego celebrates its perpetual origin, the soul within the heart.
 
-**_The soul is a reflector of what is eternal and perpetual and enables us to appreciate an experience of eternal Reality._**  
+<div class="callout1">
+The soul is a reflector of what is eternal and perpetual and enables us to appreciate an experience of eternal Reality.
+</div>
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -436,11 +444,13 @@ There are endless levels of realities and the higher points are near the origin 
 
 ## True Beams
 
-There are always at least two viewpoints at any time. You can face the past or the future, origin or destination. You observe and hear what is outside of you or reflect upon your inner senses and feelings. You are always held in between these two zones and desire balance and stability. This tension enables us to grow and evolve physically, mentally and spiritually.   
+There are always at least two viewpoints at any time. You can face the past or the future, origin or destination. You can observe and hear what is external, or reflect upon your inner senses and feelings. You are always held in between these two zones and desire balance and stability. This tension enables us to grow and evolve physically, mentally and spiritually.   
 
 Everything that exists has an outer and an inner facet, which are in balance. For a youngster, most experiences are due to sensory stimulation. For an adult there is outer and inner consciousness. For an awakened being the outer and inner are seamlessly bound together due to the emergence of the light of the Oneness.  
 
-**_Discriminating between outer and inner is the first step to realizing their inseparability in essence._**    
+<div class="callout1">
+Discriminating between outer and inner is the first step to realizing their inseparability in essence.
+</div>    
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 

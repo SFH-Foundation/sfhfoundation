@@ -6,9 +6,9 @@ image: assets/images/07.jpg
 
 # Emptying Out - The Beginning
 
-Human beings are driven to higher consciousness by prayer, meditation and a host of creative pursuits such as the arts, music and other transcendental activities, all of which reflect our yearning to return to a blissful state of contented happiness - paradise. It is ultimately supreme consciousness that we all desire, here and now.
+Human beings are driven to higher consciousness by prayer, meditation and a host of creative pursuits, all of which reflect our yearning to return to a blissful state of contented happiness - paradise. It is ultimately supreme consciousness that we all desire, here and now.
 
-Through submission, we come to realize that the direction of the life-force in human beings is towards experiencing the mysterious grace of Sacred Presence. If there is a purpose in life it is **to know that life is eternal and intrinisically utterly perfect**, irrespective of short term human perception. The prophetic revelations emphasize the need for human beings to accept responsibility for their intentions and actions and to willfully desire higher levels of consciousness and insight, i.e. knowledge of God.
+To live fully in presence, we must accept responsibility for their intentions and action. Through submission, we come to realize that the direction of the life-force in human beings is towards experiencing the mysterious grace of Sacred Presence. If there is a purpose in life it is **to know that life is eternal and intrinisically utterly perfect**, irrespective of short term human perception.
 
 Take your time and go carefully through the following 9 videos in order to get a deeper sense of some of the basic tenets of Shaykh Haeri's teaching and practice.
 

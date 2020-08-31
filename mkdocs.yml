@@ -102,9 +102,9 @@ nav:
     - Newsletter: 'https://sfhfoundation.substack.com/'
   - Videos:
     - Overview: 'videos/index.md'
-    - Emptying: 'videos/beginning.md'
+    - Emptying: 'videos/emptying.md'
     - Purifying: 'videos/purifying.md'
-    - Sweetening: 'videos/sweetening.md'
+    - Unfolding: 'videos/unfolding.md'
     - Qur’an:
       - 'Human Duty and Destiny': 'videos/quran/duty-destiny.md'
       - 'Qur’an and Happiness': 'videos/quran/quran-happiness.md'
@@ -296,4 +296,4 @@ nav:
     - 'Join Us': 'gatherings-volunteer/index.md'
     - Latest:
       - 'COVID-19': 'gatherings-volunteer/latest/index.md'
-      - 'Ramadan 2020': 'videos/conversations/uncommon-dialogues.md'
+      - 'Ramadan 2020': 'gatherings-volunteer/latest/uncommon-dialogues.md'
