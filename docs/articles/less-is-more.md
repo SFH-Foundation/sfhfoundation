@@ -6,7 +6,7 @@ image: assets/images/09.jpg
 
 # Less Is More
 
-_By Shaykh Fadhlalla Haeri and Muneera Haeri, from the book ["Sufi Links – Illumined Encounters"](../../books/biography/sufi-encounters/)_
+_By Shaykh Fadhlalla Haeri and Muneera Haeri, from the book ["Sufi Links – Illumined Encounters"](https://www.watkinspublishing.com/shop/sufi-encounters/)_
 
 The accomplished Master will help the seeker to focus on his goal and the devotee to give up attachment to everything. It is important to see the teachings of the Prophets and Spiritual Masters in their full context. Ibn al-‘Arabi writes about the virtues of generosity, asceticism, night vigils but equally emphasizes the importance of giving up identification and the image of being generous. Role-playing, irrespective of how good the role may be, is a spiritual hindrance.
 

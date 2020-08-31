@@ -55,7 +55,7 @@ The Original Prophetic teachings, allegory and the prescriptive and descriptive 
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![part 1](../../videos/img/sfh_ult_cont_1.jpg)
+![part 1](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Die Before You Die**
@@ -79,7 +79,7 @@ An understanding of the parallels of this evolutionary dimension is critical in 
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![part 2](../../videos/img/sfh_ult_cont_2.jpg)
+![part 2](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Fear & Hope**
@@ -94,16 +94,16 @@ An understanding of the parallels of this evolutionary dimension is critical in 
 
 ## Good News & Warning
 
-In the third part of this series, Shaykh Fadhlalla reflects upon the interplay between what is referred to as "the good news" and "warning" as contained in the Qur’anic revelation. The talk expand upon the varying dimensions of these two forces, presenting the multitudes of expressions of which these two issues relate as a fundamental paradox of life. 
+In the third part of this series, Shaykh Fadhlalla reflects upon the interplay between what is referred to as "the good news" and "warning" as contained in the Qur’anic revelation. The talk expands upon the varying dimensions of these two forces, and the multitudes of paradoxes in life to which they relate. 
 
-A complex and detailed exposition on both issues is presented, via the references of the Linguistic dynamics of various Qur’anic terms, prophetic teachings and injunctions towards the true meaning of the good life by referring to the complementarity of these forces, reflecting upon the directives that are presented in referencing life’s events within this intrinsic design. Shaykh Fadhlalla explores the aspects of the meaning of suffering and the appropriate manner of interaction that is available to human beings that align with the drive towards higher consciousness.
+A complex and detailed exposition on both issues is presented, via the references of the linguistic dynamics of various Qur’anic terms, prophetic teachings and injunctions towards the true meaning of the good life by referring to the complementarity of these forces, reflecting upon the directives that are presented in referencing life’s events within this intrinsic design. Shaykh Fadhlalla explores the meaning of suffering and the appropriate manner of interaction that is available to human beings who align with the drive towards higher consciousness.
 
 The appropriate prescriptive steps and descriptive qualifications in, adequately navigating through the interplay of these dynamics are presented through Qur’anic expressions. The faculty of the heart is presented as the central locus of experience in these processes. The talk presents the modes in which inner awareness and interaction with the state of the heart connect with the way we relate to events. Fundamentally, this serves as the transformative ladder that enables the sensitivity of witnessing, experiencing and resonating with perpetual presence of the essence.
 
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![part 3](../../videos/img/sfh_ult_cont_3.jpg)
+![part 3](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Good News & Warning**
@@ -127,7 +127,7 @@ Various important descriptive elements are echoed in the Qur’anic revelations:
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![part 4](../../videos/img/sfh_ult_cont_4.jpg)
+![part 4](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Human Misery**

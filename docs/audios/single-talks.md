@@ -46,40 +46,6 @@ On this page, you will find all the stand-alone talks Shaykh Fadhlalla has given
 
 </div>
 
-## Islam and Tawhid
-
-This talk reflects upon a core aspect of the Islamic unveilings and path. Shaykh Fadhlalla seeks to elaborate and emphasize a living experience of the varying dimensions and modes for the traveler on the path of Oneness. 
-
-_Tawhid_ is the unequivocal statement of the oneness of reality. The Shaykh explores the Qur’anic declaration of a total, single and absolute truth that transcends the world; a unique and indivisible reality, entirely independent of creation, out of which complexity and multiplicity emanate and return. The Qur’anic cosmology is introduced as a model of understanding the unitive nature of reality at its various levels, or the various levels of _Tawhid_. 
-
-In this talk, Shaykh Fadhlallah examines each of these:
-
-1. _Tawhid Af’al_ - the unity of actions
-2. _Tawhid al Sifat_ - the unity of attributes
-3. _Tawhid ad Dhat_ - the unity of essence. 
-
-The Shaykh presents the appropriate way in which one should relate to and understand this model and, critically, how to integrate it into a living process. He continues with an elaboration on key elements around this integral work. He also discusses the necessity of various virtues for the traveler on the path: honesty; authenticity in reflection; the meaning of worship; the reality of _Salat_ and the fulfillment of its inner dynamics; sincerity; and the practice of remembrance, or _dhikr_. 
-
-The entire talk is well summarised in the following key excerpt: 
-
-> “You can do it quietly, you don’t have to tell people, you don’t have to show off. Nothing changes! Be as you are, just do the _salaat_! And then _dhikr_: remember it is **lā ʾilāha ʾillā llāh**. No need to change and say, ‘I am now a different person!’ You are not. You are the same idiot you have been all along, it’s just that your channel to Allah is clearly open, and you recognize that higher Reality. Prostrate yourself and you will come to see that there is nowhere where Allah is not.”
-
-<div markdown="1" class="card video sidebar center gemoji center-content center-card">
-
-<div markdown="2" class="video-image">
-![Islam and Tawhid](../videos/img/sfh_islam.jpg)
-</div>
-
-**Islam and Tawhid**
-
-<div markdown="3" class="video-link">
-[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Islam-and-Tawhid-ea69oq)
-</div>
-
-</div>
-
-<div markdown="1" class="clear"></div>
-
 ## Enlightenment
 
 This talk is a recording from an intimate setting hosted at Enlightenext centre in London. Shaykh Fadhlallah presents a personal account of his experience and understanding of the Sufi Path, reflecting on several fundamental questions and paradoxes surrounding human life. 
@@ -136,6 +102,62 @@ Finally, he considers the developmental stages of consciousness as is emergent i
 
 <div markdown="3" class="video-link">
 [Listen](https://open.spotify.com/episode/3o5Y23UG37nfHqfUT2ALbz)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
+
+## The Perpetual Now
+
+A tree is a good metaphor for indicating the dynamic manifestation of Reality in every moment. From the 'Root of Oneness', creation occurs as dispersion. This occurs over time as well as in every moment. Ordinarily, we don't experience the amazing inseparability in our consciousness of how Oneness becomes sunlight and water and how these become the flower and how the flower the beautiful fragrance. They are seamlessly connected. There are many different strands that we can follow to explain this Unitive Totality. The most universally understandable is through the description of the experience of the Now.
+
+In this audio recording Shaykh Fadhlalla Haeri takes the listener on an incredible journey through an enlightened experience of the Now.
+
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
+
+<div markdown="2" class="video-image">
+![The Perpetual Now](../videos/img/sfh_conduct.jpg)
+</div>
+
+**The Perpetual Now**
+
+<div markdown="3" class="video-link">
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/The-Perpetual-Now-by-Shaykh-Fadhlalla-Haeri-e3vl3a)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
+
+## Islam and Tawhid
+
+This talk reflects upon a core aspect of the Islamic unveilings and path. Shaykh Fadhlalla seeks to elaborate and emphasize a living experience of the varying dimensions and modes for the traveler on the path of Oneness. 
+
+_Tawhid_ is the unequivocal statement of the oneness of reality. The Shaykh explores the Qur’anic declaration of a total, single and absolute truth that transcends the world; a unique and indivisible reality, entirely independent of creation, out of which complexity and multiplicity emanate and return. The Qur’anic cosmology is introduced as a model of understanding the unitive nature of reality at its various levels, or the various levels of _Tawhid_. 
+
+In this talk, Shaykh Fadhlallah examines each of these:
+
+1. _Tawhid Af’al_ - the unity of actions
+2. _Tawhid al Sifat_ - the unity of attributes
+3. _Tawhid ad Dhat_ - the unity of essence. 
+
+The Shaykh presents the appropriate way in which one should relate to and understand this model and, critically, how to integrate it into a living process. He continues with an elaboration on key elements around this integral work. He also discusses the necessity of various virtues for the traveler on the path: honesty; authenticity in reflection; the meaning of worship; the reality of _Salat_ and the fulfillment of its inner dynamics; sincerity; and the practice of remembrance, or _dhikr_. 
+
+The entire talk is well summarised in the following key excerpt: 
+
+> “You can do it quietly, you don’t have to tell people, you don’t have to show off. Nothing changes! Be as you are, just do the _salaat_! And then _dhikr_: remember it is **lā ʾilāha ʾillā llāh**. No need to change and say, ‘I am now a different person!’ You are not. You are the same idiot you have been all along, it’s just that your channel to Allah is clearly open, and you recognize that higher Reality. Prostrate yourself and you will come to see that there is nowhere where Allah is not.”
+
+<div markdown="1" class="card video sidebar center gemoji center-content center-card">
+
+<div markdown="2" class="video-image">
+![Islam and Tawhid](../videos/img/sfh_islam.jpg)
+</div>
+
+**Islam and Tawhid**
+
+<div markdown="3" class="video-link">
+[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Islam-and-Tawhid-ea69oq)
 </div>
 
 </div>
@@ -204,28 +226,6 @@ This is a recording of a webinar on 25 January 2020 with Shaykh Fadhlalla Haeri 
 
 <div markdown="3" class="video-link">
 [Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/What-Does-It-Mean-To-Be-A-Sufi-In-The-XXI-Century-eag95e)
-</div>
-
-</div>
-
-<div markdown="1" class="clear"></div>
-
-## The Perpetual Now
-
-A tree is a good metaphor for indicating the dynamic manifestation of Reality in every moment. From the 'Root of Oneness', creation occurs as dispersion. This occurs over time as well as in every moment. Ordinarily, we don't experience the amazing inseparability in our consciousness of how Oneness becomes sunlight and water and how these become the flower and how the flower the beautiful fragrance. They are seamlessly connected. There are many different strands that we can follow to explain this Unitive Totality. The most universally understandable is through the description of the experience of the Now.
-
-In this audio recording Shaykh Fadhlalla Haeri takes the listener on an incredible journey through an enlightened experience of the Now.
-
-<div markdown="1" class="card video sidebar center gemoji center-content center-card">
-
-<div markdown="2" class="video-image">
-![The Perpetual Now](../videos/img/sfh_conduct.jpg)
-</div>
-
-**The Perpetual Now**
-
-<div markdown="3" class="video-link">
-[Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/The-Perpetual-Now-by-Shaykh-Fadhlalla-Haeri-e3vl3a)
 </div>
 
 </div>

@@ -57,7 +57,7 @@ Fundamentally, the evolution and refinement of character is presented as both es
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Refinement of Character](../../videos/img/sfh_islam.jpg)
+![The Refinement of Character](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Introduction 1**
@@ -71,7 +71,7 @@ Fundamentally, the evolution and refinement of character is presented as both es
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Refinement of Character](../../videos/img/sfh_glorify.jpg)
+![The Refinement of Character](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Introduction 2**
@@ -85,7 +85,7 @@ Fundamentally, the evolution and refinement of character is presented as both es
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Refinement of Character](../../videos/img/sfh_dominion.jpg)
+![The Refinement of Character](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Human Nature and Composition 1**
@@ -99,7 +99,7 @@ Fundamentally, the evolution and refinement of character is presented as both es
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Refinement of Character](../../videos/img/sfh_first_last.jpg)
+![The Refinement of Character](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Human Nature and Composition 2**
@@ -113,7 +113,7 @@ Fundamentally, the evolution and refinement of character is presented as both es
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Refinement of Character](../../videos/img/sfh_wherever.jpg)
+![The Refinement of Character](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Grooming and Evolvement of the Lower Self**
@@ -127,7 +127,7 @@ Fundamentally, the evolution and refinement of character is presented as both es
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Refinement of Character](../../videos/img/sfh_return.jpg)
+![The Refinement of Character](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Personality and Character 1**
@@ -141,7 +141,7 @@ Fundamentally, the evolution and refinement of character is presented as both es
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Refinement of Character](../../videos/img/sfh_night_day.jpg)
+![The Refinement of Character](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Personality and Character 2**
@@ -155,7 +155,7 @@ Fundamentally, the evolution and refinement of character is presented as both es
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Refinement of Character](../../videos/img/sfh_sixth_sense.jpg)
+![The Refinement of Character](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Relationships**
