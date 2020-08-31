@@ -1,6 +1,6 @@
 ---
 title: Sacred Expressions in The Qur'an
-description: Two important talks given by Shaykh Haeri on the theme of Sacred Expressions in The Qur'an.
+description: Two important talks given by Shaykh Fadhlalla on the theme of Sacred Expressions in The Qur'an.
 image: assets/images/15.jpg
 ---
 

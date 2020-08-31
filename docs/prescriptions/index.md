@@ -51,7 +51,7 @@ A basic mapping of the modern self and the journeys it can undergo in this life 
 </div>
 
 <div markdown="3" class="article-para">
-Virtue is behaviour occurring at the centre of two extremes, both of which are unvirtuous. From this base, Shaykh Haeri explores loyalty, higher consciousness and the eternal now.
+Virtue is behaviour occurring at the centre of two extremes, both of which are unvirtuous. From this base, Shaykh Fadhlalla explores loyalty, higher consciousness and the eternal now.
 </div>
 
 <div markdown="3" class="article-link">

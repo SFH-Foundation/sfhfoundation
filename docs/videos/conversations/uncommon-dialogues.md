@@ -4,7 +4,7 @@ description: A collection of uncommon dialogues conducted during Ramadan 2020 wh
 
 # Uncommon Dialogues 2020
 
-This page presents a collection of uncommon dialogues conducted during Ramadan 2020 while the majority of the world was in lockdown due to COVID-19. In these talks, Shaykh Haeri and people like Dr Adnan Al-Adnani, Saadi Dr Neil Douglas Klotz, Dr Ali Allawi, and Professor Sadiyya Shaikh discuss a broad range of topics: from Islamic Civilisation, to the Qur'an, to Sufi Cosmology and everything in between.
+This page presents a collection of uncommon dialogues conducted during Ramadan 2020 while the majority of the world was in lockdown due to COVID-19. In these talks, Shaykh Fadhlalla and people like Dr Adnan Al-Adnani, Saadi Dr Neil Douglas Klotz, Dr Ali Allawi, and Professor Sadiyya Shaikh discuss a broad range of topics: from Islamic Civilisation, to the Qur'an, to Sufi Cosmology and everything in between.
 
 ## The Month of Ramadan
 
@@ -124,9 +124,9 @@ This page presents a collection of uncommon dialogues conducted during Ramadan 2
 
 ## Extended
 
-The response to these uncommon dialogues from our community was so positive that we have extended them beyond the month of Ramadan so that more esteemed guests from various traditions and backgrounds can join Shaykh Haeri in discussing the perennial questions most pertinent to the modern world. Professor Sadiyya Shaikh returned to complete her 3 part series on Sufi Cosmology, while other guests include Umesh Bahadur, Matthew Green and Amir Freimann.
+The response to these uncommon dialogues from our community was so positive that we have extended them beyond the month of Ramadan so that more esteemed guests from various traditions and backgrounds can join Shaykh Fadhlalla in discussing the perennial questions most pertinent to the modern world. Professor Sadiyya Shaikh returned to complete her 3 part series on Sufi Cosmology, while other guests include Umesh Bahadur, Matthew Green and Amir Freimann.
 
-Shaykh Haeri's discussions with Dr Adnan Al-Adnani continue in a section of their own, entitled [Living Qur'an](../living-quran).
+Shaykh Fadhlalla's discussions with Dr Adnan Al-Adnani continue in a section of their own, entitled [Living Qur'an](../living-quran).
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 

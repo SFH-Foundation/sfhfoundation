@@ -8,7 +8,7 @@ image: assets/images/08.jpg
 
 On this page you will find 5 audio clips designed for both the general public and spiritual seekers. This series addresses questions such as: Who am I? What is consciousness? How do I find Spiritual meaning in everyday experiences of the material world, even tragedies? What about fate and intention?
 
-It goes into detail on the dynamics of self and soul, discussing how we experience light by its shadow and other seeming paradoxes. Shaykh Haeri then moves on to discuss the heart and how it can be tarnished, the concepts of personality, birth, death, fear, mirrors and the role of leadership. The series concludes by asking why we don't intuitively and instinctively seek the higher, why the path to so-called "enlightenment" is often presented as something mysterious or mystical, and with an offering of some practical advice for those actively seeking enlightenment.
+It goes into detail on the dynamics of self and soul, discussing how we experience light by its shadow and other seeming paradoxes. Shaykh Fadhlalla then moves on to discuss the heart and how it can be tarnished, the concepts of personality, birth, death, fear, mirrors and the role of leadership. The series concludes by asking why we don't intuitively and instinctively seek the higher, why the path to so-called "enlightenment" is often presented as something mysterious or mystical, and with an offering of some practical advice for those actively seeking enlightenment.
 
 <div markdown="1" class="card article sidebar center">
 

@@ -17,7 +17,7 @@ image: assets/images/11.jpg
 </div>
 
 <div markdown="3" class="article-para">
-This short series of 9 videos will give you a good introduction to Shaykh Haeri and his teachings if this is your first encounter.
+This short series of 9 videos will give you a good introduction to Shaykh Fadhlalla and his teachings if this is your first encounter.
 </div>
 
 <div markdown="3" class="article-link">

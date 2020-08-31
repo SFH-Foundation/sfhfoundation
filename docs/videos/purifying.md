@@ -1,6 +1,6 @@
 ---
 title: Purifying
-description: A collection of talks given by Shaykh Haeri considered by his students to be a good introduction to, and basic overview of, his more general work.
+description: A collection of talks given by Shaykh Fadhlalla considered by his students to be a good introduction to, and basic overview of, his more general work.
 image: assets/images/23.jpg
 ---
 

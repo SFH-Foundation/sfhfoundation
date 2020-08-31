@@ -31,5 +31,5 @@ If you'd like to subscribe to our dedicated mailing list and receive updates dir
 </div>
 
 <div markdown="1" class="zp-logo">
-![All Book Titles](/assets/images/all-books.jpg)
+![All Book Titles](/assets/images/all-books.png)
 </div>

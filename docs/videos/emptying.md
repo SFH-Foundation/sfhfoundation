@@ -1,6 +1,6 @@
 ---
 title: Emptying
-description: A few, short videos which serve as a great starting point for those who are not at all familiar with Shaykh Haeri and his work and teachings.
+description: A few, short videos which serve as a great starting point for those who are not at all familiar with Shaykh Fadhlalla and his work and teachings.
 image: assets/images/07.jpg
 ---
 
@@ -10,7 +10,7 @@ Human beings are driven to higher consciousness by prayer, meditation and a host
 
 To live fully in presence, we must accept responsibility for their intentions and action. Through submission, we come to realize that the direction of the life-force in human beings is towards experiencing the mysterious grace of Sacred Presence. If there is a purpose in life it is **to know that life is eternal and intrinisically utterly perfect**, irrespective of short term human perception.
 
-Take your time and go carefully through the following 9 videos in order to get a deeper sense of some of the basic tenets of Shaykh Haeri's teaching and practice.
+Take your time and go carefully through the following 9 videos in order to get a deeper sense of some of the basic tenets of Shaykh Fadhlalla's teaching and practice.
 
 
 <div markdown="1" class="card video sidebar center gemoji center-content">

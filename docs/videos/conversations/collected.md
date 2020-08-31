@@ -1,6 +1,6 @@
 ---
 title: Collected Interactions
-description: An collection of various recorded conversations about Sufism, Islam and transformative spirituality that Shaykh Haeri has engaged in over the years.
+description: An collection of various recorded conversations about Sufism, Islam and transformative spirituality that Shaykh Fadhlalla has engaged in over the years.
 image: assets/images/18.jpg
 ---
 

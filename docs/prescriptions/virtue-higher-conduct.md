@@ -1,6 +1,6 @@
 ---
 title: Virtuous Being and Higher Conduct
-description: Virtue is behaviour occurring at the centre of two extremes, both of which are unvirtuous. From this base, Shaykh Haeri explores loyalty, higher consciousness and the eternal now.
+description: Virtue is behaviour occurring at the centre of two extremes, both of which are unvirtuous. From this base, Shaykh Fadhlalla explores loyalty, higher consciousness and the eternal now.
 image: prescriptions/img/sfh_journeys.jpg
 ---
 

@@ -1,14 +1,12 @@
 ---
 title: Highwood Talks
-description: A variety of Sufi talks and dialogues recorded at Shaykh Haeri's home in Mpumalanga, South Africa
+description: A variety of Sufi talks and dialogues recorded at Shaykh Fadhlalla's home in Mpumalanga, South Africa
 image: assets/images/p21.jpeg
 ---
 
 # Highwood Talks
 
-Shaykh Fadhlalla's personal residence is a farm called Highwood in South Africa. This amazing and tranquil place has played host to many wonderful talks, gatherings and encounters over the years and on this page, you can find all of those that have been recorded, starting with the most recent.
-
-In order to introduce this section properly, we recommend you reflect upon one of the Shaykh's poems in order to get some appreciation for the ambience surrounding many of these videos:
+This is a selection of talks from Shaykh Fadhlalla's personal residence reflecting gatherings, meetings and encounters with his friends and students over the past several years.
 
 ## Morning in the Plantation
 
