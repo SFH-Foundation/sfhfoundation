@@ -6,7 +6,7 @@ image: articles/img/sfh_thread_truth.jpg
 
 # The Thread of Truth
 
-_By Shaykh Fadhlalla Haeri and Muneera Haeri, from the book "[Sufi Links – Illumined Encounters](../../books/biography/sufi-encounters)"_
+_By Shaykh Fadhlalla Haeri and Muneera Haeri, from the book "[Sufi Encounters](https://www.watkinspublishing.com/shop/sufi-encounters/)"_
 
 A vast body of academic work including chronicles, biographies, treaties, translations on Islam and Sufism has arisen out of the interest in religion and spirituality over the recent past. The internet and other media makes this easily accessible to all, rather than being the preserve of the few. This has had a huge impact on understanding of Sufi tariqas, masters and their teachings.
 

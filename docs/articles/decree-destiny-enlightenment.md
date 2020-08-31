@@ -6,7 +6,7 @@ image: articles/img/sfh_decree.jpg
 
 # Decree, Destiny and Enlightenment
 
-_By Shaykh Fadhlalla Haeri, from the book "[Decree & Destiny – Free Will and Determinism](../../books/practices-teachings/decree-destiny)"_. 
+_By Shaykh Fadhlalla Haeri, from the book "[Decree & Destiny – Free Will and Determinism](https://zahrapublications.pub/book-DecreeAndDestiny-Revised.php#bookTitle)"_. 
 
 Decrees are the rules which define life’s experiences on earth. Most of these rules are describable or measurable, especially those dealing with the visible realities. The rules that govern all aspects of physical (visible and experiential) existence combine with those that control the unseen forces to form a network that will result in, for example, the laws of physics. We can describe the phenomenon of light, for instance, as both a wave and a particle called a photon. The rules somehow emerge from an unknown domain into describable, measurable, physical laws. So the decrees can be seen as a series of multitudinous models by means of which the creation, seen and unseen, is held together.
 

@@ -6,9 +6,7 @@ image: assets/images/05.jpg
 
 # Human Duty and Destiny as Illustrated in The Qur'an
 
-Below, you will find 6 videos. In each of these, Shaykh Fadhlalla provides an exposition of a specific Surat (or Chapter) of the Qur'an. Such exposition is generally called _tafsir_ in Arabic. People who have received the _idhn_ (or permission) to practice _tafsir_ are known as _mufassir_.
-
-The first 5 are shorter, split up sections of 1 talk which covers five separate Surats. You can find [the unsplit talk here](https://www.youtube.com/watch?v=CtQ-jUSnwx0). The sixth talk is a longer and more in depth _tafsir_ on _Surat Al-Khaf_ specifically.
+Below, you will find 6 videos. In each of these, Shaykh Fadhlalla provides an exposition of a specific Surah (or Chapter) of the Qur'an. The first 5 are shorter, split up sections of 1 talk which covers five separate Surats. You can find [the unsplit talk here](https://www.youtube.com/watch?v=CtQ-jUSnwx0). The sixth talk is a longer and more in depth _tafsir_ on _Surat Al-Khaf_ specifically.
 
 In order to introduce this section properly, please reflect upon the following two extracts from Shaykh's book, "Man in Qur’ān and the Meaning of Furqān – Surat ul-Baqarah":
 

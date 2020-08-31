@@ -6,7 +6,7 @@ image: assets/images/06.jpg
 
 # The Parable of the Spider's House
 
-_Shaykh Fadhlalla Haeri from the book [“The Mercy of Qur’an and The Advent of Zaman Tafsir of Surat Ankabut, Rahman, Waqiá, Mulk”](../../books/quran/keys/keys-4/)_
+_Shaykh Fadhlalla Haeri from the book [“The Mercy of Qur’an and The Advent of Zaman Tafsir of Surat Ankabut, Rahman, Waqiá, Mulk”](https://zahrapublications.pub/book-CommentariesOnFourChaptersOfQuran.php#bookTitle)_
 
 > “The parable of those who take guardians besides Allah is like the parable of the spider that spins for itself a house. Most surely the frailest of houses is the spider’s web if only they understood.” – Qur’an, 29:41.
 

@@ -6,7 +6,7 @@ image: articles/img/arrival.jpg
 
 # THe Journey of Transformation
 
-_By Shaykh Fadhlalla Haeri, from the book “[Cosmology of the Self](../../books/practices-teachings/cosmology-self)”_
+_By Shaykh Fadhlalla Haeri, from the book “[Cosmology of the Self](https://zahrapublications.pub/book-CosmologyOfTheSelf.php#bookTitle)”_
 
 The world around us makes perfect sense only if we look at it through the eyes of Unity (_tawhīd_). No matter what we look at in existence, we find that it can always be traced back to its one original source, Allah. Recognising the One Existent Creator while we live in this world of multiple forms is essential for our well-being. Without such a unitive recognition and awareness, we tend to fluctuate between being disturbed and tranquil.
 

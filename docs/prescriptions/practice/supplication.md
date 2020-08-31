@@ -56,5 +56,5 @@ Being with people, serving them, and putting up with their difficulties is balan
 
 Smaller periods of time are also practiced regularly. The smallest period is ultimately symbolized by the salat which punctuates the day five times, giving us the chance to reconnect in awareness with the underlying reality that grounds our existence.
 
-Further information on the dynamics of transformative worship and the unique applications of the Essential Islamic model can be found in the publication [Transformative Worship in Islam - Experiencing Perfection](../../../books/general-islam/transformative-worship).
+Further information on the dynamics of transformative worship and the unique applications of the Essential Islamic model can be found in the publication [Transformative Worship in Islam - Experiencing Perfection](https://zahrapublications.pub/book-TransformativeWorshipInIslam.php#bookTitle).
 

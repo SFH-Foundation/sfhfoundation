@@ -6,7 +6,7 @@ image: assets/images/05.jpg
 
 # Consciousness - An Overview
 
-This article collects and presents various windows and aspects of the incredible mystery that is consciousness. Many of the following excerpts are taken from the book "[Spectrum of Reality](../../books/sufism/spectrum-reality)".
+This article collects and presents various windows and aspects of the incredible mystery that is consciousness. Many of the following excerpts are taken from the book "[Spectrum of Reality](http://spectrumofreality.com/)".
 
 Catalogued throughout this site you will find various videos and discourses further elaborating on this vast topic. Read to the end to find other recommendations that discuss the same phenomena from a multitude of other perspectives.
 

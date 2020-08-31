@@ -6,7 +6,7 @@ image: articles/img/sfh_divine_madness.jpg
 
 # The Shock of Awakening
 
-_By Shaykh Fadhlalla Haeri from the book [“Beams of Illumination from the Divine Revelation – A Commentary on the Last Section of the Qur’an”](../../books/quran/keys/keys-5)_
+_By Shaykh Fadhlalla Haeri from the book [“Beams of Illumination from the Divine Revelation – A Commentary on the Last Section of the Qur’an”](https://zahrapublications.pub/book-LastJuzOfTheQuran.php#bookTitle)_
 
 By the time the first five ayat of _Surat-ul-‘Alaq_ were revealed to him, the Prophet, _ṣalla-llāhu ‘alayhi wa ālihi wa sallam_, had already been regularly spending days, weeks, and months in meditation in a cave in order to penetrate the layers of his _nafs_, thereby following the path of all those before him who followed the dictum: 
 

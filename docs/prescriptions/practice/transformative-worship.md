@@ -41,5 +41,5 @@ Islam is founded upon experiential _tawhīd_. The whole universe has emanated fr
 
 ![Transforming hearts](../img/sfh_transformed.jpg)
 
-_These excerpts come from the first few pages of "[Transformative Worship in Islam: Experiencing Perfection](../../../books/general-islam/transformative-worship)". For detailed descriptions on application of practices and their meanings please refer to the entire book_.
+_These excerpts come from the first few pages of "[Transformative Worship in Islam: Experiencing Perfection](https://zahrapublications.pub/book-TransformativeWorshipInIslam.php#bookTitle)". For detailed descriptions on application of practices and their meanings please refer to the entire book_.
 

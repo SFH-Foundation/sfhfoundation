@@ -22,7 +22,7 @@ The path, therefore, has to do with stopping those concerns and starting from a 
 
 ## Pleasure and Happiness  
 
-_From the book "[Keys to the Qur'an Volume 4 – Commentary on Surat Ankabut, Al-Rahman, Al-Waqi`ah and Al-Mulk](../../books/quran/keys/keys-4)"_
+_From the book "[Keys to the Qur'an Volume 4 – Commentary on Surat Ankabut, Al-Rahman, Al-Waqi`ah and Al-Mulk](https://zahrapublications.pub/book-CommentariesOnFourChaptersOfQuran.php#bookTitle)"_
 
 A pleasure is something one can share, one can buy. It is related to attachment and is a worldly thing while _surur_, joy, is for its own sake. The bird sings because its nature is to sing, irrespective of whether the hunter is hunting it or the neighborhood is giving it extra food. A pleasure is a result of something that has occurred. A person is lonely, then he meets a companion who echoes much of what he believes in – that is a pleasure. Someone was hungry, there was emptiness in his stomach and it was filled with food – that is a pleasure. Pleasure is like neutralization: the negative and the positive meet and are neutralized.  
 
@@ -32,7 +32,7 @@ The door to the abode of joy is the recognition of how to unknot what one has kn
 
 ## ‘You’ Are The Outer And The Inner   
 
-_From the book “[Calling Allah By His Most Beautiful Names](../../books/practices-teachings/calling-allah-beautiful-names)”_  
+_From the book “[Calling Allah By His Most Beautiful Names](https://zahrapublications.pub/book-CallingAllahByHisMostBeautifulNames.php#bookTitle)”_  
 
 We can talk of three realms of unity, which relate to the zones of action, attribute and essence. Action and manifestation are based on causality, reasoning and intellect. The reflective believer will soon discover that all experiences are balanced by their opposites. There is no pleasure without displeasure, no health without illness, and the root of these realities lies in their opposite. Higher attributes reflect the divine qualities and are most desirable for us as they are doors to inner happiness. Essence is the indiscernible and hidden root – the Light of lights. When one is illumined, the state of excellence (_ihsān_) is experienced and tasted. Then the All-Merciful appears and you will see His light in every situation.  
 

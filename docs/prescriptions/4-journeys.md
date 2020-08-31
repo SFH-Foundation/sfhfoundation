@@ -8,7 +8,7 @@ image: prescriptions/img/sfh_journeys.jpg
 
 **Note 1**: _The map is not the territory, and these overviews are provided for committed seekers who have already walked at least some way along the path. It is important that you read the article [Less is More](../../articles/less-is-more) and reflect fully on it before you go through these descriptions._
 
-**Note 2**: _This article is an extract from the book ["Journey of the Self"](../../books/practices-teachings/journey-self). The specific journeys below fall into the 4th of 5 larger stages of development in both microcosm (human self) and macrocosm (the cosmos). These larger stages are: Absolute Unitive Reality, Inner Dependence, Outer Dependence, Interdependence, and Inner Reliance._
+**Note 2**: _This article is an extract from the book ["Journey of the Self"](https://zahrapublications.pub/book-TheJourneyOfTheSelf.php#bookTitle). The specific journeys below fall into the 4th of 5 larger stages of development in both microcosm (human self) and macrocosm (the cosmos). These larger stages are: Absolute Unitive Reality, Inner Dependence, Outer Dependence, Interdependence, and Inner Reliance._
 
 We recommend the audio series "[Refinement of Character](../../audios/series/refinement-character)", which covers similar topics in a different format.
 

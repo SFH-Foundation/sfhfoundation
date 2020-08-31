@@ -21,7 +21,7 @@ Islam reflects the constant compassion and presence of the Divine Light. In thes
 If you'd like to get further information about all the books we have available, please visit the Zahra Publications website by clicking below:
 
 <div markdown="3" class="purchase-link">
-[Zahra Publications](http://www.zahrapublications.pub/)
+[Zahra Publications](https://zahrapublications.pub/)
 </div>
 
 If you'd like to subscribe to our dedicated mailing list and receive updates directly to your inbox (only about new and revised ZP titles), please follow the link below:

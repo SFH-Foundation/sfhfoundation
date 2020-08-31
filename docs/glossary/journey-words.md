@@ -20,7 +20,7 @@ Man wants to know the permanent but he mistakenly tries to bring it about in his
 
 The word _hajj_ literally means "endeavor, aspiration, intention, destination, object, goal, aim". In Islam it means: ‘to intend to go to the House of Allah to carry out specific rituals which are to be executed within a certain time frame.’
 
-In a spiritual sense _hajj_ is endeavoring to reach a station whose meaning, magnitude and true essence cannot be expressed or explained because of the lack of words to describe it. For this reason there are few who speak of it. In [The Lantern of the Path](../../books/sufism/lantern-path), Imam Ja`far al‑Sadiq said:
+In a spiritual sense _hajj_ is endeavoring to reach a station whose meaning, magnitude and true essence cannot be expressed or explained because of the lack of words to describe it. For this reason there are few who speak of it. In [The Lantern of the Path](https://zahrapublications.pub/book-TheLanternOfThePath.php#bookTitle), Imam Ja`far al‑Sadiq said:
 
 > "If you want to make the Pilgrimage then empty your heart before your departure of every distraction and concealing veil and turn all your affairs over to your Creator and trust in Him…"
 

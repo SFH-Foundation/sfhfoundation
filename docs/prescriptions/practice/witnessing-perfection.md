@@ -8,7 +8,7 @@ image: prescriptions/img/sfh_witnessing.jpg
 
 This article contains a brief series of excerpts from the book "Witnessing Perfection", which detail the specifically Islamic notion of "witnessing" (or _shahada_ in Arabic), and how this can lead one to realizing the perfection of each and every moment.
 
-_These excerpts come from only the first few pages of "[Witnessing Perfection](../../../books/sufism/witnessing-perfection)". For more detailed descriptions of actual practices, and for your own deeper understanding and insight, please refer to the entire book_.
+_These excerpts come from only the first few pages of "[Witnessing Perfection](https://zahrapublications.pub/book-WitnessingPerfection.php#bookTitle)". For more detailed descriptions of actual practices, and for your own deeper understanding and insight, please refer to the entire book_.
 
 ## Body, Mind and Heart  
 

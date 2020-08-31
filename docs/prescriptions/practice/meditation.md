@@ -14,7 +14,7 @@ The beginner’s mind is less cluttered with memories and prejudices. It connect
 
 **_The beginner’s mind is fresh, flexible, and close to the door of eternal presence and the infinite Nowness_**.
 
-Further information on this section can be found in the book [Spectrum of Reality](../../../books/).
+Further information on this section can be found in the book [Spectrum of Reality](http://spectrumofreality.com/).
 
 ## Emptying Out 
 

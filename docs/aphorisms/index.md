@@ -14,6 +14,10 @@ In addition to the journeys organised under the "Spectrum" heading, you can brow
 [Begin The Journey](./spectrum/)
 </div>
 
+<div markdown="3" class="purchase-link">
+[Visit the site](http://spectrumofreality.com/)
+</div>
+
 If you'd like to receive one of these aphorisms every two weeks, directly into your inbox, please follow the link below:
 
 <div markdown="3" class="purchase-link">

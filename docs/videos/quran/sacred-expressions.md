@@ -26,7 +26,7 @@ What is bounded, restricted and delineated is complementary to the boundless and
 
 For spiritual progress we need to apply the opposite logic to that used in worldly growth.  
 
-_From the book “[Witnessing Perfection](../../../books/sufism/witnessing-perfection)”_
+_From the book “[Witnessing Perfection](https://zahrapublications.pub/book-WitnessingPerfection.php#bookTitle)”_
 
 
 <div markdown="1" class="card video sidebar center gemoji center-content">

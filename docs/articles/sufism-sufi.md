@@ -6,7 +6,7 @@ image: articles/img/sfh_sufis.jpg
 
 # Sufism and the Sufi
 
-_By Shaykh Fadhlalla Haeri, from the book ["The Thoughtful Guide to Sufism"](../../books/sufism/thoughtful-guide-sufism)_.
+_By Shaykh Fadhlalla Haeri, from the book ["Elements of Sufism"](https://zahrapublications.pub/book-ElementsOfSufism.php#bookTitle)_.
 
 What is relevant to us today about Sufism is that it has maintained a clear thread and line of direct transmission of wisdom back to original Islam. The key to Sufism is that of inner awakening, freedom and joy through recognition of outer restriction by choice and discrimination. …
 

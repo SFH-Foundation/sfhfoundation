@@ -12,7 +12,7 @@ Frustrations arise out of the disparity between our higher soul consciousness an
 
 ## Virtues and Vices and the Importance of Interaction
 
-_From the book “[The Journey of the Self – A Sufi Guide to Personality](../../books/practices-teachings/journey-self)”_ 
+_From the book “[The Journey of the Self – A Sufi Guide to Personality](https://zahrapublications.pub/book-TheJourneyOfTheSelf.php#bookTitle)”_ 
 
 The importance of virtue to self-development can be seen after defining what is meant by virtue. We define virtue as behaviour occurring at the centre of two extremes, both of which are unvirtuous. The virtuous value which is at the centre is not affected by the unvirtuous values around it unless it moves towards one or the other extremes, away from the centre. When it happens, the virtue takes on the colour of that particular vice. For example, the virtue of generosity is the midpoint between two vices – meanness at one extreme, and indiscriminate giving, or wastefulness, at the other extreme.             
 

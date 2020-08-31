@@ -4,7 +4,7 @@ description: Everything you could ever want to know about fasting, it's history,
 
 # Fasting in History
 
-_By Shaykh Fadhlalla Haeri, from the book "[Transformative Worship in Islam](../../../books/general-islam/transformative-worship-islam)"_.
+_By Shaykh Fadhlalla Haeri, from the book "[Transformative Worship in Islam](https://zahrapublications.pub/book-TransformativeWorshipInIslam.php#bookTitle)"_.
 
 _If you prefer listening to reading, you can find a full [audio series on fasting and abstention here](../../../audios/series/abstention-fasting)_.
 

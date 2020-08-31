@@ -16,7 +16,7 @@ Light and other forms of energy and matter are caught within the confines of tim
 
 Another paradox in human experience is that of the old and the new. The timeless and that which is within time are never separate since the absolute and the relative always resonate together. We seek the most old and ancient, as well as that which is ‘now’, fresh and new. Both of these time-related ideas disappear when we catch a glimpse of the eternally perfect instant. This is why it is said that there is no merit in abstentions, unless they lead to spiritual awakening. The death of the ego is the birth of the enlightened self – a new life.
 
-_From the book “[Happiness in Life and After Death](../../../books/practices-teachings/happiness-life-death)”_
+_From the book “[Happiness in Life and After Death](https://zahrapublications.pub/book-HappinessInLifeAndAfterDeath.php#bookTitle)”_
 
 ## Where and When Truth Exists
 

@@ -8,7 +8,7 @@ image: assets/images/07.jpg
 
 Below, you will find four older talks (recorded on 18th March 2005) in which Shaykh Fadhlalla describes some of the Qur'anic prescriptions for living by commenting on a selection of _ayat_ or specific lines from different Surats in the Holy Qur'an.
 
-In order to introduce this section properly, please reflect on these three excerpts from Shaykh Fadhlalla's more recent book, "[Witnessing Perfection](../../../books/sufism/witnessing-perfection)":
+In order to introduce this section properly, please reflect on these three excerpts from Shaykh Fadhlalla's more recent book, "[Witnessing Perfection](https://zahrapublications.pub/book-WitnessingPerfection.php#bookTitle)":
 
 ## Information and Transformation
 

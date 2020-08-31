@@ -8,7 +8,7 @@ image: prescriptions/img/people-light.jpg
 
 Across all world religions and spiritual systems various practices are prescribed in moving from basic conditioned consciousness into the vastness of soul consciousness or boundless consciousness. The art of stillness is the heart of all these practices and endeavours.
 
-Further information on the dynamics of transformative worship and the unique applications of the Essential Islamic model can be found in the publication "[Transformative Worship in Islam: Experiencing Perfection](../../../books/general-islam/transformative-worship)".
+Further information on the dynamics of transformative worship and the unique applications of the Essential Islamic model can be found in the publication "[Transformative Worship in Islam: Experiencing Perfection](https://zahrapublications.pub/book-TransformativeWorshipInIslam.php#bookTitle)".
 
 ## Stillness
 
@@ -18,7 +18,7 @@ Generally there are three stages in the practice of stillness in body, mind, and
 
 This preliminary stage is intended to help you overcome the natural mental noise that goes on in your head. Anything that exists seeks to perpetuate itself. All thoughts are froth from the neuron circuitry, so allow them to exhaust themselves and leave you.
 
-Ensure that the possibilities for being interrupted are kept to a minimum and that your attention is not diverted to worldly needs. As you do your _wudu_ concentrate on the meaning of every movement, using each one as an opportunity to purify the decaying body (see [Transformative Worship](../../../books/general-islam/transformative-worship) for more on this).
+Ensure that the possibilities for being interrupted are kept to a minimum and that your attention is not diverted to worldly needs. As you do your _wudu_ concentrate on the meaning of every movement, using each one as an opportunity to purify the decaying body.
 
 Sound is a powerful tool when used repetitively as a way of tricking the mind through self-hypnosis to reduce the circling of thoughts and bring them to one point. It is not so much the intensity of being mindful but the frequency and constancy. This approach incorporates any of a dozen methodologies or ways.
 

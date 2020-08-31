@@ -7,7 +7,7 @@ title: Zahra Publications Partners
 Ebooks are available on Kindle, Kobo and Apple Bookstore. You can find these e-book links (and your local Amazon store links) here:
 
 <div markdown="3" class="purchase-link">
-[Zahra Publications](http://www.zahrapublications.pub/)
+[Zahra Publications](https://zahrapublications.pub/)
 </div>
 
 If you would like to enquire more about books by Shaykh Fadhlalla Haeri or would like to participate in book projects please email [zp@sfhfoundation.com](mailto:zp@sfhfoundation.com).

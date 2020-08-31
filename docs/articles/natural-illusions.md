@@ -6,7 +6,7 @@ image: articles/img/sfh_nature.jpg
 
 # Illusions
 
-_By Shaykh Fadhlalla Haeri, from the book [“101 Helpful Illusions”](../../books/practices-teachings/101-helpful-illusions)_
+_By Shaykh Fadhlalla Haeri, from the book [“101 Helpful Illusions”](https://zahrapublications.pub/book-101-Helpful-Illusions.php#bookTitle)_
 
 ## Personal Illusions
 
