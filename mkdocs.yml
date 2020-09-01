@@ -96,12 +96,12 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home:
-    - About: 'about.md'
+  - Home: 'about.md'
+  - The Story:
     - Human Story: 'human-story.md'
     - Newsletter: 'https://sfhfoundation.substack.com/'
   - Videos:
-    - Overview: 'videos/index.md'
+    - Videos: 'videos/index.md'
     - Emptying: 'videos/emptying.md'
     - Purifying: 'videos/purifying.md'
     - Unfolding: 'videos/unfolding.md'
