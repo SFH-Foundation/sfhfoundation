@@ -112,6 +112,10 @@
     text-align: center;
   }
 
+  .zp-small {
+    width: 40%;
+  }
+
   .audio-img img {
     border-radius: 50%;
     width: 40%;
