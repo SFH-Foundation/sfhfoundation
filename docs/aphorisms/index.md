@@ -6,16 +6,22 @@ image: assets/images/22.jpg
 
 # Aphorism Journeys
 
-This section is organised into separate "journeys", made up of small groups of aphorisms. Each saying is - in itself - a key to wisdom and deeper understanding. The intention is that you travel through each journey separately and return numerous times as each stage takes you deeper into your experience; into your own heart. We know that the nature of digital media can lead one to thoughtless consumption, so take your time, read, reflect and flow with these pathways to and from original silence.
+This section is organised into separate "journeys". Each saying is - in itself - a key to wisdom and deeper understanding. The intention is that you travel through each journey separately and return numerous times as each stage takes you deeper into your own heart.
 
-In addition to the journeys organised under the "Spectrum" heading, you can browse a few collected gems below to get a sense of what you can expect on each journey.
+## If We Are Willing To Stop
+
+<div class="callout5">
+It is a wise one who is always hopeful to learn meanings and lessons from difficulties and hardships.
+</div>
+
+Human beings reflect the cosmic perfection at the point of conception but, as we grow errors and defects become prominent with increased entropy. Our apparent freedom of action only increases our imperfections. ‘And time must have an end’ is the ultimate and just remedy for all earthly endeavours. If we are willing to stop, our chances of an appropriate start are greater. When the stop/start frequency resonates within head and heart, the ‘self and soul connection’ is stronger. Unity in consciousness is the fruit of spiritual evolvement which encompasses the seen and unseen worlds.
 
 <div markdown="3" class="purchase-link">
 [Begin The Journey](./spectrum/)
 </div>
 
 <div markdown="3" class="purchase-link">
-[Visit the site](http://spectrumofreality.com/)
+[Visit The Full Site](http://spectrumofreality.com/)
 </div>
 
 If you'd like to receive one of these aphorisms every two weeks, directly into your inbox, please follow the link below:
@@ -23,8 +29,6 @@ If you'd like to receive one of these aphorisms every two weeks, directly into y
 <div markdown="3" class="purchase-link">
 [Aphorisms](http://connect.sfhfoundation.com/bf.php?fid=1171)
 </div>
-
-![Aphorims Begin](../assets/images/18.jpg)
 
 ## Collected Gems
 

@@ -6,7 +6,7 @@ image: assets/images/14.jpg
 
 # Surat al-Hadid Tafsir
 
-On this page, you will find a collection of shorter clips cut from a conversation between Shaykh Fadhlalla and Shaykh Muslim about _Surat al-Hadid_. In order to introduce this work properly, please reflect for a moment on these excerpts from Shaykh Fadhlalla's book, _"[Beams of Illumination from the Divine Revelation](https://zahrapublications.pub/book-TheHeartOfTheQuran.php#bookTitle)"_:
+In order to introduce this work properly, please reflect for a moment on these excerpts from Shaykh Fadhlalla's book, _"[Beams of Illumination from the Divine Revelation](https://zahrapublications.pub/book-TheHeartOfTheQuran.php#bookTitle)"_:
 
 ## The Eye of Ḥaqīqah and the Eye of Sharī’ah
 

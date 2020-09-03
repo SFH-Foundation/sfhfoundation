@@ -10,9 +10,6 @@ Human beings are driven to higher consciousness by prayer, meditation and a host
 
 To live fully in presence, we must accept responsibility for their intentions and action. Through submission, we come to realize that the direction of the life-force in human beings is towards experiencing the mysterious grace of Sacred Presence. If there is a purpose in life it is **to know that life is eternal and intrinisically utterly perfect**, irrespective of short term human perception.
 
-Take your time and go carefully through the following 9 videos in order to get a deeper sense of some of the basic tenets of Shaykh Fadhlalla's teaching and practice.
-
-
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
@@ -100,7 +97,7 @@ Take your time and go carefully through the following 9 videos in order to get a
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Why Hell?](./img/sfh_why_hell.jpg)
+![Why Hell?](./img/sfh_seek_content.jpg)
 </div>
 
 **Why Is There Hell?**

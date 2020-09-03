@@ -6,7 +6,7 @@ image: books/zahra_logo.png
 
 # Books
 
-<div class="callout1">
+<div class="callout5">
 The nature of the mind is to separate, differentiate and pigeonhole, whereas - in truth - everything is linked and connected. The time we are living in perfectly connects philosophy, science and spirituality.
 </div>
 
@@ -21,7 +21,9 @@ Islam reflects the constant compassion and presence of the Divine Light. In thes
 If you'd like to get further information about all the books we have available, please visit the Zahra Publications website by clicking below:
 
 <div markdown="3" class="purchase-link">
-[Zahra Publications](https://zahrapublications.pub/)
+
+<a href="https://zahrapublications.pub/" target="_blank">Zahra Publications</a>
+
 </div>
 
 If you'd like to subscribe to our dedicated mailing list and receive updates directly to your inbox (only about new and revised ZP titles), please follow the link below:

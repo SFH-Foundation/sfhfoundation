@@ -6,6 +6,10 @@ image: assets/images/sfh_prayer.jpg
 
 # The Human Story
 
+<div class="callout5">
+The ultimate human reference and duty in life is to respect and have reverence for all life and every manifestation of it. 
+</div>
+
 ## From Darkness to Light
 
 Life on earth emerged a long time ago as simple awareness, driven by the desire to perpetuate itself. It had subsequently evolved over many millennia into the numerous complex forms of living beings we observe on earth, in sky and underwater. Human beings are naturally driven to explore, discover and know both what is obvious and that which is beyond. The human mind bridges the cosmic soul or spirit, with the self or individual identity. Every human being is a combination of a boundless and timeless divine soul and its shadow self which is bracketed between birth and death and structured around a physical body, brain and various faculties and organs.

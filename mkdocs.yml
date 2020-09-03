@@ -96,8 +96,8 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: 'about.md'
-  - The Story:
+  - About: 'about.md'
+  - Welcome:
     - Human Story: 'human-story.md'
     - Newsletter: 'https://sfhfoundation.substack.com/'
   - Videos:
@@ -108,16 +108,11 @@ nav:
     - Qur’an:
       - 'Human Duty and Destiny': 'videos/quran/duty-destiny.md'
       - 'Qur’an and Happiness': 'videos/quran/quran-happiness.md'
-      - 'From Darkness to Light': 'videos/quran/darkness-to-light.md'
-      - 'Sacred Expressions': 'videos/quran/sacred-expressions.md'
-      - 'Prescriptions for Living': 'videos/quran/prescriptions-for-living.md'
       - 'The Verse of Light': 'videos/quran/verse-of-light.md'
       - 'Surat al-Hadid': 'videos/quran/al-Hadid.md'
-      - 'Surat al-Balad': 'videos/quran/al-Balad.md'
-    - ASK:
-      - '2012': 'videos/ask/2012.md'
-      - '2013': 'videos/ask/2013.md'
     - Conferences:
+      - '2013': 'videos/conferences/2013.md'
+      - '2017 - From Darkness to Light': 'videos/conferences/2017.md'
       - '2018 - What Are We Seeking?': 'videos/conferences/2018.md'
       - '2019 - The Human Quest': 'videos/conferences/2019.md'
       - '2020 - Reflections and Actions': 'videos/conferences/2020.md'

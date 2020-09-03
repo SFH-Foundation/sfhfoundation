@@ -4,9 +4,9 @@ description: A collection of talks given by Shaykh Fadhlalla considered by his s
 image: assets/images/23.jpg
 ---
 
-These four videos are a broad stroke presentation of Shaykh Fadhlalla’s work. Regard these excerpts as introductory illustrations of key tenets of the essentail teaching. The three basic pillars of **Islam** are (surrender, submission, acceptance), **Iman** (trust, faith) and **Ihsan** (contentment, excellence). Harmonious and wholesome interactions and behaviour with the phenomenal world is seamlessly connected to divinity.  
+These four videos are a broad stroke presentation of Shaykh Fadhlalla’s work. Regard these excerpts as introductory illustrations of key tenets of the essential teaching. The three basic pillars of **Islam** are (surrender, submission, acceptance), **Iman** (trust, faith) and **Ihsan** (contentment, excellence). Harmonious and wholesome interactions and behaviour with the phenomenal world is seamlessly connected to divinity.  
 
-Being correct and courteous in all our actions naturally leads us to question the meanings behind the dynamics of all activity. True inquiry is born and fostered through faith; awareness; trust in the oneness of reality; and an evolving, unfolding knowing that grows from seeing and examining yourself, your thoughts, and your actions within the wider framework of three of life's major forces - connection, continuity and consciousness. This most useful and broad map, when applied with awareness and understanding, can assist one in progressively witnessing the perfection of the moment, and resonating with the immensity of the unchanging now.
+Being correct and courteous in all our actions naturally leads us to question the meanings behind the dynamics of all activity. True inquiry is born and fostered through faith; awareness; trust in the oneness of reality; and an evolving, unfolding knowing that grows from seeing and examining yourself, your thoughts, and your actions within the wider framework of three of life's major forces - connection, continuity and consciousness.
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -274,6 +274,34 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 
 </div>
 
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![From Limitations to the Limitless](./img/sfh_limitless.jpg)
+</div>
+
+**From Limitations to the Limitless**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=ZJoNO75NKX8&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=25&t=0s)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Timeless Reality](./img/sfh_timeless.jpg)
+</div>
+
+**The Soul's Timeless Reality**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=A1U9abHA9Gg&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=63&t=0s)
+</div>
+
+</div>
+
 <div markdown="1" class="clear"></div>
 
 ## Insight, The Soul and Calibration
@@ -399,107 +427,3 @@ Determination and grace are required to awaken to your Soul. It is when you expe
 </div>
 
 <div markdown="1" class="clear"></div>
-
-## Where Land Meets Sea - A Selection
-
-Where Lands Meets Sea is a YouTube channel curated by friends of the Shaykh Fadhlalla Haeri Foundation based in Sweden. We encourage you to watch as many of the videos as you can make time for in their selection.
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Personality, Rise in Consciousness, 6th Extinction](./img/sfh_issue_personality.jpg)
-</div>
-
-**Personality, Consciousness, 6th Extinction**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=Be9oJjKUQ2k&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=1)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Differentiated Samness](./img/sfh_diff_same2.jpg)
-</div>
-
-**Differentiated Sameness - Full**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=N6PemRIhThg&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=12&t=0s)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![From Limitations to the Limitless](./img/sfh_limitless.jpg)
-</div>
-
-**From Limitations to the Limitless**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=ZJoNO75NKX8&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=25&t=0s)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Surat al-Hadid Tafsir](./img/sfh_hadid.jpg)
-</div>
-
-**Surat al-Hadid Tafsir**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=TJDKN6p_SAA&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=45&t=0s)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Free Will or Predetermination Talk](./img/sfh_free_will.jpg)
-</div>
-
-**Free Will or Predetermination?**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=yvbzO4dDgD0&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=39&t=0s)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Arc of Consciousness](./img/sfh_arc.jpg)
-</div>
-
-**The Arc of Consciousness**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=WiulqZyIAPU&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=43&t=0s)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Timeless Reality](./img/sfh_timeless.jpg)
-</div>
-
-**The Soul's Timeless Reality**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=A1U9abHA9Gg&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=63&t=0s)
-</div>
-
-</div>
-
-
