@@ -137,7 +137,7 @@ The revitalised interest in Islam and Sufism, as well as Sufi Shaykhs are signs 
 **Sufism and the Sufi**
 
 <div markdown="2" class="article-image">
-![Sufis](../assets/images/17.jpg)
+![Sufis](../assets/images/12.jpg)
 </div>
 
 <div markdown="3" class="article-para">

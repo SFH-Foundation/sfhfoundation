@@ -22,4 +22,4 @@ If you'd like to get involved, learn more about the Foundation's work, and help 
 [Gatherings](http://connect.sfhfoundation.com/bf.php?fid=1173)
 </div>
 
-![Aphorims Begin](../assets/images/20.jpg)
+![Aphorims Begin](../assets/images/25.jpg)
