@@ -49,7 +49,7 @@ image: assets/images/22.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Practices to Enhance Experience](../../videos/img/sfh_lights.jpg)
+![Practices to Enhance Experience](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 1 Clip 1**
@@ -63,7 +63,7 @@ image: assets/images/22.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Practices to Enhance Experience](../../videos/img/sfh_free_will.jpg)
+![Practices to Enhance Experience](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 1 Clip 2**
@@ -77,7 +77,7 @@ image: assets/images/22.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Practices to Enhance Experience](../../videos/img/sfh_forgiveness.jpg)
+![Practices to Enhance Experience](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 1 Clip 3**
@@ -91,7 +91,7 @@ image: assets/images/22.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Practices to Enhance Experience](../../videos/img/sfh_judgement.jpg)
+![Practices to Enhance Experience](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 1 Clip 4**
@@ -105,7 +105,7 @@ image: assets/images/22.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Practices to Enhance Experience](../../videos/img/sfh_reincarnation.jpg)
+![Practices to Enhance Experience](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 1 Clip 5**
@@ -123,7 +123,7 @@ image: assets/images/22.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Practices to Enhance Experience](../../videos/img/sfh_islam_science.jpg)
+![Practices to Enhance Experience](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 2 Clip 1**
@@ -137,7 +137,7 @@ image: assets/images/22.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Practices to Enhance Experience](../../videos/img/sfh_7.jpg)
+![Practices to Enhance Experience](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 2 Clip 2**
@@ -151,7 +151,7 @@ image: assets/images/22.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Practices to Enhance Experience](../../videos/img/sfh_war_religion.jpg)
+![Practices to Enhance Experience](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 2 Clip 3**
@@ -165,7 +165,7 @@ image: assets/images/22.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Practices to Enhance Experience](../../videos/img/sfh_islamic_state.jpg)
+![Practices to Enhance Experience](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 2 Clip 4**
@@ -179,7 +179,7 @@ image: assets/images/22.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Practices to Enhance Experience](../../videos/img/sfh_private.jpg)
+![Practices to Enhance Experience](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 2 Clip 5**
@@ -197,7 +197,7 @@ image: assets/images/22.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Practices to Enhance Experience](../../videos/img/sfh_god_gender.jpg)
+![Practices to Enhance Experience](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 3 Clip 1**
@@ -211,7 +211,7 @@ image: assets/images/22.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Practices to Enhance Experience](../../videos/img/sfh_female_prophets.jpg)
+![Practices to Enhance Experience](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 3 Clip 2**
@@ -225,7 +225,7 @@ image: assets/images/22.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Practices to Enhance Experience](../../videos/img/sfh_where_god.jpg)
+![Practices to Enhance Experience](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 3 Clip 3**
@@ -239,7 +239,7 @@ image: assets/images/22.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Practices to Enhance Experience](../../videos/img/sfh_lights.jpg)
+![Practices to Enhance Experience](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 3 Clip 4**

@@ -1,10 +1,10 @@
 ---
-title: Pointers to Haqq (Truth)
+title: Pointers to Truth
 description: Human needs, desires and questions never end. We always hope to discover answers to our day-to-day questions as well as the big questions in life. How did life begin? How and when will life end? Who am I really?
 image: articles/img/sfh_journeys.jpg
 ---
 
-# Pointers to Haqq (Truth)
+# Pointers to Truth
 
 _Written by Shaykh Fadhlalla Haeri June 2018_
 

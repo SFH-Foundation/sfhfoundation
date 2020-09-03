@@ -8,7 +8,7 @@ image: prescriptions/img/sfh_witnessing.jpg
 
 This article contains a brief series of excerpts from the book "Witnessing Perfection", which detail the specifically Islamic notion of "witnessing" (or _shahada_ in Arabic), and how this can lead one to realizing the perfection of each and every moment.
 
-_These excerpts come from only the first few pages of "[Witnessing Perfection](https://zahrapublications.pub/book-WitnessingPerfection.php#bookTitle)". For more detailed descriptions of actual practices, and for your own deeper understanding and insight, please refer to the entire book_.
+_These excerpts come from only the first few pages of <a href="https://zahrapublications.pub/book-WitnessingPerfection.php#bookTitle" target="_blank">"Witnessing Perfection"</a>. For more detailed descriptions of actual practices, and for your own deeper understanding and insight, please refer to the entire book_.
 
 ## Body, Mind and Heart  
 
@@ -37,6 +37,8 @@ All shadows are proof of the light, which causes them. Every sentient creation h
 
 Perfections are reflections of god’s attributes. We experience aspects of them and desire them. The soul contains god’s qualities and beams them out towards the self.
 
-![Witnessing perfection joyfully](../img/sfh_witnessing.jpg)
+<div markdown="1" class="zp-logo">
+<img src="/prescriptions/img/sfh_witnessing.jpg" class="ab-image" />
+</div>
 
 

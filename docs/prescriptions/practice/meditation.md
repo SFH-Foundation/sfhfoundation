@@ -12,7 +12,9 @@ A healthy mind is a medium that connects energy and matter with meanings and val
 
 The beginner’s mind is less cluttered with memories and prejudices. It connects the ever-changing consciousness, with supreme consciousness. It has a chance to transcend personal discernment and evaluation to higher states of pure witnessing.  
 
-**_The beginner’s mind is fresh, flexible, and close to the door of eternal presence and the infinite Nowness_**.
+<div class="callout5">
+The beginner’s mind is fresh, flexible, and close to the door of eternal presence and the infinite Nowness.
+</div>
 
 Further information on this section can be found in the book [Spectrum of Reality](http://spectrumofreality.com/).
 
@@ -24,6 +26,8 @@ Once we learn this then emptying out becomes sweet. Once our fear of death and c
 
 ## To Activate and Access Your Heart
 
-This world contains samples of all creations and states, seen and unseen, including paradise and hell. Human life is a process of learning through acceptance and rejection. To activate and access your heart, you need to reduce outer worldly concerns. To understand fully the greatness, power and perfection of the present moment, you need to cleanse the mind from its past or future fears. Only then can you live now. To be more in heaven you need to be less worldly. To live the moment fully, you must go beyond space-time.  
+This world contains samples of all creations and states, seen and unseen, including paradise and hell. Human life is a process of learning through acceptance and rejection. To activate and access your heart, you need to reduce outer worldly concerns. To understand fully the greatness, power and perfection of the present moment, you need to cleanse the mind from its past or future fears. Only then can you live now. To be more in heaven you need to be less worldly. To live the moment fully, you must go beyond space-time.
 
-![Meditating](../img/sfh_pilgrim.jpg)
+<div markdown="1" class="zp-logo">
+<img src="/prescriptions/img/sfh_pilgrim.jpg" class="ab-image" />
+</div>

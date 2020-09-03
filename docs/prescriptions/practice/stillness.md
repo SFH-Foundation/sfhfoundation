@@ -8,7 +8,7 @@ image: prescriptions/img/people-light.jpg
 
 Across all world religions and spiritual systems various practices are prescribed in moving from basic conditioned consciousness into the vastness of soul consciousness or boundless consciousness. The art of stillness is the heart of all these practices and endeavours.
 
-Further information on the dynamics of transformative worship and the unique applications of the Essential Islamic model can be found in the publication "[Transformative Worship in Islam: Experiencing Perfection](https://zahrapublications.pub/book-TransformativeWorshipInIslam.php#bookTitle)".
+Further information on the dynamics of transformative worship and the unique applications of the Essential Islamic model can be found in the publication <a href="https://zahrapublications.pub/book-TransformativeWorshipInIslam.php#bookTitle" target="_blank">"Transformative Worship in Islam: Experiencing Perfection"</a>.
 
 ## Stillness
 
@@ -60,4 +60,6 @@ We want to identify with power, honour and glory. This quest is within condition
 
 Within conditioned consciousness, we question, reflect, share, and try to discover what the original cause is. Once we are at the point of neutrality, then the light of inner perception beams from the Soul, reflecting the divine spirit of the Origin. The question is replaced with a taste of Reality and the experience of Oneness – a glorious answer which ends all questions – your personal entity is now in inseparable connection with the Cosmic Reality.
 
-![People of the Light](../img/people-light.jpg)
+<div markdown="1" class="zp-logo">
+<img src="/prescriptions/img/people-light.jpg" class="ab-image" />
+</div>

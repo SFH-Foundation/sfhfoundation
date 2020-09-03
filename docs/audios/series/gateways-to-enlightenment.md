@@ -17,7 +17,7 @@ The dynamics of _hij'ra_ are further elaborated as an essential inner quality th
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Episode 1 – Hij’ra](../../videos/img/sfh_diff_same.jpg)
+![Episode 1 – Hij’ra](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Episode 1 – Hij’ra**
@@ -41,7 +41,7 @@ All human beings end up in their ultimate destiny according to their _niyyah_. T
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Episode 2 – Niyyah](../../videos/img/sfh_free_gifts.jpg)
+![Episode 2 – Niyyah](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Episode 2 – Niyyah**
@@ -67,7 +67,7 @@ Having departed from that which is not conducive and brought goodness and wholes
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Episode 3 – Refinement](../../videos/img/sfh_free_gifts.jpg)
+![Episode 3 – Refinement](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Episode 3 – Refinement**
@@ -91,7 +91,7 @@ It culminates in **Ihsan**: the threshold of being. The key themes explored in t
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Episode 4 – Ihsan](../../videos/img/sfh_diff_same.jpg)
+![Episode 4 – Ihsan](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Episode 4 – Ihsan**

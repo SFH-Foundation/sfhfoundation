@@ -52,7 +52,7 @@ The serious worshipper, in his prostration, passes by these three spheres as he 
 
 Being with people, serving them, and putting up with their difficulties is balanced by the act of withdrawal, seclusion, and reflection. Prophet Muhammad (pbuh) regularly spent time in the cave called Hira outside Makkah for several days at a time. It was at the culmination of such periods that revelation occurred. The Qur’an describes the 40 days Moses spent in seeking his Lord, before he was given the ‘tablets’. The tradition of 40 days of seclusion (_khalwah_ or _chillah_, from _chehel_, forty in Persian) was taken by Sufi Masters to be a rite of passage, a serious emptying out (_khalwah_ derives from _khaliya_, to empty out): 
 
-> "And when you are free [of worldly concerns] … then turn your desire to your Lord" – Qur'an 94:7-8.  
+> "And when you are free [of worldly concerns] … then turn your desire to your Lord" – 94:7-8.  
 
 Smaller periods of time are also practiced regularly. The smallest period is ultimately symbolized by the salat which punctuates the day five times, giving us the chance to reconnect in awareness with the underlying reality that grounds our existence.
 

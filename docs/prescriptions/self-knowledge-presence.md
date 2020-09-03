@@ -6,21 +6,21 @@ image: assets/images/09.jpg
 
 # Self Knowledge and Unfolding Into Presence
 
-This guide is made up of of a series of interlinked extracts from various books written by Shaykh Fadhlalla over the years on the theme of Self Knowledge and Presence. It is incumbent upon you to read them attentively, reflect on them fully, and apply them appropriately as aids on the path of transformation.
+This guide is made up of of a series of interlinked extracts from various books written by Shaykh Fadhlalla over the years on the theme of Self Knowledge and Presence.
 
 ### Energy and Awareness   
 
-In any given situation you will have a certain amount of **energy**. However we like to measure it, you will find a certain amount of energy available _at any one time_. 
+In any given situation you will have a certain amount of energy. However we like to measure it, you will find a certain amount of energy available at any one time. 
 
-Why are most of us unbalanced or dissatisfied at the moment? It is because our **energy is not harnessed**. We are not contained and therefore not wholesome. Part of our energy is leaking away in the form of anxiety and worry. 
+Why are most of us unbalanced or dissatisfied at the moment? It is because our energy is not harnessed. We are not contained and therefore not wholesome. Part of our energy is leaking away in the form of anxiety and worry. 
 
 If a third of my energy dwelling in the past, suffering from it or proud of it, and another third is concerned about the future – whether it is about the welfare of my children, my reputation, failure or success – then only a third remains. Therefore, only one third of me is really available to be drawn from now.  
 
-**The more you worry the less likely you are to achieve the expected result**, because some of your energy is dissipated in anxiety. And the body is absorbing some of it in the form of perspiration, heat or nervousness. These are all forms of **_dissipation_**. So where are you now if half of you is buried in the past and the other half is anxiously concerned about the future? _What is left of you_?
+The more you worry the less likely you are to achieve the expected result, because some of your energy is dissipated in anxiety. And the body is absorbing some of it in the form of perspiration, heat or nervousness. These are all forms of dissipation. So where are you now if half of you is buried in the past and the other half is anxiously concerned about the future? What is left of you?
 
-**Self-knowledge is about wholesomeness**. 
+Self-knowledge is about wholesomeness. 
 
-It is in order to see totality inwardly, to see the absoluteness, to see the integratedness of everything, which is _‘Tawhid’_, **Oneness**. 
+It is in order to see totality inwardly, to see the absoluteness, to see the integratedness of everything, which is Oneness. 
 
 ### Generosity & Selflessness    
 
@@ -28,7 +28,9 @@ We enjoy ease and the smooth flow of life, welcoming generosity at all levels �
 
 All our actions are interactive and the dynamics of energy fields and matter are ceaseless. A generous mind is limited and measured, whereas a generous heart can be unconditional and simply flows. The ego self is the obstacle to such generosity and can darken the heart. Modesty reduces egoistic tendency and selfless acts touch hearts and souls. The human journey is from ego to soul.      
 
-**_The ultimate human purpose is to recognize the ego’s limitations and transcend it through generous acts and unconditional love_**.
+<div class="callout5">
+The ultimate human purpose is to recognize the ego’s limitations and transcend it through generous acts and unconditional love.
+</div>
 
 ### Passion
 
@@ -50,6 +52,8 @@ There are always at least two viewpoints at any time. You can face the past or t
 
 Everything that exists has an outer and an inner facet, which are in balance. For a youngster, most experiences are due to sensory stimulation. For an adult there is outer and inner consciousness. For an awakened being the outer and inner are seamlessly bound together due to the emergence of the light of the Oneness.  
 
-**_Discriminating between outer and inner is the first step to realizing their inseparability in essence._** 
+<div class="callout5">
+Discriminating between outer and inner is the first step to realizing their inseparability in essence.
+</div>
 
 ![Self Knowledge and Presence](../assets/images/09.jpg)

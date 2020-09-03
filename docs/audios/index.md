@@ -1,6 +1,5 @@
 ---
 title: Audio Stream
-template: overrides/rss-feed.html
 description: An automated feed of the latest talks released by the Shaykh Fadhlalla Haeri Foundation
 image: assets/images/20.jpg
 ---
@@ -49,16 +48,14 @@ We release audios on a number of platforms. Please find your preferred one below
 
 </div>
 
+<div markdown="1" class="audio-img">
+![SFH Listening](./img/sfh_audio.jpg)
+</div>
+
 If you'd like to listen to more audios, please visit our legacy website by clicking below:
 
 <div markdown="3" class="purchase-link">
 [Shaykh Fadhlalla Haeri](http://shaykhfadhlallahaeri.com)
-</div>
-
-## Most Recent
-
-<div markdown="1" class="audio-img">
-![SFH Listening](./img/sfh_audio.jpg)
 </div>
 
 

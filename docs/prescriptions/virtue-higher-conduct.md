@@ -12,7 +12,7 @@ Frustrations arise out of the disparity between our higher soul consciousness an
 
 ## Virtues and Vices and the Importance of Interaction
 
-_From the book “[The Journey of the Self – A Sufi Guide to Personality](https://zahrapublications.pub/book-TheJourneyOfTheSelf.php#bookTitle)”_ 
+_From the book <a href="https://zahrapublications.pub/book-TheJourneyOfTheSelf.php#bookTitle" target="_blank">“The Journey of the Self – A Sufi Guide to Personality”</a>_. 
 
 The importance of virtue to self-development can be seen after defining what is meant by virtue. We define virtue as behaviour occurring at the centre of two extremes, both of which are unvirtuous. The virtuous value which is at the centre is not affected by the unvirtuous values around it unless it moves towards one or the other extremes, away from the centre. When it happens, the virtue takes on the colour of that particular vice. For example, the virtue of generosity is the midpoint between two vices – meanness at one extreme, and indiscriminate giving, or wastefulness, at the other extreme.             
 
@@ -40,10 +40,12 @@ Identity relates to mind, memory and time. Thoughts connect the past to the pres
 
 Much human effort is expended to reduce distance and separation. As for time, we try to go faster than all possibilities or, more effectively, to stop time altogether. Our human conditioned consciousness drives us towards stillness in mind, which opens the door of timelessness and perpetual presence. All human endeavours lead to a point of experience, which occurs when the mind is content and still. The moment of success or heightened pleasure reflects this state. Within the still moment lies the zone of transcendence of mind and time. That is the infinitude of Reality.  
 
-When the past is lost  
-and the future is of no concern,   
-the perfection of now   
-is a great gift  
-that yields a lasting thrill.
+<div class="center-poem">
+When the past is lost  <br/>
+and the future is of no concern,   <br/>
+the perfection of now   <br/>
+is a great gift  <br/>
+that yields a lasting thrill. <br/>
+</div>
 
 ![Virtuous Being](./img/sfh_journeys.jpg)

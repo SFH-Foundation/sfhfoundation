@@ -21,7 +21,7 @@ Human beings reflect the cosmic perfection at the point of conception but, as we
 </div>
 
 <div markdown="3" class="purchase-link">
-[Visit The Full Site](http://spectrumofreality.com/)
+[Spectrum of Reality](http://spectrumofreality.com/)
 </div>
 
 If you'd like to receive one of these aphorisms every two weeks, directly into your inbox, please follow the link below:

@@ -11,7 +11,7 @@ The nature of the mind is to separate, differentiate and pigeonhole, whereas - i
 </div>
 
 <div markdown="1" class="zp-logo">
-![Zahra Publications Logo](/assets/images/zahra_logo.png)
+<img src="/assets/images/zahra_logo.png" class="zp-small" />
 </div>
 
 Zahra Publications has been publishing books on Islam and Sufism since 1981. Dedicated to disseminating the original teachings of Islam through contemporary and classical works alike, Zahra Publications titles lay particular emphasis on spiritual and transformative teachings.

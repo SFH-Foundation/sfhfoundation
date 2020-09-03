@@ -59,7 +59,7 @@ It is not the thing, but the meaning that you are after-we are in an impermanent
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Enlightenment](../../videos/img/sfh_path_1.jpg)
+![Enlightenment](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Episode 1**
@@ -79,7 +79,7 @@ We experience light by its shadow. Pure light cannot be perceived except as a ra
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Enlightenment](../../videos/img/sfh_path_2.jpg)
+![Enlightenment](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Episode 2**
@@ -115,7 +115,7 @@ This episode takes the form of many important questions which the Shaykh poses a
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Enlightenment](../../videos/img/sfh_path_3.jpg)
+![Enlightenment](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Episode 3**
@@ -133,7 +133,7 @@ This episode takes the form of many important questions which the Shaykh poses a
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Enlightenment](../../videos/img/sfh_path_4.jpg)
+![Enlightenment](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Episode 4**
@@ -164,7 +164,7 @@ This final episode in the series also takes the form of a series of questions as
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Enlightenment](../../videos/img/sfh_path_1.jpg)
+![Enlightenment](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Episode 5**

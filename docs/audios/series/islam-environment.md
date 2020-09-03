@@ -55,7 +55,7 @@ Shaykh Fadhlalla recasts the environmental crisis as a crisis of consciousness. 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Islam and the Environment](../../videos/img/sfh_7.jpg)
+![Islam and the Environment](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 1**
@@ -69,7 +69,7 @@ Shaykh Fadhlalla recasts the environmental crisis as a crisis of consciousness. 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Islam and the Environment](../../videos/img/sfh_first_last.jpg)
+![Islam and the Environment](../../videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 2**

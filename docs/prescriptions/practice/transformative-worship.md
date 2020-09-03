@@ -10,9 +10,9 @@ Islam addresses our material, mental and spiritual needs at all levels - persona
 
 All acts of worship and religious prescriptions are intended to reduce the veils and background noise in the human psyche or ego, so that the innate light within the heart (soul) shines and elevates the individual to God consciousness without denial of earthly limitations.
 
-> He "is closer to you than your jugular vein," - Qur'an 50:16
+> He "is closer to you than your jugular vein," - 50:16
 
-> "Wherever you turn, there is the face of Allah." - Qur'an 2:115
+> "Wherever you turn, there is the face of Allah." - 2:115
 
 The ultimate challenge in life is to realize this spiritual fact. Real personal development of this knowledge relates directly to sincerity, trust and certainty. The result is conscious awareness of Allah at all times and in all circumstances. This God consciousness is referred to as _taqwa_ in Islam, which puts an emphasis on attaining it through _dhikr_: remembrance and awareness of this primary and ultimate light within us, the source of self-awareness. Being in constant reference to this Supreme Consciousness enables us to put into perspective  all other changing states that we experience in life. 
 
@@ -41,5 +41,5 @@ Islam is founded upon experiential _tawhīd_. The whole universe has emanated fr
 
 ![Transforming hearts](../img/sfh_transformed.jpg)
 
-_These excerpts come from the first few pages of "[Transformative Worship in Islam: Experiencing Perfection](https://zahrapublications.pub/book-TransformativeWorshipInIslam.php#bookTitle)". For detailed descriptions on application of practices and their meanings please refer to the entire book_.
+_These excerpts come from the first few pages of <a href="https://zahrapublications.pub/book-TransformativeWorshipInIslam.php#bookTitle" target="_blank">"Transformative Worship in Islam: Experiencing Perfection"</a>. For detailed descriptions on application of practices and their meanings please refer to the entire book_.
 

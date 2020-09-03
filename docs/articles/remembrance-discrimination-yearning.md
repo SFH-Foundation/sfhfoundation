@@ -1,12 +1,12 @@
 ---
-title: Dhikr, Fikr, and Himmah
+title: Remembrance, Discrimination, Yearning
 description: A basic introduction to three critical and interrelated aspects of The Path; remembrance, discrimination, and the energy that arises from yearning.
 image: articles/img/sfh_dhikr.jpg
 ---
 
-# Dhikr, Fikr, and Himmah
+# Remembrance, Discrimination, Yearning
 
-_By Shaykh Fadhlalla Haeri, from the book [“The Sufi Way to Self-Unfoldment”](https://zahrapublications.pub/book-TheSufiWayToSelf-Unfoldment.php#bookTitle)_.
+_By Shaykh Fadhlalla Haeri, from the book <a href="https://zahrapublications.pub/book-TheSufiWayToSelf-Unfoldment.php#bookTitle" target="_blank">“The Sufi Way to Self-Unfoldment”</a>.
 
 The Path lies in _dhikr_, _fikr_ and _himmah_. _Dhikr_ is the remembrance of God, from whom I am separated by my self. It is this illusion that is caused by me that is the cause of this barrier, separation. So it is a process of elimination. If I overcome the self, if I remove all of these images, all of these goggles that I have erroneously put on, then I am bound to be less separated from that which is the source of all beingness.
 

@@ -8,7 +8,7 @@ image: assets/images/01.jpg
 
 <div markdown="1" class="card article sidebar center">
 
-**Dhikr, Fikr, and Himmah**
+**Remembrance, Discrimination, Yearning**
 
 <div markdown="2" class="article-image">
 ![Dhikr](../assets/images/red_flower.jpg)
@@ -19,7 +19,7 @@ A basic introduction to three critical and interrelated aspects of The Path: rem
 </div>
 
 <div markdown="3" class="article-link">
-[Read More](./dhikr-fikr-himmah)
+[Read More](./remembrance-discrimination-yearning)
 </div>
 
 </div>
@@ -44,10 +44,10 @@ Before reaching spiritual maturity Sufi literature can encourage fantasy or act 
 
 <div markdown="1" class="card article sidebar center">
 
-**Pointers to Haqq**
+**Pointers to Truth**
 
 <div markdown="2" class="article-image">
-![Pointing to Haqq](../assets/images/22.jpg)
+![Pointing to HaTruthqq](../assets/images/22.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -55,7 +55,7 @@ Human needs, desires and questions never end. We always hope to discover answers
 </div>
 
 <div markdown="3" class="article-link">
-[Read More](./pointers-to-haqq)
+[Read More](./pointers-to-truth)
 </div>
 
 </div>

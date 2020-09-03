@@ -1,10 +1,10 @@
 ---
-title: Single Talks
+title: Selected Talks
 description: Stand-alone talks on the Sufi path, enlightenment, awakening, the Qur'an and various other topics given by Shaykh Fadhlalla Haeri and recorded in various places across the world over the years.
 image: assets/images/12.jpg
 ---
 
-# Single Talks
+# Selected Talks
 
 On this page, you will find all the stand-alone talks Shaykh Fadhlalla has given over the years, as opposed to ones organised and grouped together under a common theme. Each of these talks is unique, containing an array of insights and threads presenting the amazing connections between the absolute and the relative.
 
@@ -63,7 +63,7 @@ Further talks on this topic can be found in [another audio series](./series/enli
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Enlightenment](../videos/img/sfh_perennial.jpg)
+![Enlightenment](../videos/img/sfh_foundation.jpg)
 </div>
 
 **Enlightenment**
@@ -95,7 +95,7 @@ Finally, he considers the developmental stages of consciousness as is emergent i
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Human Consciousness](../videos/img/sfh_three_cs.jpg)
+![Human Consciousness](../videos/img/sfh_foundation.jpg)
 </div>
 
 **Human Consciousness**
@@ -117,7 +117,7 @@ In this audio recording Shaykh Fadhlalla Haeri takes the listener on an incredib
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![The Perpetual Now](../videos/img/sfh_conduct.jpg)
+![The Perpetual Now](../videos/img/sfh_foundation.jpg)
 </div>
 
 **The Perpetual Now**
@@ -151,37 +151,13 @@ The entire talk is well summarised in the following key excerpt:
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Islam and Tawhid](../videos/img/sfh_islam.jpg)
+![Islam and Tawhid](../videos/img/sfh_foundation.jpg)
 </div>
 
 **Islam and Tawhid**
 
 <div markdown="3" class="video-link">
 [Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Islam-and-Tawhid-ea69oq)
-</div>
-
-</div>
-
-<div markdown="1" class="clear"></div>
-
-## Muslim Awakening
-
-In this intimate and reflective discourse, Shaykh Fadhlallah engages several of the cores issues relevant to living the spiritual path. He elaborates on the basic nature of the mind in human cosmology as an interspace between the seen and unseen, exploring the necessity and foundation of practicing reason and rationality whilst exploring the key driving force in human life. That is to go beyond the boundaries of mental movements and projections into stillness. The basis of moving into the transcendent is explored.
-
-The Skaykh then examines the heart as the spiritual center of the human being, and the means of purifying the heart so that we may rise to the higher. Shaykh Fadhlalla then examines the life forces programmed within us that aid the surge in consciousness towards the boundless origin, with the introduction of the unified cosmology of the Muhammadan map of existence. 
-
-Several key representations of life’s paradoxes are engaged: the critical dichotomy between otherness and oneness; the basis of generosity; the levels of meaning; and cause and effect - all accompanied by a distilled presentation of the various outstanding contributors to the science of the self. The essential indications relevant to grooming of the lower self are presented so as to assist you in working with the driving forces that make up the self and universal attributes. Grooming and containing the lower self is a means of attaining a balanced inner ecology that is the foundation of inner harmony and justice and the basis of liberation from the shadows of the past and concerns for the future. Once balanced, you may knock at the doorway of presence.
-
-<div markdown="1" class="card video sidebar center gemoji center-content center-card">
-
-<div markdown="2" class="video-image">
-![Muslim Awakening](../videos/img/sfh_diff_same.jpg)
-</div>
-
-**Muslim Awakening**
-
-<div markdown="3" class="video-link">
-[Listen](https://open.spotify.com/episode/42hRANeb27PiwTXouInBMv)
 </div>
 
 </div>
@@ -199,7 +175,7 @@ An understanding of the complimentary nature in which the forces of life and dea
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Die Before You Die](../videos/img/sfh_elusive.jpg)
+![Die Before You Die](../videos/img/sfh_foundation.jpg)
 </div>
 
 **Die Before You Die**
@@ -219,7 +195,7 @@ This is a recording of a webinar on 25 January 2020 with Shaykh Fadhlalla Haeri 
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Sufi XXI Century](../videos/img/sfh_diff_same.jpg)
+![Sufi XXI Century](../videos/img/sfh_foundation.jpg)
 </div>
 
 **What Does It Mean To Be A Sufi In The 21st Century?**
@@ -241,7 +217,7 @@ This framework is built around the application and relatability of essential Isl
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Inner Striving and Joy Are Inseparable](../videos/img/sfh_diff_same.jpg)
+![Inner Striving and Joy Are Inseparable](../videos/img/sfh_foundation.jpg)
 </div>
 
 **Inner Striving and Joy Are Inseparable**
