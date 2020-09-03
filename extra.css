@@ -117,6 +117,12 @@
     width: 40%;
   }
 
+  .center-poem {
+    text-align: center;
+    font-weight: 600;
+    font-style: italic;
+  }
+
   .center-text {
     font-size: 14px;
     text-align: center;
