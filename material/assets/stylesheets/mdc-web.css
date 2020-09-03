@@ -396,7 +396,7 @@ iframe.excel-frame { zoom: 1;  }
 .card.book {
   width: 90%;
 }
-.card.video {
+.card.video, .card.poetry {
   width: 43%;
 }
 .card.audio {

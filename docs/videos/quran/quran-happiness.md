@@ -6,7 +6,7 @@ image: assets/images/13.jpg
 
 # The Qur'an, Illumination, and Happiness
 
-These selected talks provide clarity and insight into the Qur'anic notions of illumination and happiness, and how they apply specifically and practically in our own lives. In order to introduce this work properly, please read over the following excerpt from Shaykh Fadhlalla's book ["The Sufi Way of Self Enfoldment"](https://zahrapublications.pub/book-TheSufiWayToSelf-Unfoldment.php#bookTitle) first:
+These selected talks provide clarity and insight into the Qur'anic notions of illumination and happiness, and how they apply specifically and practically in our own lives. In order to introduce this work properly, please read over the following excerpt from Shaykh Fadhlalla's book ["The Sufi Way of Self Enfoldment"](https://zahrapublications.pub/book-TheSufiWayToSelf-Unfoldment.php#bookTitle):
 
 We all want happiness and we define happiness as desires achieved. When all desires are achieved, we say, ‘I am tranquil.’ Well, why can’t we be tranquil to begin with? Who made me have all these multitudinous desires? There are basic needs, but we don’t suffer from the lack of those basic things now, things such as shelter, clothes, food. It is ingrained in us, in our chromosomes, to keep the body alive as well as we can, in order to discover the purpose of it all – that is the purpose of living.    
 

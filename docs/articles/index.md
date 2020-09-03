@@ -11,7 +11,7 @@ image: assets/images/01.jpg
 **Remembrance, Discrimination, Yearning**
 
 <div markdown="2" class="article-image">
-![Dhikr](../assets/images/red_flower.jpg)
+![Dhikr](../assets/images/01.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -29,7 +29,7 @@ A basic introduction to three critical and interrelated aspects of The Path: rem
 **Less is More**
 
 <div markdown="2" class="article-image">
-![Sufis](../assets/images/yellow_flower_sm.jpg)
+![Sufis](../assets/images/17.jpg)
 </div>
 
 <div markdown="3" class="article-para">
