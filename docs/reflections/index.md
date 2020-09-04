@@ -1,16 +1,16 @@
 ---
-title: Aphorisms
+title: Reflections
 description: A collection of universal Sufi aphorisms written by Shaykh Fadhlalla Haeri
 image: assets/images/22.jpg
 ---
 
-# Aphorism Journeys
+# Reflections
 
 This section is organised into separate "journeys". Each saying is - in itself - a key to wisdom and deeper understanding. The intention is that you travel through each journey separately and return numerous times as each stage takes you deeper into your own heart.
 
-## If We Are Willing To Stop
+## Stop
 
-<div class="callout5">
+<div class="callout6">
 It is a wise one who is always hopeful to learn meanings and lessons from difficulties and hardships.
 </div>
 
@@ -30,7 +30,7 @@ If you'd like to receive one of these aphorisms every two weeks, directly into y
 [Aphorisms](http://connect.sfhfoundation.com/bf.php?fid=1171)
 </div>
 
-## Collected Gems
+## Collected Threads
 
 The silence within is the knock on the inner door.
 

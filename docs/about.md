@@ -4,7 +4,7 @@ description: The Shaykh Fadhlalla Haeri Foundation presents a journey from self 
 image: assets/images/sfh_door.jpg
 ---
 
-<div class="callout5">
+<div class="callout6">
 You will be truly content if you know the nature of the infinite and you realise your future is perfect by knowing the eternal. 
 </div>
 

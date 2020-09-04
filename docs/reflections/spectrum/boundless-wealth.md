@@ -4,7 +4,7 @@ description: Short sufi indications for understanding the inner meaning of lasti
 image: assets/images/11.jpg
 ---
 
-# Journey 5 - Real Wealth, Beauty, and Treasure
+# Journey 5 - Boundless Wealth
 
 Beauty is within the innermost of everything that exists - even within what appears ugly.  
 

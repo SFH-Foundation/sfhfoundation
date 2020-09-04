@@ -6,7 +6,7 @@ image: assets/images/sfh_prayer.jpg
 
 # The Human Story
 
-<div class="callout5">
+<div class="callout6">
 The ultimate human reference and duty in life is to respect and have reverence for all life and every manifestation of it. 
 </div>
 
@@ -24,4 +24,4 @@ Our world is out of balance in that earthly consciousness is excessively emphasi
 
 This website attempts to make accessible the great classical teachings which have emerged from scripture, world religions and prophetic revelations – especially the Quran, which is a magnificent distillation of previous declarations. This universal path can enable people, at any period of time or geographic location, to live as decent human beings celebrating life on earth as a prelude and preparation for the next stage of full awakening, which – in most cases – occurs after death. What unites all human beings is the genuine drive towards awakening to the ever-present and prevailing truth of oneness, veiled behind numerous dualities, pluralities and mental differentiations. Personal or communal calamities, or catastrophic fear, is tempered and reduced when recalibrated with the eternal truth of perpetual life from which all emerged. To save one’s self from the lower self and its shadow play, we need to connect our personal life diligently and intelligently to the eternal life beyond the limitations of time and space. We need to unify – by effort, prayers, and meditation – the celestial and the terrestrial within us. Only then can you live cheerfully with your transience, alive to the knowledge of the soul’s permanency. Being on earth as a heavenly reality.
 
-<img class="center-img" src="/assets/images/sfh_eyes.jpg" />
+<img class="center-img" src="/assets/images/sfh_thinking.jpg" />

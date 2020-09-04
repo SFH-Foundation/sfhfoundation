@@ -1,10 +1,10 @@
 ---
-title: Emptying
+title: Start Now
 description: A few, short videos which serve as a great starting point for those who are not at all familiar with Shaykh Fadhlalla and his work and teachings.
 image: assets/images/07.jpg
 ---
 
-# Emptying Out - The Beginning
+# Start Now
 
 Human beings are driven to higher consciousness by prayer, meditation and a host of creative pursuits, all of which reflect our yearning to return to a blissful state of contented happiness - paradise. It is ultimately supreme consciousness that we all desire, here and now.
 

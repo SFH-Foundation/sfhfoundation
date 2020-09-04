@@ -12,7 +12,7 @@ A healthy mind is a medium that connects energy and matter with meanings and val
 
 The beginner’s mind is less cluttered with memories and prejudices. It connects the ever-changing consciousness, with supreme consciousness. It has a chance to transcend personal discernment and evaluation to higher states of pure witnessing.  
 
-<div class="callout5">
+<div class="callout6">
 The beginner’s mind is fresh, flexible, and close to the door of eternal presence and the infinite Nowness.
 </div>
 

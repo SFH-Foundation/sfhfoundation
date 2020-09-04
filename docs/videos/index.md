@@ -6,14 +6,14 @@ image: assets/images/11.jpg
 
 # Videos
 
-## Emptying
+## Start Now
 
 <div markdown="1" class="card article sidebar center">
 
 **Start here...**
 
 <div markdown="2" class="article-image">
-![Transformation](../prescriptions/img/sfh_transformed.jpg)
+![Transformation](../pointers/img/sfh_transformed.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -26,7 +26,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 </div>
 
-## Purifying
+## Reflect
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -84,7 +84,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 </div>
 
-## Sweetening
+## Review
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -319,13 +319,13 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Message to Western Muslims](./img/sfh_message.jpg)
+![Livestream](./img/sfh_quran_happiness.jpg)
 </div>
 
-**Message to Western Muslims**
+**Qur'an And Happiness**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=FWANw9AddMc)
+[Watch](https://www.youtube.com/watch?v=AIg461OIlB8)
 </div>
 
 </div>
@@ -347,13 +347,13 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Livestream](./img/sfh_quran_happiness.jpg)
+![Message to Western Muslims](./img/sfh_message.jpg)
 </div>
 
-**Qur'an And Happiness**
+**Message to Western Muslims**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=AIg461OIlB8)
+[Watch](https://www.youtube.com/watch?v=FWANw9AddMc)
 </div>
 
 </div>

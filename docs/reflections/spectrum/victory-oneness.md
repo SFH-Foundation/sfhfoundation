@@ -4,7 +4,7 @@ description: Short sufi indications for moving into the perpetual victory and co
 image: assets/images/20.jpg
 ---
 
-# Journey 4 - Victory and Gatheredness
+# Journey 4 - Victory of Oneness
 
 Failure and success are the dualities that challenge our humanity. Victory belongs to our soul and the world of spirits.  
 

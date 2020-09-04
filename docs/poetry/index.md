@@ -10,7 +10,7 @@ image: assets/images/22.jpg
 
 The disciple declared that there are countless beings in existence, but the master insisted that there is none except One. He then reminded the student that when you truly open your eyes many may appear within your sight, whereas in truth these are only shadows of the everlasting one light within them, before them and after them. The master then sang:
 
-<div class="callout5">
+<div class="callout6">
 "Passion for God has bewildered me; thus I am alien and a stranger in this world. When I appear He (God) vanishes, and when He appears I vanish."
 </div>
 

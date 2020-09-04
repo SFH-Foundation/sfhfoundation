@@ -11,11 +11,11 @@ image: assets/images/p21.jpeg
 _Formerly The Academy of Self Knowledge_
 </div>
 
-## Cosmology of the Self: TOUCHING SUPREME CONSCIOUSNESS
+## Towards Full Consciousness
 
 Take an honest look at the challenging state of humanity and the world.  Where are we? How did we get here? What is now possible? Where are we going?  
 
-Founded in 2003 by Shaykh Fadhlalla Haeri, the Cosmology of the Self: TOUCHING SUPREME CONSCIOUSNESS,  offers essential maps that have inspired countless seekers around the world to find themselves and to discover their true nature.  To help you discover and fulfil your purpose in life, the Maps chart a personal evolutionary arc of consciousness that point and lead to the experience of Presence.  
+Founded in 2003 by Shaykh Fadhlalla Haeri, the Attaining Full Consciousness,  offers essential maps that have inspired countless seekers around the world to find themselves and to discover their true nature.  To help you discover and fulfil your purpose in life, the Maps chart a personal evolutionary arc of consciousness that point and lead to the experience of Presence.  
 
 We are the meeting point of the earthly and the divine.  Realising our inmost potential, we can become an ecologically sustainable, spiritually fulfilling, socially and ethically just, fully illumined human presence on the planet.   
 

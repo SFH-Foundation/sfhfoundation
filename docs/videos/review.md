@@ -1,5 +1,5 @@
 ---
-title: Unfolding
+title: Review
 description: A collection of talks given by Shaykh Fadhlalla which some more advanced students have recommended for those who are more familiar with Sufism and Islam.
 image: assets/images/05.jpg
 ---
@@ -138,7 +138,7 @@ Identity relates to mind, memory and time. Thoughts connect the past to the pres
 
 We are driven to reduce reduce distance and separation, and to move ever faster. However, it is more effective to stop time altogether. Our human conditioned consciousness drives us towards stillness in mind, which opens the door of timelessness and perpetual presence. All human endeavours lead to a point of experience, which occurs when the mind is content and still. The moment of success or heightened pleasure reflects this state. 
 
-<div class="callout5">
+<div class="callout6">
 Within the still moment lies the zone of transcendence of mind and time. That is the infinitude of Reality.  
 </div>
 
@@ -240,7 +240,7 @@ that yields a lasting thrill.<br/>
 
 The nature of the human self is not to accept blame or responsibility. An immature person accuses others when experiencing difficulties, hardship or suffering. However, the evolved person blames themself and takes responsibility for what has gone wrong. A difficulty is regarded as a good lesson. Constrictions can lead to new knowledge and openings. The habit of self-pity and psychological suffering is a great handicap in life. In order to avoid reinforcing suffering, constant watchfulness of the self’s tendency to justify itself whilst blaming others is required.    
 
-<div class="callout5">
+<div class="callout6">
 When you blame others the ego is protected for a while, but if you blame yourself greater wisdom and fresh insights are the rewards. 
 </div> 
 
@@ -296,7 +296,7 @@ A mature mind can recognize what is transient and changeable and what is more du
 
 There are endless levels of realities and the higher points are near the origin of what is constant and perpetual. Whatever reminds us of the ever-present is generally a desirable state. The ever-changing ego celebrates its perpetual origin, the soul within the heart.
 
-<div class="callout5">
+<div class="callout6">
 The soul is a reflector of what is eternal and perpetual and enables us to appreciate an experience of eternal Reality.
 </div>
 
@@ -372,7 +372,7 @@ The soul is a reflector of what is eternal and perpetual and enables us to appre
 
 <div markdown="1" class="clear"></div>  
 
-<div class="callout5">
+<div class="callout6">
 Discriminating between outer and inner is the first step to realizing their inseparability in essence.
 </div>    
 

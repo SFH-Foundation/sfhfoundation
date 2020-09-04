@@ -4,7 +4,7 @@ description: Short sufi indications for moving with guidance towards your most e
 image: assets/images/04.jpg
 ---
 
-# Journey 3 - Guidance and Excellence
+# Journey 3 - Drive for Excellence
 
 We are impressionable creatures and need outer references until we can access our own inner soul - the resident teacher.  
 
