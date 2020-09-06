@@ -6,13 +6,9 @@ image: articles/img/sfh_celebrate.jpg
 
 # _Eid_ - The Return
 
-_The following is an extract from an Eid Talk given by Shaykh Fadhalla Haeri._
-
 May every instant of our lives be full of joyful optimism so that we progress from one level of understanding and inner light to a higher one, until such time there is nothing left for us to do in this world other than to remain in the ecstasy of truly saying, knowing, singing _"la ilaha illallah"_! I would like to share with you the origin of this _Eid_ celebration.
 
-![Celebrate!](./img/sfh_celebrate.jpg)
-
-We love to celebrate, to be in a state of positive expectation, to be generous, intelligent and courageous. So we celebrate the _Eid_ in order for us to return to the original condition of our father Adam in the Garden. This state of consciousness is within our soul and needs to be recalled by transcending our earth bound identity.
+We love to celebrate, to be in a state of positive expectation, to be generous, intelligent and courageous. So we celebrate the _Eid_ in order for us to return to the original condition of Adam in the Garden. This state of consciousness is within our soul and needs to be recalled by transcending our earth bound identity.
 
 Life on this Earth is a prelude to a return to the Garden from where Adam, Hawa and all of us – as children of Adam – came from. On earth we are constantly challenged with dualities and choices. We seek the best continuously. This life of ours on earth is only a practice to return back to the Garden. This is why we love beautiful, tranquil, earthly gardens with water and flowers. Unlike these gardens, the original Garden is forever. It does not change. The Qur’an mentions that for all those who are in cautious awareness and remembrance, paradise is close by.
 
@@ -28,4 +24,6 @@ Our path is based on grooming the self. Once you have realised that the lower se
 
 Every one of us desires the same thing. Beyond what we see as troubles and difficulties there is a most just Creator, whose order is within us. No matter the individual level of knowledge, education, spiritual understanding and awakening, we all have the same potential. All of us have a soul, which is a spark from the original sacred light of Allah. We all have a divine treasure in our heart.Once we realise that our source of inspiration and connection to Allah – our soul – lies within us, we can rise to the true original Adamic worshipfulness. Allah will guide everybody how best to worship. All we need to do is to stop our lower self. This is all what we can do. We have no control over the soul. So this is why it all begins with _"la ilaha illallah"_. _Eid_ is about arrival. It is about returning to where we have emanated from, returning to the state that we yearn for. The little outer garden is a sample of the eternal Garden, whose pattern lies within our hearts.
 
-![Eid Talk](./img/sfh_eid.jpg)
+<div class="zp-logo">
+<img src="/articles/img/sfh_smiling.jpg" class="ab-image" />
+</div>

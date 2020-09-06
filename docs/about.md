@@ -5,7 +5,7 @@ image: assets/images/sfh_door.jpg
 ---
 
 <div class="callout6">
-You will be truly content if you know the nature of the infinite and you realise your future is perfect by knowing the eternal. 
+You will be truly content if you know the nature of the infinite. You can realise your future is perfect by knowing the eternal. 
 </div>
 
 <div markdown="1" class="zp-logo">

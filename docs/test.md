@@ -22,6 +22,8 @@ You are a passing guest on earth. Your life continues after you die as your soul
 Where is God not?
 </div>
 
+Duality appears as soon as creation begins and with it comes the discrimination between left and right, up and down, good and bad, acceptable or what is to be rejected.  Duality begins with discernment of what is high and what is low or what is local and what is universal or more prevalently as to what is inner and what is outer.  The outer is evident, we can all share and care and exchange views about it.  The inner is subtler and subtler and its origin is from the inception of creation.  So we as human beings experience only the outer manifestation of what we call real but its root lies in the unseen.  We can call it energy but eventually even that disappears.  The inner and the outer are always in balance.
+
 We all pursue and desire contentment and the happy moment without fears, sorrow and insecurity, which are all characteristic of temporary and conditioned consciousness. To do your utmost in the present moment with constant reference to absolute truth and practice. This emanates from timelessness with total acceptance that the darkness of our temporary state is only understood due to the light of the permanent soul within. 
 
 The idea of free will is part

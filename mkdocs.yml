@@ -135,20 +135,20 @@ nav:
     - Publication Partners: 'books/pub-partners.md'
   - Articles:
     - 'Overview': 'articles/index.md'
-    - 'Remembrance, Discrimination, Yearning': 'articles/remembrance-discrimination-yearning.md'
     - 'Less is More': 'articles/less-is-more.md'
     - 'Pointers to Truth': 'articles/pointers-to-truth.md'
-    - 'Eid - The Return': 'articles/eid.md'
     - 'Natural Illusions': 'articles/natural-illusions.md'
-    - 'Decree, Destiny and Enlightenment': 'articles/decree-destiny-enlightenment.md'
     - 'The Thread of Truth': 'articles/thread-of-truth.md'
-    - 'Sufism and the Sufi': 'articles/sufism-sufi.md'
-    - 'The Shock of Awakening': 'articles/shock-awakening.md'
     - 'To Be Alive': 'articles/to-be-alive.md'
     - 'The Cycles of Life and Reality': 'articles/cycles-life-reality.md'
     - 'Consciousness': 'articles/consciousness.md'
+    - 'Sufism and the Sufi': 'articles/sufism-sufi.md'
+    - 'Remembrance, Discrimination, Yearning': 'articles/remembrance-discrimination-yearning.md'
+    - 'The Shock of Awakening': 'articles/shock-awakening.md'
     - 'The Parable of the Spider’s House': 'articles/parable-spider.md' 
     - 'The Journey of Transformation': 'articles/journey-transformation.md'
+    - 'Decree, Destiny and Enlightenment': 'articles/decree-destiny-enlightenment.md'
+    - 'Eid - The Return': 'articles/eid.md'
   - Pointers:
     - 'Overview': 'pointers/index.md'
     - Practices: 
@@ -158,7 +158,7 @@ nav:
       - 'Transformative Worship': 'pointers/practice/transformative-worship.md'
       - 'Witnessing Perfection': 'pointers/practice/witnessing-perfection.md'
     - 'Maps & Models of Self': 'pointers/4-journeys.md'
-    - 'Vices, Virtues and Appropriate Conduct': 'pointers/virtue-higher-conduct.md'
+    - 'Vices, Virtues and Appropriate Conduct': 'pointers/vice-virtue-appropriate-conduct.md'
     - 'Self Knowledge and Presence': 'pointers/self-knowledge-presence.md'
   - ASK:
     - 'Academy of Self Knowledge': 'ask/index.md'
@@ -210,3 +210,4 @@ nav:
     - Latest:
       - 'COVID-19': 'gatherings-volunteer/latest/index.md'
       - 'Ramadan 2020': 'gatherings-volunteer/latest/uncommon-dialogues.md'
+    - Newsletter: https://sfhfoundation.substack.com

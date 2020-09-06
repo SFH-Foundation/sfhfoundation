@@ -8,24 +8,6 @@ image: assets/images/01.jpg
 
 <div markdown="1" class="card article sidebar center">
 
-**Remembrance, Discrimination, Yearning**
-
-<div markdown="2" class="article-image">
-![Dhikr](../assets/images/01.jpg)
-</div>
-
-<div markdown="3" class="article-para">
-A basic introduction to three critical and interrelated aspects of The Path: remembrance, discrimination, and the energy that arises from yearning.
-</div>
-
-<div markdown="3" class="article-link">
-[Read More](./remembrance-discrimination-yearning)
-</div>
-
-</div>
-
-<div markdown="1" class="card article sidebar center">
-
 **Less is More**
 
 <div markdown="2" class="article-image">
@@ -47,7 +29,7 @@ Before reaching spiritual maturity Sufi literature can encourage fantasy or act 
 **Pointers to Truth**
 
 <div markdown="2" class="article-image">
-![Pointing to HaTruthqq](../assets/images/22.jpg)
+![Pointing to HaTruthqq](../assets/images/40.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -62,28 +44,10 @@ Human needs, desires and questions never end. We always hope to discover answers
 
 <div markdown="1" class="card article sidebar center">
 
-**Eid - The Return**
-
-<div markdown="2" class="article-image">
-![Eid](../assets/images/23.jpg)
-</div>
-
-<div markdown="3" class="article-para">
-This article is an extract from an Eid Talk given by Shaykh Fadhalla Haeri in South Africa.
-</div>
-
-<div markdown="3" class="article-link">
-[Read More](./eid)
-</div>
-
-</div>
-
-<div markdown="1" class="card article sidebar center">
-
 **Natural Illusions**
 
 <div markdown="2" class="article-image">
-![SFH in Nature](../assets/images/24.jpg)
+![SFH in Nature](../assets/images/33.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -98,28 +62,10 @@ A brief excerpt from _101 Helpful Illusions_ which explores consciousness, light
 
 <div markdown="1" class="card article sidebar center">
 
-**Decree, Destiny and Enlightenment**
-
-<div markdown="2" class="article-image">
-![People of Light](../assets/images/20.jpg)
-</div>
-
-<div markdown="3" class="article-para">
-The final destiny of every man is his awakening to his permanent, non-time reality, from which he has emerged. We are given the experience of this life, with all its decrees, for us to know them, accept them and become one with them...
-</div>
-
-<div markdown="3" class="article-link">
-[Read More](./decree-destiny-enlightenment)
-</div>
-
-</div>
-
-<div markdown="1" class="card article sidebar center">
-
 **The Thread of Truth**
 
 <div markdown="2" class="article-image">
-![Thread of Truth](../assets/images/18.jpg)
+![Thread of Truth](../assets/images/42.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -134,28 +80,10 @@ The revitalised interest in Islam and Sufism, as well as Sufi Shaykhs are signs 
 
 <div markdown="1" class="card article sidebar center">
 
-**Sufism and the Sufi**
-
-<div markdown="2" class="article-image">
-![Sufis](../assets/images/12.jpg)
-</div>
-
-<div markdown="3" class="article-para">
-Sufism has maintained a clear line of direct transmission of wisdom back to original Islam. The key to Sufism is that of inner awakening, freedom and joy through recognition of outer restriction by choice and discrimination.
-</div>
-
-<div markdown="3" class="article-link">
-[Read More](./sufism-sufi)
-</div>
-
-</div>
-
-<div markdown="1" class="card article sidebar center">
-
 **The Shock of Awakening**
 
 <div markdown="2" class="article-image">
-![Sufis](../assets/images/10.jpg)
+![Sufis](../assets/images/41.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -173,7 +101,7 @@ Succour for those experience inner realities which make them question their sani
 **To Be Alive**
 
 <div markdown="2" class="article-image">
-![Sufis](../assets/images/09.jpg)
+![Sufis](../assets/images/38.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -191,7 +119,7 @@ A brief explanantion of the two kinds of being alive and the essential differenc
 **The Cycles of Life and Reality**
 
 <div markdown="2" class="article-image">
-![Cycles of Life](../assets/images/02.jpg)
+![Cycles of Life](../assets/images/36.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -209,11 +137,11 @@ A collection of excerpts on the topic of the Cycles of Life and Reality through 
 **Consciousness**
 
 <div markdown="2" class="article-image">
-![Cycles of Life](../assets/images/03.jpg)
+![Cycles of Life](../assets/images/26.jpg)
 </div>
 
 <div markdown="3" class="article-para">
-A selection from across the whole archive of Shaykh Fadhlalla insights into this critical concept, phenomena, and experience.
+A selection of Shaykh Fadhlalla's insights into this critical concept, phenomena, and experience.
 </div>
 
 <div markdown="3" class="article-link">
@@ -224,10 +152,46 @@ A selection from across the whole archive of Shaykh Fadhlalla insights into this
 
 <div markdown="1" class="card article sidebar center">
 
+**Sufism and the Sufi**
+
+<div markdown="2" class="article-image">
+![Sufis](../assets/images/32.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+Sufism has maintained a clear line of direct transmission of wisdom back to original Islam. The key to Sufism is that of inner awakening, freedom and joy through recognition of outer restriction by choice and discrimination.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./sufism-sufi)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Remembrance, Discrimination, Yearning**
+
+<div markdown="2" class="article-image">
+![Dhikr](../assets/images/43.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+A basic introduction to three critical and interrelated aspects of The Path: remembrance, discrimination, and the energy that arises from yearning.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./remembrance-discrimination-yearning)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
 **The Parable of the Spider's House**
 
 <div markdown="2" class="article-image">
-![Sufis](../assets/images/14.jpg)
+![Sufis](../assets/images/23.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -254,6 +218,42 @@ The world around us makes perfect sense only if we look at it through the eyes o
 
 <div markdown="3" class="article-link">
 [Read More](./journey-transformation)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Decree, Destiny and Enlightenment**
+
+<div markdown="2" class="article-image">
+![People of Light](../assets/images/31.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+The final destiny of every man is his awakening to his permanent, non-time reality, from which he has emerged. We are given the experience of this life, with all its decrees, for us to know them, accept them and become one with them...
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./decree-destiny-enlightenment)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Eid - The Return**
+
+<div markdown="2" class="article-image">
+![Eid](../assets/images/44.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+This article is an extract from an Eid Talk given by Shaykh Fadhalla in South Africa.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./eid)
 </div>
 
 </div>

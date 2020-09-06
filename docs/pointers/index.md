@@ -1,17 +1,17 @@
 ---
-title: Prescriptions for the Optimum Life
+title: Pointers to Practice
 description: All the various Sufi, Islamic and Qur'anic guides and maps provided by Shaykh Fadhlalla Haeri
 image: assets/images/11.jpg
 ---
 
-# Prescriptions for the Optimum Life
+# Pointers to Practice
 
 <div markdown="1" class="card article sidebar center">
 
 **Specific Practices**
 
 <div markdown="2" class="article-image">
-![People of Light](../assets/images/11.jpg)
+![People of Light](../assets/images/1_thumb.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -29,7 +29,7 @@ Practice stillness in body, mind, and heart: beginning with proper preparation a
 **Maps & Models of the Self**
 
 <div markdown="2" class="article-image">
-![Sufis](../assets/images/01.jpg)
+![Sufis](../assets/images/34.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -44,10 +44,10 @@ A basic mapping of the modern self and the journeys it can undergo in this life 
 
 <div markdown="1" class="card article sidebar center">
 
-**Virtuous Being and Higher Conduct**
+**Vices, Virtue and Appropriate Conduct**
 
 <div markdown="2" class="article-image">
-![Virtuous Being and Higher Conduct](../assets/images/15.jpg)
+![Virtuous Being and Higher Conduct](../assets/images/35.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -55,7 +55,7 @@ Virtue is behaviour occurring at the centre of two extremes, both of which are u
 </div>
 
 <div markdown="3" class="article-link">
-[Read More](./virtue-higher-conduct)
+[Read More](./vice-virtue-appropriate-conduct)
 </div>
 
 </div>
@@ -65,7 +65,7 @@ Virtue is behaviour occurring at the centre of two extremes, both of which are u
 **Self Knowledge and Unfolding Into Presence**
 
 <div markdown="2" class="article-image">
-![Self Knowledge and Presence](../assets/images/10.jpg)
+![Self Knowledge and Presence](../assets/images/27.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -74,42 +74,6 @@ A collection of excerpts from various books written by Shaykh Fadhlalla over the
 
 <div markdown="3" class="article-link">
 [Read More](./self-knowledge-presence)
-</div>
-
-</div>
-
-<div markdown="1" class="card article sidebar center">
-
-**Fasting**
-
-<div markdown="2" class="article-image">
-![Sufis](../assets/images/18.jpg)
-</div>
-
-<div markdown="3" class="article-para">
-Everything you could ever want to know about fasting, it's history, its benefits, and its particular application in Islam.
-</div>
-
-<div markdown="3" class="article-link">
-[Read More](./fasting/history.md)
-</div>
-
-</div>
-
-<div markdown="1" class="card article sidebar center">
-
-**Pilgrimage**
-
-<div markdown="2" class="article-image">
-![Pilgrimage](../assets/images/20.jpg)
-</div>
-
-<div markdown="3" class="article-para">
-An overview of the different kinds of pilgrimage it is possible to undertake in Islam.
-</div>
-
-<div markdown="3" class="article-link">
-[Read More](./pilgrimage)
 </div>
 
 </div>

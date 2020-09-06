@@ -8,7 +8,7 @@ image: assets/images/21.jpg
 
 In truth, whatever you do to others, you do to yourself.  
 
-In our outer appearance we all seem different, yet in our quest and desire we are the same. Reality or God is sublime, incomparable Light of lights. That uniqueness is reflected in our own soul.  
+In our outer appearance we all seem different, yet in our quest and desire we are the same. Reality or God is the sublime, incomparable Light of lights. That uniqueness is reflected in our own soul.  
 
 Unless you connect on higher consciousness, then conditioned consciousness highlights differences rather than sameness and harmony.  
 

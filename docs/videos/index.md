@@ -6,11 +6,9 @@ image: assets/images/11.jpg
 
 # Videos
 
-## Start Now
+## [Start Now](./start-now)
 
 <div markdown="1" class="card article sidebar center">
-
-**Start here...**
 
 <div markdown="2" class="article-image">
 ![Transformation](../pointers/img/sfh_transformed.jpg)
@@ -26,7 +24,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 </div>
 
-## Reflect
+## [Reflect](./reflect)
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -84,7 +82,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 </div>
 
-## Review
+## [Review](./review)
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 

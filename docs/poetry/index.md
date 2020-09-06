@@ -8,10 +8,10 @@ image: assets/images/22.jpg
 
 ## There is None Except One
 
-The disciple declared that there are countless beings in existence, but the master insisted that there is none except One. He then reminded the student that when you truly open your eyes many may appear within your sight, whereas in truth these are only shadows of the everlasting one light within them, before them and after them. The master then sang:
+The disciple declared that there are countless beings in existence, but the master insisted that there is none except One. He then reminded the student that when you truly open your eyes many may appear within your sight, whereas in truth these are only shadows of the everlasting one light within them, before them and after them.
 
 <div class="callout6">
-"Passion for God has bewildered me; thus I am alien and a stranger in this world. When I appear He (God) vanishes, and when He appears I vanish."
+Where is God <br/>not?
 </div>
 
 <div markdown="1" class="card poetry sidebar center gemoji center-content">
@@ -52,20 +52,6 @@ The disciple declared that there are countless beings in existence, but the mast
 
 <div markdown="3" class="book-link">
 [Read It](./binary-experience)
-</div>
-
-</div>
-
-<div markdown="1" class="card poetry sidebar center gemoji center-content">
-
-**Morning in the Plantation**
-
-<div markdown="2" class="book-image">
-![Morning in the Plantation](../assets/images/22.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./morning-plantation)
 </div>
 
 </div>
@@ -243,7 +229,7 @@ The disciple declared that there are countless beings in existence, but the mast
 **Remember To Forget**
 
 <div markdown="2" class="book-image">
-![Remembering to Forget](../assets/images/08.jpg)
+![Remembering to Forget](../assets/images/30.jpg)
 </div>
 
 <div markdown="3" class="book-link">
