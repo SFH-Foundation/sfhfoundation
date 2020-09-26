@@ -190,7 +190,7 @@ The title of this talk is a translation of a famous tradition from the Prophet M
 
 Shaykh reflects on some contemporary near death experiences as a window into a fundamental understanding of reality. As always, he contrasts the changing nature of limited transitory experience with the boundless, unseen, unknown. He then explores some key indications from amongst various Islamic and Sufi contributors, all of whom elaborate on the internal mechanisms and meanings of death as a key to awakening to truth. 
 
-An understanding of the complementary nature of the forces of life and death is given, interspersed with reflections on Qur’anic verses, terms, prescriptions and descriptions of the world, the next life, and the process of inner death as the purification of your heart's clutter. This decreases one's attachment to a transient life, allowing for amplified resonance with the soul within. Various allusions to the classical cosmology of the self are made, and death is modelled as the transcendence of limited consciousness into the zone of higher consciousness.
+An understanding of the complementary nature of the forces of life and death is given, interspersed with reflections on Qur’anic verses, terms, pointers and descriptions of the world, the next life, and the process of inner death as the purification of your heart's clutter. This decreases one's attachment to a transient life, allowing for amplified resonance with the soul within. Various allusions to the classical cosmology of the self are made, and death is modelled as the transcendence of limited consciousness into the zone of higher consciousness.
 
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 

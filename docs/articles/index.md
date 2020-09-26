@@ -6,6 +6,28 @@ image: assets/images/01.jpg
 
 # Articles
 
+<div class="callout6">
+Higher consciousness always drives us to connect and continue until we touch the source of Oneness and all connection.
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Balance**
+
+<div markdown="2" class="article-image">
+![Nature](../assets/images/15.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+The human mind bridges the cosmic soul or spirit, with the self or individual identity. Every human being is a combination of a boundless and timeless divine soul and its shadow self which is bracketed between birth and death.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./balance)
+</div>
+
+</div>
+
 <div markdown="1" class="card article sidebar center">
 
 **Less is More**
@@ -29,7 +51,7 @@ Before reaching spiritual maturity Sufi literature can encourage fantasy or act 
 **Pointers to Truth**
 
 <div markdown="2" class="article-image">
-![Pointing to HaTruthqq](../assets/images/40.jpg)
+![Pointing to HaTruthqq](../assets/images/18.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -65,7 +87,7 @@ A brief excerpt from _101 Helpful Illusions_ which explores consciousness, light
 **The Thread of Truth**
 
 <div markdown="2" class="article-image">
-![Thread of Truth](../assets/images/42.jpg)
+![Thread of Truth](../assets/images/37.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -83,7 +105,7 @@ The revitalised interest in Islam and Sufism, as well as Sufi Shaykhs are signs 
 **The Shock of Awakening**
 
 <div markdown="2" class="article-image">
-![Sufis](../assets/images/41.jpg)
+![Sufis](../assets/images/51.jpg)
 </div>
 
 <div markdown="3" class="article-para">

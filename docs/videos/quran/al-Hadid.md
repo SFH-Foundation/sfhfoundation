@@ -104,10 +104,10 @@ Man’s purpose is to dispel ignorance. Knowledge already exists within. Knowled
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![He Cause The Night To Enter The Day](../img/sfh_night_day.jpg)
+![He Causes The Night To Enter The Day](../img/sfh_night_day.jpg)
 </div>
 
-**He Cause The Night To Enter The Day**
+**He Causes The Night To Enter The Day**
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=6uA4QZ8Owek&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=14&t=0s)

@@ -1,14 +1,14 @@
 ---
 title: Witnessing Perfection
 description: A discussion of the Islamic notion of "witnessing", or "shahada", and how this can lead one to realizing the perfection of each and every moment.
-image: prescriptions/img/sfh_witnessing.jpg
+image: pointers/img/sfh_witnessing.jpg
 ---
 
 # Witnessing Perfection
 
 This article contains a brief series of excerpts from the book "Witnessing Perfection", which detail the specifically Islamic notion of "witnessing" (or _shahada_ in Arabic), and how this can lead one to realizing the perfection of each and every moment.
 
-_These excerpts come from only the first few pages of <a href="https://zahrapublications.pub/book-WitnessingPerfection.php#bookTitle" target="_blank">"Witnessing Perfection"</a>_.
+_These excerpts come from the first pages of <a href="https://zahrapublications.pub/book-WitnessingPerfection.php#bookTitle" target="_blank">"Witnessing Perfection"</a>_.
 
 ## Body, Mind and Heart  
 
@@ -16,7 +16,7 @@ Well-being of body, mind and heart are essential for spiritual growth and unison
 
 ## Mindfulness  
 
-Mindfulness, groomed, developed and fully evolved will lead to mindlessness and heart-fullness. A clear mind is necessary but insufficient, for it is the heart that knows the truth. If the self is to read the heart, it first needs to be distracted from the shadows of egotistical self interest, so as to connect with the heart. You can only taste honey after spitting out the bitter aloe in your mouth. The immortal soul beams its numerous lights on the entire human kingdom, with its complex physiology and cosmology. The soul contains the foundations of everything that is understandable; its role is fulfilled when the self is aligned with it. When this harmony between the self, body, mind, heart and soul is established, the map of human composition is internalized, lived efficiently and the seeker reaches the intended destiny of witnessing perfection joyfully.
+Mindfulness which is groomed, developed and fully evolved will lead to mindlessness and heart-fullness. A clear mind is necessary but insufficient, for it is the heart that knows the truth. If the self is to read the heart, it first needs to be distracted from the shadows of egotistical self interest, so as to connect with the heart. You can only taste honey after spitting out the bitter aloe in your mouth. The immortal soul beams its numerous lights on the entire human kingdom, with its complex physiology and cosmology. The soul contains the foundations of everything that is understandable; its role is fulfilled when the self is aligned with it. When this harmony between the self, body, mind, heart and soul is established, the map of human composition is internalized, lived efficiently and the seeker reaches the intended destiny of witnessing perfection joyfully.
 Reading the map with urgent attention and then following its codes of transformation will bring about unity with the perfect destination.
 
 ## Witnessing Perfection  
@@ -38,7 +38,7 @@ All shadows are proof of the light, which causes them. Every sentient creation h
 Perfections are reflections of god’s attributes. We experience aspects of them and desire them. The soul contains god’s qualities and beams them out towards the self.
 
 <div markdown="1" class="zp-logo">
-<img src="/prescriptions/img/sfh_witnessing.jpg" class="ab-image" />
+<img src="/pointers/img/sfh_witnessing.jpg" class="ab-image" />
 </div>
 
 

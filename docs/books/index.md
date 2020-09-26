@@ -7,7 +7,7 @@ image: books/zahra_logo.png
 # Books
 
 <div class="callout6">
-The nature of the mind is to separate, differentiate and pigeonhole, whereas - in truth - everything is linked and connected. The time we are living in perfectly connects philosophy, science and spirituality.
+The nature of the mind is to separate and differentiate, whereas - in truth - everything is linked and connected. The time we are living in connects philosophy, science and spirituality perfectly.
 </div>
 
 <div markdown="1" class="zp-logo">

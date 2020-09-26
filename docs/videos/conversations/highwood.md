@@ -10,26 +10,28 @@ This is a selection of talks from Shaykh Fadhlalla's personal residence reflecti
 
 ## Morning in the Plantation
 
-_From the book "The Four Journeys"_.
+<div class="aphorism-text">
 
-Parchment-like, thin as a muslin veil,  
-The radiant green banana fronds glistened  
-and waved farewell to the morning mist.  
+Parchment-like, thin as a muslin veil,  <br/>
+The radiant green banana fronds glistened  <br/>
+and waved farewell to the morning mist.  <br/>
+<br/>
+Like victory flags parading on the hilltop, <br/> 
+blending the orchard songs of buds, trees and palm fronds, <br/> 
+merging with colours, forms and stillness  <br/>
+unified in the early light  <br/>
+in delight, in symphony, in harmony cloaked in white,  <br/>
+from light unto light  <br/>
+all defined by changing shadows confined to hills and meadows without <br/>  
+which there can be no vision nor desperation for divine admission.  <br/>
+  <br/>
+And awakening into colourless stillness into the presence of  <br/>
+Light-beyond-light the boundless Essence  <br/>
+behind and in front and within all sights — <strong>Allah-Hu</strong>.
 
-Like victory flags parading on the hilltop,  
-blending the orchard songs of buds, trees and palm fronds,  
-merging with colours, forms and stillness  
-unified in the early light  
-in delight, in symphony, in harmony cloaked in white,  
-from light unto light  
-all defined by changing shadows confined to hills and meadows without   
-which there can be no vision nor desperation for divine admission.  
-  
-And awakening into colourless stillness into the presence of  
-Light-beyond-light the boundless Essence  
-behind and in front and within all sights — _Allah-Hu_.
+</div>
 
-## Daytime Questions with Shaykh Muslim
+## Considerations
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -297,6 +299,38 @@ behind and in front and within all sights — _Allah-Hu_.
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=XbGToVGF4hg&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=23&t=0s)
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
+
+## Evening Discussion
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![What is the Sixth Sense?](../img/sfh_sixth_sense.jpg)
+</div>
+
+**What is the Sixth Sense?**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=v7A_1rjtP6g)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![What Are Angels?](../img/sfh_angels.jpg)
+</div>
+
+**What Are Angels?**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=fnQNLDd4ejE)
 </div>
 
 </div>

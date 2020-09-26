@@ -1,16 +1,28 @@
 ---
 title: About
-description: The Shaykh Fadhlalla Haeri Foundation presents a journey from self to soul, via joyful surrender.
-image: assets/images/sfh_door.jpg
+description: Our quest for freedom or liberation is an indication of our drive towards cosmic consciousness, which is both our origin and destiny. This site hosts the knowledge to help you along the cosmic journey from self to soul.
+image: assets/images/sfh_prayer.jpg
 ---
 
 <div class="callout6">
-You will be truly content if you know the nature of the infinite. You can realise your future is perfect by knowing the eternal. 
+The ultimate human reference and duty in life is to respect and have reverence for all life and every manifestation of it. 
 </div>
 
-<div markdown="1" class="zp-logo">
-<img src="/assets/images/sfh_door_crop.jpg" class="ab-image" />
+Karbala is an oasis near the Euphrates and its long history is lost in time. As a child it seemed to me that my family had been there forever and I grew up in a most pleasant home environment with a seasonal flow of visitors, including many who were on their way to Mecca. The comfort and ease of life in Karbala was such that I had no inclination to leave my home for further studies, but destiny always prevails. Travelling to the U.K. for university was a great cultural shock, though life goes on and one adjusts to changing circumstances. I enjoyed my professional life in the oil industry until I was challenged to discover essential meaning.
+
+With appropriate evaluation and self awareness I could easily see through the fallacy of contentment with outer wealth and security. This subconscious questioning was brought to the surface by meeting people from different cultures, who had pursued self discovery and awakening to the Real. I was fortunate to have witnessed that the same tradition and quest had existed within Muslim communities, but they had to leave the mainstream of organised religion under the disguise of Sufis and other quietist movements. 
+
+My interest in what is real and eternal grew from my early thirties until I was completely caught in that obsession. I now know there is one universal, eternal and infinite Truth, which has been referred to by numerous religions and cultures throughout the ages by different names. Human discord, enmity and warfare are expressions of discontentment, anger and unhappiness and are due to the lower self, which is the shadow of the divine soul. You can only be durably at peace within yourself if you know you are in reality an eternal soul and the self is its earthly shadow. Our website tries to share this Truth.
+
+<img class="center-img" src="/assets/images/sfh_thinking.jpg" />
+
+Over the last forty years Shaykh Fadhlalla Haeri has written more than fifty books and given talks in many countries to share knowledge of Reality.
+His books are available on:
+
+<div markdown="3" class="purchase-link">
+
+<a href="https://zahrapublications.pub/" target="_blank">Zahra Publications</a>
+
 </div>
 
-This website is the result of several years of sharing a way of life in our uncertain world with people from diverse backgrounds and cultures. This way reduces fear, suffering, and darkness and enables us to face difficulty with equanimity and grace. It has its foundation in awareness of – and constant calibration with – the eternal light of the soul within us, which is the source of all life. Awareness of eternal cosmic light will dispel much human discontent and provide hope that is beyond the limitations of birth and death. Our way goes beyond temporary notions of good and bad to reveal and revel in glorious divine presence – the purpose of human life.
 

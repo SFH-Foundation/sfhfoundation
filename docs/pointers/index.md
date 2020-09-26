@@ -6,20 +6,24 @@ image: assets/images/11.jpg
 
 # Pointers to Practice
 
+<div class="callout6">
+The more often you calibrate your overall state with death or the hereafter, the more likely you are to experience a good life.
+</div>
+
 <div markdown="1" class="card article sidebar center">
 
 **Specific Practices**
 
 <div markdown="2" class="article-image">
-![People of Light](../assets/images/1_thumb.jpg)
+![People of Light](../assets/images/49.jpg)
 </div>
 
 <div markdown="3" class="article-para">
-Practice stillness in body, mind, and heart: beginning with proper preparation and intention; moving into the ocean; then transcend space and time. Various techniques from visualisation and _dhikr_, to recitation of the Qur'an are described briefly in this piece.
+Practice stillness and recalibrate regularly with silence. Exercise genuine honesty and humility, so as to find the correct balance between head and heart, which can lead to a truly neutral state from which to begin moving into more subtle zones of awareness.
 </div>
 
 <div markdown="3" class="article-link">
-[Read More](./practice/meditation)
+[Read More](./practice/)
 </div>
 
 </div>
@@ -29,7 +33,7 @@ Practice stillness in body, mind, and heart: beginning with proper preparation a
 **Maps & Models of the Self**
 
 <div markdown="2" class="article-image">
-![Sufis](../assets/images/34.jpg)
+![Sufis](../assets/images/48.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -47,7 +51,7 @@ A basic mapping of the modern self and the journeys it can undergo in this life 
 **Vices, Virtue and Appropriate Conduct**
 
 <div markdown="2" class="article-image">
-![Virtuous Being and Higher Conduct](../assets/images/35.jpg)
+![Virtuous Being and Higher Conduct](../assets/images/50.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -65,7 +69,7 @@ Virtue is behaviour occurring at the centre of two extremes, both of which are u
 **Self Knowledge and Unfolding Into Presence**
 
 <div markdown="2" class="article-image">
-![Self Knowledge and Presence](../assets/images/27.jpg)
+![Self Knowledge and Presence](../assets/images/46.jpg)
 </div>
 
 <div markdown="3" class="article-para">

@@ -93,8 +93,8 @@ height: 440px;
 }
 .card.poetry {
 float: left;
-width: 30%;
-height: 265px;
+width: 43%;
+height: 350px;
 }
 .card.video {
 float: left;
@@ -393,10 +393,13 @@ iframe.excel-frame { zoom: 1;  }
 /* Media Queries for cards */
 
 @media (max-width: 761px) {
-.card.book {
+.card.book, .card.poetry {
   width: 90%;
 }
-.card.video, .card.poetry {
+.card.poetry {
+  height: 320px;
+}
+.card.video {
   width: 43%;
 }
 .card.audio {

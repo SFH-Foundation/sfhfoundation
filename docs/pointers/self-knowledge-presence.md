@@ -14,9 +14,9 @@ In any given situation you will have a certain amount of energy. However we like
 
 Why are most of us unbalanced or dissatisfied at the moment? It is because our energy is not harnessed. We are not contained and therefore not wholesome. Part of our energy is leaking away in the form of anxiety and worry. 
 
-If a third of my energy dwelling in the past, suffering from it or proud of it, and another third is concerned about the future – whether it is about the welfare of my children, my reputation, failure or success – then only a third remains. Therefore, only one third of me is really available to be drawn from now.  
+If a third of my energy is dwelling in the past, suffering from it or proud of it, and another third is concerned about the future – whether it is about the welfare of my children, my reputation, failure or success – then only a third remains. Therefore, only one third of me is really available to be drawn from now.  
 
-The more you worry the less likely you are to achieve the expected result, because some of your energy is dissipated in anxiety. And the body is absorbing some of it in the form of perspiration, heat or nervousness. These are all forms of dissipation. So where are you now if half of you is buried in the past and the other half is anxiously concerned about the future? What is left of you?
+The more you worry, the less likely you are to achieve the expected result, because some of your energy is dissipated in concern. And the body is absorbing some of it in the form of perspiration, heat or nervousness. These are all forms of dissipation. So where are you now if half of you is buried in the past and the other half is anxiously concerned about the future? What is left of you?
 
 Self-knowledge is about wholesomeness. 
 
@@ -55,5 +55,3 @@ Everything that exists has an outer and an inner facet, which are in balance. Fo
 <div class="callout6">
 Discriminating between outer and inner is the first step to realizing their inseparability in essence.
 </div>
-
-![Self Knowledge and Presence](../assets/images/09.jpg)

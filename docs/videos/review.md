@@ -4,6 +4,10 @@ description: A collection of talks given by Shaykh Fadhlalla which some more adv
 image: assets/images/05.jpg
 ---
 
+<div class="callout6">
+Your present life is a brief prelude to experiencing <br/> perpetual life after death. 
+</div>
+
 ## The Inseparability of Humanity and Divinity
 
 The universe is interconnected at countless levels from the most minute to the galactic. We seek to discern these connections and forces. Consciousness of connections originates from our soul, though it may take physical, chemical, intellectual and other dimensions. From that origin, numerous forces of connectedness emerge, most of which are invisible. The different levels of connectedness and their priorities are understood due to the mind, which is illumined by the soul.
@@ -167,20 +171,6 @@ that yields a lasting thrill.<br/>
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Perpetual Now](./img/sfh_foundation.jpg)
-</div>
-
-**The Perpetual Now**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=r5PDgtbdyoA)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
 ![Timeless Reality](./img/sfh_soul.jpg)
 </div>
 
@@ -202,20 +192,6 @@ that yields a lasting thrill.<br/>
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=ZLb8X31B_PY)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Patience](./img/sfh_patience.jpg)
-</div>
-
-**Patience**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=XbGToVGF4hg&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=23&t=0s)
 </div>
 
 </div>
@@ -254,6 +230,20 @@ When you blame others the ego is protected for a while, but if you blame yoursel
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=TQ46eibAy6o)
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Patience](./img/sfh_patience.jpg)
+</div>
+
+**Patience**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=XbGToVGF4hg&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=23&t=0s)
 </div>
 
 </div>
@@ -324,20 +314,6 @@ The soul is a reflector of what is eternal and perpetual and enables us to appre
 
 <div markdown="3" class="video-link">
 [Watch](https://www.youtube.com/watch?v=kUlEgsGbk1U)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![He Causes The Night To Enter The Day](./img/sfh_night_day.jpg)
-</div>
-
-**He Causes The Night To Enter The Day**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=6uA4QZ8Owek&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=14&t=0s)
 </div>
 
 </div>

@@ -72,3 +72,17 @@ Nothing and no one brings us happiness, it is the removal of unhappiness that ta
 
 </div>
 
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Beams of Qur'anic Illumination](../img/sfh_beams.jpg)
+</div>
+
+**Beams of Qur'anic Illumination**
+
+<div markdown="3" class="video-link">
+[Watch](https://www.youtube.com/watch?v=tBuYZCsSa34)
+</div>
+
+</div>
+

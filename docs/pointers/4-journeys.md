@@ -1,7 +1,7 @@
 ---
 title: Maps & Models of The Self and its Journeys
 description: A basic mapping of the modern self, it's different levels, and the journeys it can undergo in this life as it progresses through various layers or rungs of consciousness.
-image: prescriptions/img/sfh_journeys.jpg
+image: pointers/img/sfh_journeys.jpg
 ---
 
 # Maps & Models of Self Unfoldment

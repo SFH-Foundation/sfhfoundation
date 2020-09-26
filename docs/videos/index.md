@@ -6,6 +6,10 @@ image: assets/images/11.jpg
 
 # Videos
 
+<div class="callout6">
+Grace and goodness are eternal and they reside <br/>within your own heart.
+</div>
+
 ## [Start Now](./start-now)
 
 <div markdown="1" class="card article sidebar center">
@@ -19,7 +23,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 </div>
 
 <div markdown="3" class="article-link">
-[Watch Now](https://www.youtube.com/watch?v=XOBffhHNlpc&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2)
+[Watch](https://www.youtube.com/watch?v=XOBffhHNlpc&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2)
 </div>
 
 </div>
@@ -87,13 +91,13 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Perpetual Now](./img/sfh_foundation.jpg)
+![Seeking Contentment](./img/sfh_seek_content.jpg)
 </div>
 
-**The Perpetual Now**
+**Seeking Contentment**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=r5PDgtbdyoA)
+[Watch](https://www.youtube.com/watch?v=TQ46eibAy6o)
 </div>
 
 </div>
@@ -115,13 +119,13 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Keys](./img/sfh_two_zones.jpg)
+![Land of Nowhere, Na Kuja Abad](./img/sfh_nowhere.jpg)
 </div>
 
-**Shadows and Light: Two Zones of Consciousness**
+**Land of Nowhere, Na Kuja Abad**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=UWhUAPhKkDg)
+[Watch](https://www.youtube.com/watch?v=l_LPV9-y5jk&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=46&t=0s)
 </div>
 
 </div>

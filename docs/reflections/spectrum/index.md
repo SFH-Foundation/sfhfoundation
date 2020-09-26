@@ -1,25 +1,40 @@
 ---
-title: Journey 1 - Nature, Desire, Harmony
-description: Short sufi indications for living in harmony with the forces of nature and your own desire.
-image: assets/images/09.jpg
+title: Two Zones of Consciousness
+description: Short Sufi indications for navigating the entire spectrum of human consciousness.
+image:
 ---
 
-# Journey 1 - Nature, Desire, Harmony
+# Two Zones of Consciousness
 
-It is human nature to share and care for others during ease as well as difficulty. We emanate from and are sustained by One.  
+<div class="aphorism-text">
 
-Parental upbringing and tuition are necessary for physical and mental evolvement - necessary conditions for spiritual awakening to Oneness.  
+Truth becomes effulgent when conditioned consciousness yields to the light. 
 
-A remedy may be bitter and a poison may be sweet. What may please your ego can darken the heart.   
+<div class="div"></div>
 
-The natural desire to change the world is a reflection of the need of self to yield and be transformed to soul. This outcome is greater than changing the world.  
+These are two maps for your life's journey: one is for your earthly survival and describes your body, mind and emotions; the other, for arrival, and describes your heavenly state - inner soul, your heart and your resident deity. These two zones do not mix, but complement each other. Read them both side by side and you will enjoy your fate.
 
-It is natural to expect fairness, respect and equity; selves and egos differ but souls are the same.  
+<div class="div"></div>
 
-Kilograms of physical skin are shed every year. To be with the inner soul we need to shed our mental habits and memories, and then we may be close to illumination.  
+If you have an identity or roles, you are within the confinement of space and time - which you are always struggling to get out of. Your timeless reality is ever constant and boundless.  
 
-When you respect others as yourself, you are in close harmony to souls and their sameness.  
+<div class="div"></div>
 
-As long as you don’t feel the necessity to change, you remain adrift from your past.
+Our love for winning or receiving gifts or favours echoes the heavenly gift of the soul - the ultimate treasure; given with grace and unconditional love.  
 
-![Nature](../../assets/images/09.jpg)
+<div class="div"></div>
+
+There are two types of poverty: the first relates to outer needs and desires to reduce human hunger and factors for survival and the second is intrinisc- outer wealth may not eradicate it, as the lower self is always in need of the higher.
+
+<div class="div"></div>
+
+Is God in charge of everything or not? Both! According to the lens of spacetime or Absolute Reality; this is the issue of incomparability and similarity. 
+
+<div class="div"></div>
+
+There are always two levels of successful outcomes: one is judged by facts, reason and rationality; the other is to do with eternally present perfection.  
+
+<div class="div"></div>
+
+</div>
+
