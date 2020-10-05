@@ -26,12 +26,6 @@ If you'd like to get further information about all the books we have available, 
 
 </div>
 
-If you'd like to subscribe to our dedicated mailing list and receive updates directly to your inbox (only about new and revised ZP titles), please follow the link below:
-
-<div markdown="3" class="purchase-link">
-[Books](http://connect.sfhfoundation.com/bf.php?fid=1174)
-</div>
-
 <div markdown="1" class="zp-logo">
 ![All Book Titles](/assets/images/all-books.png)
 </div>

@@ -52,7 +52,7 @@ We release audios on a number of platforms. Please find your preferred one below
 ![SFH Listening](./img/sfh_audio.jpg)
 </div>
 
-If you'd like to listen to more audios, please visit our legacy website by clicking below:
+If you'd like to listen to more audios, please visit our other website by clicking below:
 
 <div markdown="3" class="purchase-link">
 [Shaykh Fadhlalla Haeri](http://shaykhfadhlallahaeri.com)
