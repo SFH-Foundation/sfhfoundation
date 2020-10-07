@@ -174,7 +174,7 @@
     background-image: url('/assets/images/brushstroke.png');
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 40px;
+    padding: 50px 100px;
     font-weight: bold;
     text-align: center;
     font-style: italic;
@@ -206,8 +206,58 @@
     margin: 10px 0 30px 0;
   }
 
+  .stroker, .stroker:before, .stroker:after{
+    height : .01vw;
+    width : 100%;
+    padding: 40px;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    line-height: 22px;
+    border-bottom : 7vw solid #F4CF7D;
+    border-radius:50%;
+    position:relative;
+    z-index:1;
+    transform: skew(30deg);
+  }
+  .stroker:before,.stroker:after 
+  {
+    content:"";
+    height : 6vw;
+    position:absolute;
+    top:-.25vw;
+    left:-31vw;
+    z-index:9;
+    border: 0 none;
+    border-top : .5vw dashed #fff;
+    border-bottom : 1vw dashed #fff;
+    transform:  skew(94deg);
+    border-radius:30%;
+  }
+  .stroker:after {
+    top:3vw;
+    left:-10vw;
+    transform: skew(97deg) rotate(-70deg);
+    border-radius:50%;
+    border-width:1.6vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
   .ab-image {
     width: 70%;
+  }
+
+  .div {
+    background-image: url('/assets/images/div.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50px;
+  }
+
+  .aphorism-text {
+    text-align: center;
+    font-style: italic;
   }
 
   .md-footer-nav {
@@ -243,5 +293,9 @@
 
   .center-img {
     margin-left: none;
+  }
+
+  .callout6 {
+    background-image: url('/assets/images/brushstroke4-mob.png');
   }
 }
