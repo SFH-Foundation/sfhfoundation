@@ -21,7 +21,7 @@ Being correct and courteous in all our actions naturally leads us to question th
 **Islam, Iman, Ihsan**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=R503LTlwdV0&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=20&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=R503LTlwdV0&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=20&t=0s">Watch</a>
 </div>
 
 </div>
@@ -35,7 +35,7 @@ Being correct and courteous in all our actions naturally leads us to question th
 **Self Conduct**
 
 <div markdown="3" class="video-link">
-[Watch](https://youtu.be/_n9bjtTLbFQ)
+<a target="_blank" href="https://youtu.be/_n9bjtTLbFQ">Watch</a>
 </div>
 
 </div>
@@ -49,7 +49,7 @@ Being correct and courteous in all our actions naturally leads us to question th
 **Connection, Continuity, Consciousness**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=XOBffhHNlpc)
+<a target="_blank" href="https://www.youtube.com/watch?v=XOBffhHNlpc">Watch</a>
 </div>
 
 </div>
@@ -63,7 +63,7 @@ Being correct and courteous in all our actions naturally leads us to question th
 **Differentiated Sameness**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=y4HG4jDJYlU)
+<a target="_blank" href="https://www.youtube.com/watch?v=y4HG4jDJYlU">Watch</a>
 </div>
 
 </div>
@@ -83,7 +83,7 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 **Personality**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=4Ou8ji29XSg)
+<a target="_blank" href="https://www.youtube.com/watch?v=4Ou8ji29XSg">Watch</a>
 </div>
 
 </div>
@@ -97,7 +97,7 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 **Parenthood**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=RXG30_xI0k8)
+<a target="_blank" href="https://www.youtube.com/watch?v=RXG30_xI0k8">Watch</a>
 </div>
 
 </div>
@@ -111,7 +111,7 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 **Islam and Science**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=QnJCslNl4Lo)
+<a target="_blank" href="https://www.youtube.com/watch?v=QnJCslNl4Lo">Watch</a>
 </div>
 
 </div>
@@ -125,7 +125,7 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 **What is the Meaning of Life?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=7zvlBBK4vPA&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=48)
+<a target="_blank" href="https://www.youtube.com/watch?v=7zvlBBK4vPA&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=48">Watch</a>
 </div>
 
 </div>
@@ -139,7 +139,7 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 **Who Am I?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=Z5Ptnhr96v4&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=55&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=Z5Ptnhr96v4&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=55&t=0s">Watch</a>
 </div>
 
 </div>
@@ -153,7 +153,7 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 **God Is With You, Wherever You Are**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=3ty2v_NQ6ao&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=16&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=3ty2v_NQ6ao&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=16&t=0s">Watch</a>
 </div>
 
 </div>
@@ -167,7 +167,7 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 **From Limitations to the Limitless**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=ZJoNO75NKX8&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=25&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=ZJoNO75NKX8&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=25&t=0s">Watch</a>
 </div>
 
 </div>
@@ -181,7 +181,7 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 **The Soul's Timeless Reality**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=A1U9abHA9Gg&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=63&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=A1U9abHA9Gg&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=63&t=0s">Watch</a>
 </div>
 
 </div>
@@ -207,7 +207,7 @@ Determination and grace are required to awaken to your Soul. It is when you expe
 **You Are Not the Past**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=QGHJW1iJg20)
+<a target="_blank" href="https://www.youtube.com/watch?v=QGHJW1iJg20">Watch</a>
 </div>
 
 </div>
@@ -221,7 +221,7 @@ Determination and grace are required to awaken to your Soul. It is when you expe
 **Insight**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=8roXpi3irZg)
+<a target="_blank" href="https://www.youtube.com/watch?v=8roXpi3irZg">Watch</a>
 </div>
 
 </div>
@@ -235,7 +235,7 @@ Determination and grace are required to awaken to your Soul. It is when you expe
 **Self-Soul Dynamics**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=s_XBbGUvpSw)
+<a target="_blank" href="https://www.youtube.com/watch?v=s_XBbGUvpSw">Watch</a>
 </div>
 
 </div>
@@ -249,7 +249,7 @@ Determination and grace are required to awaken to your Soul. It is when you expe
 **Calibration**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=jxNNs3haWW4)
+<a target="_blank" href="https://www.youtube.com/watch?v=jxNNs3haWW4">Watch</a>
 </div>
 
 </div>
@@ -263,7 +263,7 @@ Determination and grace are required to awaken to your Soul. It is when you expe
 **The Soul: The Meaning Behind the Form**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=WVsIR_eQ39c&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=51&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=WVsIR_eQ39c&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=51&t=0s">Watch</a>
 </div>
 
 </div>
@@ -277,7 +277,7 @@ Determination and grace are required to awaken to your Soul. It is when you expe
 **Space, Time & Generosity**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=UwJyC0szP_I&t=2s)
+<a target="_blank" href="https://www.youtube.com/watch?v=UwJyC0szP_I">Watch</a>
 </div>
 
 </div>
@@ -291,7 +291,7 @@ Determination and grace are required to awaken to your Soul. It is when you expe
 **Different Levels of Enlightenment**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=5LUUgM1UFOU)
+<a target="_blank" href="https://www.youtube.com/watch?v=5LUUgM1UFOU">Watch</a>
 </div>
 
 </div>
@@ -305,7 +305,7 @@ Determination and grace are required to awaken to your Soul. It is when you expe
 **Forgiveness and What Happens After Death**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=ckcXZs7mejE)
+<a target="_blank" href="https://www.youtube.com/watch?v=ckcXZs7mejE">Watch</a>
 </div>
 
 </div>

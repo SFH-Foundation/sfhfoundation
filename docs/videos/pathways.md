@@ -19,7 +19,7 @@ A tried and tested truth, though, is that the more the self is restricted, the n
 **The Importance of Choosing a Path**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=vo4hC7mO15k)
+<a target="_blank" href="https://www.youtube.com/watch?v=vo4hC7mO15k">Watch</a>
 </div>
 
 </div>
@@ -33,7 +33,7 @@ A tried and tested truth, though, is that the more the self is restricted, the n
 **What is Presence?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=_NZmxaAHFZk)
+<a target="_blank" href="https://www.youtube.com/watch?v=_NZmxaAHFZk">Watch</a>
 </div>
 
 </div>
@@ -47,7 +47,7 @@ A tried and tested truth, though, is that the more the self is restricted, the n
 **Live Fully Knowing You Will Die**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=Prw7zP064LY)
+<a target="_blank" href="https://www.youtube.com/watch?v=Prw7zP064LY">Watch</a>
 </div>
 
 </div>
@@ -67,7 +67,7 @@ A tried and tested truth, though, is that the more the self is restricted, the n
 **Part 1**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=v_7sGq8fyYg)
+<a target="_blank" href="https://www.youtube.com/watch?v=v_7sGq8fyYg">Watch</a>
 </div>
 
 </div>
@@ -81,7 +81,7 @@ A tried and tested truth, though, is that the more the self is restricted, the n
 **Part 2**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=yawfdD_0jG4)
+<a target="_blank" href="https://www.youtube.com/watch?v=yawfdD_0jG4">Watch</a>
 </div>
 
 </div>
@@ -95,7 +95,7 @@ A tried and tested truth, though, is that the more the self is restricted, the n
 **Part 3**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=WRCbiNyAmF4)
+<a target="_blank" href="https://www.youtube.com/watch?v=WRCbiNyAmF4">Watch</a>
 </div>
 
 </div>
@@ -109,7 +109,7 @@ A tried and tested truth, though, is that the more the self is restricted, the n
 **Part 4**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=v_7sGq8fyYg)
+<a target="_blank" href="https://www.youtube.com/watch?v=v_7sGq8fyYg">Watch</a>
 </div>
 
 </div>
@@ -123,7 +123,7 @@ A tried and tested truth, though, is that the more the self is restricted, the n
 **Part 5**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=nqS8IGt44-0)
+<a target="_blank" href="https://www.youtube.com/watch?v=nqS8IGt44-0">Watch</a>
 </div>
 
 </div>

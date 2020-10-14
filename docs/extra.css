@@ -151,6 +151,7 @@
     font-weight: 400;
     text-align: center;
     font-style: italic;
+    font-weight: bold;
     line-height: 22px;
     margin: 10px 0 30px 0;
     border-bottom-left-radius: 80% 60px;
@@ -159,19 +160,35 @@
   }
 
   .callout2 {
-    background-color: #D3E4F1;
+    background-image: linear-gradient(to right, #FFD57C, #ffffff);
     padding: 20px;
     font-weight: 400;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 22px;
+    margin: 10px 0 30px 0;
+    border-bottom-left-radius: 80% 60px;
+    border-top-left-radius: 20% 50px;
+    border: 1px solid #fff;
   }
 
   .callout3 {
-    background-color: #EBF3F9;
+    background-image: linear-gradient(to right, #E0B24D, #ffffff);
     padding: 20px;
     font-weight: 400;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 22px;
+    margin: 10px 0 30px 0;
+    border-bottom-left-radius: 80% 60px;
+    border-top-left-radius: 20% 50px;
+    border: 1px solid #fff;
   }
 
   .callout4 {
-    background-image: url('/assets/images/brushstroke.png');
+    background-image: url('/assets/images/brushstroke4.png');
     background-repeat: no-repeat;
     background-size: cover;
     padding: 50px 100px;
@@ -195,7 +212,7 @@
   }
 
   .callout6 {
-    background-image: url('/assets/images/brushstroke4.png');
+    background-image: url('/assets/images/brush.svg');
     background-repeat: no-repeat;
     background-size: cover;
     padding: 40px;
@@ -204,44 +221,6 @@
     font-style: italic;
     line-height: 22px;
     margin: 10px 0 30px 0;
-  }
-
-  .stroker, .stroker:before, .stroker:after{
-    height : .01vw;
-    width : 100%;
-    padding: 40px;
-    font-weight: bold;
-    text-align: center;
-    font-style: italic;
-    line-height: 22px;
-    border-bottom : 7vw solid #F4CF7D;
-    border-radius:50%;
-    position:relative;
-    z-index:1;
-    transform: skew(30deg);
-  }
-  .stroker:before,.stroker:after 
-  {
-    content:"";
-    height : 6vw;
-    position:absolute;
-    top:-.25vw;
-    left:-31vw;
-    z-index:9;
-    border: 0 none;
-    border-top : .5vw dashed #fff;
-    border-bottom : 1vw dashed #fff;
-    transform:  skew(94deg);
-    border-radius:30%;
-  }
-  .stroker:after {
-    top:3vw;
-    left:-10vw;
-    transform: skew(97deg) rotate(-70deg);
-    border-radius:50%;
-    border-width:1.6vw;
-    background-repeat: no-repeat;
-    background-size: cover;
   }
 
   .ab-image {
@@ -296,6 +275,6 @@
   }
 
   .callout6 {
-    background-image: url('/assets/images/brushstroke4-mob.png');
+    padding: 12px;
   }
 }

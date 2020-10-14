@@ -23,7 +23,7 @@ To live fully in presence, we must accept responsibility for their intentions an
 **Connection, Continuity, Consciousness**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=XOBffhHNlpc&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2)
+<a target="_blank" href="https://www.youtube.com/watch?v=XOBffhHNlpc&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2">Watch</a>
 </div>
 
 </div>
@@ -37,7 +37,7 @@ To live fully in presence, we must accept responsibility for their intentions an
 **The Purpose of Religion**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=L9kWeKg5ULo&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2&index=2)
+<a target="_blank" href="https://www.youtube.com/watch?v=L9kWeKg5ULo&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2&index=2">Watch</a>
 </div>
 
 </div>
@@ -51,7 +51,7 @@ To live fully in presence, we must accept responsibility for their intentions an
 **Self and Soul**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=NyR-pKLxXcw&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2&index=3)
+<a target="_blank" href="https://www.youtube.com/watch?v=NyR-pKLxXcw&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2&index=3">Watch</a>
 </div>
 
 </div>
@@ -65,7 +65,7 @@ To live fully in presence, we must accept responsibility for their intentions an
 **Seeking Contentment**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=TQ46eibAy6o&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2&index=4)
+<a target="_blank" href="https://www.youtube.com/watch?v=TQ46eibAy6o&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2&index=4">Watch</a>
 </div>
 
 </div>
@@ -79,7 +79,7 @@ To live fully in presence, we must accept responsibility for their intentions an
 **How Can You Keep Faith In Times of Fear?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=Dm9nNnuaIhw&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2&index=6)
+<a target="_blank" href="https://www.youtube.com/watch?v=Dm9nNnuaIhw&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2&index=6">Watch</a>
 </div>
 
 </div>
@@ -93,7 +93,7 @@ To live fully in presence, we must accept responsibility for their intentions an
 **Rationality and Spirituality**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=fiwff43WebA&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2&index=7)
+<a target="_blank" href="https://www.youtube.com/watch?v=fiwff43WebA&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2&index=7">Watch</a>
 </div>
 
 </div>
@@ -107,7 +107,7 @@ To live fully in presence, we must accept responsibility for their intentions an
 **Why Is There Hell?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=mF8t83iK8es&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2&index=8)
+<a target="_blank" href="https://www.youtube.com/watch?v=mF8t83iK8es&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2&index=8">Watch</a>
 </div>
 
 </div>
@@ -121,7 +121,7 @@ To live fully in presence, we must accept responsibility for their intentions an
 **Wanting to Change the World**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=1kXmg0MilK4&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2&index=9)
+<a target="_blank" href="https://www.youtube.com/watch?v=1kXmg0MilK4&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2&index=9">Watch</a>
 </div>
 
 </div>

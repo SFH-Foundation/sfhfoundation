@@ -26,7 +26,7 @@ Man’s purpose is to dispel ignorance. Knowledge already exists within. Knowled
 **Islam, Iman, Ihsan**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=R503LTlwdV0&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=20&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=R503LTlwdV0&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=20&t=0s">Watch</a>
 </div>
 
 </div>
@@ -40,7 +40,7 @@ Man’s purpose is to dispel ignorance. Knowledge already exists within. Knowled
 **Whatever is in Heavens and Earth Glorifies God**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=gmos6DEFrW0&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=19&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=gmos6DEFrW0&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=19&t=0s">Watch</a>
 </div>
 
 </div>
@@ -54,7 +54,7 @@ Man’s purpose is to dispel ignorance. Knowledge already exists within. Knowled
 **His is the Dominion of the Heavens and Earth**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=Wvx3XWomZ2U&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=18&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=Wvx3XWomZ2U&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=18&t=0s">Watch</a>
 </div>
 
 </div>
@@ -68,7 +68,7 @@ Man’s purpose is to dispel ignorance. Knowledge already exists within. Knowled
 **He is the First and the Last, the Outer and the Inner**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=qXAewLnAPw8&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=17&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=qXAewLnAPw8&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=17&t=0s">Watch</a>
 </div>
 
 </div>
@@ -82,7 +82,7 @@ Man’s purpose is to dispel ignorance. Knowledge already exists within. Knowled
 **God Is With You, Wherever You Are**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=3ty2v_NQ6ao&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=16&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=3ty2v_NQ6ao&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=16&t=0s">Watch</a>
 </div>
 
 </div>
@@ -96,7 +96,7 @@ Man’s purpose is to dispel ignorance. Knowledge already exists within. Knowled
 **And to God All Matters Are Returned**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=F6kfd4AMv40&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=15&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=F6kfd4AMv40&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=15&t=0s">Watch</a>
 </div>
 
 </div>
@@ -110,7 +110,7 @@ Man’s purpose is to dispel ignorance. Knowledge already exists within. Knowled
 **He Causes The Night To Enter The Day**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=6uA4QZ8Owek&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=14&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=6uA4QZ8Owek&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=14&t=0s">Watch</a>
 </div>
 
 </div>

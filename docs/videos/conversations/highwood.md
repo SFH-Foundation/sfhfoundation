@@ -42,7 +42,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **Light of Lights**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=kfN_DObkSM4&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=40&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=kfN_DObkSM4&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=40">Watch</a>
 </div>
 
 </div>
@@ -56,7 +56,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **Free Will or Predetermination?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=yvbzO4dDgD0&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=39&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=yvbzO4dDgD0&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=39">Watch</a>
 </div>
 
 </div>
@@ -70,7 +70,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **Forgiveness and What Happens After Death**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=ckcXZs7mejE)
+<a target="_blank" href="https://www.youtube.com/watch?v=ckcXZs7mejE">Watch</a>
 </div>
 
 </div>
@@ -84,7 +84,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **What is The Day of Judgement?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=LyGrhZOjSXE&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=38&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=LyGrhZOjSXE&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=38">Watch</a>
 </div>
 
 </div>
@@ -98,7 +98,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **Is There Reincarnation in Islam?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=xQA91yHPDpM&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=37&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=xQA91yHPDpM&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=37">Watch</a>
 </div>
 
 </div>
@@ -112,7 +112,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **Islam and Science**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=nA2wKknIjQQ&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=36&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=nA2wKknIjQQ&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=36">Watch</a>
 </div>
 
 </div>
@@ -126,7 +126,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **Why is the Number 7 Considered Sacred?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=VSr2IUp-2w8&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=35&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=VSr2IUp-2w8&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=35">Watch</a>
 </div>
 
 </div>
@@ -140,7 +140,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **Why Is There So Much War Between Religions?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=F81bv5vTEZs&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=34&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=F81bv5vTEZs&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=34">Watch</a>
 </div>
 
 </div>
@@ -154,7 +154,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **Is The Idea of an Islamic State a Myth?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=_XbfRNlmT5E&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=33&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=_XbfRNlmT5E&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=33">Watch</a>
 </div>
 
 </div>
@@ -168,7 +168,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **Will Islam Become Private Like Christianity?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=MFQk2srM9LU&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=32&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=MFQk2srM9LU&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=32">Watch</a>
 </div>
 
 </div>
@@ -182,7 +182,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **Is God Male or Female?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=gHBhA6kqRCQ&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=31&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=gHBhA6kqRCQ&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=31">Watch</a>
 </div>
 
 </div>
@@ -196,7 +196,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **Why Are There No Female Prophets?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=gveAbNn7x2U&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=30&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=gveAbNn7x2U&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=30">Watch</a>
 </div>
 
 </div>
@@ -210,7 +210,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **Where is God?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=flT29MVm1VY&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=29&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=flT29MVm1VY&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=29">Watch</a>
 </div>
 
 </div>
@@ -228,7 +228,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **Bismillah**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=7IVw4bnF0K0&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=28&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=7IVw4bnF0K0&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=28">Watch</a>
 </div>
 
 </div>
@@ -242,7 +242,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **The Constant Behind the Changing**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=BYTdRdd-MoI&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=27&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=BYTdRdd-MoI&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=27">Watch</a>
 </div>
 
 </div>
@@ -256,7 +256,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **Why Do We Love Free Gifts?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=WOWsnq0sbxM&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=26&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=WOWsnq0sbxM&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=26">Watch</a>
 </div>
 
 </div>
@@ -270,7 +270,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **From Limitations to the Limitless**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=ZJoNO75NKX8&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=25&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=ZJoNO75NKX8&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=25">Watch</a>
 </div>
 
 </div>
@@ -284,7 +284,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **Good Deeds**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=bgQrxkJjpXc&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=24&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=bgQrxkJjpXc&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=24">Watch</a>
 </div>
 
 </div>
@@ -298,7 +298,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **Patience**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=XbGToVGF4hg&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=23&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=XbGToVGF4hg&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=23">Watch</a>
 </div>
 
 </div>
@@ -316,7 +316,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **What is the Sixth Sense?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=v7A_1rjtP6g)
+<a target="_blank" href="https://www.youtube.com/watch?v=v7A_1rjtP6g">Watch</a>
 </div>
 
 </div>
@@ -330,7 +330,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 **What Are Angels?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=fnQNLDd4ejE)
+<a target="_blank" href="https://www.youtube.com/watch?v=fnQNLDd4ejE">Watch</a>
 </div>
 
 </div>

@@ -19,7 +19,7 @@ On this page, you will find a collection of shorter clips cut from a talk given 
 **Clip 1**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=pet9fsZ6cw0)
+<a target="_blank" href="https://www.youtube.com/watch?v=pet9fsZ6cw0">Watch</a>
 </div>
 
 </div>
@@ -33,7 +33,7 @@ On this page, you will find a collection of shorter clips cut from a talk given 
 **Clip 2**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=v5moB2MWA-w)
+<a target="_blank" href="https://www.youtube.com/watch?v=v5moB2MWA-w">Watch</a>
 </div>
 
 </div>
@@ -47,7 +47,7 @@ On this page, you will find a collection of shorter clips cut from a talk given 
 **Clip 3**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=voltvrJW3iU)
+<a target="_blank" href="https://www.youtube.com/watch?v=voltvrJW3iU">Watch</a>
 </div>
 
 </div>
@@ -61,7 +61,7 @@ On this page, you will find a collection of shorter clips cut from a talk given 
 **Clip 4**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=LeAhvySu81Q)
+<a target="_blank" href="https://www.youtube.com/watch?v=LeAhvySu81Q">Watch</a>
 </div>
 
 </div>
@@ -75,7 +75,7 @@ On this page, you will find a collection of shorter clips cut from a talk given 
 **Clip 5**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=hqFBClq8kFQ)
+<a target="_blank" href="https://www.youtube.com/watch?v=hqFBClq8kFQ">Watch</a>
 </div>
 
 </div>

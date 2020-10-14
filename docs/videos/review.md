@@ -23,7 +23,7 @@ This interconnectedness may be felt through a lived experience of timelessness, 
 **Part 1**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=FqexPtGP60c)
+<a target="_blank" href="https://www.youtube.com/watch?v=FqexPtGP60c">Watch</a>
 </div>
 
 </div>
@@ -37,7 +37,7 @@ This interconnectedness may be felt through a lived experience of timelessness, 
 **Part 2**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=TQNZZW8zhwM)
+<a target="_blank" href="https://www.youtube.com/watch?v=TQNZZW8zhwM">Watch</a>
 </div>
 
 </div>
@@ -51,7 +51,7 @@ This interconnectedness may be felt through a lived experience of timelessness, 
 **Part 3**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=4QfnfaA5LCQ)
+<a target="_blank" href="https://www.youtube.com/watch?v=4QfnfaA5LCQ">Watch</a>
 </div>
 
 </div>
@@ -65,7 +65,7 @@ This interconnectedness may be felt through a lived experience of timelessness, 
 **Part 4**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=PfG59zEFpGg)
+<a target="_blank" href="https://www.youtube.com/watch?v=PfG59zEFpGg">Watch</a>
 </div>
 
 </div>
@@ -87,7 +87,7 @@ _From the book “[The Sufi Way to Self-Unfoldment](https://zahrapublications.pu
 **Time, Space, and Dualities**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=-wrWcGk3yTM)
+<a target="_blank" href="https://www.youtube.com/watch?v=-wrWcGk3yTM">Watch</a>
 </div>
 
 </div>
@@ -101,7 +101,7 @@ _From the book “[The Sufi Way to Self-Unfoldment](https://zahrapublications.pu
 **Locality**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=O584ub-6OuU)
+<a target="_blank" href="https://www.youtube.com/watch?v=O584ub-6OuU">Watch</a>
 </div>
 
 </div>
@@ -115,7 +115,7 @@ _From the book “[The Sufi Way to Self-Unfoldment](https://zahrapublications.pu
 **Terrestrial Wisdom**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=cGoW7ivzdFw)
+<a target="_blank" href="https://www.youtube.com/watch?v=cGoW7ivzdFw">Watch</a>
 </div>
 
 </div>
@@ -129,7 +129,7 @@ _From the book “[The Sufi Way to Self-Unfoldment](https://zahrapublications.pu
 **A Review of the Human Journey**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=UrbH_90s3fY&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=69&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=UrbH_90s3fY&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=69&t=0s">Watch</a>
 </div>
 
 </div>
@@ -163,7 +163,7 @@ that yields a lasting thrill.<br/>
 **Perennial Questions**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=I2bEoGUt4uk)
+<a target="_blank" href="https://www.youtube.com/watch?v=I2bEoGUt4uk">Watch</a>
 </div>
 
 </div>
@@ -177,7 +177,7 @@ that yields a lasting thrill.<br/>
 **The Soul's Access to a Timeless Reality**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=wmej6TkM25Y)
+<a target="_blank" href="https://www.youtube.com/watch?v=wmej6TkM25Y">Watch</a>
 </div>
 
 </div>
@@ -191,7 +191,7 @@ that yields a lasting thrill.<br/>
 **The Zone of The Infinite**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=ZLb8X31B_PY)
+<a target="_blank" href="https://www.youtube.com/watch?v=ZLb8X31B_PY">Watch</a>
 </div>
 
 </div>
@@ -205,7 +205,7 @@ that yields a lasting thrill.<br/>
 **Land of Nowhere, Na Kuja Abad**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=l_LPV9-y5jk&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=46&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=l_LPV9-y5jk&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=46&t=0s">Watch</a>
 </div>
 
 </div>
@@ -229,7 +229,7 @@ When you blame others the ego is protected for a while, but if you blame yoursel
 **Seeking Contentment**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=TQ46eibAy6o)
+<a target="_blank" href="https://www.youtube.com/watch?v=TQ46eibAy6o">Watch</a>
 </div>
 
 </div>
@@ -243,7 +243,7 @@ When you blame others the ego is protected for a while, but if you blame yoursel
 **Patience**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=XbGToVGF4hg&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=23&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=XbGToVGF4hg&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=23&t=0s">Watch</a>
 </div>
 
 </div>
@@ -257,7 +257,7 @@ When you blame others the ego is protected for a while, but if you blame yoursel
 **The Illusion of Liberation**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=oYU2ivIxczk)
+<a target="_blank" href="https://www.youtube.com/watch?v=oYU2ivIxczk">Watch</a>
 </div>
 
 </div>
@@ -271,7 +271,7 @@ When you blame others the ego is protected for a while, but if you blame yoursel
 **The Quest for Contentment**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=o3Z7sEMCv-E)
+<a target="_blank" href="https://www.youtube.com/watch?v=o3Z7sEMCv-E">Watch</a>
 </div>
 
 </div>
@@ -299,7 +299,7 @@ The soul is a reflector of what is eternal and perpetual and enables us to appre
 **Light of Lights**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=u3CtVfeuaV4)
+<a target="_blank" href="https://www.youtube.com/watch?v=u3CtVfeuaV4">Watch</a>
 </div>
 
 </div>
@@ -313,7 +313,7 @@ The soul is a reflector of what is eternal and perpetual and enables us to appre
 **Zone of Pure Light**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=kUlEgsGbk1U)
+<a target="_blank" href="https://www.youtube.com/watch?v=kUlEgsGbk1U">Watch</a>
 </div>
 
 </div>
@@ -327,7 +327,7 @@ The soul is a reflector of what is eternal and perpetual and enables us to appre
 **The Soul: A Light Beyond Discernible Light**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=Qk5oxNUZ4MQ&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=62&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=Qk5oxNUZ4MQ&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=62&t=0s">Watch</a>
 </div>
 
 </div>
@@ -341,7 +341,7 @@ The soul is a reflector of what is eternal and perpetual and enables us to appre
 **Illumination is the Purpose of Human Life**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=OACoYroXOK0)
+<a target="_blank" href="https://www.youtube.com/watch?v=OACoYroXOK0">Watch</a>
 </div>
 
 </div>

@@ -27,7 +27,7 @@ Though in reality the past does not exist, we are the product of it. Insofar as 
 **Part 1**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=u_vHWNtBHO0)
+<a target="_blank" href="https://www.youtube.com/watch?v=u_vHWNtBHO0">Watch</a>
 </div>
 
 </div>
@@ -41,7 +41,7 @@ Though in reality the past does not exist, we are the product of it. Insofar as 
 **Part 2**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=iPPWsS8ENiQ)
+<a target="_blank" href="https://www.youtube.com/watch?v=iPPWsS8ENiQ">Watch</a>
 </div>
 
 </div>
@@ -55,7 +55,7 @@ Though in reality the past does not exist, we are the product of it. Insofar as 
 **Part 3**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=KVw3r6guyig)
+<a target="_blank" href="https://www.youtube.com/watch?v=KVw3r6guyig">Watch</a>
 </div>
 
 </div>
@@ -69,7 +69,7 @@ Though in reality the past does not exist, we are the product of it. Insofar as 
 **Part 4**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=2rUeiQoqceY)
+<a target="_blank" href="https://www.youtube.com/watch?v=2rUeiQoqceY">Watch</a>
 </div>
 
 </div>
@@ -83,7 +83,7 @@ Though in reality the past does not exist, we are the product of it. Insofar as 
 **Part 5**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=kq83rRwlW8E)
+<a target="_blank" href="https://www.youtube.com/watch?v=kq83rRwlW8E">Watch</a>
 </div>
 
 </div>

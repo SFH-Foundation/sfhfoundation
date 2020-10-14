@@ -6,7 +6,7 @@ image: assets/images/13.jpg
 
 # The Qur'an, Illumination, and Happiness
 
-These selected talks provide clarity and insight into the Qur'anic notions of illumination and happiness, and how they apply specifically and practically in our own lives. In order to introduce this work properly, please read over the following excerpt from Shaykh Fadhlalla's book ["The Sufi Way of Self Enfoldment"](https://zahrapublications.pub/book-TheSufiWayToSelf-Unfoldment.php#bookTitle):
+These selected talks provide clarity and insight into the Qur'anic notions of illumination and happiness, and how they apply specifically and practically in our own lives. In order to introduce this work properly, please read over the following excerpt from Shaykh Fadhlalla's book <a href="https://zahrapublications.pub/book-TheSufiWayToSelf-Unfoldment.php#bookTitle" target="_blank">"The Sufi Way of Self Enfoldment"</a>:
 
 We all want happiness and we define happiness as desires achieved. When all desires are achieved, we say, ‘I am tranquil.’ Well, why can’t we be tranquil to begin with? Who made me have all these multitudinous desires? There are basic needs, but we don’t suffer from the lack of those basic things now, things such as shelter, clothes, food. It is ingrained in us, in our chromosomes, to keep the body alive as well as we can, in order to discover the purpose of it all – that is the purpose of living.    
 
@@ -25,7 +25,7 @@ Nothing and no one brings us happiness, it is the removal of unhappiness that ta
 **Qur'an And Happiness**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=AIg461OIlB8)
+<a target="_blank" href="https://www.youtube.com/watch?v=AIg461OIlB8">Watch</a>
 </div>
 
 </div>
@@ -39,7 +39,7 @@ Nothing and no one brings us happiness, it is the removal of unhappiness that ta
 **Illumination By The Qur'an Today**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=x884d5I83Bo)
+<a target="_blank" href="https://www.youtube.com/watch?v=x884d5I83Bo">Watch</a>
 </div>
 
 </div>
@@ -53,7 +53,7 @@ Nothing and no one brings us happiness, it is the removal of unhappiness that ta
 **Surat al-Asr**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=PkRC0FXce1c&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=46)
+<a target="_blank" href="https://www.youtube.com/watch?v=PkRC0FXce1c&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=46">Watch</a>
 </div>
 
 </div>
@@ -67,7 +67,7 @@ Nothing and no one brings us happiness, it is the removal of unhappiness that ta
 **Progress, Regress, and Elusive Happiness**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=jWWo3BCLhhg)
+<a target="_blank" href="https://www.youtube.com/watch?v=jWWo3BCLhhg">Watch</a>
 </div>
 
 </div>
@@ -81,7 +81,7 @@ Nothing and no one brings us happiness, it is the removal of unhappiness that ta
 **Beams of Qur'anic Illumination**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=tBuYZCsSa34)
+<a target="_blank" href="https://www.youtube.com/watch?v=tBuYZCsSa34">Watch</a>
 </div>
 
 </div>

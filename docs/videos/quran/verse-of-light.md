@@ -18,7 +18,7 @@ image: assets/images/20.jpg
 **Part 1**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=TVUYPOk6np4)
+<a target="_blank" href="https://www.youtube.com/watch?v=TVUYPOk6np4">Watch</a>
 </div>
 
 </div>
@@ -32,7 +32,7 @@ image: assets/images/20.jpg
 **Part 2**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=jAEIDLMHHys)
+<a target="_blank" href="https://www.youtube.com/watch?v=jAEIDLMHHys">Watch</a>
 </div>
 
 </div>
@@ -46,7 +46,7 @@ image: assets/images/20.jpg
 **Part 3**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=TVUYPOk6np4)
+<a target="_blank" href="https://www.youtube.com/watch?v=TVUYPOk6np4">Watch</a>
 </div>
 
 </div>

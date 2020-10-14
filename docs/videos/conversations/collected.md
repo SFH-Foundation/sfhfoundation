@@ -15,7 +15,7 @@ image: assets/images/18.jpg
 **Part 1**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=jM0ffK8wLIc)
+<a target="_blank" href="https://www.youtube.com/watch?v=jM0ffK8wLIc">Watch</a>
 </div>
 
 </div>
@@ -29,7 +29,7 @@ image: assets/images/18.jpg
 **Part 2**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=od7qZ7aUsVo)
+<a target="_blank" href="https://www.youtube.com/watch?v=od7qZ7aUsVo">Watch</a>
 </div>
 
 </div>
@@ -47,7 +47,7 @@ image: assets/images/18.jpg
 **In Conversation with Dr John Demartini**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=-66_0MuykH4&t=3s)
+<a target="_blank" href="https://www.youtube.com/watch?v=-66_0MuykH4">Watch</a>
 </div>
 
 </div>

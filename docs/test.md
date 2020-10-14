@@ -1,10 +1,13 @@
 
-<div class="callout5">
-Your inner state determines your overall condition and your idea of being happy or not.
+<div class="callout1">
+The soul is inseparable from the cosmic spirit that governs all; this is why we all like to be in control.
 </div>
 
+<div class="callout2">
+The soul is inseparable from the cosmic spirit that governs all; this is why we all like to be in control.
+</div>
 
-<div class="callout6">
+<div class="callout3">
 The soul is inseparable from the cosmic spirit that governs all; this is why we all like to be in control.
 </div>
 
@@ -12,7 +15,11 @@ The soul is inseparable from the cosmic spirit that governs all; this is why we 
 The soul is inseparable from the cosmic spirit that governs all; this is why we all like to be in control.
 </div>
 
-<div class="stroker">
+<div class="callout5">
+Your inner state determines your overall condition and your idea of being happy or not.
+</div>
+
+<div class="callout6">
 The soul is inseparable from the cosmic spirit that governs all; this is why we all like to be in control.
 </div>
 

@@ -17,7 +17,7 @@ The dot from which creation began is a puzzle. The Qur’an offers us insights i
 **Human Consciousness From The Quran**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=LWLbJ4W8m2I)
+<a target="_blank" href="https://www.youtube.com/watch?v=LWLbJ4W8m2I">Watch</a>
 </div>
 
 </div>
@@ -35,7 +35,7 @@ A penetrating discussion of insights into the mysteries of our existence and hum
 **Creation - The Evolution Of Meaning And Form**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=Gb7isTAsFOM)
+<a target="_blank" href="https://www.youtube.com/watch?v=Gb7isTAsFOM">Watch</a>
 </div>
 
 </div>

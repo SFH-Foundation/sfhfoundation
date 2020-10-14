@@ -7,7 +7,7 @@ image: assets/images/11.jpg
 # Videos
 
 <div class="callout6">
-Grace and goodness are eternal and they reside <br/>within your own heart.
+Grace and goodness are eternal <br/>and they reside within your own heart.
 </div>
 
 ## [Start Now](./start-now)
@@ -23,7 +23,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 </div>
 
 <div markdown="3" class="article-link">
-[Watch](https://www.youtube.com/watch?v=XOBffhHNlpc&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2)
+<a target="_blank" href="https://www.youtube.com/watch?v=XOBffhHNlpc&list=PL-Swj8fEF85K-au1Gawvi118nW6j9qCh2">Watch</a>
 </div>
 
 </div>
@@ -39,7 +39,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **Islam, Iman, Ihsan**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=R503LTlwdV0&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=20&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=R503LTlwdV0&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=20&t=0s">Watch</a>
 </div>
 
 </div>
@@ -53,7 +53,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **Self Conduct**
 
 <div markdown="3" class="video-link">
-[Watch](https://youtu.be/_n9bjtTLbFQ)
+<a target="_blank" href="https://youtu.be/_n9bjtTLbFQ">Watch</a>
 </div>
 
 </div>
@@ -67,7 +67,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **Differentiated Sameness**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=y4HG4jDJYlU)
+<a target="_blank" href="https://www.youtube.com/watch?v=y4HG4jDJYlU">Watch</a>
 </div>
 
 </div>
@@ -81,7 +81,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **Perennial Questions**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=I2bEoGUt4uk)
+<a target="_blank" href="https://www.youtube.com/watch?v=I2bEoGUt4uk">Watch</a>
 </div>
 
 </div>
@@ -97,7 +97,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **Seeking Contentment**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=TQ46eibAy6o)
+<a target="_blank" href="https://www.youtube.com/watch?v=TQ46eibAy6o">Watch</a>
 </div>
 
 </div>
@@ -111,7 +111,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **The Soul's Access to a Timeless Reality**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=wmej6TkM25Y)
+<a target="_blank" href="https://www.youtube.com/watch?v=wmej6TkM25Y">Watch</a>
 </div>
 
 </div>
@@ -125,7 +125,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **Land of Nowhere, Na Kuja Abad**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=l_LPV9-y5jk&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=46&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=l_LPV9-y5jk&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=46&t=0s">Watch</a>
 </div>
 
 </div>
@@ -139,12 +139,68 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **The Zone of The Infinite**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=ZLb8X31B_PY)
+<a target="_blank" href="https://www.youtube.com/watch?v=ZLb8X31B_PY">Watch</a>
 </div>
 
 </div>
 
 ## Most Recent
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Path To Fulfillment](./img/sfh_foundation.jpg)
+</div>
+
+**The Path To Fulfillment**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=MfuW7HswOpk">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Impromptu Question and Answer Session](./img/sfh_foundation.jpg)
+</div>
+
+**Impromptu Question and Answer Session**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=biriCpNfZ8s">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Seeking Divine Light](./img/sfh_foundation.jpg)
+</div>
+
+**Seeking Divine Light**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=wrFSBsTRewY">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Real: Faith & Identity On The Path To Awakening](./img/sfh_foundation.jpg)
+</div>
+
+**The Real: Faith & Identity On The Path To Awakening**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=iTTxhb_f8Z0">Watch</a>
+</div>
+
+</div>
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -155,7 +211,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **Insights into Peak Experiences**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=iE_3-5hhsT0)
+<a target="_blank" href="https://www.youtube.com/watch?v=iE_3-5hhsT0">Watch</a>
 </div>
 
 </div>
@@ -169,7 +225,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **Surrender and Transcendence in Sufism**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=2krm8-Rhi6A)
+<a target="_blank" href="https://www.youtube.com/watch?v=2krm8-Rhi6A">Watch</a>
 </div>
 
 </div>
@@ -183,7 +239,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **The Process Of Spiritual Transformation**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=OjoszYssKSY)
+<a target="_blank" href="https://www.youtube.com/watch?v=OjoszYssKSY">Watch</a>
 </div>
 
 </div>
@@ -197,7 +253,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **Faith and Humanity**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=MHDKJSeVKvA)
+<a target="_blank" href="https://www.youtube.com/watch?v=MHDKJSeVKvA">Watch</a>
 </div>
 
 </div>
@@ -211,7 +267,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **Creation - The Evolution Of Meaning And Form**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=Gb7isTAsFOM)
+<a target="_blank" href="https://www.youtube.com/watch?v=Gb7isTAsFOM">Watch</a>
 </div>
 
 </div>
@@ -225,7 +281,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **Sufi Cosmology Of Life - Part 3**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=J7aOAk3Bti8)
+<a target="_blank" href="https://www.youtube.com/watch?v=J7aOAk3Bti8">Watch</a>
 </div>
 
 </div>
@@ -239,7 +295,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **Human Consciousness From The Quran**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=LWLbJ4W8m2I)
+<a target="_blank" href="https://www.youtube.com/watch?v=LWLbJ4W8m2I">Watch</a>
 </div>
 
 </div>
@@ -253,63 +309,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **Sufi Cosmology Of Life - Part 2**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=8LC2Lo1j3lI)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Reflections on Ubudiya & Ruhaniyya](./img/sfh_foundation.jpg)
-</div>
-
-**Reflections on Ubudiya & Ruhaniyya - Part 2**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=cyVqbbMSop0)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Sufi Cosmology Of Life - Part 1](./img/sfh_foundation.jpg)
-</div>
-
-**Sufi Cosmology Of Life - Part 1**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=vRfT9Om4nXc)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Insights of Divinity Through Humanity](./img/sfh_foundation.jpg)
-</div>
-
-**Insights of Divinity Through Humanity**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=mEDEk0Pjato)
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Reflections on Ubudiya & Ruhaniyya](./img/sfh_foundation.jpg)
-</div>
-
-**Reflections on Ubudiya & Ruhaniyya - Part 1**
-
-<div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=Q_TF_U8jKX8)
+<a target="_blank" href="https://www.youtube.com/watch?v=8LC2Lo1j3lI">Watch</a>
 </div>
 
 </div>
@@ -327,7 +327,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **Qur'an And Happiness**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=AIg461OIlB8)
+<a target="_blank" href="https://www.youtube.com/watch?v=AIg461OIlB8">Watch</a>
 </div>
 
 </div>
@@ -341,7 +341,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **Progress, Regress, and Elusive Happiness**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=jWWo3BCLhhg)
+<a target="_blank" href="https://www.youtube.com/watch?v=jWWo3BCLhhg">Watch</a>
 </div>
 
 </div>
@@ -355,7 +355,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **Message to Western Muslims**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=FWANw9AddMc)
+<a target="_blank" href="https://www.youtube.com/watch?v=FWANw9AddMc">Watch</a>
 </div>
 
 </div>
@@ -369,7 +369,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 **Who Am I?**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=Z5Ptnhr96v4&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=55&t=0s)
+<a target="_blank" href="https://www.youtube.com/watch?v=Z5Ptnhr96v4&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=55&t=0s">Watch</a>
 </div>
 
 </div>

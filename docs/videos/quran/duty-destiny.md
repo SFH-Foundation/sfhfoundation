@@ -6,7 +6,7 @@ image: assets/images/05.jpg
 
 # Human Duty and Destiny as Illustrated in The Qur'an
 
-How can anyone on two legs understand his situation unless he is intelligent, unless he takes time off to reflect, unless he catches himself in a real situation? This practice is not just something to do once in a while, when there may be a spiritual gathering or some social event. The maximum learning about yourself takes place when you are at what you think are the most difficult times in your life, because it is precisely at those times that all of what is inside comes out. All the froth is maximally visible at that time. It is then that you can improve most by recognition. You cannot progress along the path of recognizing the various aspects of desire unless you are actually in trouble.  
+How can anyone on two legs understand their situation unless they are intelligent; unless they take time off to reflect; unless they catches themself in a real situation? This practice is not just something to do once in a while, when there may be a spiritual gathering or some social event. The maximum learning about yourself takes place when you are at what you think are the most difficult times in your life, because it is precisely at those times that all of what is inside comes out. All the froth is maximally visible at that time. It is then that you can improve most by recognition. You cannot progress along the path of recognizing the various aspects of desire unless you are actually in trouble.  
 
 ### Commentary
 
@@ -19,7 +19,7 @@ How can anyone on two legs understand his situation unless he is intelligent, un
 **Surat Ash Shams**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=kRMTj1yEWIk)
+<a target="_blank" href="https://www.youtube.com/watch?v=kRMTj1yEWIk">Watch</a>
 </div>
 
 </div>
@@ -33,7 +33,7 @@ How can anyone on two legs understand his situation unless he is intelligent, un
 **Surat Al A'la**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=aIEUvLMTS5w)
+<a target="_blank" href="https://www.youtube.com/watch?v=aIEUvLMTS5w">Watch</a>
 </div>
 
 </div>
@@ -47,7 +47,7 @@ How can anyone on two legs understand his situation unless he is intelligent, un
 **Surat Al 'Asr**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=WfkrvBHR9pU)
+<a target="_blank" href="https://www.youtube.com/watch?v=WfkrvBHR9pU">Watch</a>
 </div>
 
 </div>
@@ -61,7 +61,7 @@ How can anyone on two legs understand his situation unless he is intelligent, un
 **Surat Ad Duha**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=E5ByRFAuHgA)
+<a target="_blank" href="https://www.youtube.com/watch?v=E5ByRFAuHgA">Watch</a>
 </div>
 
 </div>
@@ -75,7 +75,7 @@ How can anyone on two legs understand his situation unless he is intelligent, un
 **Surat Al Inshirah**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=R6SJEr9i634)
+<a target="_blank" href="https://www.youtube.com/watch?v=R6SJEr9i634">Watch</a>
 </div>
 
 </div>
@@ -89,14 +89,14 @@ How can anyone on two legs understand his situation unless he is intelligent, un
 **Surat Al-Kahf**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=kRMTj1yEWIk)
+<a target="_blank" href="https://www.youtube.com/watch?v=kRMTj1yEWIk">Watch</a>
 </div>
 
 </div>
 
 <div markdown="1" class="clear"></div>
 
-The complete playlist can be found [here](https://www.youtube.com/watch?v=kRMTj1yEWIk&list=PL-Swj8fEF85Kwm_lJ4m1mwz913auDOYjS&index=2&t=0s).
+The complete playlist can be found <a href="https://www.youtube.com/watch?v=kRMTj1yEWIk&list=PL-Swj8fEF85Kwm_lJ4m1mwz913auDOYjS" target="_blank">here</a>.
 
 ## The State of Humanity
 
@@ -111,7 +111,7 @@ Your Lord is the Ever-forgiving. Look at how much He loves you, that He gives yo
 **The State of Humanity and Our World Today**
 
 <div markdown="3" class="video-link">
-[Watch](https://www.youtube.com/watch?v=kRMTj1yEWIk)
+<a target="_blank" href="https://www.youtube.com/watch?v=kRMTj1yEWIk">Watch</a>
 </div>
 
 </div>
