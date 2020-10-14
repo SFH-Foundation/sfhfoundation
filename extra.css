@@ -188,7 +188,7 @@
   }
 
   .callout4 {
-    background-image: url('/assets/images/brushstroke.png');
+    background-image: url('/assets/images/brushstroke4.png');
     background-repeat: no-repeat;
     background-size: cover;
     padding: 50px 100px;
@@ -212,7 +212,7 @@
   }
 
   .callout6 {
-    background-image: url('/assets/images/brushstroke4.png');
+    background-image: url('/assets/images/brush.svg');
     background-repeat: no-repeat;
     background-size: cover;
     padding: 40px;
@@ -275,6 +275,6 @@
   }
 
   .callout6 {
-    background-image: url('/assets/images/brushstroke4-mob.png');
+    padding: 12px;
   }
 }
