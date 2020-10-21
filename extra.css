@@ -159,7 +159,7 @@
     border: 1px solid #fff;
   }
 
-  .callout2 {
+  .callout6 {
     background-image: linear-gradient(to right, #FFD57C, #ffffff);
     padding: 20px;
     font-weight: 400;
@@ -211,7 +211,7 @@
     margin: 10px 0 30px 0;
   }
 
-  .callout6 {
+  .callout2 {
     background-image: url('/assets/images/brush.svg');
     background-repeat: no-repeat;
     background-size: cover;
