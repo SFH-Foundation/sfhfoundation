@@ -8,18 +8,18 @@ image:
 Healthy life is a practice of flowing with the eternal grace which envelops the whole cosmos.
 </div>
 
-Within conditioned consciousness, we question, reflect, share, and try to discover what the original cause is. Once we are at the point of neutrality, then the light of inner perception beams from the soul, reflecting the Origin. The question is replaced with a taste of Reality and the experience of Oneness – a glorious answer which ends all questions – your personal entity is now in inseparable connection with the Cosmic Reality.
+Within conditioned consciousness we question, reflect, share, and try to discover what the original cause is. Once we are at the point of neutrality, then the light of inner perception beams from the soul, reflecting the Origin. The question is replaced with a taste of Reality and the experience of Oneness – a glorious answer which ends all questions. Your personal entity is now in inseparable connection with Cosmic Reality.
 
-Any practice connects the intention we have hidden within the mind with an outer action which aims towards some sort of conclusion, realisation or outcome. Most of your regret and suffering is due to the disharmony between the deep, inner state of your heart and your short-lived frustration, fear, or impatience. If your action stems from a seamless connection between a higher intention and your honest assessment of your ability to act properly - if there is harmony between these two zones - then you are in the flow of space and time in a healthy way.
+Any practice connects the intention hidden within the mind with an outer action which aims towards some sort of conclusion, realisation or outcome. Most of your regret and suffering is due to the disharmony between the deep, inner state of your heart and your short-lived frustration, fear, or impatience. If your action stems from a seamless connection between a higher intention and your honest assessment of your ability to act properly – if there is harmony between these two zones – then you are in the flow of space and time in a healthy way.
 
-Correct practice relates to so many different aspects of the human being and his or her state. You can’t deny the physical, chemical and material connections which make you up - from organs to cells to the billions of neurons constantly firing the pattern of ‘you’. There is a complete orchestration which produces the usual description of who you are. We are largely unaware of all of these processes. Most of them are autonomous, though they respond to each other and various external factors, as well as to the ultimate governing force, which is your own soul.
+Correct practice relates to so many different aspects of the human being and his or her state. You can’t deny the physical, chemical and material connections which make up your self – from organs, to cells, to the billions of neurons constantly firing the pattern of ‘you’. There is a complete orchestration which produces the usual description of who you are. We are largely unaware of all these processes. Most of them are autonomous, though they respond to each other and to various external factors, as well as to the ultimate governing force, which is your own soul.
 
-Correct action is that which improves on your state and the overall state from which you have emerged. Appropriate action is that which leaves any situation you experience better than it was before. 
+Appropriate and correct action is that which improves your state and the overall state from which you have emerged. Appropriate action is that which leaves any situation you experience better than it was before. 
 
-There are two issues that we always need to bear in mind: 
+There are two issues which we always need to bear in mind: 
 
-1. Evolution **connects** us all. From a very simple cell in which the experience of life was unimaginably limited to what we human beings now experience of life in its magnificent, total and boundless way. 
-2. The rise in **consciousness** always **continues**. The consciousness of the average human being nowadays is considerably higher, broader and deeper than the average human being a thousand years ago.
+1. Evolution connects us all. From a very simple cell in which the experience of life was unimaginably limited to what we human beings now experience of life in its magnificent, total and boundless way. 
+2. The rise in consciousness always continues. The consciousness of the average human being nowadays is considerably higher, broader and deeper than the average human being a thousand years ago.
 
 These two factors are vital to bear in mind. They point to the reason for the cycles in existence: it began with a “big bang” and it will end with a big collapse. In the meantime, there are countless numbers of souls or spirits which have the potential to awaken to the origin of the cosmic Reality and how it takes place. This is the whole story.
 
