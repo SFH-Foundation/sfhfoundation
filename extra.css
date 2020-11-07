@@ -265,13 +265,17 @@
     margin: 0;
   }
 
+  .purchase-link p {
+    width: 60%;
+  }
+
   .audio-link {
     margin: 4px 4px 0 0;
     width: 30%;
   }
 
   .center-img {
-    margin-left: none;
+    margin-left: 0;
   }
 
   .callout6 {
