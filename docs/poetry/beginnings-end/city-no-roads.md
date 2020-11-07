@@ -38,5 +38,3 @@ heartful,  <br/>
 hopeful.  <br/>
 
 </div>
-  
-![Hope](./img/sfh_thread_truth.jpg)

@@ -25,5 +25,3 @@ In its  <br/>
 Embrace  <br/>
 
 </div>
-
-![Gravity](./img/sfh_gravity.jpg)

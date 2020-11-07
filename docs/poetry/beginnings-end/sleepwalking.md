@@ -38,5 +38,3 @@ besides us common sleep-walkers,  <br/>
 but I am not amongst them.”  <br/>
 
 </div>
-
-![Sleepwalking](./img/sfh_sleepwalking.jpg)

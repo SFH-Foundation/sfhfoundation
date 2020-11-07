@@ -27,5 +27,3 @@ Perfection in sight and insight.  <br/>
 Perfect timelessness.  <br/>
 
 </div>
-
-![Candle](./img/sfh_candle.jpg)

@@ -40,5 +40,3 @@ And the ants will re-build again <br/>
 In praise of life and light.  <br/>
 
 </div>
-
-![Step With Caution](/assets/images/17.jpg)

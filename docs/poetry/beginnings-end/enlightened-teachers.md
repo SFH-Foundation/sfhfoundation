@@ -45,5 +45,3 @@ seeking permission  <br/>
 at the door of illumined transmission.  <br/>
 
 </div>
-  
-![The teacher](./img/sfh_eid.jpg)

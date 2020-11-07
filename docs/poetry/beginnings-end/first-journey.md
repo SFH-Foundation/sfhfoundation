@@ -30,5 +30,3 @@ there is no way  <br/>
 to return.  <br/>
 
 </div>
-
-![First Journey](./img/sfh_first_journey.jpg)

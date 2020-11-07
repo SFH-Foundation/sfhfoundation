@@ -40,5 +40,4 @@ So fast yet still.  <br/>
 
 </div>
 
-![Safe Passage](./img/sfh_passage.jpg)
 

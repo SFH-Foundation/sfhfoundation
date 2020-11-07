@@ -23,5 +23,3 @@ perpetual.  <br/>
 That is what it is  <br/>
 
 </div>
-
-![SFH Asking](/assets/images/01.jpg)

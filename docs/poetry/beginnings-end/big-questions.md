@@ -35,5 +35,3 @@ And the soul radiates in all directions. <br/>
 Big Answer.  <br/>
 
 </div>
-
-![Obsessed](./img/sfh_obsessed.jpg)

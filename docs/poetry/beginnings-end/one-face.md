@@ -25,5 +25,3 @@ all my other selves –  <br/>
 I now face my real self.  <br/>
 
 </div>
-
-![One Face](./img/sfh_face.jpg)

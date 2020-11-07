@@ -36,4 +36,3 @@ The heart smiles knowingly.  <br/>
 
 </div>
 
-![Perpetually in truth](./img/lightning.jpg)

@@ -34,5 +34,3 @@ and sings only  <br/>
 the melody of eternal Now. <br/> 
 
 </div>
-
-![The eternal Now](./img/sfh_self.jpg)

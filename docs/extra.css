@@ -159,7 +159,7 @@
     border: 1px solid #fff;
   }
 
-  .callout2 {
+  .callout6 {
     background-image: linear-gradient(to right, #FFD57C, #ffffff);
     padding: 20px;
     font-weight: 400;
@@ -211,7 +211,7 @@
     margin: 10px 0 30px 0;
   }
 
-  .callout6 {
+  .callout2 {
     background-image: url('/assets/images/brush.svg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -265,13 +265,17 @@
     margin: 0;
   }
 
+  .purchase-link p {
+    width: 60%;
+  }
+
   .audio-link {
     margin: 4px 4px 0 0;
     width: 30%;
   }
 
   .center-img {
-    margin-left: none;
+    margin-left: 0;
   }
 
   .callout6 {

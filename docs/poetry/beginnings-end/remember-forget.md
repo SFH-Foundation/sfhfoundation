@@ -28,5 +28,3 @@ pure light  <br/>
 glorious!  <br/>
 
 </div>
-  
-![Remember](./img/arrival.jpg)

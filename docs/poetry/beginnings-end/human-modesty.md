@@ -32,5 +32,3 @@ Dressed up as instructors, <br/>
 self assured.  <br/>
 
 </div>
-
-![Burn the self](./img/sfh_burn.jpg)

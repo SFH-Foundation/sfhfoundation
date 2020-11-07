@@ -29,5 +29,3 @@ actor, stage,  <br/>
 or the idea of unity.  <br/>
 
 </div>
-
-![Binary Experience](./img/sfh_binary.jpg)

@@ -31,5 +31,3 @@ where I may end up as  <br/>
 Real me.  <br/>
 
 </div>
-
-![Troubled](./img/sfh_troubles.jpg)
