@@ -8,7 +8,7 @@ image: assets/images/20.jpg
 
 > “O Allah, make a light in my heart, a light in my hearing, a light in my vision, a light in my flesh, a light in my blood, a light in my bones, a light before me, a light after me, a light on my right, a light on my left, a light above me, and a light below me, a light in my heart. O Allah, increase me in light and make me a light (I beseech You) by what is Your due, O most Merciful of the Merciful.” - Prophet Muhammad, _ṣallā -llāhu ʿalayhī wa-ʾālihī wa-sallam_
 
-We release audios on a number of platforms. Please find your preferred one below. All the indivdual links on pages in this section of the archive go to Anchor FM, from which you can easily access Apple, Spotify, Breaker, Google Podcast, Overcast, Pocket Casts, and RadioPublic.
+We release audios on a number of platforms. Please find your preferred one below. All the links in this section go to Anchor FM, from which you can easily access Apple, Spotify, Breaker, Google Podcast, Overcast, Pocket Casts, and RadioPublic.
 
 <div markdown="1" class="card article sidebar center">
 

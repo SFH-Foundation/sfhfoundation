@@ -23,6 +23,10 @@ Your inner state determines your overall condition and your idea of being happy 
 The soul is inseparable from the cosmic spirit that governs all; this is why we all like to be in control.
 </div>
 
+<iframe src="https://open.spotify.com/embed-podcast/episode/56VXWNc1YiXimJJj4ep5wW" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<iframe src="https://anchor.fm/shaykh-fadhlalla-haeri-foundation/embed/episodes/Quran-A-manual-for-living--Part-4-of-10-ellan3" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 Healthy life is a practice of flow with the eternal grace which envelops the whole cosmos and gives rise to the first question, "Who are and why are you here?" You are a celestial soul or spirit on an earthly voyage exploring duality, yearning for your source and origin of unity. The main reason you are on this journey is to recognise the interplay between dualities emerging from unity and submerging back into it with imperfections. For you to lose the veil of identity in space and time, for the soul to return to its natural boundlessness and eternal nature.
 
 ## Why Are We Here?

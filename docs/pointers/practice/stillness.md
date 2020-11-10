@@ -1,16 +1,16 @@
 ---
 title: The Practice of Stillness
-description: The art of stillness is the heart of all true spiritual practices and endeavours.
+description: Stillness and the art of stopping is the heart of all true spiritual practices and endeavours.
 image: pointers/img/people-light.jpg
 ---
 
 <div class="callout6">
-This is all for you to lose the veil of identity in space and time so that the soul may return to its natural boundlessness and eternal nature.
+This is all for you to lose the veil of identity in space and time so that the soul may return to its eternal nature and natural boundlessness
 </div>
 
 Throughout all world religions and spiritual systems various practices are prescribed to move us from basic conditioned consciousness into the vastness of soul consciousness, or boundless consciousness. The art of stillness is at the heart of all these practices and endeavours.
 
-Stillness will drive you back to your origin, which is peace. Non-differentiation is your origin and it is also in your heart, soul or spirit. The essence and the origin of all is total, cosmic non-differentiation. We emerge from that and to it we return.
+Stillness is the portal back to your origin, which is peace. Non-differentiation is your origin and it is also in your heart, soul or spirit. The essence and the origin of all is total, cosmic non-differentiation. We emerge from that and to it we return.
 
 In that zone, there is no higher or lower or better or worse: there just is. According to modern science, this is the state which we now consider to be a perfect vacuum. However, we also know that there is no such thing as absolute emptiness. There are millions of interactions that are unseen – what scientists now call “emergence and submergence” or “creation and destruction”. As they burst into existence, matter and antimatter meet and annihilate. All of life emanates from this – universes turning into existence and non-existence within the multiverse.
 

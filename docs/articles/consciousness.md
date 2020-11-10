@@ -8,8 +8,6 @@ image: assets/images/05.jpg
 
 This article collects and presents various windows and aspects of the incredible mystery that is consciousness. Many of the following excerpts are taken from the book "[Spectrum of Reality](http://spectrumofreality.com/)".
 
-Catalogued throughout this site you will find various videos and discourses further elaborating on this vast topic. Read to the end to find other recommendations that discuss the same phenomena from a multitude of other perspectives.
-
 ## Consciousness
 
 Life is discerned via consciousness. Human consciousness spans a very wide spectrum of experiencing and understanding of realities. Consciousness may be defined as an energy field or light that generates other subtle forces such as intelligence, knowledge, understanding, feeling, emotion and other mental and spiritual states.   
@@ -84,11 +82,3 @@ Oneness is beyond all values and differentiation, whereas in duality there canno
 All dualities have their root in the original Oneness to which they return — the Perpetual One.   
 
 ![Wake up!](../assets/images/05.jpg)
-
-## Further Exploration
-
-1. [Human Consciousness](../../audios/single-talks/#human-consciousness) which covers consciousness as we experience it in day-to-day life.
-2. [Abstention & Fasting](../../audios/series/abstention-fasting) which is a two-part series that goes into detail about how such practices can lead to experiencing higher consciousness.
-3. [Descriptive & Prescriptive Qur'an](../../audios/series/descriptive-prescriptive-quran) which is a four-part series that deals, in part, with Qur'anic descriptions of the phenomena and pointers for aligning with it optimally.
-
-There are also many videos we have provided on this broad topic, the most directly relevant of which is the two part series [From Darkness to Light](../../videos/quran/darkness-to-light/) which discusses both the two zones of consciousness that form a major tenet within the Shaykh's teaching, as well as a full-length talk offering invaluable keys to an awakened life.

@@ -20,6 +20,12 @@ Our world of dualities has originated from unity and is returning to that state.
 
 The path, therefore, has to do with stopping those concerns and starting from a clean and neutral position. Then you may flow along the beam of light of your soul, witnessing perfections irrespective of outer appearances or feelings. Divine perfections, ever-present. 
 
+## Duty and Responsibility
+
+Feelings of duty, conscience, loyalty, and honesty all drive us towards higher consciousness and the zone of boundlessness after having been in the confinement of the space and time womb on earth.  
+
+All the desirable attributes of goodness, generosity, kindness, and patience indicate a rise in consciousness from being local to universal, from being a mind to being a soul. Like being under several covers within the mother's womb, temporary reality, conditioned consciousness and the earthly creature mentality are  a prelude towards the boundlessness of origin, which is the soul within. Higher consciousness is also veiled by necessary covers. The most prominent is the imaginal, which enables the cosmic soul to accept the confines of space and time.
+
 ## Pleasure and Happiness  
 
 _From the book "[Keys to the Qur'an Volume 4 – Commentary on Surat Ankabut, Al-Rahman, Al-Waqi`ah and Al-Mulk](https://zahrapublications.pub/book-CommentariesOnFourChaptersOfQuran.php#bookTitle)"_

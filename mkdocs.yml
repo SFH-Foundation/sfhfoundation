@@ -129,9 +129,9 @@ nav:
     - 'Guide': 'audios/index.md'
     - 'Selected Talks': 'audios/selected-talks.md'
     - Series:
+      - 'Gateways': 'audios/series/gateways-to-enlightenment.md'
       - 'Enlightenment': 'audios/series/enlightenment.md'
-      - 'Gateways to Enlightenment': 'audios/series/gateways-to-enlightenment.md'
-      - 'Descriptive, Prescriptive Qur’an': 'audios/series/descriptive-prescriptive-quran.md'
+      - 'Qur’an': 'audios/series/descriptive-prescriptive-quran.md'
   - Reflections:
     - A Spectrum of Journeys: 'reflections/index.md'
     - '01 - Two Zones': 'reflections/spectrum/index.md'
