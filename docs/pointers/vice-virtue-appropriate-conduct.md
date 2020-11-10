@@ -6,6 +6,10 @@ image: pointers/img/sfh_journeys.jpg
 
 # Virtuous Being and Higher Conduct
 
+<div class="callout6">
+Daily needs and rationality are healthy diversions from the intensity of Reality or Truth, for it is so powerful that we need diversions.
+</div>
+
 We often experience disappointment and frustrations. We also too often feel trapped, confused or lost. Why are we constantly faced with these challenges? This is due to the limitations of conditioned consciousness and ego. Between birth and death, we play roles in this shadow theatre of life, as we evolve towards our origin.  
 
 Frustrations arise out of the disparity between our higher soul consciousness and the shadow self. How can we refer and calibrate our perceived experience with the constancy of the soul? It is helpful to have a role model, and more helpful to have a trusted teacher who reflects higher consciousness.  

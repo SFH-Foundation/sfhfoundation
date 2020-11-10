@@ -26,6 +26,10 @@ Once we learn this then emptying out becomes sweet. Once our fear of death and c
 
 This world contains samples of all creations and states, seen and unseen, including paradise and hell. Human life is a process of learning through acceptance and rejection. To activate and access your heart, you need to reduce outer worldly concerns. To understand fully the greatness, power and perfection of the present moment, you need to cleanse the mind from its past or future fears. Only then can you live now. To be more in heaven you need to be less worldly. To live the moment fully, you must go beyond space-time.
 
+<div class="callout6">
+You are a celestial soul or spirit on an earthly voyage exploring duality, yearning for your source and origin of unity.
+</div>
+
 <div markdown="1" class="zp-logo">
 <img src="/pointers/img/sfh_pilgrim.jpg" class="ab-image" />
 </div>

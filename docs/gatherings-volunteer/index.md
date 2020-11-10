@@ -6,6 +6,10 @@ image: assets/images/05.jpg
 
 # Join Our Community of Volunteers
 
+<div class="callout6">
+For centuries human beings have clearly been pursuing a way of life that enables individuals and communities to be content, happy and celebrate quality of life. Indeed it is true that all is well that ends well.
+</div>
+
 The SFH Foundation is run on a volunteer basis. All this knowledge has been curated by a group of people committed to enlivening the hearts of any who happen across us. To stay up-to-date with our latest news, please subscribe here:
 
 <div markdown="3" class="purchase-link">
@@ -22,4 +26,6 @@ If you'd like to get involved, learn more about the Foundation's work, and help 
 [Gatherings](http://connect.sfhfoundation.com/bf.php?fid=1173)
 </div>
 
-![Aphorims Begin](../assets/images/25.jpg)
+<div class="callout6">
+By working for a greater good or cause, you lift your status as a human being.
+</div>

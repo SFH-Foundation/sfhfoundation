@@ -6,7 +6,7 @@ image: assets/images/24.jpg
 
 # Ultimate Contentment
 
-On this page, you will find 5 longer talks given by Shaykh Fadhlalla in Sweden in August 2017 in which he goes into detail on the theme of Ultimate Contentment. Before watching the videos, it may be useful to reflect on some extracts we have collected from two of Shaykh's books, <a href="https://zahrapublications.pub/book-SonOfKarbala.php#bookTitle" target="_blank">"Son of Karbala"</a> and <a href="https://zahrapublications.pub/book-FridayDiscourses-Volume1.php#bookTitle" target="_blank">"Friday Discourse"</a>:
+On this page, you will find 5 longer talks given by Shaykh Fadhlalla in Sweden in August 2017 in which he goes into detail on the theme of Ultimate Contentment. 
 
 ## In Perfect Joy, In Timeless Bliss
 

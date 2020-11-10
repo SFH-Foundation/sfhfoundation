@@ -6,6 +6,10 @@ image: pointers/img/sfh_witnessing.jpg
 
 # Witnessing Perfection
 
+<div class="callout6">
+Whatever appears in space and time will be temporary and short-lived, but it echoes that which is permanent and eternal.
+</div>
+
 This article contains a brief series of excerpts from the book "Witnessing Perfection", which detail the specifically Islamic notion of "witnessing" (or _shahada_ in Arabic), and how this can lead one to realizing the perfection of each and every moment.
 
 _These excerpts come from the first pages of <a href="https://zahrapublications.pub/book-WitnessingPerfection.php#bookTitle" target="_blank">"Witnessing Perfection"</a>_.

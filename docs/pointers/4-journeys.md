@@ -6,6 +6,10 @@ image: pointers/img/sfh_journeys.jpg
 
 # Maps & Models of Self Unfoldment
 
+<div class="callout6">
+Intelligence will lead to the realisation that the cosmic spirit is the source of all that there is in the universe.
+</div>
+
 **Note**: _We recommend that you read the article [Less is More](../../articles/less-is-more) and reflect fully on it before you go through these descriptions. This article is an extract from the book <a href="https://zahrapublications.pub/book-TheJourneyOfTheSelf.php#bookTitle" target="_blank">"Journey of the Self"</a>._
 
 ## The Four Journeys

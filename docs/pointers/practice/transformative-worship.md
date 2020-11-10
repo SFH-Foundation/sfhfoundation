@@ -7,7 +7,7 @@ image: pointers/img/sfh_transformed.jpg
 # Transformative Worship
 
 <div class="callout6">
-You are a celestial soul or spirit on an earthly voyage exploring duality, yearning for your source and origin of unity.
+To believe that God governs all is a big relief from the fear and concerns about injustice and other wrongdoings that we cannot help.
 </div>
 
 Islam addresses our material, mental and spiritual needs at all levels - personal or communal. The path of acceptance is based on the fundamental realization that truth, higher consciousness, or the 'Absolute' permeates all universes and realities, seen and unseen. Through submission, we come to realize that the direction of the life-force in human beings is towards experiencing the mysterious grace of Sacred Presence. If there is a purpose in life it is **to know that life is eternal and intrinisically utterly perfect**, irrespective of short term human perception. The prophetic revelations emphasize the need for human beings to accept responsibility for their intentions and actions and to willfully desire higher levels of consciousness and insight, i.e. knowledge of God. 

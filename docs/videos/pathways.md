@@ -1,7 +1,7 @@
 ---
 title: Pathways
-description:
-image:
+description: A conversation about the spiritual path with Shaykh Fadhlalla Haeri and Dr Ali Alawi
+image: /assets/images/38.jpg
 ---
 
 We often search for what is labelled as Truth, God, Reality or The One. People who adhere to specific religions or paths consider theirs to be superior to others, even though there may be as many ways to God as there are human beings. The illusion of separation is the cause of all ignorance. The quest and need for a path arises due to the illusory experience of a separate identity and personal point of view.  

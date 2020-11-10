@@ -6,7 +6,11 @@ image: assets/images/05.jpg
 
 # Human Duty and Destiny as Illustrated in The Qur'an
 
-How can anyone on two legs understand their situation unless they are intelligent; unless they take time off to reflect; unless they catches themself in a real situation? This practice is not just something to do once in a while, when there may be a spiritual gathering or some social event. The maximum learning about yourself takes place when you are at what you think are the most difficult times in your life, because it is precisely at those times that all of what is inside comes out. All the froth is maximally visible at that time. It is then that you can improve most by recognition. You cannot progress along the path of recognizing the various aspects of desire unless you are actually in trouble.  
+<div class="callout6">
+Grace and goodness are eternal and they reside within your own heart.
+</div>
+
+How can you understand their situation unless you take time to reflect; unless you catch yourself in a real situation? This practice is not just something to do once in a while, when there may be a spiritual gathering or some social event. The maximum learning about yourself takes place when you are at what you think are the most difficult times in your life, because it is precisely at those times that all of what is inside comes out. All the froth is maximally visible at that time. It is then that you can improve most by recognition. You cannot progress along the path of recognizing the various aspects of desire unless you are actually in trouble.  
 
 ### Commentary
 

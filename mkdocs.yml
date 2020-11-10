@@ -99,8 +99,8 @@ nav:
   - Start Now: 'start-now.md'
   - Welcome:
     - About: 'about.md'
-    - Infinite and Eternal: 'infinite-eternal.md'
     - Hope and Duty: 'hope.md'
+    - Infinite and Eternal: 'infinite-eternal.md'
     - Newsletter: 'https://sfhfoundation.substack.com/'
   - Videos:
     - Videos: 'videos/index.md'
@@ -232,8 +232,10 @@ nav:
     - 'The Shock of Awakening': 'articles/shock-awakening.md'
     - 'The Parable of the Spider’s House': 'articles/parable-spider.md' 
     - 'The Journey of Transformation': 'articles/journey-transformation.md'
+    - 'Arc of Life': 'articles/arc-of-life.md'
     - 'Decree, Destiny and Enlightenment': 'articles/decree-destiny-enlightenment.md'
     - 'Eid - The Return': 'articles/eid.md'
+    - 'Universality, Locality & The Human': 'articles/universality-locality-human.md'
   - Books:
     - Overview: 'books/index.md'
   - ASK:

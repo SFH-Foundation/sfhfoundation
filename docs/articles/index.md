@@ -246,6 +246,24 @@ The world around us makes perfect sense only if we look at it through the eyes o
 
 <div markdown="1" class="card article sidebar center">
 
+**Arc of Life**
+
+<div markdown="2" class="article-image">
+![Arc of Life](../assets/images/22.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+As human beings, we live in numerous levels of duality. Up and down; breathe in, breathe out. As long as there is a mind, you are constantly choosing between good and bad, appropriate and inappropriate, healthy and diseased. It is context that matters most.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./arc-of-life)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
 **Decree, Destiny and Enlightenment**
 
 <div markdown="2" class="article-image">
@@ -276,6 +294,24 @@ This article is an extract from an Eid Talk given by Shaykh Fadhalla in South Af
 
 <div markdown="3" class="article-link">
 [Read More](./eid)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Universality, Locality and the Human**
+
+<div markdown="2" class="article-image">
+![Universality, Locality and the Human](../assets/images/01.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+In terms of consciousness - and not just human consciousness, but all consciousness - we are now at a stage in our evolution where we can truly address the Ultimate, we can truly talk about the Absolute, we can talk about Godhead, and we can talk about the cosmic light that is not subject to space and time.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./universality-locality-human)
 </div>
 
 </div>
