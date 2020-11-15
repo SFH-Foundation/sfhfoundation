@@ -27,7 +27,7 @@ Human beings reflect the cosmic perfection at the point of conception but, as we
 If you'd like to receive one of these aphorisms every two weeks, directly into your inbox, please follow the link below:
 
 <div markdown="3" class="purchase-link">
-[Aphorisms](http://connect.sfhfoundation.com/bf.php?fid=1171)
+[Aphorisms](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1171)
 </div>
 
 ## Collected Threads

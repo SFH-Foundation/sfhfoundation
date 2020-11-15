@@ -19,11 +19,11 @@ The SFH Foundation is run on a volunteer basis. All this knowledge has been cura
 If you'd like to get involved, learn more about the Foundation's work, and help us spread the work collected on this site, you can follow either (or both) of the links below to subscribe to volunteering opportunities and receive information about any of our gatherings.
 
 <div markdown="3" class="purchase-link">
-[Volunteer](http://connect.sfhfoundation.com/bf.php?fid=1172)
+[Volunteer](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1172)
 </div>
 
 <div markdown="3" class="purchase-link">
-[Gatherings](http://connect.sfhfoundation.com/bf.php?fid=1173)
+[Gatherings](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1173)
 </div>
 
 <div class="callout6">
