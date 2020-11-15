@@ -149,6 +149,34 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![Surah Najm](./img/sfh_foundation.jpg)
+</div>
+
+**Surah Najm**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=zIJq6wk4X1M">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Sufi Encounters - A Spiritual Journey](./img/sfh_foundation.jpg)
+</div>
+
+**Sufi Encounters - A Spiritual Journey**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=b10fYAx4qD4">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![The Path To Fulfillment](./img/sfh_foundation.jpg)
 </div>
 
@@ -286,6 +314,38 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 </div>
 
+<div markdown="1" class="clear"></div>
+
+## [Uncommon Dialogues](./conversations/uncommon-dialogues)
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Sufi Cosmology Of Life - Part 1](./img/sfh_foundation.jpg)
+</div>
+
+**Sufi Cosmology Of Life - Part 1**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=vRfT9Om4nXc">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Reflections on Ubudiya & Ruhaniyya](./img/sfh_foundation.jpg)
+</div>
+
+**Service & Living As A Soul - Part 1**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=Q_TF_U8jKX8">Watch</a>
+</div>
+
+</div>
+
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
@@ -303,13 +363,13 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Sufi Cosmology Of Life - Part 2](./img/sfh_foundation.jpg)
+![Insights of Divinity Through Humanity](./img/sfh_foundation.jpg)
 </div>
 
-**Sufi Cosmology Of Life - Part 2**
+**Insights of Divinity Through Humanity**
 
 <div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=8LC2Lo1j3lI">Watch</a>
+<a target="_blank" href="https://www.youtube.com/watch?v=mEDEk0Pjato">Watch</a>
 </div>
 
 </div>

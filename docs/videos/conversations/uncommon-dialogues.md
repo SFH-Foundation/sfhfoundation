@@ -238,6 +238,20 @@ These uncommon dialogues were extended beyond the month of Ramadan in 2020 to in
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![Sufi Encounters - A Spiritual Journey](../img/sfh_foundation.jpg)
+</div>
+
+**Sufi Encounters - A Spiritual Journey**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=b10fYAx4qD4">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Impromptu Question and Answer Session](../img/sfh_foundation.jpg)
 </div>
 
