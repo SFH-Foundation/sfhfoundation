@@ -4,7 +4,7 @@ description: A series of 3 clips from 2005 in which Shaykh Fadhlalla Haeri discu
 image: assets/images/20.jpg
 ---
 
-# The Verse of Light - Ayat al-Nur
+# The Verse of Light - Ayat an-Nur
 
 > Allah is the Light of the heavens and the earth. The example of His light is like a niche within which is a lamp, the lamp is within glass, the glass as if it were a pearly [white] star lit from [the oil of] a blessed olive tree, neither of the east nor of the west, whose oil would almost glow even if untouched by fire. Light upon light. Allah guides to His light whom He wills. And Allah presents examples for the people, and Allah is Knowing of all things. (24:35)
 

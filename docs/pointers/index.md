@@ -82,3 +82,7 @@ A collection of excerpts from various books written by Shaykh Fadhlalla over the
 
 </div>
 
+<div class="callout6">
+In sacred presence belonging is a redundant word: there is only the light from which everything emanates and to which all returns.
+</div>
+

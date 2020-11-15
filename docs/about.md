@@ -25,4 +25,8 @@ His books are available on:
 
 </div>
 
+<div class="callout6">
+To accept natural human limitations and boundaries is the first step towards awareness of the boundless within us—our soul or spirit.
+</div>
+
 

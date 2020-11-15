@@ -6,6 +6,10 @@ image: assets/images/03.jpg
 
 # Gateways to Enlightenment
 
+<div class="callout6">
+The road sign to a city is not the city. Remembrance is a sign. Experiencing the light within is to be celebrated.
+</div>
+
 These talks cover modern approaches for moving from information to transformation; broken down for ease of understanding into four gateways of enlightenment. 
 
 ## Hij'ra
@@ -103,3 +107,7 @@ It culminates in **Ihsan**: the threshold of being. The key themes explored in t
 </div>
 
 <div markdown="1" class="clear"></div>
+
+<div class="callout6">
+When you discover the bliss that emanates from your own soul, you are awakening to the Divine promise.
+</div>

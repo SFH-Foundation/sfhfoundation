@@ -198,6 +198,10 @@ The zone of higher consciousness is infinite and beyond all descriptions like jo
 
 Determination and grace are required to awaken to your Soul. It is when you experience that ever-present Reality, you know that your old self was merely a shadow of the Real. When you transcend your tyrannical or feral self, you perceive that its role was to cause that suffering and thereby act as a prelude for awakening. Your lower self leads you to your real self – the divine spirit within. Life on earth is a struggle because it is a realm of experience between limitations and limitless Reality. You need help and a guiding hand. You need a reference. You need Grace and perception of the sacred presence.    
 
+<div class="callout6">
+When self-love yields to the perfect soul within, then it is at one with the life force that pervades the universe.
+</div>
+
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">

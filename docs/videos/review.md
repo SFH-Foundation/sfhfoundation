@@ -74,7 +74,7 @@ This interconnectedness may be felt through a lived experience of timelessness, 
 
 ## Duality, Locality and Worldly Wisdom
 
-Quieting the mind is achieved only by discipline and proper behaviour, by living according to proper laws that govern all interactions. This is what is called _shari’ah_. So far, what we have been talking about is _haqiqah_, the inner reality: the individual and the secret of beingness and unity. In order to contain and conserve energy, the individual must move within certain boundaries, be governed by certain basic laws. The source of this knowledge is imprinted in the chromosomes of the individual. "Don’t do to others what you don’t want done to yourself." This is the basis of all moral conduct – the basis of all religions before they became tarnished.. Unless we have correct outward behaviour, we cannot change inwardly.
+Quieting the mind is achieved only by discipline and proper behaviour, by living according to proper laws that govern all interactions. This is what is called _shari’ah_. So far, what we have been talking about is _haqiqah_, the inner reality: the individual and the secret of beingness and unity. In order to contain and conserve energy, the individual must move within certain boundaries, be governed by certain basic laws. The source of this knowledge is imprinted in the chromosomes of the individual. "Don’t do to others what you don’t want done to yourself." This is the basis of all moral conduct – the basis of all religions before they became tarnished. Unless we have correct outward behaviour, we cannot change inwardly.
 
 _From the book “[The Sufi Way to Self-Unfoldment](https://zahrapublications.pub/book-TheSufiWayToSelf-Unfoldment.php#bookTitle)”_ 
 
@@ -346,10 +346,6 @@ The soul is a reflector of what is eternal and perpetual and enables us to appre
 
 </div>
 
-<div markdown="1" class="clear"></div>  
-
-<div class="callout6">
-Discriminating between outer and inner is the first step to realizing their inseparability in essence.
-</div>    
+<div markdown="1" class="clear"></div>     
 
 You have to be present all the time, visibly, physically, mentally. If you are not, rectify it. You must catch yourself instantly. Do not delay. If you delay you will become fossilized and it will be more difficult. It is all about being available to any situation as a full-grown human being, with faith and good opinion and optimism, with inner realization that you have come from that total ocean of infinity and to that ocean of infinity you are returning. In between is a tiny little flicker!

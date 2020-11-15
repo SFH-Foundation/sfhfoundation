@@ -7,10 +7,8 @@ image: assets/images/09.jpg
 # Self Knowledge and Unfolding Into Presence
 
 <div class="callout6">
-Where is God <br/>not?
+The illusion of separation is a driving force toward the conclusion—Universal Oneness, perpetual singularity.
 </div>
-
-This guide is made up of of a series of interlinked extracts from various books written by Shaykh Fadhlalla over the years on the theme of Self Knowledge and Presence.
 
 ### Energy and Awareness   
 

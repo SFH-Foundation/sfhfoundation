@@ -5,7 +5,7 @@ image: pointers/img/people-light.jpg
 ---
 
 <div class="callout6">
-This is all for you to lose the veil of identity in space and time so that the soul may return to its eternal nature and natural boundlessness
+This is all for you to lose the veil of identity in space and time so that the soul may return to its eternal nature and natural boundlessness.
 </div>
 
 Throughout all world religions and spiritual systems various practices are prescribed to move us from basic conditioned consciousness into the vastness of soul consciousness, or boundless consciousness. The art of stillness is at the heart of all these practices and endeavours.

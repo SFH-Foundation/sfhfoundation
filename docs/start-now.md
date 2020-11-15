@@ -22,3 +22,6 @@ The answers to the five questions of Who, What, Where, When and Why are both ear
 
 We deal with dualities all the time and are reconciled when we recognize the unity at our origin and final destination. We are middle people caught within space and time, experiencing beginnings and ends, birth and death. We are always in-between. This knowledge can be experienced by transcending the mind and senses. The heart and soul are the seat of this realisation; total honesty the means by which we arrive. 
 
+<div class="callout6">
+The divine source is the cause of all and is ever present at heart.
+</div>

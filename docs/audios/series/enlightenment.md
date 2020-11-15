@@ -6,6 +6,10 @@ image: assets/images/08.jpg
 
 # Enlightenment
 
+<div class="callout6">
+We have all evolved from Oneness and are driven to know and experience it through higher consciousness.
+</div>
+
 This series addresses questions such as: Who am I? What is consciousness? How do I find Spiritual meaning in everyday experiences of the material world, even tragedies? What about fate and intention?
 
 It goes into detail on the dynamics of self and soul, discussing how we experience light by its shadow and other seeming paradoxes. Shaykh Fadhlalla then moves on to discuss the heart and how it can be tarnished, the concepts of personality, birth, death, fear, mirrors and the role of leadership. The series concludes by asking why we don't intuitively and instinctively seek the higher, why the path to so-called "enlightenment" is often presented as something mysterious or mystical, and with an offering of some practical advice for those actively seeking enlightenment.
@@ -173,4 +177,8 @@ This final episode in the series also takes the form of a series of questions as
 [Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Enlightenment-Episode-5-e3idpa)
 </div>
 
+</div>
+
+<div class="callout6">
+The awakened being lives within sensible and wise limitations on earth whilst experiencing the limitless light of the soul within.
 </div>

@@ -12,7 +12,7 @@ You are a celestial soul or spirit on an earthly voyage exploring duality, yearn
 
 Human beings are driven to higher consciousness by prayer, meditation and a host of creative pursuits, all of which reflect our yearning to return to a blissful state of contented happiness - paradise. It is ultimately supreme consciousness that we all desire, here and now.
 
-To live fully in presence, we must accept responsibility for their intentions and action. Through submission, we come to realize that the direction of the life-force in human beings is towards experiencing the mysterious grace of Sacred Presence. If there is a purpose in life it is **to know that life is eternal and intrinisically utterly perfect**, irrespective of short term human perception.
+To live fully in presence, we must accept responsibility for our intentions and action. Through submission, we come to realize that the direction of the life-force in human beings is towards experiencing the mysterious grace of Sacred Presence. If there is a purpose in life it is **to know that life is eternal and intrinisically utterly perfect**, irrespective of short-term human perception.
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 

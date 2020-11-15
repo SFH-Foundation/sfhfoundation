@@ -34,6 +34,10 @@ It is part of human nature to consider loyalty as a good virtue for it contains 
 
 ## Higher Consciousness
 
+<div class="callout6">
+Higher consciousness is our enduring nature and reality; and the closer we are to it the more we feel secure in its presence.
+</div>
+
 The zone of higher consciousness is infinite and beyond all descriptions like joy, bliss or happiness. A good example of how to move to higher consciousness is riding a bicycle. You are put on the saddle and somebody pushes you. After a while you learn to balance and you feel you can repeat it on your own. Similarly, you first need a map of Reality, and you then follow the path that may lead to your destination.  
 
 Determination and grace are required to awaken to your Soul. It is when you experience that ever-present Reality, you know that your old self was merely a shadow, of the Real. When you transcend your tyrannical or feral self, you perceive that its role was to cause that suffering and thereby act as a prelude for awakening. Your lower self leads you to your real self – the divine spirit within. Life on earth is a struggle because it is a realm of experience between limitations and limitless Reality. You need help and a guiding hand. You need a reference. You need Grace and perception of the sacred presence.
@@ -52,4 +56,4 @@ is a great gift  <br/>
 that yields a lasting thrill. <br/>
 </div>
 
-![Virtuous Being](./img/sfh_journeys.jpg)
+![Virtuous Being](./img/sfh_laughing.jpg)

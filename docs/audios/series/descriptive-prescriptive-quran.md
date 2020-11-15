@@ -46,11 +46,15 @@ image: assets/images/13.jpg
 
 ## Die Before You Die
 
-This talk presents an exposition on death as a key issue in the conundrum of existence. The phenomena of birth and death are one of several key pairs in the map of existence. This talk serves to reflect upon what is the appropriate response to these key modulations. The ground of the inquisition revolves around three questions: Who am I, who is God or the essence, what is death? 
+<div class="callout6">
+Most people complain that time flies, but the awakened ones discover the inner zone of timelessness.
+</div>
 
-Shaykh Fadhlalla presents both the interrelation and particularity of these three issues, broadening the field of inquiry into the meaning of death. Various references are made to contemporary areas of interest such as Near Death Experiences and the multifaceted implications for human consciousness these exposures may engender. The core dimension of the talk is explored in the timeless injunction of ‘inner death’ or ‘death before death’.
+This talk presents an exposition on death as a key issue in the conundrum of existence. The phenomena of birth and death are one of several key pairs in the map of existence. This talk reflects on what the appropriate response is to such conundrums. The enquiry revolves around three questions: who am I; who is God or the essence; and what is death? 
 
-The Original Prophetic teachings, allegory and the prescriptive and descriptive nature of selected Qur’anic revelations are interspersed with select Sufi insights, presenting a rich tapestry of keys and sign posts that reflect the inherent design of human interaction with life, its connection to the ethical and cosmic possibilities available to human consciousness in being enlivened & aligned with the inner dimension by the prophetic model of, "Die before you die."
+Shaykh Fadhlalla presents both the interrelation and particularity of these three issues, broadening the field of enquiry into the meaning of death. Various references are made to contemporary areas of interest such as Near Death Experiences and the multifaceted implications for human consciousness these exposures may engender. The core dimension of the talk is explored in the timeless injunction of ‘inner death’ or ‘death before death’.
+
+The Original Prophetic teachings, allegory and the prescriptive and descriptive nature of selected Qur’anic revelations are interspersed with select Sufi insights, presenting a rich tapestry of keys and sign posts that reflect the inherent design of human interaction with life, its connection to the ethical and cosmic possibilities available to human consciousness, and what it means to be enlivened and aligned with the inner dimension by the prophetic model of "die before you die."
 
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
@@ -70,7 +74,11 @@ The Original Prophetic teachings, allegory and the prescriptive and descriptive 
 
 ## Fear & Hope
 
-This discussion is a detailed exposition of two of life’s fundamental forces: Fear & Hope.
+<div class="callout6">
+The constant human challenge is to maintain the balance between our sensory world and the inner light of the soul.
+</div>
+
+This discussion is a detailed exposition of two of life’s fundamental forces: fear and hope.
 
 These two forces are critical complementary dynamics that frame the basket of human life. Shaykh Fadhlalla presents human interaction and experience of fear as a pivotal force in the evolutionary drive within human consciousness and indicates the context in which ancient cultures framed their vision of the world by virtue of the lens of this phenomena, hence the cultural and linguistic dynamics of those peoples reflect this relation. This is contrasted to the model of life encountered by modern man in which hope and good expectation are the primary forces that filter perception. 
 
@@ -93,6 +101,10 @@ An understanding of the parallels of this evolutionary dimension is critical in 
 <div markdown="1" class="clear"></div>
 
 ## Good News & Warning
+
+<div class="callout6">
+Each one of us contains aspects of animality, humanity and a spark of divinity. At best we may reflect an aspect of The Real.
+</div>
 
 In the third part of this series, Shaykh Fadhlalla reflects upon the interplay between what is referred to as "the good news" and "warning" as contained in the Qur’anic revelation. The talk expands upon the varying dimensions of these two forces, and the multitudes of paradoxes in life to which they relate. 
 
@@ -118,7 +130,11 @@ The appropriate prescriptive steps and descriptive qualifications in, adequately
 
 ## Human Misery
 
-For the final talk of the series, Shaykh Fadhlalla emphasises the nature and meaning of suffering. Regarding the Qur’anic expression and prophetic indications the talks navigate from the Creational Metaphor of the Garden to the arise of discernment and perception of otherness and dualities. 
+<div class="callout6">
+To find your real self —your soul— lose your identity and yield to the inner light of your soul.
+</div>
+
+For the final talk of the series, Shaykh Fadhlalla emphasises the nature and meaning of suffering. Regarding the Qur’anic expression and prophetic indications the talks navigate from the creational metaphor of the Garden to the arise of discernment and perception of otherness and dualities. 
 
 This talk traces the evolutionary arc of human consciousness and its relation to the phenomena of suffering. Interlacing these descriptions with reflections of the meaning and purpose of the emergence of these events and ultimately the purpose of life. The drive for permanency in the face of ever changing nature of experiences and events and experiences is discussed as the pivot around which the experience of suffering and the intrinsic design towards constancy coalesce.
 

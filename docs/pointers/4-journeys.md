@@ -10,7 +10,7 @@ image: pointers/img/sfh_journeys.jpg
 Intelligence will lead to the realisation that the cosmic spirit is the source of all that there is in the universe.
 </div>
 
-**Note**: _We recommend that you read the article [Less is More](../../articles/less-is-more) and reflect fully on it before you go through these descriptions. This article is an extract from the book <a href="https://zahrapublications.pub/book-TheJourneyOfTheSelf.php#bookTitle" target="_blank">"Journey of the Self"</a>._
+**Note**: _We recommend that you read the article [Less is More](../../articles/less-is-more) and reflect on it before you go through these descriptions. This article is an extract from the book <a href="https://zahrapublications.pub/book-TheJourneyOfTheSelf.php#bookTitle" target="_blank">"Journey of the Self"</a>._
 
 ## The Four Journeys
 
@@ -21,6 +21,10 @@ We all experience at different times in our life the desire for tranquility and 
 When we reach this point and realise that there can be no lasting fulfillment in the existential, changing world, we take flight to the edge of the known, which is the unknown dimension. Here the first stage of unveiling begins.
 
 The four stages which follow illustrate the main stations that the successful wayfarer attains in his/her journey. Throughout life, s/he will continue to experience the entire spectrum of states to varying degress of intensity. What Mulla Sadra wishes to emphasise here is the established station that the wayfarer attains, rather than simply the passing, temporary state which s/he will continue to experience from time to time in life.
+
+<div class="callout6">
+Your soul reflects the sacred presence, yet your earthly side experiences life through change. The real you is eternal, but appears to change.
+</div>
 
 ### The First Journey: From Creation to Creator
 
@@ -49,6 +53,10 @@ The wayfarer then embarks upon the fourth stage, which is to be among creation b
 In all this, s/he is with the truth, for his/her entire being has been submerged in reality, and the service rendered by him/her to other beings does not distract from the inner divine bliss, steadfastness and certainty. The fully realised being is now in the ultimate unitive state. S/he is completely in outer service of humanity and in inner abandonment, freedom and joy.
 
 When reality in all its various aspects is unveiled to the wayfarer and s/he is established in the knowledge of truth within, a new outlook towards creation emerges. The awakened being sees the divine thread through all existence and therefore is qualified to serve with selflessness, with no danger to creation or to themself. When the individual self has aligned itself with original unified reality, the flowering of the spiritual being has occurred. It is this unveiling that is referred to as "with creation by the authority of the Creator." Wherever the enlightened being looks, he sees the trace and the mark of the Creator. S/he is now an agent of transformation, a loyal slave to the Divine Master and a freed being with no choice but to reflect what comes to his/her pure heart. This is the state of a prophet with the people - outwardly the same as any of them, inwardly turned to the eternal origin.
+
+<div class="callout6">
+The human journey in life is an ascent in consciousness from what we consider normal, towards the full spectrum—Cosmic Oneness.
+</div>
 
 ![Journeys](./img/sfh_journeys.jpg)
 

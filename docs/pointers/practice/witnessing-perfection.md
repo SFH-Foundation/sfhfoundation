@@ -25,6 +25,10 @@ Reading the map with urgent attention and then following its codes of transforma
 
 ## Witnessing Perfection  
 
+<div class="callout6">
+Where is God <br/>not?
+</div>
+
 As personal human consciousness evolves soul consciousness provides the stable background behind the changes, for the soul is linked to the non-space-time dimension. When consciousness is unified, perfection is witnessed at all times.  
 
 When the body is well and relaxed and the mind is still, a moment of joyfulness may be experienced spontaneously without any discernible reason. In such a state, time seems to have stopped or to be moving smoothly. Concern for the future and sorrows from the past are forgotten. When the heart is content, the self expresses a moment of perfect harmony and peace. At such an instant personal consciousness is in unison with soul consciousness and the self experiences harmony and a glow of well-being.  

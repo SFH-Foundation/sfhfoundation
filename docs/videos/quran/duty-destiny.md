@@ -7,7 +7,7 @@ image: assets/images/05.jpg
 # Human Duty and Destiny as Illustrated in The Qur'an
 
 <div class="callout6">
-Grace and goodness are eternal and they reside within your own heart.
+When you respect others as yourself, you are in close harmony to souls and their sameness.
 </div>
 
 How can you understand their situation unless you take time to reflect; unless you catch yourself in a real situation? This practice is not just something to do once in a while, when there may be a spiritual gathering or some social event. The maximum learning about yourself takes place when you are at what you think are the most difficult times in your life, because it is precisely at those times that all of what is inside comes out. All the froth is maximally visible at that time. It is then that you can improve most by recognition. You cannot progress along the path of recognizing the various aspects of desire unless you are actually in trouble.  
@@ -118,4 +118,8 @@ Your Lord is the Ever-forgiving. Look at how much He loves you, that He gives yo
 <a target="_blank" href="https://www.youtube.com/watch?v=kRMTj1yEWIk">Watch</a>
 </div>
 
+</div>
+
+<div class="callout6">
+Human life is a short bridge that leads to the experience of the eternal nature of one’s own soul.
 </div>

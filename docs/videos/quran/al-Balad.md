@@ -6,7 +6,11 @@ image: assets/images/10.jpg
 
 # Surat al-Balad Tafsir
 
-On this page, you will find a collection of shorter clips cut from a talk given by Shaykh Fadhlalla on Chapter 90 of the Qur'an, _Surat Al-Balad_ (The City). Before listenting to these older video clips, please look over the Shaykh's more universalist and accessible teachings, and only return here if you truly are seeking deeper knowledge of the Qur'an and its interwoven unveilings. The best place to start this process is the audio clip of a talk given on so-called enlightenment, which you can find [here](../../../audios/single-talks/#enlightenment).
+<div class="callout6">
+All dualities have their root in the original Oneness to which they return—the Perpetual One.
+</div>
+
+On this page, you will find a collection of shorter clips cut from a talk given by Shaykh Fadhlalla on Chapter 90 of the Qur'an, _Surat Al-Balad_ (The City). 
 
 ## Videos
 

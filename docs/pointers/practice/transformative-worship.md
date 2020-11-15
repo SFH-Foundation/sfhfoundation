@@ -45,5 +45,5 @@ Islam is founded upon experiencing unity. The whole universe has emanated from o
 
 ![Transforming hearts](../img/sfh_transformed.jpg)
 
-_These excerpts come from the first few pages of <a href="https://zahrapublications.pub/book-TransformativeWorshipInIslam.php#bookTitle" target="_blank">"Transformative Worship in Islam: Experiencing Perfection"</a>. For detailed descriptions on application of practices and their meanings please refer to the entire book_.
+_These excerpts come from the first pages of <a href="https://zahrapublications.pub/book-TransformativeWorshipInIslam.php#bookTitle" target="_blank">"Transformative Worship in Islam: Experiencing Perfection"</a>. Please refer to the full book for more detail_.
 

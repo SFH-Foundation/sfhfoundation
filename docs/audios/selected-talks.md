@@ -6,6 +6,10 @@ image: assets/images/12.jpg
 
 # Selected Talks
 
+<div class="callout6">
+Reality is One and it manifests as countless entities within space and time, each carrying a reminder of the origin.
+</div>
+
 On this page, you will find selected talks Shaykh Fadhlalla has given over the years. Each of these talks presents a unique facet of the seamless connection between the Absolute and the relative.
 
 <div markdown="1" class="card article sidebar center">

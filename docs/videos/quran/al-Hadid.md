@@ -6,7 +6,11 @@ image: assets/images/14.jpg
 
 # Surat al-Hadid Tafsir
 
-In order to introduce this work properly, please reflect for a moment on these excerpts from Shaykh Fadhlalla's book, _"[Beams of Illumination from the Divine Revelation](https://zahrapublications.pub/book-TheHeartOfTheQuran.php#bookTitle)"_:
+<div class="callout6">
+Your soul is sacred in origin yet it remains in its present, temporary residence in your heart. Be at its altar—worship and experience lights.
+<div>
+
+Please reflect for a moment on these excerpts from the publication _"[Beams of Illumination from the Divine Revelation](https://zahrapublications.pub/book-TheHeartOfTheQuran.php#bookTitle)"_ by Shaykh Fadhlalla:
 
 ## The Eye of Ḥaqīqah and the Eye of Sharī’ah
 
