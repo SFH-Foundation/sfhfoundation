@@ -30,6 +30,24 @@ Practice stillness and recalibrate regularly with silence. Exercise genuine hone
 
 <div markdown="1" class="card article sidebar center">
 
+**What Is It?**
+
+<div markdown="2" class="article-image">
+![What Is It?](../assets/images/56.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+What is it that we really want in life? Instead of common wisdom, Shaykh Fadhlalla offers three simple keys to living in tune with the infinite harmonic flow.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./what-is-it)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
 **Maps & Models of the Self**
 
 <div markdown="2" class="article-image">
@@ -64,6 +82,10 @@ Virtue is behaviour occurring at the centre of two extremes, both of which are u
 
 </div>
 
+<div class="callout6">
+In sacred presence belonging is a redundant word: there is only the light from which everything emanates and to which all returns.
+</div>
+
 <div markdown="1" class="card article sidebar center">
 
 **Self Knowledge and Unfolding Into Presence**
@@ -80,9 +102,5 @@ A collection of excerpts from various books written by Shaykh Fadhlalla over the
 [Read More](./self-knowledge-presence)
 </div>
 
-</div>
-
-<div class="callout6">
-In sacred presence belonging is a redundant word: there is only the light from which everything emanates and to which all returns.
 </div>
 

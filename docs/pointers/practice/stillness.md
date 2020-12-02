@@ -20,6 +20,10 @@ The more often we refer to the point of total stillness and silence, the more we
 
 If you want to undertake a real pilgrimage, go into total silence and ‘lose’ everything. There is nothing that is reliable or durable. That which is reliable and durable cannot be described or defined: it is a cosmic light that is in every heart.
 
+<div class="callout6">
+You are not who you think you are.
+</div>
+
 <div markdown="1" class="zp-logo">
 <img src="/pointers/img/people-light.jpg" class="ab-image" />
 </div>

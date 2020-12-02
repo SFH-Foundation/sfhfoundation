@@ -137,26 +137,75 @@
   }
 
   .callout {
-    border: 1px solid #0E879B;
-    border-radius: 5px;
-    font-weight: 500;
-    background-color: #DAF0FC;
-    padding: 10px;
-    box-shadow: 0 0 .2rem rgba(0,0,0,.1),0 .2rem .4rem rgba(0,0,0,.2);
+    background-image: url('/assets/images/brush.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    line-height: 22px;
+    margin: 10px 0 30px 0;
   }
 
   .callout1 {
-    background-image: linear-gradient(to right, #FCF0A6, #ffffff);
-    padding: 20px;
-    font-weight: 400;
+    background-image: url('/assets/images/brush1.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+    font-weight: bold;
     text-align: center;
     font-style: italic;
-    font-weight: bold;
     line-height: 22px;
     margin: 10px 0 30px 0;
-    border-bottom-left-radius: 80% 60px;
-    border-top-left-radius: 20% 50px;
-    border: 1px solid #fff;
+  }
+
+  .callout2 {
+    background-image: url('/assets/images/brush2.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    line-height: 22px;
+    margin: 10px 0 30px 0;
+  }
+
+  .callout3 {
+    background-image: url('/assets/images/brush3.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    line-height: 22px;
+    margin: 10px 0 30px 0;
+  }
+
+  .callout4 {
+    background-image: url('/assets/images/brush4.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    line-height: 22px;
+    margin: 10px 0 30px 0;
+  }
+
+  .callout5 {
+    background-image: url('/assets/images/brush5.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 50px 20px 50px;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    line-height: 22px;
+    margin: 10px 0 30px 0;
   }
 
   .callout6 {
@@ -171,56 +220,6 @@
     border-bottom-left-radius: 80% 60px;
     border-top-left-radius: 20% 50px;
     border: 1px solid #fff;
-  }
-
-  .callout3 {
-    background-image: linear-gradient(to right, #E0B24D, #ffffff);
-    padding: 20px;
-    font-weight: 400;
-    text-align: center;
-    font-style: italic;
-    font-weight: bold;
-    line-height: 22px;
-    margin: 10px 0 30px 0;
-    border-bottom-left-radius: 80% 60px;
-    border-top-left-radius: 20% 50px;
-    border: 1px solid #fff;
-  }
-
-  .callout4 {
-    background-image: url('/assets/images/brushstroke4.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 50px 100px;
-    font-weight: bold;
-    text-align: center;
-    font-style: italic;
-    line-height: 22px;
-    margin: 10px 0 30px 0;
-  }
-
-  .callout5 {
-    background-image: url('/assets/images/brushstroke3.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 40px;
-    font-weight: bold;
-    text-align: center;
-    font-style: italic;
-    line-height: 22px;
-    margin: 10px 0 30px 0;
-  }
-
-  .callout2 {
-    background-image: url('/assets/images/brush.svg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 40px;
-    font-weight: bold;
-    text-align: center;
-    font-style: italic;
-    line-height: 22px;
-    margin: 10px 0 30px 0;
   }
 
   .ab-image {

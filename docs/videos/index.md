@@ -149,13 +149,41 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![Surah Qiyamah & Surah Mursalat](./img/sfh_foundation.jpg)
+</div>
+
+**Surah Qiyamah & Surah Mursalat**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=hWNsCLF3Bhw">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Sufi Encounters - Part 2](./img/sfh_foundation.jpg)
+</div>
+
+**Sufi Encounters - Part 2**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=zIJq6wk4X1M">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Surah Najm](./img/sfh_foundation.jpg)
 </div>
 
 **Surah Najm**
 
 <div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=zIJq6wk4X1M">Watch</a>
+<a target="_blank" href="https://www.youtube.com/watch?v=SxDaSBcMkjI">Watch</a>
 </div>
 
 </div>
@@ -286,34 +314,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 </div>
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Creation - The Evolution Of Meaning And Form](./img/sfh_foundation.jpg)
-</div>
-
-**Creation - The Evolution Of Meaning And Form**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=Gb7isTAsFOM">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Sufi Cosmology Of Life - Part 3](./img/sfh_foundation.jpg)
-</div>
-
-**Sufi Cosmology Of Life - Part 3**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=J7aOAk3Bti8">Watch</a>
-</div>
-
-</div>
-
 <div markdown="1" class="clear"></div>
 
 ## [Uncommon Dialogues](./conversations/uncommon-dialogues)
@@ -349,13 +349,13 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Human Consciousness From The Quran](./img/sfh_foundation.jpg)
+![Sufi Encounters - Part 1](./img/sfh_foundation.jpg)
 </div>
 
-**Human Consciousness From The Quran**
+**Sufi Encounters - Part 1**
 
 <div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=LWLbJ4W8m2I">Watch</a>
+<a target="_blank" href="https://www.youtube.com/watch?v=b10fYAx4qD4">Watch</a>
 </div>
 
 </div>

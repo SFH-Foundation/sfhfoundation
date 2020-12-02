@@ -114,7 +114,7 @@ nav:
       - 'The Verse of Light': 'videos/quran/verse-of-light.md'
       - 'Surat al-Hadid': 'videos/quran/al-Hadid.md'
     - Conferences:
-      - '2013': 'videos/conferences/2013.md'
+      - '2013 - Celebrating The Universal Message of the Qur’an': 'videos/conferences/2013.md'
       - '2017 - From Darkness to Light': 'videos/conferences/2017.md'
       - '2018 - What Are We Seeking?': 'videos/conferences/2018.md'
       - '2019 - The Human Quest': 'videos/conferences/2019.md'
@@ -214,11 +214,13 @@ nav:
       - 'Meditation': 'pointers/practice/meditation.md'
       - 'Transformative Worship': 'pointers/practice/transformative-worship.md'
       - 'Witnessing Perfection': 'pointers/practice/witnessing-perfection.md'
+    - 'What Is It?': 'pointers/what-is-it.md'
     - 'Maps & Models of Self': 'pointers/4-journeys.md'
     - 'Vices, Virtues and Appropriate Conduct': 'pointers/vice-virtue-appropriate-conduct.md'
     - 'Self Knowledge and Presence': 'pointers/self-knowledge-presence.md'
   - Articles:
     - 'Overview': 'articles/index.md'
+    - 'Who Are You, Where Are You?': 'articles/who-are-you-where-are-you.md'
     - 'Balance': 'articles/balance.md'
     - 'Less is More': 'articles/less-is-more.md'
     - 'Pointers to Truth': 'articles/pointers-to-truth.md'

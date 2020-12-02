@@ -219,6 +219,10 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 
 ## Fireside Talk
 
+<div class="callout6">
+The ego serves its purpose by providing a cover for the sacred soul until one is ready for its light and presence.
+</div>
+
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">

@@ -84,6 +84,10 @@ Finally, he considers the developmental stages of consciousness as is emergent i
 
 ## The Perpetual Now
 
+<div class="callout6">
+The present moment is the most potent and powerful link to the essence of time.
+</div>
+
 A tree is a good metaphor for indicating the dynamic manifestation of Reality in every moment. From the 'Root of Oneness', creation occurs as dispersion. This occurs over time as well as in every moment. Ordinarily, we don't experience the amazing inseparability implicit in how Oneness becomes sunlight and water, and how these become the flower, and how the flower becomes beautiful fragrance. Yet, they are seamlessly connected. There are many different strands that we can follow to explain this Unitive Totality. The most universally understandable is through the description of the experience of Now.
 
 In this recording Shaykh Fadhlalla takes the listener on a journey through an enlightened experience of the Now.
@@ -106,11 +110,15 @@ In this recording Shaykh Fadhlalla takes the listener on a journey through an en
 
 ## Enlightenment
 
+<div class="callout6">
+It contains all, yet there is no thing in the present. It is in time, yet free of time.
+</div>
+
 This is a more intimate recording made at the Enlightenext centre in London. Shaykh Fadhlallah presents a personal account of his experience and understanding of the Sufi Path, reflecting on several fundamental questions and paradoxes surrounding human life. 
 
-He begins by examining whether there is an optimum way to live, utilizing this question to present a map of creation which can be used to live a life of fulfilment, equanimity and ease. The Shaykh uses this description as a point of departure to connect his application of this map with the evolutionary process in which any traveler must undergo. We all want to rise in consciousness and this presents various challenges in both the social and experiential dynamics of living the fullness of human reality. Shaykh Fadhlalla draws from the Abrahamic, Sufi, and Muhammad traditions in presenting the various levels and arenas in which the traveler might discover and arrive in their navigation of the path. 
+He begins by examining whether there is an optimum way to live, using this question to present a map of creation which can be used to live a life of fulfilment, equanimity and ease. Shaykh connects the description and application of this map with the evolutionary process which any traveler must undergo. We all want to rise in consciousness and this presents various challenges in both the social and experiential dynamics of living the fullness of human reality. Shaykh Fadhlalla draws from the Abrahamic, Sufi, and Muhammadi traditions to present the various levels which the traveler might discover and arrive at in their navigation of the path. 
 
-The emphasis is placed on the need for a lived experience of truth. Moreover, it is not only about walking along the road, but arriving at ‘The City’. This and several other key metaphors are regularly referenced as indications to the nature of the path and warnings of the multitudes of pitfalls the seeker encounters. The nature of harmony and balance; the interplay between the relative and the absolute; the Sufi sketch of higher and lower self and the nature of the authentic self; all this and more is presented in this talk. 
+The emphasis is placed on the need for a lived experience of truth. Moreover, it is not only about walking along the road, but arriving at ‘The City’. This and several other key metaphors are used to portray the nature of the path and warn of the multitudes of pitfalls the seeker encounters. The nature of harmony and balance; the interplay between the relative and the absolute; the Sufi sketch of higher and lower self and the nature of the authentic self; all this and more is presented in this talk. 
 
 > "We can sum up this issue of Oneness by repeating “one, two; one, two; One!” From the One comes the two, and two seek to reproduce one; and that one is looking for its origin in duality, only to realize that the entire thing emanated from ‘The One’. **Lā ʾilāha ʾillā llāh**: 'there is none other than One.’ Without denying relative existence, you must come to understand your authentic self through honesty, good conduct, trust, love, and faith. ‘Authenticity’ can variously be imagined as the Soul, the higher self, or God’s light within you. Once you grasp that such a sacred reference point exists within you, then talk of a map is no longer necessary. In fact, the map is no longer necessary, because it becomes just another kind of false security. The key question remains, 'Are you in The City?' And then, 'Have you discovered that there is actually neither you nor City?' The entire Light, which is beyond both known and unknown, is in you already. That is truly awesome. That is why one has to move with good conduct, with authenticity and genuine honesty, according to who you are. Here is the basis of arrival."
 
@@ -156,6 +164,10 @@ This framework is built around the application and relatability of essential Isl
 
 ## Islam and Tawhid
 
+<div class="callout6">
+All life and awareness has emerged from One source which is the only perpetual reality.
+</div>
+
 This talk reflects upon a core aspect of the Islamic unveilings and path. Shaykh Fadhlalla seeks to elaborate and emphasize a living experience of the varying dimensions and modes for the traveler on the path of Oneness. 
 
 _Tawhid_ is the unequivocal statement of the oneness of reality. Shaykh explores the Qur’anic declaration of a total, single and absolute truth that transcends the world; a unique and indivisible reality, entirely independent of creation, out of which complexity and multiplicity emanate and return. The Qur’anic cosmology is introduced as a model of understanding the unitive nature of reality at its various levels, or the various levels of _Tawhid_. 
@@ -189,6 +201,10 @@ The entire talk is well summarised by this key excerpt:
 <div markdown="1" class="clear"></div>
 
 ## Die Before You Die
+
+<div class="callout6">
+Once we have tasted timelessness we may come to realize the presence of eternity within our own heart: the perpetual moment.
+</div>
 
 The title of this talk is a translation of a famous tradition from the Prophet Muhammad (pbuh), relating to the process of inner death. Shaykh Fadhlalla elaborates on several of life’s fundamental questions - who are we?, what is death?, and how should we relate to it? - as a prelude to delving into the spiritual dimensions of this famous axiom of the prophetic, original Islamic path. 
 

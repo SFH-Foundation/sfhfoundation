@@ -34,6 +34,10 @@ The unveiling of the first barrier involves tearing away veils both of darkness 
 
 ### The Second Journey: With the Creator by the Courtesy of the Creator
 
+<div class="callout6">
+Our origin and essence is perpetual in its perfect beingness.
+</div>
+
 The second unveiling is the journey across the barrier to knowledge of the Creator. The wayfarer is now exposed to Reality by the courtesy of Reality. S/he moves totally in the inner realm. S/he attains gnosis. His/her essence, attributes and actions become annihilated in the divine essence. In this journey, s/he sees through His seeing, hears through His hearing and knows through His knowing.
 
 When the inner journey and discoveries are taking place, the wayfarer looks for greater confirmation of these openings. S/he is like someone who discovers that s/he is truly a guest, and that the Host is most generous and understanding. The wayfarer then hopes for this condition to last and to remain in this refuge. As though s/he sees his/her image in a mirror for the first time. s/he seeks confirmation and establishment of what s/he has seen.
@@ -48,7 +52,11 @@ The nature of life does not change and it carries on with its ups and downs. The
 
 ### The Fourth Journey: With Creation by the Authority of the Creator
 
-The wayfarer then embarks upon the fourth stage, which is to be among creation by the autority of the Creator, when nothing else remains but service in the bliss of knowledge. the seeker observes and recognises creation and humanity, their behaviour and needs. S/he knows the good that they bring about and the evil that they cause, and what causes them happiness and what brings misery.
+<div class="callout6">
+To go beyond mind, reason, and habits is the ultimate act of intelligence.
+</div>
+
+The wayfarer then embarks upon the fourth stage, which is to be among creation by the authority of the Creator, when nothing else remains but service in the bliss of knowledge. the seeker observes and recognises creation and humanity, their behaviour and needs. S/he knows the good that they bring about and the evil that they cause, and what causes them happiness and what brings misery.
 
 In all this, s/he is with the truth, for his/her entire being has been submerged in reality, and the service rendered by him/her to other beings does not distract from the inner divine bliss, steadfastness and certainty. The fully realised being is now in the ultimate unitive state. S/he is completely in outer service of humanity and in inner abandonment, freedom and joy.
 

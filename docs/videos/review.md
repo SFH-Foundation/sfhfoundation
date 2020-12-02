@@ -74,6 +74,10 @@ This interconnectedness may be felt through a lived experience of timelessness, 
 
 ## Duality, Locality and Worldly Wisdom
 
+<div class="callout6">
+Our spiritual growth is landmarked by clear intentions, efficient action and regular contemplation. From hesitancy comes clarity.
+</div>
+
 Quieting the mind is achieved only by discipline and proper behaviour, by living according to proper laws that govern all interactions. This is what is called _shari’ah_. So far, what we have been talking about is _haqiqah_, the inner reality: the individual and the secret of beingness and unity. In order to contain and conserve energy, the individual must move within certain boundaries, be governed by certain basic laws. The source of this knowledge is imprinted in the chromosomes of the individual. "Don’t do to others what you don’t want done to yourself." This is the basis of all moral conduct – the basis of all religions before they became tarnished. Unless we have correct outward behaviour, we cannot change inwardly.
 
 _From the book “[The Sufi Way to Self-Unfoldment](https://zahrapublications.pub/book-TheSufiWayToSelf-Unfoldment.php#bookTitle)”_ 

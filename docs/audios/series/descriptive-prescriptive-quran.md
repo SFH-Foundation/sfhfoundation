@@ -6,49 +6,11 @@ image: assets/images/13.jpg
 
 # Descriptive and Prescriptive Qur'an
 
-<div markdown="1" class="card article sidebar center">
-
-**Remember, you can listen on all these platforms:**
-
-<div markdown="3" class="audio-link">
-[Anchor](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/)
-</div>
-
-<div markdown="3" class="audio-link">
-[Apple](https://podcasts.apple.com/us/podcast/shaykh-fadhlalla-haeri-foundation/id1454931525)
-</div>
-
-<div markdown="3" class="audio-link">
-[Spotify](https://open.spotify.com/show/2BEc8M3oNLH12KyWYFDT9N) 
-</div>
-
-<div markdown="3" class="audio-link">
-[Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy85ODQ1YTQwL3BvZGNhc3QvcnNz)
-</div>
-
-<div markdown="3" class="audio-link">
-[Breaker](https://www.breaker.audio/shaykh-fadhlalla-haeri-foundation)
-</div>
-
-<div markdown="3" class="audio-link">
-[Overcast](https://overcast.fm/itunes1454931525/shaykh-fadhlalla-haeri-foundation)
-</div>
-
-<div markdown="3" class="audio-link">
-[Pocket Casts](https://pca.st/n80x)
-</div>
-
-<div markdown="3" class="audio-link">
-[RadioPublic](https://radiopublic.com/shaykh-fadhlalla-haeri-foundation-6pw4ma)
-</div>
-
-</div>
-
-## Die Before You Die
-
 <div class="callout6">
 Most people complain that time flies, but the awakened ones discover the inner zone of timelessness.
 </div>
+
+## Die Before You Die
 
 This talk presents an exposition on death as a key issue in the conundrum of existence. The phenomena of birth and death are one of several key pairs in the map of existence. This talk reflects on what the appropriate response is to such conundrums. The enquiry revolves around three questions: who am I; who is God or the essence; and what is death? 
 
@@ -150,6 +112,46 @@ Various important descriptive elements are echoed in the Qur’anic revelations:
 
 <div markdown="3" class="video-link">
 [Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Descriptive--prescriptive-Quran-Talk-4--Human-Misery-e41rgu)
+</div>
+
+</div>
+
+<div class="clear"></div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Remember, you can listen on all these platforms:**
+
+<div markdown="3" class="audio-link">
+[Anchor](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/)
+</div>
+
+<div markdown="3" class="audio-link">
+[Apple](https://podcasts.apple.com/us/podcast/shaykh-fadhlalla-haeri-foundation/id1454931525)
+</div>
+
+<div markdown="3" class="audio-link">
+[Spotify](https://open.spotify.com/show/2BEc8M3oNLH12KyWYFDT9N) 
+</div>
+
+<div markdown="3" class="audio-link">
+[Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy85ODQ1YTQwL3BvZGNhc3QvcnNz)
+</div>
+
+<div markdown="3" class="audio-link">
+[Breaker](https://www.breaker.audio/shaykh-fadhlalla-haeri-foundation)
+</div>
+
+<div markdown="3" class="audio-link">
+[Overcast](https://overcast.fm/itunes1454931525/shaykh-fadhlalla-haeri-foundation)
+</div>
+
+<div markdown="3" class="audio-link">
+[Pocket Casts](https://pca.st/n80x)
+</div>
+
+<div markdown="3" class="audio-link">
+[RadioPublic](https://radiopublic.com/shaykh-fadhlalla-haeri-foundation-6pw4ma)
 </div>
 
 </div>

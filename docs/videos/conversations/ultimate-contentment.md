@@ -6,6 +6,10 @@ image: assets/images/24.jpg
 
 # Ultimate Contentment
 
+<div class="callout6">
+The realisation that there is only Oneness and no otherness is awakening.
+</div>
+
 On this page, you will find 5 longer talks given by Shaykh Fadhlalla in Sweden in August 2017 in which he goes into detail on the theme of Ultimate Contentment. 
 
 ## In Perfect Joy, In Timeless Bliss
