@@ -17,7 +17,7 @@ How can you understand their situation unless you take time to reflect; unless y
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Surat Ash Shams](../img/sfh_shams.jpg)
+![Surat Ash Shams](/videos/img/sfh_shams.jpg)
 </div>
 
 **Surat Ash Shams**
@@ -31,7 +31,7 @@ How can you understand their situation unless you take time to reflect; unless y
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Surat Al A'la](../img/sfh_ala.jpg)
+![Surat Al A'la](/videos/img/sfh_ala.jpg)
 </div>
 
 **Surat Al A'la**
@@ -45,7 +45,7 @@ How can you understand their situation unless you take time to reflect; unless y
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Surat Al 'Asr](../img/sfh_asr.jpg)
+![Surat Al 'Asr](/videos/img/sfh_asr.jpg)
 </div>
 
 **Surat Al 'Asr**
@@ -59,7 +59,7 @@ How can you understand their situation unless you take time to reflect; unless y
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Surat Ad Duha](../img/sfh_duha.jpg)
+![Surat Ad Duha](/videos/img/sfh_duha.jpg)
 </div>
 
 **Surat Ad Duha**
@@ -73,7 +73,7 @@ How can you understand their situation unless you take time to reflect; unless y
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Surat Al Inshirah](../img/sfh_inshirah.jpg)
+![Surat Al Inshirah](/videos/img/sfh_inshirah.jpg)
 </div>
 
 **Surat Al Inshirah**
@@ -87,7 +87,7 @@ How can you understand their situation unless you take time to reflect; unless y
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Surat Al-Kahf](../img/sfh_kahf.jpg)
+![Surat Al-Kahf](/videos/img/sfh_kahf.jpg)
 </div>
 
 **Surat Al-Kahf**
@@ -109,7 +109,7 @@ Your Lord is the Ever-forgiving. Look at how much He loves you, that He gives yo
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![State of Humanity](../img/sfh_state_humanity.jpg)
+![State of Humanity](/videos/img/sfh_state_humanity.jpg)
 </div>
 
 **The State of Humanity and Our World Today**

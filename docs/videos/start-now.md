@@ -17,7 +17,7 @@ To live fully in presence, we must accept responsibility for our intentions and 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Three C's](./img/sfh_three_cs.jpg)
+![The Three C's](/videos/img/sfh_three_cs.jpg)
 </div>
 
 **Connection, Continuity, Consciousness**
@@ -31,7 +31,7 @@ To live fully in presence, we must accept responsibility for our intentions and 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Purpose of Religion](./img/sfh_purpose_religion.jpg)
+![Purpose of Religion](/videos/img/sfh_purpose_religion.jpg)
 </div>
 
 **The Purpose of Religion**
@@ -45,7 +45,7 @@ To live fully in presence, we must accept responsibility for our intentions and 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Self and Soul](./img/sfh_self_soul_wlms.jpg)
+![Self and Soul](/videos/img/sfh_self_soul_wlms.jpg)
 </div>
 
 **Self and Soul**
@@ -59,7 +59,7 @@ To live fully in presence, we must accept responsibility for our intentions and 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Seeking Contentment](./img/sfh_seek_content.jpg)
+![Seeking Contentment](/videos/img/sfh_seek_content.jpg)
 </div>
 
 **Seeking Contentment**
@@ -73,7 +73,7 @@ To live fully in presence, we must accept responsibility for our intentions and 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Faith and Fear](./img/sfh_faith_fear.jpg)
+![Faith and Fear](/videos/img/sfh_faith_fear.jpg)
 </div>
 
 **How Can You Keep Faith In Times of Fear?**
@@ -87,7 +87,7 @@ To live fully in presence, we must accept responsibility for our intentions and 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Rationality and Spirituality](./img/sfh_rational_spirit.jpg)
+![Rationality and Spirituality](/videos/img/sfh_rational_spirit.jpg)
 </div>
 
 **Rationality and Spirituality**
@@ -101,7 +101,7 @@ To live fully in presence, we must accept responsibility for our intentions and 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Why Hell?](./img/sfh_seek_content.jpg)
+![Why Hell?](/videos/img/sfh_seek_content.jpg)
 </div>
 
 **Why Is There Hell?**
@@ -115,7 +115,7 @@ To live fully in presence, we must accept responsibility for our intentions and 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Wanting to Change the World](./img/sfh_world_change.jpg)
+![Wanting to Change the World](/videos/img/sfh_world_change.jpg)
 </div>
 
 **Wanting to Change the World**

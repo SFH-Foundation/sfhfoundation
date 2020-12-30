@@ -17,7 +17,7 @@ This interconnectedness may be felt through a lived experience of timelessness, 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Part 1](./img/sfh_insep_1.jpg)
+![Part 1](/videos/img/sfh_insep_1.jpg)
 </div>
 
 **Part 1**
@@ -31,7 +31,7 @@ This interconnectedness may be felt through a lived experience of timelessness, 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Part 2](./img/sfh_insep_2.jpg)
+![Part 2](/videos/img/sfh_insep_2.jpg)
 </div>
 
 **Part 2**
@@ -45,7 +45,7 @@ This interconnectedness may be felt through a lived experience of timelessness, 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Part 3](./img/sfh_insep_3.jpg)
+![Part 3](/videos/img/sfh_insep_3.jpg)
 </div>
 
 **Part 3**
@@ -59,7 +59,7 @@ This interconnectedness may be felt through a lived experience of timelessness, 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Part 4](./img/sfh_insep_4.jpg)
+![Part 4](/videos/img/sfh_insep_4.jpg)
 </div>
 
 **Part 4**
@@ -85,7 +85,7 @@ _From the book “[The Sufi Way to Self-Unfoldment](https://zahrapublications.pu
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Time, Space, and Dualities](./img/sfh_conduct.jpg)
+![Time, Space, and Dualities](/videos/img/sfh_conduct.jpg)
 </div>
 
 **Time, Space, and Dualities**
@@ -99,7 +99,7 @@ _From the book “[The Sufi Way to Self-Unfoldment](https://zahrapublications.pu
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Localities](./img/sfh_locality.jpg)
+![Localities](/videos/img/sfh_locality.jpg)
 </div>
 
 **Locality**
@@ -113,7 +113,7 @@ _From the book “[The Sufi Way to Self-Unfoldment](https://zahrapublications.pu
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Terrestrial Wisdom](./img/sfh_terrestrial.jpg)
+![Terrestrial Wisdom](/videos/img/sfh_terrestrial.jpg)
 </div>
 
 **Terrestrial Wisdom**
@@ -127,7 +127,7 @@ _From the book “[The Sufi Way to Self-Unfoldment](https://zahrapublications.pu
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![A Review of the Human Journey](./img/sfh_human_journey.jpg)
+![A Review of the Human Journey](/videos/img/sfh_human_journey.jpg)
 </div>
 
 **A Review of the Human Journey**
@@ -161,7 +161,7 @@ that yields a lasting thrill.<br/>
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Perennial Questions](./img/sfh_perennial.jpg)
+![Perennial Questions](/videos/img/sfh_perennial.jpg)
 </div>
 
 **Perennial Questions**
@@ -175,7 +175,7 @@ that yields a lasting thrill.<br/>
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Timeless Reality](./img/sfh_soul.jpg)
+![Timeless Reality](/videos/img/sfh_soul.jpg)
 </div>
 
 **The Soul's Access to a Timeless Reality**
@@ -189,7 +189,7 @@ that yields a lasting thrill.<br/>
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Zone of The Infinite](./img/sfh_conduct.jpg)
+![The Zone of The Infinite](/videos/img/sfh_conduct.jpg)
 </div>
 
 **The Zone of The Infinite**
@@ -203,7 +203,7 @@ that yields a lasting thrill.<br/>
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Land of Nowhere, Na Kuja Abad](./img/sfh_nowhere.jpg)
+![Land of Nowhere, Na Kuja Abad](/videos/img/sfh_nowhere.jpg)
 </div>
 
 **Land of Nowhere, Na Kuja Abad**
@@ -227,7 +227,7 @@ When you blame others the ego is protected for a while, but if you blame yoursel
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Seeking Contentment](./img/sfh_seek_content.jpg)
+![Seeking Contentment](/videos/img/sfh_seek_content.jpg)
 </div>
 
 **Seeking Contentment**
@@ -241,7 +241,7 @@ When you blame others the ego is protected for a while, but if you blame yoursel
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Patience](./img/sfh_patience.jpg)
+![Patience](/videos/img/sfh_patience.jpg)
 </div>
 
 **Patience**
@@ -255,7 +255,7 @@ When you blame others the ego is protected for a while, but if you blame yoursel
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Illusion of Liberation](./img/sfh_illusion_liberation.jpg)
+![The Illusion of Liberation](/videos/img/sfh_illusion_liberation.jpg)
 </div>
 
 **The Illusion of Liberation**
@@ -269,7 +269,7 @@ When you blame others the ego is protected for a while, but if you blame yoursel
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Quest for Contentment](./img/sfh_quest_contentment.jpg)
+![The Quest for Contentment](/videos/img/sfh_quest_contentment.jpg)
 </div>
 
 **The Quest for Contentment**
@@ -297,7 +297,7 @@ The soul is a reflector of what is eternal and perpetual and enables us to appre
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Light of Lights](./img/sfh_foundation.jpg)
+![Light of Lights](/videos/img/sfh_foundation.jpg)
 </div>
 
 **Light of Lights**
@@ -311,7 +311,7 @@ The soul is a reflector of what is eternal and perpetual and enables us to appre
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Zone of Pure Light](./img/sfh_zone_light.jpg)
+![Zone of Pure Light](/videos/img/sfh_zone_light.jpg)
 </div>
 
 **Zone of Pure Light**
@@ -325,7 +325,7 @@ The soul is a reflector of what is eternal and perpetual and enables us to appre
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Light Beyond Discernible Light](./img/sfh_soul_meaning.jpg)
+![Light Beyond Discernible Light](/videos/img/sfh_soul_meaning.jpg)
 </div>
 
 **The Soul: A Light Beyond Discernible Light**
@@ -339,7 +339,7 @@ The soul is a reflector of what is eternal and perpetual and enables us to appre
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Illumination is the Purpose of Human Life](./img/sfh_illumine_purpose.jpg)
+![Illumination is the Purpose of Human Life](/videos/img/sfh_illumine_purpose.jpg)
 </div>
 
 **Illumination is the Purpose of Human Life**

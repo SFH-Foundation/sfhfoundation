@@ -8,7 +8,7 @@ image: assets/images/14.jpg
 
 <div class="callout6">
 Your soul is sacred in origin yet it remains in its present, temporary residence in your heart. Be at its altar—worship and experience lights.
-<div>
+</div>
 
 Please reflect for a moment on these excerpts from the publication _"[Beams of Illumination from the Divine Revelation](https://zahrapublications.pub/book-TheHeartOfTheQuran.php#bookTitle)"_ by Shaykh Fadhlalla:
 
@@ -24,7 +24,7 @@ Man’s purpose is to dispel ignorance. Knowledge already exists within. Knowled
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Islam, Iman, Ihsan](../img/sfh_islam.jpg)
+![Islam, Iman, Ihsan](/videos/img/sfh_islam.jpg)
 </div>
 
 **Islam, Iman, Ihsan**
@@ -38,7 +38,7 @@ Man’s purpose is to dispel ignorance. Knowledge already exists within. Knowled
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Glorify God](../img/sfh_glorify.jpg)
+![Glorify God](/videos/img/sfh_glorify.jpg)
 </div>
 
 **Whatever is in Heavens and Earth Glorifies God**
@@ -52,7 +52,7 @@ Man’s purpose is to dispel ignorance. Knowledge already exists within. Knowled
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Dominion](../img/sfh_dominion.jpg)
+![Dominion](/videos/img/sfh_dominion.jpg)
 </div>
 
 **His is the Dominion of the Heavens and Earth**
@@ -66,7 +66,7 @@ Man’s purpose is to dispel ignorance. Knowledge already exists within. Knowled
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![First, Last; Outer, Inner](../img/sfh_first_last.jpg)
+![First, Last; Outer, Inner](/videos/img/sfh_first_last.jpg)
 </div>
 
 **He is the First and the Last, the Outer and the Inner**
@@ -80,7 +80,7 @@ Man’s purpose is to dispel ignorance. Knowledge already exists within. Knowled
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![God Is With You, Wherever You Are](../img/sfh_wherever.jpg)
+![God Is With You, Wherever You Are](/videos/img/sfh_wherever.jpg)
 </div>
 
 **God Is With You, Wherever You Are**
@@ -94,7 +94,7 @@ Man’s purpose is to dispel ignorance. Knowledge already exists within. Knowled
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![And to God All Matters Are Returned](../img/sfh_return.jpg)
+![And to God All Matters Are Returned](/videos/img/sfh_return.jpg)
 </div>
 
 **And to God All Matters Are Returned**
@@ -108,7 +108,7 @@ Man’s purpose is to dispel ignorance. Knowledge already exists within. Knowled
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![He Causes The Night To Enter The Day](../img/sfh_night_day.jpg)
+![He Causes The Night To Enter The Day](/videos/img/sfh_night_day.jpg)
 </div>
 
 **He Causes The Night To Enter The Day**

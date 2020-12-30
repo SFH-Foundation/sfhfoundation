@@ -34,7 +34,7 @@ The purpose of human life is complete when total harmony between body, mind and 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Sufi Cosmology Of Life - Part 2](../img/sfh_foundation.jpg)
+![Sufi Cosmology Of Life - Part 2](/videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 2**
@@ -48,7 +48,7 @@ The purpose of human life is complete when total harmony between body, mind and 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Sufi Cosmology Of Life - Part 3](../img/sfh_foundation.jpg)
+![Sufi Cosmology Of Life - Part 3](/videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 3**
@@ -72,7 +72,7 @@ This section includes four conversations with Syed Haider Mehdi, most of which r
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Sufi Encounters - A Spiritual Journey](../img/sfh_foundation.jpg)
+![Sufi Encounters - A Spiritual Journey](/videos/img/sfh_foundation.jpg)
 </div>
 
 **Sufi Encounters - A Spiritual Journey**
@@ -86,7 +86,7 @@ This section includes four conversations with Syed Haider Mehdi, most of which r
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Sufi Encounters - Part 2](../img/sfh_foundation.jpg)
+![Sufi Encounters - Part 2](/videos/img/sfh_foundation.jpg)
 </div>
 
 **Sufi Encounters - Part 2**
@@ -100,7 +100,7 @@ This section includes four conversations with Syed Haider Mehdi, most of which r
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Seeking Divine Light](../img/sfh_foundation.jpg)
+![Seeking Divine Light](/videos/img/sfh_foundation.jpg)
 </div>
 
 **Seeking Divine Light**
@@ -114,7 +114,7 @@ This section includes four conversations with Syed Haider Mehdi, most of which r
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Path To Fulfillment](../img/sfh_foundation.jpg)
+![The Path To Fulfillment](/videos/img/sfh_foundation.jpg)
 </div>
 
 **The Path To Fulfillment**
@@ -138,7 +138,7 @@ Shaykh Fadhlalla's discussions with Dr Adnan Al-Adnani continue in a section of 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Reflections on Ubudiya & Ruhaniyya](../img/sfh_foundation.jpg)
+![Reflections on Ubudiya & Ruhaniyya](/videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 1**
@@ -152,7 +152,7 @@ Shaykh Fadhlalla's discussions with Dr Adnan Al-Adnani continue in a section of 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Reflections on Ubudiya & Ruhaniyya](../img/sfh_foundation.jpg)
+![Reflections on Ubudiya & Ruhaniyya](/videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 2**
@@ -176,7 +176,7 @@ This section includes a conversation between Shaykh Saadi Dr. Neil Douglas Klotz
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Insights of Divinity Through Humanity](../img/sfh_foundation.jpg)
+![Insights of Divinity Through Humanity](/videos/img/sfh_foundation.jpg)
 </div>
 
 **Divinity Through Humanity**
@@ -190,7 +190,7 @@ This section includes a conversation between Shaykh Saadi Dr. Neil Douglas Klotz
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Insights into Peak Experiences](../img/sfh_foundation.jpg)
+![Insights into Peak Experiences](/videos/img/sfh_foundation.jpg)
 </div>
 
 **Peak Experiences**
@@ -204,7 +204,7 @@ This section includes a conversation between Shaykh Saadi Dr. Neil Douglas Klotz
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Surrender and Transcendence](../img/sfh_foundation.jpg)
+![Surrender and Transcendence](/videos/img/sfh_foundation.jpg)
 </div>
 
 **Surrender and Transcendence in Sufism**
@@ -226,7 +226,7 @@ Every human reflects the story of the universe. However, life itself has no begi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Selected Āyāt From The Qur'an](../img/sfh_foundation.jpg)
+![Selected Āyāt From The Qur'an](/videos/img/sfh_foundation.jpg)
 </div>
 
 **Selected Āyāt From The Qur'an**
@@ -240,7 +240,7 @@ Every human reflects the story of the universe. However, life itself has no begi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Crisis of Islamic Civilisation](../img/sfh_foundation.jpg)
+![The Crisis of Islamic Civilisation](/videos/img/sfh_foundation.jpg)
 </div>
 
 **The Crisis of Islamic Civilisation**
@@ -254,7 +254,7 @@ Every human reflects the story of the universe. However, life itself has no begi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Faith and Humanity](../img/sfh_foundation.jpg)
+![Faith and Humanity](/videos/img/sfh_foundation.jpg)
 </div>
 
 **Faith and Humanity**
@@ -278,7 +278,7 @@ These uncommon dialogues were extended beyond the month of Ramadan in 2020 to in
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Process Of Spiritual Transformation](../img/sfh_foundation.jpg)
+![The Process Of Spiritual Transformation](/videos/img/sfh_foundation.jpg)
 </div>
 
 **The Process Of Spiritual Transformation**
@@ -292,7 +292,7 @@ These uncommon dialogues were extended beyond the month of Ramadan in 2020 to in
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Real: Faith & Identity On The Path To Awakening](../img/sfh_foundation.jpg)
+![The Real: Faith & Identity On The Path To Awakening](/videos/img/sfh_foundation.jpg)
 </div>
 
 **The Real: Faith & Identity On The Path To Awakening**
@@ -306,7 +306,7 @@ These uncommon dialogues were extended beyond the month of Ramadan in 2020 to in
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Impromptu Question and Answer Session](../img/sfh_foundation.jpg)
+![Impromptu Question and Answer Session](/videos/img/sfh_foundation.jpg)
 </div>
 
 **Impromptu Question and Answer Session**

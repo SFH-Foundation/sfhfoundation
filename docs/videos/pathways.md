@@ -15,7 +15,7 @@ Many search for a path to the Divine, though few seem to find one which is durab
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Importance of Choosing a Path](./img/sfh_path_imp.jpg)
+![The Importance of Choosing a Path](/videos/img/sfh_path_imp.jpg)
 </div>
 
 **The Importance of Choosing a Path**
@@ -29,7 +29,7 @@ Many search for a path to the Divine, though few seem to find one which is durab
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Presence](./img/sfh_presence.jpg)
+![Presence](/videos/img/sfh_presence.jpg)
 </div>
 
 **What is Presence?**
@@ -43,7 +43,7 @@ Many search for a path to the Divine, though few seem to find one which is durab
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Live Fully Knowing You Will Die](./img/sfh_live_die.jpg)
+![Live Fully Knowing You Will Die](/videos/img/sfh_live_die.jpg)
 </div>
 
 **Live Fully Knowing You Will Die**
@@ -67,7 +67,7 @@ A tried and tested truth is that the more the self is restricted, the narrower t
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Spiritual path](./img/sfh_path_1.jpg)
+![The Spiritual path](/videos/img/sfh_path_1.jpg)
 </div>
 
 **Part 1**
@@ -81,7 +81,7 @@ A tried and tested truth is that the more the self is restricted, the narrower t
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Spiritual path](./img/sfh_path_2.jpg)
+![The Spiritual path](/videos/img/sfh_path_2.jpg)
 </div>
 
 **Part 2**
@@ -95,7 +95,7 @@ A tried and tested truth is that the more the self is restricted, the narrower t
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Spiritual path](./img/sfh_path_3.jpg)
+![The Spiritual path](/videos/img/sfh_path_3.jpg)
 </div>
 
 **Part 3**
@@ -109,7 +109,7 @@ A tried and tested truth is that the more the self is restricted, the narrower t
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Spiritual path](./img/sfh_path_4.jpg)
+![The Spiritual path](/videos/img/sfh_path_4.jpg)
 </div>
 
 **Part 4**
@@ -123,7 +123,7 @@ A tried and tested truth is that the more the self is restricted, the narrower t
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Spiritual path](./img/sfh_path_1.jpg)
+![The Spiritual path](/videos/img/sfh_path_1.jpg)
 </div>
 
 **Part 5**

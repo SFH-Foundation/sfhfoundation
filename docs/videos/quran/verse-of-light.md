@@ -12,7 +12,7 @@ image: assets/images/20.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Part 1](../img/light-part1.jpg)
+![Part 1](/videos/img/light-part1.jpg)
 </div>
 
 **Part 1**
@@ -26,7 +26,7 @@ image: assets/images/20.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Part 2](../img/light-part2.jpg)
+![Part 2](/videos/img/light-part2.jpg)
 </div>
 
 **Part 2**
@@ -40,7 +40,7 @@ image: assets/images/20.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Part 3](../img/light-part3.jpg)
+![Part 3](/videos/img/light-part3.jpg)
 </div>
 
 **Part 3**

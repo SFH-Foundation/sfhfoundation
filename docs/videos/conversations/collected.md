@@ -13,7 +13,7 @@ Connection and continuation are dominant in human consciousness —at all stages
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![In Conversation...](../img/sfh_foundation.jpg)
+![In Conversation...](/videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 1**
@@ -27,7 +27,7 @@ Connection and continuation are dominant in human consciousness —at all stages
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![In Conversation...](../img/sfh_foundation.jpg)
+![In Conversation...](/videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 2**
@@ -45,7 +45,7 @@ Connection and continuation are dominant in human consciousness —at all stages
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Dr John Demartini](../img/sfh_martini.jpg)
+![Dr John Demartini](/videos/img/sfh_martini.jpg)
 </div>
 
 **In Conversation with Dr John Demartini**

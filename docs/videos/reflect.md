@@ -15,7 +15,7 @@ Being correct and courteous in all our actions naturally leads us to question th
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Islam, Iman, Ihsan](./img/sfh_islam.jpg)
+![Islam, Iman, Ihsan](/videos/img/sfh_islam.jpg)
 </div>
 
 **Islam, Iman, Ihsan**
@@ -29,7 +29,7 @@ Being correct and courteous in all our actions naturally leads us to question th
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Self Conduct](./img/sfh_conduct.jpg)
+![Self Conduct](/videos/img/sfh_conduct.jpg)
 </div>
 
 **Self Conduct**
@@ -43,7 +43,7 @@ Being correct and courteous in all our actions naturally leads us to question th
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Three C's](./img/sfh_three_cs.jpg)
+![The Three C's](/videos/img/sfh_three_cs.jpg)
 </div>
 
 **Connection, Continuity, Consciousness**
@@ -57,7 +57,7 @@ Being correct and courteous in all our actions naturally leads us to question th
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Differentiated Sameness](./img/sfh_diff_same.jpg)
+![Differentiated Sameness](/videos/img/sfh_diff_same.jpg)
 </div>
 
 **Differentiated Sameness**
@@ -77,7 +77,7 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Personality](./img/sfh_personality.jpg)
+![Personality](/videos/img/sfh_personality.jpg)
 </div>
 
 **Personality**
@@ -91,7 +91,7 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Parenthood](./img/sfh_parent.jpg)
+![Parenthood](/videos/img/sfh_parent.jpg)
 </div>
 
 **Parenthood**
@@ -105,7 +105,7 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Islam and Science](./img/sfh_islam_science.jpg)
+![Islam and Science](/videos/img/sfh_islam_science.jpg)
 </div>
 
 **Islam and Science**
@@ -119,7 +119,7 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![What is the Meaning of Life?](./img/sfh_meaning_life.jpg)
+![What is the Meaning of Life?](/videos/img/sfh_meaning_life.jpg)
 </div>
 
 **What is the Meaning of Life?**
@@ -133,7 +133,7 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Who Am I?](./img/sfh_who.jpg)
+![Who Am I?](/videos/img/sfh_who.jpg)
 </div>
 
 **Who Am I?**
@@ -147,7 +147,7 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![God Is With You, Wherever You Are](./img/sfh_wherever.jpg)
+![God Is With You, Wherever You Are](/videos/img/sfh_wherever.jpg)
 </div>
 
 **God Is With You, Wherever You Are**
@@ -161,7 +161,7 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![From Limitations to the Limitless](./img/sfh_limitless.jpg)
+![From Limitations to the Limitless](/videos/img/sfh_limitless.jpg)
 </div>
 
 **From Limitations to the Limitless**
@@ -175,7 +175,7 @@ As long as anything moves, its destiny and existence are uncertain. Nature provi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Timeless Reality](./img/sfh_timeless.jpg)
+![Timeless Reality](/videos/img/sfh_timeless.jpg)
 </div>
 
 **The Soul's Timeless Reality**
@@ -205,7 +205,7 @@ When self-love yields to the perfect soul within, then it is at one with the lif
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![You Are Not the Past](./img/sfh_past.jpg)
+![You Are Not the Past](/videos/img/sfh_past.jpg)
 </div>
 
 **You Are Not the Past**
@@ -219,7 +219,7 @@ When self-love yields to the perfect soul within, then it is at one with the lif
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Insight](./img/sfh_insight.jpg)
+![Insight](/videos/img/sfh_insight.jpg)
 </div>
 
 **Insight**
@@ -233,7 +233,7 @@ When self-love yields to the perfect soul within, then it is at one with the lif
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Self-Soul Dynamics](./img/sfh_self_soul.jpg)
+![Self-Soul Dynamics](/videos/img/sfh_self_soul.jpg)
 </div>
 
 **Self-Soul Dynamics**
@@ -247,7 +247,7 @@ When self-love yields to the perfect soul within, then it is at one with the lif
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Calibration](./img/sfh_foundation.jpg)
+![Calibration](/videos/img/sfh_foundation.jpg)
 </div>
 
 **Calibration**
@@ -261,7 +261,7 @@ When self-love yields to the perfect soul within, then it is at one with the lif
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Soul: The Meaning Behind the Form](./img/sfh_soul_meaning.jpg)
+![The Soul: The Meaning Behind the Form](/videos/img/sfh_soul_meaning.jpg)
 </div>
 
 **The Soul: The Meaning Behind the Form**
@@ -275,7 +275,7 @@ When self-love yields to the perfect soul within, then it is at one with the lif
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Insight](./img/sfh_witness.jpg)
+![Insight](/videos/img/sfh_witness.jpg)
 </div>
 
 **Space, Time & Generosity**
@@ -289,7 +289,7 @@ When self-love yields to the perfect soul within, then it is at one with the lif
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Levels of Enlightenment](./img/sfh_enlightenment.jpg)
+![Levels of Enlightenment](/videos/img/sfh_enlightenment.jpg)
 </div>
 
 **Different Levels of Enlightenment**
@@ -303,7 +303,7 @@ When self-love yields to the perfect soul within, then it is at one with the lif
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Forgiveness Talk](./img/sfh_forgiveness.jpg)
+![Forgiveness Talk](/videos/img/sfh_forgiveness.jpg)
 </div>
 
 **Forgiveness and What Happens After Death**
