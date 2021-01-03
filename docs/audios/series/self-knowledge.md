@@ -52,13 +52,9 @@ It goes into detail on the dynamics of self and soul, discussing how we experien
 
 </div>
 
-## Episode 1
+## 1 - Changing You
 
-What am I?
-
-You are what you make of yourself; a mixture of a lower and a higher self. Light which we call soul, activates all the multifarious layers of consciousness. We try to balance and fulfill a hierarchy of needs until we reach our inner joy.
-
-It is not the thing, but the meaning that you are after-we are in an impermanent world seeking the boundless and permanent.
+Beginning with the question, “What am I?”, this talk illuminates the depths of self-knowledge and the drive towards ever more evolved consciousness. You are a composite of body, mind, intellect and light - what we call soul or spirit - which activates all the layers of consciousness you experience. If you can keep these all in balance and focus your attention on the meanings behind physical forms, you may come to realise that you are not just the mind or intellect. In truth, you are a boundless light and it is your soul that gives sentience and energy to all the different facets of your experience. This knowledge can help you see, navigate and understand the patterns of existence so as to act with clear intention in this moment right now, relieved by the realisation that the final outcome is not in your hands. 
 
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
@@ -72,13 +68,17 @@ It is not the thing, but the meaning that you are after-we are in an impermanent
 [Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Enlightenment-Episode-1-e3b86a)
 </div>
 
+<div markdown="3" class="video-link">
+[Transcript](../series/transcripts/sk1.md)
+</div>
+
 </div>
 
 <div markdown="1" class="clear"></div>
 
-## Episode 2
+## 2 - Light and Shadows
 
-We experience light by its shadow. Pure light cannot be perceived except as a rainbow. Everything we experience in zone of time/space are images on the screen of non-change. What drives us is the love of that Absolute non-change. We are fueled by the infinite hierarchy of love and passion for beauty, health, harmony etc and ending up with Love by Love unto love. Light is only shown and known by its shadow. Light is both photon as well as wave. A photon is an entity and dies whereas a waveband continues forever, the same applies for individuals; an aspect of us dies, and an aspect of continues on.
+This talk approaches the topic of genuine self-knowledge through the metaphor of light and shadow. Through a series of questions about what drives us, what distracts us, and the apparent schizophrenia of our existence as worldly beings capable of knowing and embodying divine attributes, Shaykh Fadhlalla explores how we can use a clear and precise awareness of the shadowy sides of our lower self as the impetus required to turn towards the ever-present, perfect Light which gives life to all being. Once you know fully your limitations, it becomes possible to just accept them. Then you will be accepted by the limitless which is already in you.
 
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
@@ -92,29 +92,17 @@ We experience light by its shadow. Pure light cannot be perceived except as a ra
 [Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Enlightenment-Episode-2-e3b89p)
 </div>
 
+<div markdown="3" class="video-link">
+[Transcript](../series/transcripts/sk2.md)
+</div>
+
 </div>
 
 <div markdown="1" class="clear"></div>
 
-## Episode 3
+## 3 - The Soul
 
-This episode takes the form of many important questions which the Shaykh poses and then answers. Some of these questions include:
-
-1. By what should we be guided? 
-2. What is the relationship between heart & Soul?
-3. How can/should we relate to Memory? 
-4. What tarnishes the heart? 
-5. What is Personality? 
-6. Is it as simple as choosing between good & bad?
-7. Is the Soul an immortal entity? 
-8. If it is immortal, why do we fear death? 
-9. What is our relationship to society?
-10. What is the importance of role models?
-11. What is the role of leadership?
-12. Does Islam Have a role to play?
-13. What is role of saints, sages and monks? 
-14. What, really, is the illness of the world around us?
-15. Is there hope?
+After exploring how this world manifests as opposites through the metaphor of light and shadows, this talk moves into a discussion of the soul, guidance, leadership and how we can live with reference to the zone of constancy, reliability, stability and trustworthiness within. Shaykh Fadhlalla speaks about this “tuning” and resonance at many levels - personal responsibility, collective mirroring and social culture - all of which can help us make ever more constant reference to the One Absolute Good which is contained within, and reflected by, our soul.
 
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
@@ -128,11 +116,17 @@ This episode takes the form of many important questions which the Shaykh poses a
 [Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Enlightenment-Episode-3-e3b8a1)
 </div>
 
+<div markdown="3" class="video-link">
+[Transcript](../series/transcripts/sk3.md)
+</div>
+
 </div>
 
 <div markdown="1" class="clear"></div>
 
-## Episode 4
+## 4 - The Map
+
+Having understood that you are the meeting point of light and shadow, and that this point can be understood and contained via constant reference to the soul within your heart, you now have to navigate along the map of existence, firmly between and capable of applying the prophetic template to every instant of life. Shaykh Fadhlalla discusses what it means to move along this map, what the highway codes are, and how this applies to religion, dogma, spirituality and the traps of spiritual materialism, ending with a discussion about Sufism and trust.
 
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
@@ -146,24 +140,17 @@ This episode takes the form of many important questions which the Shaykh poses a
 [Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Enlightenment-Episode-4-e3idoo)
 </div>
 
+<div markdown="3" class="video-link">
+[Transcript](../series/transcripts/sk4.md)
+</div>
+
 </div>
 
 <div markdown="1" class="clear"></div>
 
-## Episode 5
+## 5 - Conducting the Ultimate Quest
 
-This final episode in the series also takes the form of a series of questions asked and answered by the Shaykh, including:
-
-1. How do we conduct ourselves on the path?
-2. Do most people seem to want to remain children?
-3. How do we know if we are doing the right thing?
-4. What about a person transitioning from childhood to adulthood?
-5. Are prayer and meditation useful techniques?
-6. Why does it seem like the abandonment of pleasure?
-7. Why don’t we intuitively and instinctively seek the higher?
-8. Can this seeking be done by anyone anytime?
-9. Why is the path to enlightenment presented as something mysterious and mystical?
-10. Do you have practical advice after these five talks for seeking enlightenment?
+Know your essential makeup; navigate between light and shadow with constant reference to the soul in your heart; accept the map of existence with its various road signs; and now perfect your conduct through constant awareness of death. If you are not ready to leave this world, then you are not qualified to take it, because it will take you. The two go together. If you are ready to abandon it, then you have access to the abundance of it. Turn away from that which is not; that which has always been is. Your job and duty is to accept limitations and the short duration of this life with humility and, if you can do so and use it as a platform to view what is shedding light upon this life, then you have access - inadvertently - to the limitless. You become **godly**; you do not become God with the implied spiritual pomposity. You become simply, consciously illumined. You were already illumined before without knowing it. Now you know it, _and _you know its shadow. You live by the two, through the courtesy of One.
 
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
@@ -177,8 +164,21 @@ This final episode in the series also takes the form of a series of questions as
 [Listen](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/episodes/Enlightenment-Episode-5-e3idpa)
 </div>
 
+<div markdown="3" class="video-link">
+[Transcript](../series/transcripts/sk5.md)
 </div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
 
 <div class="callout6">
 The awakened being lives within sensible and wise limitations on earth whilst experiencing the limitless light of the soul within.
 </div>
+
+
+
+
+
+
+

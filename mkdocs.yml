@@ -130,7 +130,14 @@ nav:
     - 'Selected Talks': 'audios/selected-talks.md'
     - Series:
       - 'Gateways': 'audios/series/gateways-to-enlightenment.md'
-      - 'Enlightenment': 'audios/series/enlightenment.md'
+      - Self Knowledge:
+        - 'Listen': 'audios/series/self-knowledge.md'
+        - Transcripts:
+          - 'Changing You': 'audios/series/transcripts/sk1.md'
+          - 'Light and Shadows': 'audios/series/transcripts/sk2.md'
+          - 'The Soul': 'audios/series/transcripts/sk3.md'
+          - 'The Map': 'audios/series/transcripts/sk4.md'
+          - 'Conducting the Ultimate Quest': 'audios/series/transcripts/sk5.md'
       - 'Qur’an': 'audios/series/descriptive-prescriptive-quran.md'
   - Reflections:
     - A Spectrum of Journeys: 'reflections/index.md'
