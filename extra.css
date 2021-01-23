@@ -178,6 +178,10 @@
     height: 16vh;
   }
 
+  .card.video p {
+    margin-bottom: 35px;
+  }
+
   .md-typeset h1 {
     font-size: 1.25rem
   }
