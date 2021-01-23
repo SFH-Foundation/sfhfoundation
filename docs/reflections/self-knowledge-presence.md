@@ -6,7 +6,7 @@ image: assets/images/09.jpg
 
 # Self Knowledge and Unfolding Into Presence
 
-<div class="callout6">
+<div class="callout">
 The illusion of separation is a driving force toward the conclusion—Universal Oneness, perpetual singularity.
 </div>
 
@@ -30,7 +30,7 @@ We enjoy ease and the smooth flow of life, welcoming generosity at all levels �
 
 All our actions are interactive and the dynamics of energy fields and matter are ceaseless. A generous mind is limited and measured, whereas a generous heart can be unconditional and simply flows. The ego self is the obstacle to such generosity and can darken the heart. Modesty reduces egoistic tendency and selfless acts touch hearts and souls. The human journey is from ego to soul.      
 
-<div class="callout6">
+<div class="callout">
 The ultimate human purpose is to recognize the ego’s limitations and transcend it through generous acts and unconditional love.
 </div>
 
@@ -54,6 +54,6 @@ There are always at least two viewpoints at any time. You can face the past or t
 
 Everything that exists has an outer and an inner facet, which are in balance. For a youngster, most experiences are due to sensory stimulation. For an adult there is outer and inner consciousness. For an awakened being the outer and inner are seamlessly bound together due to the emergence of the light of the Oneness.  
 
-<div class="callout6">
+<div class="callout">
 Discriminating between outer and inner is the first step to realizing their inseparability in essence.
 </div>

@@ -6,7 +6,7 @@ image: assets/images/01.jpg
 
 # Articles
 
-<div class="callout6">
+<div class="callout">
 Higher consciousness always drives us to connect and continue until we touch the source of Oneness and all connection.
 </div>
 

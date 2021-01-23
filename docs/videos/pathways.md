@@ -4,7 +4,7 @@ description: A conversation about the spiritual path with Shaykh Fadhlalla Haeri
 image: /assets/images/38.jpg
 ---
 
-<div class="callout6">
+<div class="callout">
 The big question is who and where is God? If the answer is that there is only God, then who are you? Even this question can only be posed by God’s grace.
 </div>
 
@@ -58,7 +58,7 @@ Many search for a path to the Divine, though few seem to find one which is durab
 
 ## The Spiritual Path
 
-<div class="callout6">
+<div class="callout">
 With awakening we follow the one and only optimum choice. The path of knowledge ends with the end of personal will or desire.
 </div>
 

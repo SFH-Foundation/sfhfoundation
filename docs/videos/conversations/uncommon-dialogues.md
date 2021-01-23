@@ -5,7 +5,7 @@ image: /assets/images/56.jpg
 ---
 # Uncommon Dialogues
 
-<div class="callout6">
+<div class="callout">
 To be in balance physically, mentally, and spiritually, we need to listen and respond with healing affection.
 </div>
 
@@ -13,7 +13,7 @@ This page presents a collection of uncommon dialogues conducted during Ramadan 2
 
 ## Sufi Cosmology Of Life
 
-<div class="callout6">
+<div class="callout">
 The purpose of human life is complete when total harmony between body, mind and heart is attained and experienced.
 </div>
 
@@ -63,7 +63,7 @@ The purpose of human life is complete when total harmony between body, mind and 
 
 ## Sufi Encounters
 
-<div class="callout6">
+<div class="callout">
 We ask when, why, and how life began. Plausible answers transcend the intellect and causality. They are heart-felt.
 </div>
 
@@ -100,6 +100,20 @@ This section includes four conversations with Syed Haider Mehdi, most of which r
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![Sufi Encounters - Part 3](/videos/img/sfh_foundation.jpg)
+</div>
+
+**Sufi Encounters - Part 3**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=pS2GC-4gDwc">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Seeking Divine Light](/videos/img/sfh_foundation.jpg)
 </div>
 
@@ -111,25 +125,11 @@ This section includes four conversations with Syed Haider Mehdi, most of which r
 
 </div>
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Path To Fulfillment](/videos/img/sfh_foundation.jpg)
-</div>
-
-**The Path To Fulfillment**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=MfuW7HswOpk">Watch</a>
-</div>
-
-</div>
-
 <div markdown="1" class="clear"></div>
 
 ## Ubudiya and Ruhaniyya
 
-<div class="callout6">
+<div class="callout">
 Personal awareness of life is the starting point of experiencing life in its infinite boundless reality.
 </div>
 
@@ -167,11 +167,11 @@ Shaykh Fadhlalla's discussions with Dr Adnan Al-Adnani continue in a section of 
 
 ## Insights
 
-<div class="callout6">
+<div class="callout">
 The more insight we have, the greater will be our foresight.
 </div>
 
-This section includes a conversation between Shaykh Saadi Dr. Neil Douglas Klotz, and two discussions with Amir Freiman.
+This section includes a conversation between Shaykh Saadi Dr. Neil Douglas Klotz, two discussions with Amir Freiman, and another dialogue with Haider Mehdi.
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -215,11 +215,25 @@ This section includes a conversation between Shaykh Saadi Dr. Neil Douglas Klotz
 
 </div>
 
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Path To Fulfillment](/videos/img/sfh_foundation.jpg)
+</div>
+
+**The Path To Fulfillment**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=MfuW7HswOpk">Watch</a>
+</div>
+
+</div>
+
 <div markdown="1" class="clear"></div>
 
 ## Reflections
 
-<div class="callout6">
+<div class="callout">
 Every human reflects the story of the universe. However, life itself has no beginning or end. The divine is eternal.
 </div>
 
@@ -265,11 +279,25 @@ Every human reflects the story of the universe. However, life itself has no begi
 
 </div>
 
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Deep Time and Human History](/videos/img/sfh_foundation.jpg)
+</div>
+
+**Deep Time and Human History**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=CjzC-spEJ1U">Watch</a>
+</div>
+
+</div>
+
 <div markdown="1" class="clear"></div>
 
 ## Explorations
 
-<div class="callout6">
+<div class="callout">
 We make allowance for our earthly limitations whilst evolving towards our origin—boundless life.
 </div>
 

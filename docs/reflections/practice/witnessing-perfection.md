@@ -6,7 +6,7 @@ image: pointers/img/sfh_witnessing.jpg
 
 # Witnessing Perfection
 
-<div class="callout6">
+<div class="callout">
 Whatever appears in space and time will be temporary and short-lived, but it echoes that which is permanent and eternal.
 </div>
 
@@ -25,7 +25,7 @@ Reading the map with urgent attention and then following its codes of transforma
 
 ## Witnessing Perfection  
 
-<div class="callout6">
+<div class="callout">
 Where is God <br/>not?
 </div>
 

@@ -6,7 +6,7 @@ image: assets/images/12.jpg
 
 # Selected Talks
 
-<div class="callout6">
+<div class="callout">
 Reality is One and it manifests as countless entities within space and time, each carrying a reminder of the origin.
 </div>
 
@@ -84,7 +84,7 @@ Finally, he considers the developmental stages of consciousness as is emergent i
 
 ## The Perpetual Now
 
-<div class="callout6">
+<div class="callout">
 The present moment is the most potent and powerful link to the essence of time.
 </div>
 
@@ -110,7 +110,7 @@ In this recording Shaykh Fadhlalla takes the listener on a journey through an en
 
 ## Enlightenment
 
-<div class="callout6">
+<div class="callout">
 It contains all, yet there is no thing in the present. It is in time, yet free of time.
 </div>
 
@@ -164,7 +164,7 @@ This framework is built around the application and relatability of essential Isl
 
 ## Islam and Tawhid
 
-<div class="callout6">
+<div class="callout">
 All life and awareness has emerged from One source which is the only perpetual reality.
 </div>
 
@@ -202,7 +202,7 @@ The entire talk is well summarised by this key excerpt:
 
 ## Die Before You Die
 
-<div class="callout6">
+<div class="callout">
 Once we have tasted timelessness we may come to realize the presence of eternity within our own heart: the perpetual moment.
 </div>
 

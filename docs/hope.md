@@ -4,7 +4,7 @@ description:
 image:
 ---
 
-<div class="callout6">
+<div class="callout">
 We are creatures between dense darkness and cosmic light. Our median position gives us the advantage of witnessing Reality in its fullness.
 </div>
 
@@ -25,6 +25,6 @@ These are the two issues:
 - This life is experienced through dualities.
 - Life itself is the eternal Light of Oneness, which is within every heart provided you can get to that heart without all the mess we accumulate in our short lives.
 
-<div class="callout6">
+<div class="callout">
 The challenge of life is to learn and read the maps of dualities and how all opposites balance and neutralize each other. What is real is original Oneness—Ever perfect.     
 </div>

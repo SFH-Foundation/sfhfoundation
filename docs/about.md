@@ -4,7 +4,7 @@ description: Our quest for freedom or liberation is an indication of our drive t
 image: assets/images/sfh_prayer.jpg
 ---
 
-<div class="callout6">
+<div class="callout">
 The ultimate human reference and duty in life is to respect and have reverence for all life and every manifestation of it. 
 </div>
 
@@ -25,7 +25,7 @@ His books are available on:
 
 </div>
 
-<div class="callout6">
+<div class="callout">
 To accept natural human limitations and boundaries is the first step towards awareness of the boundless within us—our soul or spirit.
 </div>
 

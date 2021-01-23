@@ -1,31 +1,43 @@
 ---
-title: Join Us
-description: An overview of how you can help contribute to the SFH Foundation
-image: assets/images/05.jpg
+title: Gatherings
+description: All the latest SFH Foundation events, in one convenient place
+image: assets/images/08.jpg
 ---
 
-# Join Our Community of Volunteers
+# Latest Events
 
-<div class="callout6">
-For centuries human beings have clearly been pursuing a way of life that enables individuals and communities to be content, happy and celebrate quality of life. Indeed it is true that all is well that ends well.
+<div class="callout">
+When the sun of truth appears in your sky all the millions of stars fade away. When cosmic reality shines all other values and ideas vanish.
 </div>
 
-The SFH Foundation is run on a volunteer basis. All this knowledge has been curated by a group of people committed to enlivening the hearts of any who happen across us. To stay up-to-date with our latest news, please subscribe here:
-
-<div markdown="3" class="purchase-link">
-[News](https://sfhfoundation.substack.com/)
-</div>
-
-If you'd like to get involved, learn more about the Foundation's work, and help us spread the work collected on this site, you can follow either (or both) of the links below to subscribe to volunteering opportunities and receive information about any of our gatherings.
-
-<div markdown="3" class="purchase-link">
-[Volunteer](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1172)
-</div>
+Here, you can keep up to date with all our latest events. Make sure to subscribe to our mailing list to get these updates delivered straight to your inbox.
 
 <div markdown="3" class="purchase-link">
 [Gatherings](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1173)
 </div>
 
-<div class="callout6">
-By working for a greater good or cause, you lift your status as a human being.
+## Uncommon Dialogues
+
+Begun during the month of Ramadan 2020, we have extended this series of virtual talks due to their warm reception. This series of discussions has included speakers like Dr. Ali Alawi, Shaykh Saadi Shakur Chisti Neil Douglas Klotz, Richard Eskow, Matthew Green, Syed Haider Mehdi and a number of of other friends. These Uncommon Dialogues have covered a wide range of subjects during this pandemic, providing a message of hope, compassion and light.
+
+<div markdown="1" class="card article sidebar center">
+
+**Two Friends: Conversations in Metaphysics Theology and Anthropology**
+
+<div markdown="2" class="article-image">
+![Two Friends](/videos/img/sfh_foundation.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+Join us from the comfort of your own home for the next talk, which you can find scheduled below. Follow the link provided to set a reminder for yourself when each talk premieres.
+</div>
+
+<div markdown="3" class="article-link">
+[Set Reminder](https://www.youtube.com/watch?v=GRMRtyH4GW4)
+</div>
+
+</div>
+
+<div class="callout">
+You may read the situation more clearly after you lose all of your ambitions and other fictions.
 </div>

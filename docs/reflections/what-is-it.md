@@ -4,7 +4,7 @@ description: What is it that we really want in life? Instead of common wisdom, S
 image: /assets/images/56.jpg
 ---
 
-<div class="callout6">
+<div class="callout">
 The moment, the now, is ever perpetual and to read it is to open the book of cosmic truth.
 </div>
 
@@ -20,7 +20,7 @@ That is why we have unleashed this dark energy globally, epitomised by phrases l
 
 What is it that I am after? It is to be at one with my source and origin, which is the same as my destiny, because it is timeless. That is what I am after: the certainty that what I have identified with - the so-called “me” - is based on an essence, or reality, or light that is eternal. If it is eternal, then I am content and I can function. Otherwise, I am not reliable.
 
-<div class="callout6">
+<div class="callout">
 In essence, all ‘other’ human beings are the same as you.
 </div>
 
@@ -28,7 +28,7 @@ This is the story: each one of us is potentially the same. But the way it twists
 
 ## Three Keys
 
-<div class="callout6">
+<div class="callout">
 The natural desire to change the world is a reflection of the need of self to yield and be transformed to soul. This outcome is greater than changing the world.
 </div>
 
@@ -40,7 +40,7 @@ One and two are for every one of us: no one is spared. First and foremost, we mu
 
 Then you have no option other than trust, because you are tranquil. Otherwise you are, like everybody else, in miserable agitation and mental illness. Mental illness will double or triple over the next fifty years. Mental disturbance is going to be _the_ theme, because we have not recalibrated with the fact that I am all of these and none of these and I trust in this moment, through which everything emanates and to which everything returns. All that there is is the moment! And the moment is eternal.
 
-<div class="callout6">
+<div class="callout">
 The natural outcome of knowledge and guidance is the experience of sacred presence and its perfection.
 </div>
 

@@ -6,7 +6,7 @@ image: assets/images/14.jpg
 
 # Surat al-Hadid Tafsir
 
-<div class="callout6">
+<div class="callout">
 Your soul is sacred in origin yet it remains in its present, temporary residence in your heart. Be at its altar—worship and experience lights.
 </div>
 

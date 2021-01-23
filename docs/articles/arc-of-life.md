@@ -4,7 +4,7 @@ description: Transcending duality through correct conduct, accountability, balan
 image: /assets/images/06.jpg
 ---
 
-<div class="callout6">
+<div class="callout">
 The desire to be noticed and loved, respected and regarded as important is only an outer echo of the soul’s real state of divinity, before it emerges into space and time and the experience of distance, separation and specific identity.
 </div>
 

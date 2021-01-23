@@ -11,7 +11,7 @@ The master asked, “What about love of life?” <br/>
 The monk confirmed that the ultimate describable love is that of life. <br/>
 The master said that life is one of the gifts of God, so how can we even imagine God’s other attributes and gifts?
 
-<div class="callout6">
+<div class="callout">
 There is nothing out there that is greater than what is already within your own heart.
 </div>
 

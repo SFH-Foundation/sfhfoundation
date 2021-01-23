@@ -6,7 +6,7 @@ image: assets/images/11.jpg
 
 # Videos
 
-<div class="callout6">
+<div class="callout">
 Grace and goodness are eternal <br/>and they reside within your own heart.
 </div>
 
@@ -15,7 +15,7 @@ Grace and goodness are eternal <br/>and they reside within your own heart.
 <div markdown="1" class="card article sidebar center">
 
 <div markdown="2" class="article-image">
-![Transformation](../pointers/img/sfh_transformed.jpg)
+![Transformation](../reflections/img/sfh_transformed.jpg)
 </div>
 
 <div markdown="3" class="article-para">
@@ -149,13 +149,27 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Surah Qiyamah & Surah Mursalat](/videos/img/sfh_foundation.jpg)
+![Deep Time and Human History](/videos/img/sfh_foundation.jpg)
 </div>
 
-**Surah Qiyamah & Surah Mursalat**
+**Deep Time and Human History**
 
 <div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=hWNsCLF3Bhw">Watch</a>
+<a target="_blank" href="https://www.youtube.com/watch?v=CjzC-spEJ1U">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Sufi Encounters - Part 3](/videos/img/sfh_foundation.jpg)
+</div>
+
+**Sufi Encounters - Part 3**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=pS2GC-4gDwc">Watch</a>
 </div>
 
 </div>
@@ -177,20 +191,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Surah Najm](/videos/img/sfh_foundation.jpg)
-</div>
-
-**Surah Najm**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=SxDaSBcMkjI">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
 ![Sufi Encounters - A Spiritual Journey](/videos/img/sfh_foundation.jpg)
 </div>
 
@@ -205,13 +205,13 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Path To Fulfillment](/videos/img/sfh_foundation.jpg)
+![Surah Najm](/videos/img/sfh_foundation.jpg)
 </div>
 
-**The Path To Fulfillment**
+**Surah Najm**
 
 <div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=MfuW7HswOpk">Watch</a>
+<a target="_blank" href="https://www.youtube.com/watch?v=SxDaSBcMkjI">Watch</a>
 </div>
 
 </div>
@@ -219,13 +219,27 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Impromptu Question and Answer Session](/videos/img/sfh_foundation.jpg)
+![Surah Qiyamah & Surah Mursalat](/videos/img/sfh_foundation.jpg)
 </div>
 
-**Impromptu Question and Answer Session**
+**Surah Qiyamah & Surah Mursalat**
 
 <div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=biriCpNfZ8s">Watch</a>
+<a target="_blank" href="https://www.youtube.com/watch?v=hWNsCLF3Bhw">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Path To Fulfillment](/videos/img/sfh_foundation.jpg)
+</div>
+
+**The Path To Fulfillment**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=MfuW7HswOpk">Watch</a>
 </div>
 
 </div>
@@ -296,20 +310,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 <div markdown="3" class="video-link">
 <a target="_blank" href="https://www.youtube.com/watch?v=OjoszYssKSY">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Faith and Humanity](/videos/img/sfh_foundation.jpg)
-</div>
-
-**Faith and Humanity**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=MHDKJSeVKvA">Watch</a>
 </div>
 
 </div>

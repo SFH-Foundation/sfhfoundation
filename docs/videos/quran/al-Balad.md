@@ -6,7 +6,7 @@ image: assets/images/10.jpg
 
 # Surat al-Balad Tafsir
 
-<div class="callout6">
+<div class="callout">
 All dualities have their root in the original Oneness to which they return—the Perpetual One.
 </div>
 

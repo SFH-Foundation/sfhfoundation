@@ -86,7 +86,7 @@ Nothing and no one brings us happiness, it is the removal of unhappiness that ta
 
 </div>
 
-<div class="callout6">
+<div class="callout">
 Humanity is obsessed with its original nature—divinity and singularity. That is the root of all desires, passions and obsessions.
 </div>
 

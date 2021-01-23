@@ -6,7 +6,7 @@ image: assets/images/22.jpg
 
 # Living Qur’an
 
-<div class="callout6">
+<div class="callout">
 A wholesome mind has no option other than to accept the challenging gift of life and to try to interact with creation in smooth and natural ways, harmonious with body, mind and heart.
 </div>
 

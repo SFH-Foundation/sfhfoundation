@@ -6,7 +6,7 @@ image: assets/images/03.jpg
 
 # Gateways to Enlightenment
 
-<div class="callout6">
+<div class="callout">
 The road sign to a city is not the city. Remembrance is a sign. Experiencing the light within is to be celebrated.
 </div>
 
@@ -108,6 +108,6 @@ It culminates in **Ihsan**: the threshold of being. The key themes explored in t
 
 <div markdown="1" class="clear"></div>
 
-<div class="callout6">
+<div class="callout">
 When you discover the bliss that emanates from your own soul, you are awakening to the Divine promise.
 </div>

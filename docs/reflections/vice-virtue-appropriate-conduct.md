@@ -6,7 +6,7 @@ image: pointers/img/sfh_journeys.jpg
 
 # Virtuous Being and Higher Conduct
 
-<div class="callout6">
+<div class="callout">
 Daily needs and rationality are healthy diversions from the intensity of Reality or Truth, for it is so powerful that we need diversions.
 </div>
 
@@ -34,7 +34,7 @@ It is part of human nature to consider loyalty as a good virtue for it contains 
 
 ## Higher Consciousness
 
-<div class="callout6">
+<div class="callout">
 Higher consciousness is our enduring nature and reality; and the closer we are to it the more we feel secure in its presence.
 </div>
 

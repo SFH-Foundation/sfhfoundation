@@ -1,121 +1,106 @@
 ---
-title: Reflections
-description: A collection of universal Sufi aphorisms written by Shaykh Fadhlalla Haeri
-image: assets/images/22.jpg
+title: Practice Reflecting
+description: All the various Sufi, Islamic and Qur'anic guides and maps provided by Shaykh Fadhlalla Haeri
+image: assets/images/11.jpg
 ---
 
-# Reflections
+# Practice Reflecting
 
-This section is organised into separate "journeys". Each saying is - in itself - a key to wisdom and deeper understanding. The intention is that you travel through each journey separately and return numerous times as each stage takes you deeper into your own heart.
-
-## Stop
-
-<div class="callout6">
-It is a wise one who is always hopeful to learn meanings and lessons from difficulties and hardships.
+<div class="callout">
+The more often you calibrate your overall state with death or the hereafter, the more likely you are to experience a good life.
 </div>
 
-Human beings reflect the cosmic perfection at the point of conception but, as we grow, errors and defects arise in accordance with entropy. Our apparent freedom of action only increases our imperfections. If we are willing to stop, our chances of an appropriate start are greater. When the stop/start frequency resonates within head and heart, the ‘self and soul connection’ is stronger. Unity in consciousness is the fruit of spiritual evolvement which encompasses the seen and unseen worlds.
+<div markdown="1" class="card article sidebar center">
 
-<div markdown="3" class="purchase-link">
-[Begin The Journey](./spectrum/)
+**Specific Practices**
+
+<div markdown="2" class="article-image">
+![People of Light](../assets/images/49.jpg)
 </div>
 
-<div markdown="3" class="purchase-link">
-[Spectrum of Reality](http://spectrumofreality.com/)
+<div markdown="3" class="article-para">
+Practice stillness and recalibrate regularly with silence. Exercise genuine honesty and humility, so as to find the correct balance between head and heart, which can lead to a truly neutral state from which to begin moving into more subtle zones of awareness.
 </div>
 
-If you'd like to receive one of these aphorisms every two weeks, directly into your inbox, please follow the link below:
-
-<div markdown="3" class="purchase-link">
-[Aphorisms](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1171)
+<div markdown="3" class="article-link">
+[Read More](./practice/)
 </div>
 
-## Collected Threads
+</div>
 
-<div class="aphorism-text">
+<div markdown="1" class="card article sidebar center">
 
-The silence within is the knock on the inner door.
+**What Is It?**
 
-<div class="div"></div>
+<div markdown="2" class="article-image">
+![What Is It?](../assets/images/56.jpg)
+</div>
 
-Life cannot be understood unless one is willing to die.
+<div markdown="3" class="article-para">
+What is it that we really want in life? Instead of common wisdom, Shaykh Fadhlalla offers three simple keys to living in tune with the infinite harmonic flow.
+</div>
 
-<div class="div"></div>
-
-There is nothing new in the path of arrival.
-
-<div class="div"></div>
-
-To restrict the self is the first step towards the open horizons of the soul.
-
-<div class="div"></div>
-
-The soul has no concern. The self is always in agitation until its concern becomes one – its source of life.
-
-<div class="div"></div>
-
-To live the moment fully, you must go beyond space-time.
-
-<div class="div"></div>
-
-Infinity is rooted in the tiny entity of an electron or photon.
-
-<div class="div"></div>
-
-The imagination of multiplicity in this world is part of the love and return back to the same One.
-
-<div class="div"></div>
-
-From the ocean of Oneness, different and separate entities and qualities have emanated. The twins of friendship and enmity emerged as the duality that announces the original unity!
-
-<div class="div"></div>
-
-What we understand of consciousness is what is limited or conditioned, such as pain or pleasure.
-
-<div class="div"></div>
-
-You are not what you think you are. There is only God.
-
-<div class="div"></div>
-
-You cannot say, ‘I fooled them’. You have only fooled yourself. There is nothing other than yourself.
-
-<div class="div"></div>
-
-One may be aware of awareness, and also aware of the awareness of one’s awareness. Two mirrors opposite each other illustrate this condition. But can one be purely, simply, totally just awareness itself? Pure awareness.
-
-<div class="div"></div>
-
-Everyone is on a path, whether consciously or unconsciously.
-
-<div class="div"></div>
-
-On a cultural or spiritual journey, the destination is connected with every step. The journey becomes the purpose.
-
-<div class="div"></div>
-
-The wholesome journey does not exclude day to day living.
-
-<div class="div"></div>
-
-The paradox is that you cannot stop looking for security and you will never find it within conditioned human consciousness or the body and mind.
-
-<div class="div"></div>
-
-Justice prevails when otherness and differences submerge into oneness and sameness.
-
-<div class="div"></div>
-
-In truth, there is only the truth. But we discover it through different levels of falsehood.
-
-<div class="div"></div>
-
-If the moment is fully and utterly treasured then we are at the gateway of eternity.
-
-<div class="div"></div>
-
-The beginning and the end are not separate, nor are they in space and time.
-
-<div class="div"></div>
+<div markdown="3" class="article-link">
+[Read More](./what-is-it)
+</div>
 
 </div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Maps & Models of the Self**
+
+<div markdown="2" class="article-image">
+![Sufis](../assets/images/48.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+A basic mapping of the modern self and the journeys it can undergo in this life as it progresses through various layers or rungs of consciousness.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./4-journeys)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Vices, Virtue and Appropriate Conduct**
+
+<div markdown="2" class="article-image">
+![Virtuous Being and Higher Conduct](../assets/images/50.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+Virtue is behaviour occurring at the centre of two extremes, both of which are unvirtuous. From this base, Shaykh Fadhlalla explores loyalty, higher consciousness and the eternal now.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./vice-virtue-appropriate-conduct)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Self Knowledge and Unfolding Into Presence**
+
+<div markdown="2" class="article-image">
+![Self Knowledge and Presence](../assets/images/46.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+A collection of excerpts from various books written by Shaykh Fadhlalla over the years on the theme of Self Knowledge, Presence, and how to deepen one's practice of both.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./self-knowledge-presence)
+</div>
+
+</div>
+
+<div class="callout">
+In sacred presence belonging is a redundant word: there is only the light from which everything emanates and to which all returns.
+</div>
+

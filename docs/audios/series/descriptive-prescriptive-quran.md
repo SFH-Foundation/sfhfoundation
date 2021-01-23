@@ -6,7 +6,7 @@ image: assets/images/13.jpg
 
 # Descriptive and Prescriptive Qur'an
 
-<div class="callout6">
+<div class="callout">
 Most people complain that time flies, but the awakened ones discover the inner zone of timelessness.
 </div>
 
@@ -36,7 +36,7 @@ The Original Prophetic teachings, allegory and the prescriptive and descriptive 
 
 ## Fear & Hope
 
-<div class="callout6">
+<div class="callout">
 The constant human challenge is to maintain the balance between our sensory world and the inner light of the soul.
 </div>
 
@@ -64,7 +64,7 @@ An understanding of the parallels of this evolutionary dimension is critical in 
 
 ## Good News & Warning
 
-<div class="callout6">
+<div class="callout">
 Each one of us contains aspects of animality, humanity and a spark of divinity. At best we may reflect an aspect of The Real.
 </div>
 
@@ -92,7 +92,7 @@ The appropriate prescriptive steps and descriptive qualifications in, adequately
 
 ## Human Misery
 
-<div class="callout6">
+<div class="callout">
 To find your real self —your soul— lose your identity and yield to the inner light of your soul.
 </div>
 

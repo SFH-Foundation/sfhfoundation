@@ -4,7 +4,7 @@ description: Shaykh Fadhlalla Haeri answers two of the most basic and profound q
 image: /assets/images/55.jpg
 ---
 
-<div class="callout6">
+<div class="callout">
 When the nature of the soul is realized, then the ideas of freedom or choice disappear and what remains is blissful peace.
 </div>
 
@@ -16,7 +16,7 @@ The question, “Who am I?” arises due to that touch, because I want to cope, 
 
 ## Bounded Eternity
 
-<div class="callout6">
+<div class="callout">
 Peace is at the edge of space and time. It is still, stable, and constant.
 </div>
 
@@ -36,7 +36,7 @@ Realise that there is an aspect in you that is boundless, limitless, timeless, n
 
 ## The Spectrum
 
-<div class="callout6">
+<div class="callout">
 We experience change and movement due to the stable nature of our soul.
 </div>
 

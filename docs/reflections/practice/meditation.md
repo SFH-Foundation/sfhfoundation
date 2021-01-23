@@ -10,7 +10,7 @@ image: pointers/img/sfh_pilgrim.jpg
 
 A healthy mind is a medium that connects energy and matter with meanings and value. A fresh mind evaluates new events and experiences without preconceptions. Nowadays, the idea of mindfulness implies being focused and single pointed. The beginner’s mind is less cluttered with memories and prejudices. It connects the ever-changing consciousness, with supreme consciousness. It has a chance to transcend personal discernment and evaluation to higher states of pure witnessing.  
 
-<div class="callout6">
+<div class="callout">
 The beginner’s mind is fresh, flexible, and close to the door of eternal presence and the infinite Nowness.
 </div>
 
@@ -26,7 +26,7 @@ Once we learn this then emptying out becomes sweet. Once our fear of death and c
 
 This world contains samples of all creations and states, seen and unseen, including paradise and hell. Human life is a process of learning through acceptance and rejection. To activate and access your heart, you need to reduce outer worldly concerns. To understand fully the greatness, power and perfection of the present moment, you need to cleanse the mind from its past or future fears. Only then can you live now. To be more in heaven you need to be less worldly. To live the moment fully, you must go beyond space-time.
 
-<div class="callout6">
+<div class="callout">
 You are a celestial soul or spirit on an earthly voyage exploring duality, yearning for your source and origin of unity.
 </div>
 

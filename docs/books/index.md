@@ -6,7 +6,7 @@ image: books/zahra_logo.png
 
 # Books
 
-<div class="callout6">
+<div class="callout">
 The nature of the mind is to separate and differentiate, whereas - in truth - everything is linked and connected. The time we are living in connects philosophy, science and spirituality perfectly.
 </div>
 

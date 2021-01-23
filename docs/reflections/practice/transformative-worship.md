@@ -6,7 +6,7 @@ image: pointers/img/sfh_transformed.jpg
 
 # Transformative Worship
 
-<div class="callout6">
+<div class="callout">
 To believe that God governs all is a big relief from the fear and concerns about injustice and other wrongdoings that we cannot help.
 </div>
 

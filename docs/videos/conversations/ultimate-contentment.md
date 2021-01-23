@@ -6,7 +6,7 @@ image: assets/images/24.jpg
 
 # Ultimate Contentment
 
-<div class="callout6">
+<div class="callout">
 The realisation that there is only Oneness and no otherness is awakening.
 </div>
 

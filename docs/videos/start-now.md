@@ -6,7 +6,7 @@ image: assets/images/07.jpg
 
 # Start Now
 
-<div class="callout6">
+<div class="callout">
 You are a celestial soul or spirit on an earthly voyage exploring duality, yearning for your source and origin of unity.
 </div>
 

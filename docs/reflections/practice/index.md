@@ -4,7 +4,7 @@ description:
 image:
 ---
 
-<div class="callout6">
+<div class="callout">
 Healthy life is a practice of flowing with the eternal grace which envelops the whole cosmos.
 </div>
 
@@ -36,6 +36,6 @@ The idea of free will is part of the mystery of the imaginal which gives you the
 
 Our consciousness has evolved over millennia. As humans, we can realise and accept that each one of us seeks contentment and happiness, which is a necessary state for the rise in consciousness towards the Absolute. Our ambitions and desires for a good quality life will ultimately drive us to the realisation of the perpetuity of life itself and the inseparability of personal life from eternal life.
 
-<div class="callout6">
+<div class="callout">
 Higher consciousness always drives us to connect and to continue until we touch the source of Oneness.
 </div>

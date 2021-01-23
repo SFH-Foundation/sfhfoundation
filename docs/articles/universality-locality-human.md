@@ -4,7 +4,7 @@ description: What it means to walk the pathless path between self and soul, navi
 image: /assets/images/24.jpg
 ---
 
-<div class="callout6">
+<div class="callout">
 With reflection, one realises that inner and outer states are in constant resonance or entanglement.
 </div>
 

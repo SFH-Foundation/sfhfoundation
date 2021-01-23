@@ -6,7 +6,7 @@ image: assets/images/05.jpg
 
 # Human Duty and Destiny as Illustrated in The Qur'an
 
-<div class="callout6">
+<div class="callout">
 When you respect others as yourself, you are in close harmony to souls and their sameness.
 </div>
 
@@ -120,6 +120,6 @@ Your Lord is the Ever-forgiving. Look at how much He loves you, that He gives yo
 
 </div>
 
-<div class="callout6">
+<div class="callout">
 Human life is a short bridge that leads to the experience of the eternal nature of one’s own soul.
 </div>

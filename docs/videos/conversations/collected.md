@@ -6,7 +6,7 @@ image: assets/images/18.jpg
 
 # Specific Conversations
 
-<div class="callout6">
+<div class="callout">
 Connection and continuation are dominant in human consciousness —at all stages of life and existence.
 </div>
 

@@ -6,7 +6,7 @@ image: assets/images/08.jpg
 
 # Enlightenment
 
-<div class="callout6">
+<div class="callout">
 We have all evolved from Oneness and are driven to know and experience it through higher consciousness.
 </div>
 
@@ -172,7 +172,7 @@ Know your essential makeup; navigate between light and shadow with constant refe
 
 <div markdown="1" class="clear"></div>
 
-<div class="callout6">
+<div class="callout">
 The awakened being lives within sensible and wise limitations on earth whilst experiencing the limitless light of the soul within.
 </div>
 

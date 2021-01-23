@@ -6,7 +6,7 @@ image: pointers/img/sfh_journeys.jpg
 
 # Maps & Models of Self Unfoldment
 
-<div class="callout6">
+<div class="callout">
 Intelligence will lead to the realisation that the cosmic spirit is the source of all that there is in the universe.
 </div>
 
@@ -22,7 +22,7 @@ When we reach this point and realise that there can be no lasting fulfillment in
 
 The four stages which follow illustrate the main stations that the successful wayfarer attains in his/her journey. Throughout life, s/he will continue to experience the entire spectrum of states to varying degress of intensity. What Mulla Sadra wishes to emphasise here is the established station that the wayfarer attains, rather than simply the passing, temporary state which s/he will continue to experience from time to time in life.
 
-<div class="callout6">
+<div class="callout">
 Your soul reflects the sacred presence, yet your earthly side experiences life through change. The real you is eternal, but appears to change.
 </div>
 
@@ -34,7 +34,7 @@ The unveiling of the first barrier involves tearing away veils both of darkness 
 
 ### The Second Journey: With the Creator by the Courtesy of the Creator
 
-<div class="callout6">
+<div class="callout">
 Our origin and essence is perpetual in its perfect beingness.
 </div>
 
@@ -52,7 +52,7 @@ The nature of life does not change and it carries on with its ups and downs. The
 
 ### The Fourth Journey: With Creation by the Authority of the Creator
 
-<div class="callout6">
+<div class="callout">
 To go beyond mind, reason, and habits is the ultimate act of intelligence.
 </div>
 
@@ -62,7 +62,7 @@ In all this, s/he is with the truth, for his/her entire being has been submerged
 
 When reality in all its various aspects is unveiled to the wayfarer and s/he is established in the knowledge of truth within, a new outlook towards creation emerges. The awakened being sees the divine thread through all existence and therefore is qualified to serve with selflessness, with no danger to creation or to themself. When the individual self has aligned itself with original unified reality, the flowering of the spiritual being has occurred. It is this unveiling that is referred to as "with creation by the authority of the Creator." Wherever the enlightened being looks, he sees the trace and the mark of the Creator. S/he is now an agent of transformation, a loyal slave to the Divine Master and a freed being with no choice but to reflect what comes to his/her pure heart. This is the state of a prophet with the people - outwardly the same as any of them, inwardly turned to the eternal origin.
 
-<div class="callout6">
+<div class="callout">
 The human journey in life is an ascent in consciousness from what we consider normal, towards the full spectrum—Cosmic Oneness.
 </div>
 

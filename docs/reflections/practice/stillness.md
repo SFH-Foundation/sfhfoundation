@@ -4,7 +4,7 @@ description: Stillness and the art of stopping is the heart of all true spiritua
 image: pointers/img/people-light.jpg
 ---
 
-<div class="callout6">
+<div class="callout">
 This is all for you to lose the veil of identity in space and time so that the soul may return to its eternal nature and natural boundlessness.
 </div>
 
@@ -20,7 +20,7 @@ The more often we refer to the point of total stillness and silence, the more we
 
 If you want to undertake a real pilgrimage, go into total silence and ‘lose’ everything. There is nothing that is reliable or durable. That which is reliable and durable cannot be described or defined: it is a cosmic light that is in every heart.
 
-<div class="callout6">
+<div class="callout">
 You are not who you think you are.
 </div>
 
