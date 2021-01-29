@@ -9,7 +9,7 @@ image: /assets/images/56.jpg
 To be in balance physically, mentally, and spiritually, we need to listen and respond with healing affection.
 </div>
 
-This page presents a collection of uncommon dialogues conducted during Ramadan 2020 while the majority of the world was in lockdown due to COVID-19. In these talks, Shaykh Fadhlalla and people like Dr Adnan Al-Adnani, Saadi Dr Neil Douglas Klotz, Dr Ali Allawi, Professor Sadiyya Shaikh, Syed Haider Mehdi, Amir Freiman, Matthew Green, and others discuss a broad range of topics: from Islamic Civilisation, to the Qur'an, to Sufi Cosmology and everything in between.
+This page presents a collection of uncommon dialogues between Shaykh Fadhlall and a wide array of friends, including Dr Adnan Al-Adnani, Saadi Dr Neil Douglas Klotz, Dr Ali Allawi, Professor Sadiyya Shaikh, Syed Haider Mehdi, Amir Freiman, Matthew Green. The conversations cover a broad range of topics: from Islamic Civilisation, to the Qur'an, to Sufi Cosmology and everything in between.
 
 ## Sufi Cosmology Of Life
 

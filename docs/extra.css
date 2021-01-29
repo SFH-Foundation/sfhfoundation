@@ -83,7 +83,7 @@
     font-weight: bold;
   }
 
-  .purchase-link p {
+  .purchase-link p, .article-link p {
     background:#f3eab2;
     border-radius: 5px;
     width: 30%;
@@ -176,6 +176,10 @@
 @media (max-width: 761px) {
   .hero-img {
     height: 16vh;
+  }
+
+  .card.video p {
+    margin-bottom: 45px;
   }
 
   .md-typeset h1 {

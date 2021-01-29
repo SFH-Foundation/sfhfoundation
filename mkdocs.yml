@@ -256,7 +256,8 @@ nav:
     - Sideways Dictionary:
       - 'What is the sideways dictionary?': 'glossary/sideways-dictionary/what-is-the-sideways-dictionary.md'
   - Gatherings & Volunteers:
-    - 'Join Us': 'gatherings-volunteer/index.md'
+    - 'Events': 'gatherings-volunteer/index.md'
+    - 'Join Us': 'gatherings-volunteer/join-us.md'
     - Latest:
       - 'COVID-19': 'gatherings-volunteer/latest/index.md'
       - 'Ramadan 2020': 'gatherings-volunteer/latest/uncommon-dialogues.md'
