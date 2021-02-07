@@ -24,46 +24,6 @@ Join us from the comfort of your own home for the next talks, which you can find
 
 <div markdown="1" class="card article sidebar center">
 
-**Two Friends: Conversations in Metaphysics Theology and Anthropology**
-
-<div markdown="2" class="article-image">
-![Two Friends](/videos/img/sfh_foundation.jpg)
-</div>
-
-<div markdown="3" class="article-para">
-Premieres on Saturday 30th January 2021<br/><br/>
-Prof. Dr. Akbar Ahmed is the Ibn Khaldun Chair of Islamic Studies at American University in Washington DC and the former Pakistani High Commissioner to the UK & Ireland. These two luminaries have known each other for three decades and while they have met infrequently have remained in constant touch. We were fortunate to be able to arrange this first conversation which encompassed matters related to Metaphysics, Theology and Anthropology.
-</div>
-
-<div markdown="3" class="article-link">
-[Set Reminder](https://www.youtube.com/watch?v=GRMRtyH4GW4)
-</div>
-
-</div>
-
-We are accustomed to the idea of geology and astronomy speaking the secrets of ‘deep time,’ the immense arc of non-human history that shaped the world as we perceive it. The Earth is roughly 4.5 billion years old—a number that is hard for humans to grasp. For human beings whose life span is normally less than 100 years, it’s nearly impossible to imagine something so vast as geological or deep time. Human history in perspective, when compared to ‘deep time’, is a mere flash in the pan.
-
-<div markdown="1" class="card article sidebar center">
-
-**Deep Time & Human History Session 2**
-
-<div markdown="2" class="article-image">
-![Deep Time & Human History Session 2](/videos/img/deep_time.png)
-</div>
-
-<div markdown="3" class="article-para">
-Premieres on Saturday 6th February 2021<br/><br/>
-This second session between Richard (RJ) Eskow and Shaykh Fadhlalla Haeri is based on questions from the audience of the first session broadcast on January 10, 2021. Shaykh Fadhlalla responds to these questions in his inimitable style bringing the viewer back to recognising their own humanity and finding the path to unity while understanding ‘deep time’. RJ in his usual probing style brings out a nuanced and insightful conversation.
-</div>
-
-<div markdown="3" class="article-link">
-[Set Reminder](https://youtu.be/q1QA3kuT1Gc)
-</div>
-
-</div>
-
-<div markdown="1" class="card article sidebar center">
-
 **Achieving Inner Satisfaction & Outer Peace: Embracing Divine Teachings**
 
 <div markdown="2" class="article-image">

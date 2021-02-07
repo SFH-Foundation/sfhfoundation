@@ -163,6 +163,20 @@ Shaykh Fadhlalla's discussions with Dr Adnan Al-Adnani continue in a section of 
 
 </div>
 
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Selected Āyāt From The Qur'an](/videos/img/sfh_foundation.jpg)
+</div>
+
+**Selected Āyāt From The Qur'an**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=Gzj7mO8ejrg">Watch</a>
+</div>
+
+</div>
+
 <div markdown="1" class="clear"></div>
 
 ## Insights
@@ -240,20 +254,6 @@ Every human reflects the story of the universe. However, life itself has no begi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Selected Āyāt From The Qur'an](/videos/img/sfh_foundation.jpg)
-</div>
-
-**Selected Āyāt From The Qur'an**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=Gzj7mO8ejrg">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
 ![The Crisis of Islamic Civilisation](/videos/img/sfh_foundation.jpg)
 </div>
 
@@ -293,6 +293,20 @@ Every human reflects the story of the universe. However, life itself has no begi
 
 </div>
 
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Deep Time & Human History](/videos/img/sfh_foundation.jpg)
+</div>
+
+**Deep Time & Human History Session 2**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://youtu.be/q1QA3kuT1Gc">Watch</a>
+</div>
+
+</div>
+
 <div markdown="1" class="clear"></div>
 
 ## Explorations
@@ -327,6 +341,20 @@ These uncommon dialogues were extended beyond the month of Ramadan in 2020 to in
 
 <div markdown="3" class="video-link">
 <a target="_blank" href="https://www.youtube.com/watch?v=iTTxhb_f8Z0">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Two Friends](/videos/img/sfh_foundation.jpg)
+</div>
+
+**Two Friends: Conversations in Metaphysics**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=GRMRtyH4GW4">Watch</a>
 </div>
 
 </div>

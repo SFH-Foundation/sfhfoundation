@@ -149,6 +149,34 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![Deep Time & Human History](/videos/img/sfh_foundation.jpg)
+</div>
+
+**Deep Time & Human History Session 2**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://youtu.be/q1QA3kuT1Gc">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Two Friends](/videos/img/sfh_foundation.jpg)
+</div>
+
+**Two Friends: Conversations in Metaphysics**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=GRMRtyH4GW4">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Deep Time and Human History](/videos/img/sfh_foundation.jpg)
 </div>
 
@@ -282,34 +310,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 <div markdown="3" class="video-link">
 <a target="_blank" href="https://www.youtube.com/watch?v=iE_3-5hhsT0">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Surrender and Transcendence](/videos/img/sfh_foundation.jpg)
-</div>
-
-**Surrender and Transcendence in Sufism**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=2krm8-Rhi6A">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Process Of Spiritual Transformation](/videos/img/sfh_foundation.jpg)
-</div>
-
-**The Process Of Spiritual Transformation**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=OjoszYssKSY">Watch</a>
 </div>
 
 </div>
