@@ -55,7 +55,8 @@
   .book-link p:hover,
   .video-link p:hover,
   .purchase-link p:hover,
-  .audio-link p:hover {
+  .audio-link p:hover,
+  .article-link p:hover {
     background: none;
   }
 
@@ -78,7 +79,7 @@
     height: 35px !important;
   }
 
-  .book-link a, .purchase-link a, .video-link a, .audio-link a {
+  .book-link a, .purchase-link a, .video-link a, .audio-link a, .article-link a {
     color: #E0B24D !important;
     font-weight: bold;
   }
