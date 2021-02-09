@@ -40,4 +40,6 @@ Perfect action is to place an idea or a thing in the right place at the right ti
 
 <div class="div"></div>
 
+</div>
+
 ![](../../assets/images/19.jpg)

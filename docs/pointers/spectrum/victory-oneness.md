@@ -28,4 +28,6 @@ Disappointments will continue until you reach the real appointment - Truth.
 
 <div class="div"></div>
 
+</div>
+
 ![](../../assets/images/20.jpg)
