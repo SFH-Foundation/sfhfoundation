@@ -36,7 +36,26 @@ By request of the Gulf Cultural Club and Abrar Islamic Foundation, this talk foc
 </div>
 
 <div markdown="3" class="article-link">
-[Set Reminder](https://youtu.be/ftGv_vHCirM)
+<a href="https://youtu.be/ftGv_vHCirM" target="_blank" rel="noopener noreferrer">Set Reminder</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Huamn Creation: Its Nature and Direction**
+
+<div markdown="2" class="article-image">
+![Huamn Creation: Its Nature and Direction](/videos/img/sfh_noble_quran.png)
+</div>
+
+<div markdown="3" class="article-para">
+Premieres on Saturday 20th February 2021<br/><br/>
+In this intimate session, Shaykh Fadhlalla takes the audience through a penetrating commentary of a series of powerful verses from The Noble Quran. He was inspired to select these key verses he and share them with commentary in the company of friends.    
+</div>
+
+<div markdown="3" class="article-link">
+<a href="https://www.youtube.com/watch?v=GIcbm7YO640" target="_blank" rel="noopener noreferrer">Set Reminder</a>
 </div>
 
 </div>
