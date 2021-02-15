@@ -245,6 +245,52 @@ This section includes a conversation between Shaykh Saadi Dr. Neil Douglas Klotz
 
 <div markdown="1" class="clear"></div>
 
+## Deep Time and Fulfilment
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Deep Time and Human History](/videos/img/sfh_foundation.jpg)
+</div>
+
+**Deep Time and Human History**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=CjzC-spEJ1U">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Deep Time & Human History](/videos/img/sfh_foundation.jpg)
+</div>
+
+**Deep Time & Human History Session 2**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://youtu.be/q1QA3kuT1Gc">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Human Drive To Be Fulfilled](/videos/img/sfh_foundation.jpg)
+</div>
+
+**The Human Drive To Be Fulfilled**
+
+<div markdown="3" class="video-link">
+<a href="https://www.youtube.com/watch?v=tvGZLiBGyRo" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
+
 ## Reflections
 
 <div class="callout">
@@ -282,27 +328,13 @@ Every human reflects the story of the universe. However, life itself has no begi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Deep Time and Human History](/videos/img/sfh_foundation.jpg)
+![Achieving Inner Satisfaction & Outer Peace: Embracing Divine Teachings](/videos/img/sfh_foundation.jpg)
 </div>
 
-**Deep Time and Human History**
+**Achieving Inner Satisfaction & Outer Peace**
 
 <div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=CjzC-spEJ1U">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Deep Time & Human History](/videos/img/sfh_foundation.jpg)
-</div>
-
-**Deep Time & Human History Session 2**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://youtu.be/q1QA3kuT1Gc">Watch</a>
+<a href="https://youtu.be/ftGv_vHCirM" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>

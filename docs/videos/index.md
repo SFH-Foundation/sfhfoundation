@@ -149,6 +149,34 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![The Human Drive To Be Fulfilled](/videos/img/sfh_foundation.jpg)
+</div>
+
+**The Human Drive To Be Fulfilled**
+
+<div markdown="3" class="video-link">
+<a href="https://www.youtube.com/watch?v=tvGZLiBGyRo" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Achieving Inner Satisfaction & Outer Peace: Embracing Divine Teachings](/videos/img/inner_outer.png)
+</div>
+
+**Achieving Inner Satisfaction & Outer Peace**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/ftGv_vHCirM" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Deep Time & Human History](/videos/img/sfh_foundation.jpg)
 </div>
 
@@ -282,34 +310,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 <div markdown="3" class="video-link">
 <a target="_blank" href="https://www.youtube.com/watch?v=wrFSBsTRewY">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Real: Faith & Identity On The Path To Awakening](/videos/img/sfh_foundation.jpg)
-</div>
-
-**The Real: Faith & Identity On The Path To Awakening**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=iTTxhb_f8Z0">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Insights into Peak Experiences](/videos/img/sfh_foundation.jpg)
-</div>
-
-**Insights into Peak Experiences**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=iE_3-5hhsT0">Watch</a>
 </div>
 
 </div>
