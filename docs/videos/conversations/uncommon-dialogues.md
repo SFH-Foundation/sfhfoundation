@@ -179,7 +179,7 @@ Shaykh Fadhlalla's discussions with Dr Adnan Al-Adnani continue in a section of 
 
 <div markdown="1" class="clear"></div>
 
-## Insights
+## Clear Insight
 
 <div class="callout">
 The more insight we have, the greater will be our foresight.
@@ -245,7 +245,11 @@ This section includes a conversation between Shaykh Saadi Dr. Neil Douglas Klotz
 
 <div markdown="1" class="clear"></div>
 
-## Deep Time and Fulfilment
+## Divine Humanity
+
+<div class="callout">
+Every human reflects the story of the universe. However, life itself has no beginning or end. The divine is eternal.
+</div>
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -289,24 +293,30 @@ This section includes a conversation between Shaykh Saadi Dr. Neil Douglas Klotz
 
 </div>
 
-<div markdown="1" class="clear"></div>
+<div markdown="1" class="card video sidebar center gemoji center-content">
 
-## Reflections
+<div markdown="2" class="video-image">
+![The Human Crisis - Bleakness & Hope](/videos/img/sfh_bleakness_hope.png)
+</div>
 
-<div class="callout">
-Every human reflects the story of the universe. However, life itself has no beginning or end. The divine is eternal.
+**The Human Crisis - Bleakness & Hope**
+
+<div markdown="3" class="video-link">
+<a href="https://www.youtube.com/watch?v=_cuDO8kAsBI" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
 </div>
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Crisis of Islamic Civilisation](/videos/img/sfh_foundation.jpg)
+![Human Creation: Its Nature and Direction](/videos/img/sfh_noble_quran.png)
 </div>
 
-**The Crisis of Islamic Civilisation**
+**Human Creation: Its Nature and Direction**
 
 <div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=CFaT26y91I8">Watch</a>
+<a href="https://www.youtube.com/watch?v=GIcbm7YO640" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>
@@ -335,6 +345,20 @@ Every human reflects the story of the universe. However, life itself has no begi
 
 <div markdown="3" class="video-link">
 <a href="https://youtu.be/ftGv_vHCirM" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Crisis of Islamic Civilisation](/videos/img/sfh_foundation.jpg)
+</div>
+
+**The Crisis of Islamic Civilisation**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=CFaT26y91I8">Watch</a>
 </div>
 
 </div>

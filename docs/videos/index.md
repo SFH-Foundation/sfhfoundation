@@ -149,6 +149,34 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![The Human Crisis - Bleakness & Hope](/videos/img/sfh_bleakness_hope.png)
+</div>
+
+**The Human Crisis - Bleakness & Hope**
+
+<div markdown="3" class="video-link">
+<a href="https://www.youtube.com/watch?v=_cuDO8kAsBI" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Human Creation: Its Nature and Direction](/videos/img/sfh_noble_quran.png)
+</div>
+
+**Human Creation: Its Nature and Direction**
+
+<div markdown="3" class="video-link">
+<a href="https://www.youtube.com/watch?v=GIcbm7YO640" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![The Human Drive To Be Fulfilled](/videos/img/sfh_foundation.jpg)
 </div>
 
@@ -282,34 +310,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 <div markdown="3" class="video-link">
 <a target="_blank" href="https://www.youtube.com/watch?v=hWNsCLF3Bhw">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Path To Fulfillment](/videos/img/sfh_foundation.jpg)
-</div>
-
-**The Path To Fulfillment**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=MfuW7HswOpk">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Seeking Divine Light](/videos/img/sfh_foundation.jpg)
-</div>
-
-**Seeking Divine Light**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=wrFSBsTRewY">Watch</a>
 </div>
 
 </div>
