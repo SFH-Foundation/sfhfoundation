@@ -9,7 +9,7 @@ image: /assets/images/56.jpg
 To be in balance physically, mentally, and spiritually, we need to listen and respond with healing affection.
 </div>
 
-This page presents a collection of uncommon dialogues between Shaykh Fadhlall and a wide array of friends, including Dr Adnan Al-Adnani, Saadi Dr Neil Douglas Klotz, Dr Ali Allawi, Professor Sadiyya Shaikh, Syed Haider Mehdi, Amir Freiman, Matthew Green. The conversations cover a broad range of topics: from Islamic Civilisation, to the Qur'an, to Sufi Cosmology and everything in between.
+This page presents a collection of uncommon dialogues between Shaykh Fadhlalla and a wide array of friends, including Dr Adnan Al-Adnani, Saadi Dr Neil Douglas Klotz, Dr Ali Allawi, Professor Sadiyya Shaikh, Syed Haider Mehdi, Ambassador Professor Akbar Ahmed, Amir Freiman, and Matthew Green. The conversations cover a broad range of topics: from human drives and the meaning of a fulfilled life, to the Qur'an, to Sufi Cosmology, and all the various encounters between.
 
 ## Sufi Cosmology Of Life
 
@@ -254,6 +254,34 @@ Every human reflects the story of the universe. However, life itself has no begi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![The Human Crisis - Bleakness & Hope](/videos/img/sfh_foundation.jpg)
+</div>
+
+**The Human Crisis - Bleakness & Hope**
+
+<div markdown="3" class="video-link">
+<a href="https://www.youtube.com/watch?v=_cuDO8kAsBI" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Human Creation: Its Nature and Direction](/videos/img/sfh_foundation.jpg)
+</div>
+
+**Human Creation: Its Nature and Direction**
+
+<div markdown="3" class="video-link">
+<a href="https://www.youtube.com/watch?v=GIcbm7YO640" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Deep Time and Human History](/videos/img/sfh_foundation.jpg)
 </div>
 
@@ -289,34 +317,6 @@ Every human reflects the story of the universe. However, life itself has no begi
 
 <div markdown="3" class="video-link">
 <a href="https://www.youtube.com/watch?v=tvGZLiBGyRo" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Human Crisis - Bleakness & Hope](/videos/img/sfh_bleakness_hope.png)
-</div>
-
-**The Human Crisis - Bleakness & Hope**
-
-<div markdown="3" class="video-link">
-<a href="https://www.youtube.com/watch?v=_cuDO8kAsBI" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Human Creation: Its Nature and Direction](/videos/img/sfh_noble_quran.png)
-</div>
-
-**Human Creation: Its Nature and Direction**
-
-<div markdown="3" class="video-link">
-<a href="https://www.youtube.com/watch?v=GIcbm7YO640" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>
@@ -365,13 +365,11 @@ Every human reflects the story of the universe. However, life itself has no begi
 
 <div markdown="1" class="clear"></div>
 
-## Explorations
+## Living Faith
 
 <div class="callout">
 We make allowance for our earthly limitations whilst evolving towards our origin—boundless life.
 </div>
-
-These uncommon dialogues were extended beyond the month of Ramadan in 2020 to include guests like Matthew Green and Safia Khan.
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
