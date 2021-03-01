@@ -149,6 +149,20 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![The Qur'an, Faith and Life](/videos/img/sfh_quran_faith_life.png)
+</div>
+
+**The Qur'an, Faith and Life**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/iMLektJvhrE" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![The Human Crisis - Bleakness & Hope](/videos/img/sfh_bleakness_hope.png)
 </div>
 
@@ -296,20 +310,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 <div markdown="3" class="video-link">
 <a target="_blank" href="https://www.youtube.com/watch?v=SxDaSBcMkjI">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Surah Qiyamah & Surah Mursalat](/videos/img/sfh_foundation.jpg)
-</div>
-
-**Surah Qiyamah & Surah Mursalat**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=hWNsCLF3Bhw">Watch</a>
 </div>
 
 </div>

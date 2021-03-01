@@ -177,6 +177,20 @@ Shaykh Fadhlalla's discussions with Dr Adnan Al-Adnani continue in a section of 
 
 </div>
 
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Qur'an, Faith and Life](/videos/img/sfh_foundation.jpg)
+</div>
+
+**The Qur'an, Faith and Life**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/iMLektJvhrE" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
 <div markdown="1" class="clear"></div>
 
 ## Clear Insight

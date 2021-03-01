@@ -22,7 +22,7 @@ This series of virtual talks has been extended due to their warm reception. The 
 
 Join us from the comfort of your own home for the next talks, which you can find scheduled below. Follow the link provided to set a reminder for yourself when each talk premieres.
 
-The next conversation with Shaykh Fadhlalla Haeri will focus on the meaning of life as reflected in the Noble Quran. Shaykh Fadhlalla will answer many questions around why the Muslim world has not been able to create a just, fair, and equitable society, where the citizens of this society are empowered and economically and spiritually enriched. 
+The last conversation with Shaykh Fadhlalla Haeri focused on the meaning of life as reflected in the Noble Qur'an. Shaykh Fadhlalla answered many questions around why the Muslim world has not been able to create a just, fair, and equitable society, where the citizens of this society are empowered and economically and spiritually enriched. 
 
 <div markdown="1" class="card article sidebar center">
 
@@ -33,14 +33,14 @@ The next conversation with Shaykh Fadhlalla Haeri will focus on the meaning of l
 </div>
 
 <div markdown="3" class="article-para">
-**Live on Saturday 27th February 2021**<br/><br/>
-This conversation will address a wide spectrum of key issues of global importance, like stress, violence, fear, hope, peace, human rights. What are we seeking? What is death? Why don't we celebrate death? The stress resulting from the material world we live in, the moral dilemmas we face on a day-to-day basis, the polarization in society and the creation of the other, and - most importantly - the lack of respect for the Earth and its creatures.  
+**Streamed on Saturday 27th February 2021**<br/><br/>
+This conversation addressed a wide spectrum of key issues of global importance, like stress, violence, fear, hope, peace, human rights. What are we seeking? What is death? Why don't we celebrate death? The stress resulting from the material world we live in, the moral dilemmas we face on a day-to-day basis, the polarization in society and the creation of the other, and - most importantly - the lack of respect for the Earth and its creatures.  
   
 Haider Mehdi is a Geopolitical commentator/blogger on Pakistan and International affairs. He is a media anchor, corporate leader, management consultant, start-up entrepreneur, and a retired military officer. 
 </div>
 
 <div markdown="3" class="article-link">
-<a href="https://youtu.be/iMLektJvhrE" target="_blank" rel="noopener noreferrer">Set Reminder</a>
+<a href="https://youtu.be/iMLektJvhrE" target="_blank" rel="noopener noreferrer">Catch Up</a>
 </div>
 
 </div>
