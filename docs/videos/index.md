@@ -149,6 +149,20 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![Humanity in Unity](/videos/img/urgency_journey_unity.jpg)
+</div>
+
+**Humanity in Unity**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/EZGSFY7TJq0" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![The Qur'an, Faith and Life](/videos/img/sfh_quran_faith_life.png)
 </div>
 
@@ -296,20 +310,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 <div markdown="3" class="video-link">
 <a target="_blank" href="https://www.youtube.com/watch?v=b10fYAx4qD4">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Surah Najm](/videos/img/sfh_foundation.jpg)
-</div>
-
-**Surah Najm**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=SxDaSBcMkjI">Watch</a>
 </div>
 
 </div>

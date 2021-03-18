@@ -9,7 +9,7 @@ image: /assets/images/56.jpg
 To be in balance physically, mentally, and spiritually, we need to listen and respond with healing affection.
 </div>
 
-This page presents a collection of uncommon dialogues between Shaykh Fadhlalla and a wide array of friends, including Dr Adnan Al-Adnani, Saadi Dr Neil Douglas Klotz, Dr Ali Allawi, Professor Sadiyya Shaikh, Syed Haider Mehdi, Ambassador Professor Akbar Ahmed, Amir Freiman, and Matthew Green. The conversations cover a broad range of topics: from human drives and the meaning of a fulfilled life, to the Qur'an, to Sufi Cosmology, and all the various encounters between.
+This page presents a collection of uncommon dialogues between Shaykh Fadhlalla and a wide array of friends, including Dr Adnan Al-Adnani, Saadi Dr Neil Douglas Klotz, Dr Ali Allawi, Professor Sadiyya Shaikh, Syed Haider Mehdi, Ambassador Professor Akbar Ahmed, Prof. Alexander Schieffer, Amir Freiman, and Matthew Green. The conversations cover a broad range of topics: from human drives and the meaning of a fulfilled life, to the Qur'an, Sufi Cosmology, and all the various encounters between.
 
 ## Sufi Cosmology Of Life
 
@@ -395,6 +395,20 @@ We make allowance for our earthly limitations whilst evolving towards our origin
 
 <div markdown="3" class="video-link">
 <a target="_blank" href="https://www.youtube.com/watch?v=OjoszYssKSY">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Humanity in Unity](/videos/img/sfh_foundation.jpg)
+</div>
+
+**Humanity in Unity**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/EZGSFY7TJq0" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>

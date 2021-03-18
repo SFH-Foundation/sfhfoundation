@@ -31,20 +31,16 @@ Join us from the comfort of your own home for the next talks, which you can find
 </div>
 
 <div markdown="3" class="article-para">
-**Premiering on Sunday 14th March 2021**<br/><br/>
+**Premiered on Sunday 14th March 2021**<br/><br/>
 Prof. Schieffer quoted major sections from Shaykh Fadhlalla's book <a href="https://zahrapublications.pub/book-TheJourneyOfTheSelf.php#bookTitle" target="_blank">Journey of the Self</a> as part of his research that resulted in the excellent book <a href="https://www.amazon.com/Integral-Development-Transformative-Organisations-Transformation-ebook/dp/B01G2BGPY0/ref=sr_1_1?dchild=1&amp;keywords=integral+development+schieffer&amp;qid=1614863911&amp;sr=8-1" target="_blank">Integral Development: Realising the Transformative Potential of Individuals, Organisations, and Societies</a>.  
 
-Prof. Schieffer has written a special poem in honour of this conversation which he will read at the opening of the session. He has recently published a book of poetry entitled <a href="https://www.amazon.com/Firebird-Alexander-Schieffer/dp/2956051709/ref=sr_1_1?dchild=1&amp;keywords=firebird+schieffer&amp;qid=1614864040&amp;sr=8-1" target="_blank">FIREBIRD: A Poetic Journey to Awaken the Inner Fire</a>.  
+Prof. Schieffer wrote a number of poems in honour of this conversation which he read during the dialogue. He has recently published a book of poetry entitled <a href="https://www.amazon.com/Firebird-Alexander-Schieffer/dp/2956051709/ref=sr_1_1?dchild=1&amp;keywords=firebird+schieffer&amp;qid=1614864040&amp;sr=8-1" target="_blank">FIREBIRD: A Poetic Journey to Awaken the Inner Fire</a>.  
 
-In this session, Prof. Schieffer will be discussing Unity as Starting-and-End-Point: the Significance of “Unity”, the Urgency of Unity: its importance in our Times, the Vitality of Unity in Diversity: the Relevance and Potential of Diversity, the Journey towards Unity: Processes that can guide us towards Unity (in Diversity), (From “Journey of the Self” of [ASK](../ask) to Releasing Genius in the Integral approach), Enabling Unity: How do we create and design “Enabling Places” to support the transformative Journey towards Unity? (From ASK to Home for Humanity), Coming Home / Manifesting the Future: On the Power of the (inner and outer) Home to Co-Create a Regenerative and Inclusive Earth Civilisation, for all Life.
-  
-Prof. Schieffer has written a special poem in honour of this conversation and which he will read at the end of the session.  
-
-The link below will be made public on Sunday March 14, 2021 at 12:00PM Central African Time.
+In this session, Prof. Schieffer discussed Unity as Starting-and-End-Point: the Significance of “Unity”, the Urgency of Unity: its importance in our Times, the Vitality of Unity in Diversity: the Relevance and Potential of Diversity, the Journey towards Unity: Processes that can guide us towards Unity (in Diversity), (From “Journey of the Self” of [ASK](../ask) to Releasing Genius in the Integral approach), Enabling Unity: How do we create and design “Enabling Places” to support the transformative Journey towards Unity? (From ASK to Home for Humanity), Coming Home / Manifesting the Future: On the Power of the (inner and outer) Home to Co-Create a Regenerative and Inclusive Earth Civilisation, for all Life.
 </div>
 
 <div markdown="3" class="article-link">
-<a href="https://youtu.be/EZGSFY7TJq0" target="_blank" rel="noopener noreferrer">Watch</a>
+<a href="https://youtu.be/EZGSFY7TJq0" target="_blank" rel="noopener noreferrer">Catch Up</a>
 </div>
 
 </div>
