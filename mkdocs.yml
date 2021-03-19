@@ -257,6 +257,7 @@ nav:
   - Gatherings & Volunteers:
     - 'Events': 'gatherings-volunteer/index.md'
     - 'Join Us': 'gatherings-volunteer/join-us.md'
-    - Latest:
-      - 'COVID-19': 'gatherings-volunteer/latest/index.md'
+    - 'Past Events': 'gatherings-volunteer/past/index.md'
+    - Messages:
+      - 'COVID-19': 'gatherings-volunteer/messages/index.md'
     - Newsletter: https://sfhfoundation.substack.com
