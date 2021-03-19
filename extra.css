@@ -200,6 +200,14 @@
     width: 60%;
   }
 
+  .article-link p {
+    width: 90%;
+  }
+
+  .article-image {
+    width: 100%;
+  }
+
   .audio-link {
     margin: 4px 4px 0 0;
     width: 30%;
