@@ -170,6 +170,10 @@
     background-image: linear-gradient(#0E879B,#E0B24D);
   }
 
+  .quran-m {
+    display: none;
+  }
+
   .clear {
     clear: both;
   }
@@ -177,6 +181,15 @@
 @media (max-width: 761px) {
   .hero-img {
     height: 16vh;
+  }
+
+  .quran {
+    display: none;
+  }
+
+  .quran-m {
+    display: block;
+    margin: 0 auto;
   }
 
   .card.video p {
