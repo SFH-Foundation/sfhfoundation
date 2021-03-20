@@ -1,0 +1,142 @@
+---
+title: 2020 Events
+description:
+---
+
+# Reflections and Actions
+
+<div class="callout">
+The illusion of duality is a driving force in life towards unity. The awakened person was a self and now is a soul. Perfect destiny.
+</div>
+
+2020's conference at the Rasooli Centre in Pretoria, South Africa focussed on the theme of "Reflections and Actions". You can find the entire playlist of every talk, and some of the songs, from the conference <a href="https://www.youtube.com/watch?v=Be9oJjKUQ2k&list=PLzFr0xRIkb3gZ8fH7Ru4Z0aCngiEgt4JJ" target="_blank">here</a> or just follow the links below for the Shaykh's specific contributions.
+
+## Shaykh Fadhlalla's Talks
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Origin of Good and Bad](/videos/img/sfh_good_bad.jpg)
+</div>
+
+**The Origin of Good and Bad**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=HkYFYz6cPds&list=PLzFr0xRIkb3gZ8fH7Ru4Z0aCngiEgt4JJ&index=17">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Way of Muhammad Today](/videos/img/sfh_way_muhammad.jpg)
+</div>
+
+**The Way of Muhammad Today**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=DMJWvJIsmL8&list=PLzFr0xRIkb3gZ8fH7Ru4Z0aCngiEgt4JJ&index=16">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Role of Men & Women](/videos/img/sfh_role_men_women.jpg)
+</div>
+
+**The Role of Men & Women**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=5dWxeKQdbZ0&list=PLzFr0xRIkb3gZ8fH7Ru4Z0aCngiEgt4JJ&index=15">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Impact of Social Media](/videos/img/sfh_impact_social_media.jpg)
+</div>
+
+**The Impact of Social Media**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=rIrEe-qU-zI&list=PLzFr0xRIkb3gZ8fH7Ru4Z0aCngiEgt4JJ&index=14">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Failure of Political Leadership](/videos/img/sfh_political_leadership.jpg)
+</div>
+
+**The Failure of Political Leadership**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=JskioL2nauM&list=PLzFr0xRIkb3gZ8fH7Ru4Z0aCngiEgt4JJ&index=13">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Economism as the New Religion](/videos/img/sfh_economism.jpg)
+</div>
+
+**Economism as the New Religion**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=pH6T2sG-6JY&list=PLzFr0xRIkb3gZ8fH7Ru4Z0aCngiEgt4JJ&index=12">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Are You Ready to Face the Absolute?](/videos/img/sfh_absolute.jpg)
+</div>
+
+**Are You Ready to Face the Absolute?**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=YrDrrh5Ol5Q&list=PLzFr0xRIkb3gZ8fH7Ru4Z0aCngiEgt4JJ&index=11">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Descriptive & Prescriptive Qur'an](/videos/img/sfh_de_pre.jpg)
+</div>
+
+**Descriptive & Prescriptive Qur'an**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=OoZ-sCYrpbI&list=PLzFr0xRIkb3gZ8fH7Ru4Z0aCngiEgt4JJ&index=4">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Personality, Rise in Consciousness, 6th Extinction](/videos/img/sfh_issue_personality.jpg)
+</div>
+
+**Personality, Consciousness, 6th Extinction**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=Be9oJjKUQ2k&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=1">Watch</a>
+</div>
+
+</div>
+
+

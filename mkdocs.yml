@@ -257,7 +257,17 @@ nav:
   - Gatherings & Volunteers:
     - 'Events': 'gatherings-volunteer/index.md'
     - 'Join Us': 'gatherings-volunteer/join-us.md'
-    - 'Past Events': 'gatherings-volunteer/past/index.md'
+    - Past Events: 
+      - 2020: 
+        - 'Reflection & Action': 'gatherings-volunteer/past/2020/reflection-action.md'
+      - 2021:
+        - 'Deep Time & Fulfilment': 'gatherings-volunteer/past/2021/deep-time.md'
+        - 'Two Friends': 'gatherings-volunteer/past/2021/two-friends.md'
+        - 'Inner Satisfaction, Outer Peace': 'gatherings-volunteer/past/2021/inner-satisfaction-outer-peace.md'
+        - 'Human Creation': 'gatherings-volunteer/past/2021/human-creation.md'
+        - 'Human Crisis': 'gatherings-volunteer/past/2021/human-crisis.md'
+        - 'Quran, Faith, Life': 'gatherings-volunteer/past/2021/quran-faith-life.md'
+        - 'Humanity in Unity': 'gatherings-volunteer/past/2021/humanity-unity.md'
     - Messages:
       - 'COVID-19': 'gatherings-volunteer/messages/index.md'
     - Newsletter: https://sfhfoundation.substack.com

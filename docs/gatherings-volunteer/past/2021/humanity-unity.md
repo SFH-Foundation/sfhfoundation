@@ -1,21 +1,19 @@
 ---
-title: Past Events
+title: Humanity in Unity
 description: A record of previous events held by the SFH FOundation.
 image: /assets/images/sfh_door_crop.jpg
 ---
 
-## Past Events 2021
-
 <div markdown="1" class="card article sidebar center">
 
-**THE URGENCY OF AND JOURNEY TOWARDS “HUMANITY IN UNITY”: Exploring the Art & Science of Integral Transformation of Self, Society, and Humanity**
+**The Urgency of and Journey Towards “Humanity in Unity”: Exploring the Art & Science of Integral Transformation of Self, Society, and Humanity**
 
 <div markdown="2" class="article-image">
 ![Urgency and Journey Humanity Unity](/videos/img/urgency_journey_unity.jpg)
 </div>
 
 <div markdown="3" class="article-para">
-**Premiered on Sunday 14th March 2021**<br/><br/>
+Premiered on Sunday 14th March 2021<br/><br/>
 Prof. Schieffer quoted major sections from Shaykh Fadhlalla's book <a href="https://zahrapublications.pub/book-TheJourneyOfTheSelf.php#bookTitle" target="_blank">Journey of the Self</a> as part of his research that resulted in the excellent book <a href="https://www.amazon.com/Integral-Development-Transformative-Organisations-Transformation-ebook/dp/B01G2BGPY0/ref=sr_1_1?dchild=1&amp;keywords=integral+development+schieffer&amp;qid=1614863911&amp;sr=8-1" target="_blank">Integral Development: Realising the Transformative Potential of Individuals, Organisations, and Societies</a>.  
 
 Prof. Schieffer wrote a number of poems in honour of this conversation which he read during the dialogue. He has recently published a book of poetry entitled <a href="https://www.amazon.com/Firebird-Alexander-Schieffer/dp/2956051709/ref=sr_1_1?dchild=1&amp;keywords=firebird+schieffer&amp;qid=1614864040&amp;sr=8-1" target="_blank">FIREBIRD: A Poetic Journey to Awaken the Inner Fire</a>.  
