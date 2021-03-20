@@ -316,7 +316,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 <div markdown="1" class="clear"></div>
 
-## [Uncommon Dialogues](./conversations/uncommon-dialogues)
+## [Uncommon Dialogues](./uncommon-dialogues)
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 

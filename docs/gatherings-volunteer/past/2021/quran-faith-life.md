@@ -3,7 +3,7 @@ title: The Qur'an, Faith and Life
 description: A dialogue between Shaykh Fadhlalla and Haider Mehdi about how the Qur'an reflects key aspects of how to live in harmony, with ourselves and others.
 ---
 
-THis conversation with Shaykh Fadhlalla Haeri focussed on the meaning of life as reflected in the Noble Quran. Shaykh Fadhlalla answered many questions around why the Muslim world has not been able to create a just, fair, and equitable society, where the citizens of this society are empowered and economically and spiritually enriched. 
+This conversation with Shaykh Fadhlalla Haeri focussed on the meaning of life as reflected in the Noble Quran. Shaykh Fadhlalla answered many questions around why the Muslim world has not been able to create a just, fair, and equitable society, where the citizens of this society are empowered and economically and spiritually enriched. 
 
 <div markdown="1" class="card article sidebar center">
 

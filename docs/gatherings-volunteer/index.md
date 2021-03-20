@@ -16,7 +16,7 @@ Here, you can keep up to date with all our latest events. Make sure to subscribe
 [Gatherings](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1173)
 </div>
 
-## Uncommon Dialogues
+## [Uncommon Dialogues](../videos/uncommon-dialogues)
 
 This series of virtual talks has been extended due to their warm reception. The discussions have included speakers like Dr. Ali Alawi, Shaykh Saadi Shakur Chisti Neil Douglas Klotz, Richard Eskow, Matthew Green, Syed Haider Mehdi and a number of other friends. Uncommon Dialogues cover a wide range of subjects during this pandemic, providing a message of hope, compassion and light.
 
@@ -126,7 +126,7 @@ Indeed, whoever comes to his Lord as a criminal - indeed, for him is Hell; he wi
 
 <img class="quran-m" src="./img/m_kahf_18_99.png" />
 
-Upon that day We shall leave them surging on one another, and the Trumpet shall he blown, and We
+Upon that day We shall leave them surging on one another, and the Trumpet shall be blown, and We
 shall gather them together.
 
 <a href="https://quran.com/25/15" target="_blank" rel="noopener noreferrer">25:15</a>
@@ -135,7 +135,7 @@ shall gather them together.
 
 <img class="quran-m" src="./img/m_furqan_25_15.png" />
 
-Say, &quot;Is that better or the Garden of Eternity which is promised to the reverent. It will be for them a reward and destination.
+Say, &quot;Is that better or the Garden of Eternity which is promised to the reverent? It will be for them a reward and destination.&quot;
 
 <a href="https://quran.com/31/28" target="_blank" rel="noopener noreferrer">31:28</a>
 

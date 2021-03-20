@@ -108,6 +108,7 @@ nav:
     - Pathways: 'videos/pathways.md'
     - Reflect: 'videos/reflect.md'
     - Review: 'videos/review.md'
+    - Uncommon Dialogues: 'videos/uncommon-dialogues.md'
     - Qur’an:
       - 'Human Duty and Destiny': 'videos/quran/duty-destiny.md'
       - 'Qur’an and Happiness': 'videos/quran/quran-happiness.md'
@@ -120,7 +121,6 @@ nav:
       - '2019 - The Human Quest': 'videos/conferences/2019.md'
       - '2020 - Reflections and Actions': 'videos/conferences/2020.md'
     - Conversations:
-        - 'Uncommon Dialogues': 'videos/conversations/uncommon-dialogues.md'
         - 'Highwood': 'videos/conversations/highwood.md'
         - 'Living Qur’an': 'videos/conversations/living-quran.md'
         - 'Collected Interactions': 'videos/conversations/collected.md'

@@ -20,7 +20,7 @@ The purpose of human life is complete when total harmony between body, mind and 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Sufi Cosmology Of Life - Part 1](../../videos/img/sfh_foundation.jpg)
+![Sufi Cosmology Of Life - Part 1](/videos/img/sfh_foundation.jpg)
 </div>
 
 **Part 1**
