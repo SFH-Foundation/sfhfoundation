@@ -31,14 +31,14 @@ Join us from the comfort of your own home for the next talks, which you can find
 </div>
 
 <div markdown="3" class="article-para">
-**Streaming Live on Sunday 21st March 2021<br/> 11AM Central African Time**<br/><br/> 
+Streamed Live on Sunday 21st March 2021<br/><br/> 
 
-We are pleased to announce an important conversation between Shaykh Fadhlalla Haeri, Shaykh
+Please enjoy this important conversation between Shaykh Fadhlalla Haeri, Shaykh
 Saadi Shakur and Dr. Adnan AlAdnani on some critical verses from the Noble Quran that will help the believer remember and prepare for death and the hereafter.
 </div>
 
 <div markdown="3" class="article-link">
-<a href="https://www.youtube.com/watch?v=MdTchFnJ-FI" target="_blank" rel="noopener noreferrer">Set Reminder</a>
+<a href="https://www.youtube.com/watch?v=MdTchFnJ-FI" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>
@@ -75,7 +75,7 @@ the people, like him whose likeness is that of one in utter darkness whence he c
 
 <img class="quran-m" src="./img/m_gold_43_11.png" />
 
-And who sent down out of heaven water in measure; and We revived thereby a land that was dead;
+And Who sent down out of heaven water in measure; and We revived thereby a land that was dead;
 even so you shall be brought forth;
 
 <a href="https://quran.com/41/39" target="_blank" rel="noopener noreferrer">41:39</a>

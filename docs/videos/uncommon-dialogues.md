@@ -388,6 +388,20 @@ We make allowance for our earthly limitations whilst evolving towards our origin
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![Experience of Death Confirms Eternal Life](/videos/img/sfh_foundation.jpg)
+</div>
+
+**Experience of Death Confirms Eternal Life**
+
+<div markdown="3" class="video-link">
+<a href="https://www.youtube.com/watch?v=MdTchFnJ-FI" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![The Process Of Spiritual Transformation](/videos/img/sfh_foundation.jpg)
 </div>
 
