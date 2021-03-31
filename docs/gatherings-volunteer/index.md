@@ -31,13 +31,13 @@ Join us from the comfort of your own home for the next talks, which you can find
 </div>
 
 <div markdown="3" class="article-para">
-**Premiering on Saturday 27th March 2021**<br/><br/> 
+**Premiered on Saturday 27th March 2021**<br/><br/> 
 
-As part of the Uncommon Dialogue series, we are pleased to announce another conversation between Shaykh Fadhlalla Haeri and Amir Freimann, entitled Living Transcendence.
+As part of the Uncommon Dialogue series, we recently hosted another conversation between Shaykh Fadhlalla Haeri and Amir Freimann, entitled Living Transcendence.
 </div>
 
 <div markdown="3" class="article-link">
-<a href="https://www.youtube.com/watch?v=kBNN7vreFMc" target="_blank" rel="noopener noreferrer">Set Reminder</a>
+<a href="https://www.youtube.com/watch?v=kBNN7vreFMc" target="_blank" rel="noopener noreferrer">Catch Up</a>
 </div>
 
 </div>

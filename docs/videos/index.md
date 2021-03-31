@@ -149,6 +149,20 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![Living Transcendence](/videos/img/living_transcendence.jpg)
+</div>
+
+**Living Transcendence**
+
+<div markdown="3" class="video-link">
+<a href="https://www.youtube.com/watch?v=kBNN7vreFMc" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Experience of Death Confirms Eternal Life](/videos/img/sfh_foundation.jpg)
 </div>
 
@@ -296,20 +310,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 <div markdown="3" class="video-link">
 <a target="_blank" href="https://www.youtube.com/watch?v=pS2GC-4gDwc">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Sufi Encounters - Part 2](/videos/img/sfh_foundation.jpg)
-</div>
-
-**Sufi Encounters - Part 2**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=zIJq6wk4X1M">Watch</a>
 </div>
 
 </div>
