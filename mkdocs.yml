@@ -220,6 +220,8 @@ nav:
       - 'Meditation': 'reflections/practice/meditation.md'
       - 'Transformative Worship': 'reflections/practice/transformative-worship.md'
       - 'Witnessing Perfection': 'reflections/practice/witnessing-perfection.md'
+      - Fasting:
+        - 'Introduction': 'reflections/practice/fasting/index.md'
     - 'What Is It?': 'reflections/what-is-it.md'
     - 'Maps & Models of Self': 'reflections/4-journeys.md'
     - 'Vices, Virtues and Appropriate Conduct': 'reflections/vice-virtue-appropriate-conduct.md'
@@ -269,6 +271,7 @@ nav:
         - 'Quran, Faith, Life': 'gatherings-volunteer/past/2021/quran-faith-life.md'
         - 'Humanity in Unity': 'gatherings-volunteer/past/2021/humanity-unity.md'
         - 'Experiencing Death Confirms Eternal Life': 'gatherings-volunteer/past/2021/death-eternal-life.md'
+        - 'Living Transcendence': 'gatherings-volunteer/past/2021/living-transcendence.md'
     - Messages:
       - 'COVID-19': 'gatherings-volunteer/messages/index.md'
     - Newsletter: https://sfhfoundation.substack.com
