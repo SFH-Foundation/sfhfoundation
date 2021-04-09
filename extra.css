@@ -261,6 +261,12 @@
     background-color: #fff;
   }
 
+@media (max-width: 991px) {
+  .home-side {
+    display: block !important;
+  }
+}
+
 @media (max-width: 761px) {
   .hero-img {
     height: 16vh;
@@ -321,10 +327,6 @@
   .main-logo {
     margin-top: 100px;
     width: 95%;
-  }
-
-  .home-side {
-    display: block !important;
   }
 
   .callout-home {
