@@ -261,7 +261,7 @@
     background-color: #fff;
   }
 
-@media (max-width: 991px) {
+@media (max-width: 1100px) {
   .home-side {
     display: block !important;
   }
