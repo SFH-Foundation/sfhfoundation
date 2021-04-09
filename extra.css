@@ -228,6 +228,7 @@
 
   .extra-content p {
     font-size: 16px;
+    line-height: 1.6;
     color: rgba(0, 0, 0, 0.87);
   }
 
