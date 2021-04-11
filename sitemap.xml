@@ -21,11 +21,6 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://sfhfoundation.com/contact/</loc>
-     <lastmod>2021-04-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://sfhfoundation.com/gatherings-volunteer/</loc>
      <lastmod>2021-04-11</lastmod>
      <changefreq>daily</changefreq>
@@ -87,6 +82,11 @@
     </url>
     <url>
      <loc>https://sfhfoundation.com/gatherings-volunteer/messages/</loc>
+     <lastmod>2021-04-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sfhfoundation.com/contact/</loc>
      <lastmod>2021-04-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
