@@ -10,7 +10,7 @@ We are creatures between dense darkness and cosmic light. Our median position gi
 
 Consciousness and life began with the beginning of Creation, as far as we can tell. It’s only in the last few thousand years or so that human beings have become more aware of awareness. We have evolved considerably in terms of our intelligence and reflectiveness and, as a result of this, we now can say that we are increasingly conscious of the dualities we each experience. 
 
-There is very basic, day-to-day, “normal” consciousness, which has to do with survival, growth, well-being, health and balance. This is limited by, and exists within, space and time. However, this consciousness emanates from Supreme, or Pure, Consciousness, which is beyond the mind’s comprehension. Each one of us contains both the “particle” of a personal identity - the so-called I - which is given life and consciousness by the “wave”: which is cosmic and beyond any limitation.
+There is very basic, day-to-day, “normal” consciousness, which has to do with survival, growth, well-being, health and balance. This is limited by, and exists within, space and time. However, this consciousness emanates from Supreme, or Pure, Consciousness, which is beyond the mind’s comprehension. Each one of us contains both the “particle” of a personal identity - the so-called I - that is given life and consciousness by the “wave”: which is cosmic and beyond any limitation.
 
 My duty as a human being is towards myself. I have to recognise that I must respond to limited consciousness - to pain, danger, well-being or any physical, mental or emotional state which arises. However, I equally need to be in touch and calibrate constantly with the infinite state of Light or Consciousness in my own soul. 
 

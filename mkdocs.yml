@@ -96,12 +96,30 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Start Now: 'start-now.md'
+  - Home: index.md
   - Welcome:
     - About: 'about.md'
     - Hope and Duty: 'hope.md'
     - Infinite and Eternal: 'infinite-eternal.md'
-    - Newsletter: 'https://sfhfoundation.substack.com/'
+    - Contact: 'contact.md'
+  - Gatherings:
+    - 'Events': 'gatherings-volunteer/index.md'
+    - Past Events: 
+      - 2020: 
+        - 'Reflection & Action': 'gatherings-volunteer/past/2020/reflection-action.md'
+      - 2021:
+        - 'Deep Time & Fulfilment': 'gatherings-volunteer/past/2021/deep-time.md'
+        - 'Two Friends': 'gatherings-volunteer/past/2021/two-friends.md'
+        - 'Inner Satisfaction, Outer Peace': 'gatherings-volunteer/past/2021/inner-satisfaction-outer-peace.md'
+        - 'Human Creation': 'gatherings-volunteer/past/2021/human-creation.md'
+        - 'Human Crisis': 'gatherings-volunteer/past/2021/human-crisis.md'
+        - 'Quran, Faith, Life': 'gatherings-volunteer/past/2021/quran-faith-life.md'
+        - 'Humanity in Unity': 'gatherings-volunteer/past/2021/humanity-unity.md'
+        - 'Experiencing Death Confirms Eternal Life': 'gatherings-volunteer/past/2021/death-eternal-life.md'
+        - 'Living Transcendence': 'gatherings-volunteer/past/2021/living-transcendence.md'
+        - 'Hope - Elixir to the Eternal': 'gatherings-volunteer/past/2021/hope-elixir.md'
+    - Messages:
+      - 'COVID-19': 'gatherings-volunteer/messages/index.md'
   - Videos:
     - Videos: 'videos/index.md'
     - Start Now: 'videos/start-now.md'
@@ -256,22 +274,3 @@ nav:
     - 'Journey Words': 'glossary/journey-words.md' 
     - Sideways Dictionary:
       - 'What is the sideways dictionary?': 'glossary/sideways-dictionary/what-is-the-sideways-dictionary.md'
-  - Gatherings & Volunteers:
-    - 'Events': 'gatherings-volunteer/index.md'
-    - 'Join Us': 'gatherings-volunteer/join-us.md'
-    - Past Events: 
-      - 2020: 
-        - 'Reflection & Action': 'gatherings-volunteer/past/2020/reflection-action.md'
-      - 2021:
-        - 'Deep Time & Fulfilment': 'gatherings-volunteer/past/2021/deep-time.md'
-        - 'Two Friends': 'gatherings-volunteer/past/2021/two-friends.md'
-        - 'Inner Satisfaction, Outer Peace': 'gatherings-volunteer/past/2021/inner-satisfaction-outer-peace.md'
-        - 'Human Creation': 'gatherings-volunteer/past/2021/human-creation.md'
-        - 'Human Crisis': 'gatherings-volunteer/past/2021/human-crisis.md'
-        - 'Quran, Faith, Life': 'gatherings-volunteer/past/2021/quran-faith-life.md'
-        - 'Humanity in Unity': 'gatherings-volunteer/past/2021/humanity-unity.md'
-        - 'Experiencing Death Confirms Eternal Life': 'gatherings-volunteer/past/2021/death-eternal-life.md'
-        - 'Living Transcendence': 'gatherings-volunteer/past/2021/living-transcendence.md'
-    - Messages:
-      - 'COVID-19': 'gatherings-volunteer/messages/index.md'
-    - Newsletter: https://sfhfoundation.substack.com

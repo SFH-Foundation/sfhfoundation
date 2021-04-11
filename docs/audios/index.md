@@ -15,35 +15,35 @@ We release audios on a number of platforms. Please find your preferred one below
 **You can listen on these platforms:**
 
 <div markdown="3" class="audio-link">
-[Anchor](https://anchor.fm/shaykh-fadhlalla-haeri-foundation/)
+<a href="https://anchor.fm/shaykh-fadhlalla-haeri-foundation/" target="_blank" rel="noopener noreferrer">Anchor</a>
 </div>
 
 <div markdown="3" class="audio-link">
-[Apple](https://podcasts.apple.com/us/podcast/shaykh-fadhlalla-haeri-foundation/id1454931525)
+<a href="https://podcasts.apple.com/us/podcast/shaykh-fadhlalla-haeri-foundation/id1454931525" target="_blank" rel="noopener noreferrer">Apple</a>
 </div>
 
 <div markdown="3" class="audio-link">
-[Spotify](https://open.spotify.com/show/2BEc8M3oNLH12KyWYFDT9N) 
+<a href="https://open.spotify.com/show/2BEc8M3oNLH12KyWYFDT9N" target="_blank" rel="noopener noreferrer">Spotify</a> 
 </div>
 
 <div markdown="3" class="audio-link">
-[Google](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy85ODQ1YTQwL3BvZGNhc3QvcnNz)
+<a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy85ODQ1YTQwL3BvZGNhc3QvcnNz" target="_blank" rel="noopener noreferrer">Google</a>
 </div>
 
 <div markdown="3" class="audio-link">
-[Breaker](https://www.breaker.audio/shaykh-fadhlalla-haeri-foundation)
+<a href="https://www.breaker.audio/shaykh-fadhlalla-haeri-foundation" target="_blank" rel="noopener noreferrer">Breaker</a>
 </div>
 
 <div markdown="3" class="audio-link">
-[Overcast](https://overcast.fm/itunes1454931525/shaykh-fadhlalla-haeri-foundation)
+<a href="https://overcast.fm/itunes1454931525/shaykh-fadhlalla-haeri-foundation" target="_blank" rel="noopener noreferrer">Overcast</a>
 </div>
 
 <div markdown="3" class="audio-link">
-[Pocket Casts](https://pca.st/n80x)
+<a href="https://pca.st/n80x" target="_blank" rel="noopener noreferrer">Pocket Casts</a>
 </div>
 
 <div markdown="3" class="audio-link">
-[RadioPublic](https://radiopublic.com/shaykh-fadhlalla-haeri-foundation-6pw4ma)
+<a href="https://radiopublic.com/shaykh-fadhlalla-haeri-foundation-6pw4ma" target="_blank" rel="noopener noreferrer">RadioPublic</a>
 </div>
 
 </div>

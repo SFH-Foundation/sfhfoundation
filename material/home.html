@@ -1,0 +1,216 @@
+{% import "partials/language.html" as lang with context %}
+{% set palette = config.theme.palette %}
+{% set font = config.theme.font %}
+
+<!doctype html>
+<html lang="{{ lang.t('language') }}" class="no-js">
+  <head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-175201009-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-175201009-1');
+    </script>
+
+{% block site_meta %}
+    <title>SFH Foundation</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="description" content="The Shaykh Fadhlalla Haeri Foundation presents a journey from self to soul, via joyful surrender" />
+    <meta property="og:site_name" content="SFH Foundation" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="SFH Foundation" />
+    <meta property="og:image" content="https://sfhfoundation.com/assets/images/sfh_door_crop.jpg" />
+    <meta property="og:description" content="The Shaykh Fadhlalla Haeri Foundation presents a journey from self to soul, via joyful surrender" />
+    <meta property="og:url" content="https://sfhfoundation.com" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@SFH_Foundation" />
+    <meta name="twitter:creator" content="@cryptowanderer" />
+    <meta name="twitter:description" content="The Shaykh Fadhlalla Haeri Foundation presents a journey from self to soul, via joyful surrender" />
+    <meta name="twitter:image" content="https://sfhfoundation.com/assets/images/sfh_door_crop.jpg" />
+    <meta name="twitter:image:alt" content="Shaykh Fadhlalla Haeri" />
+    <link rel="shortcut icon" href="{{ config.theme.favicon | url }}">
+{% endblock %}
+
+{% block htmltitle %}
+    {% if page and page.meta and page.meta.title %}
+    <title>{{ page.meta.title }}</title>
+    {% elif page and page.title and not page.is_homepage %}
+    <title>{{ page.title | striptags }} - {{ config.site_name }}</title>
+    {% else %}
+    <title>{{ config.site_name }}</title>
+    {% endif %}
+{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" href="{{ 'assets/stylesheets/main.25573976.min.css' | url }}">
+    <link rel="stylesheet" href="{{ 'assets/stylesheets/mdc-web.css' | url }}">
+    {% if palette.primary or palette.accent %}
+    <link rel="stylesheet" href="{{ 'assets/stylesheets/palette.4444686e.min.css' | url }}">
+    {% endif %}
+    {% if palette.primary %}
+    {% import "partials/palette.html" as map %}
+    {% set primary = map.primary(
+        palette.primary | replace(" ", "-") | lower
+    ) %}
+    <meta name="theme-color" content="#FFD57C">
+    {% endif %}
+{% endblock %}
+
+{% block libs %}{% endblock %}
+
+{% block fonts %}
+    {% if font != false %}
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={{
+        font.text | replace(' ', '+') + ':300,400,400i,700%7C' +
+        font.code | replace(' ', '+')
+        }}&display=fallback">
+    <style>body,input{font-family:"{{ font.text }}",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"{{ font.code }}",SFMono-Regular,Consolas,Menlo,monospace}.callout{font-family:Caveat,cursive}</style>
+    {% endif %}
+{% endblock %}
+
+{% for path in config["extra_css"] %}
+    <link rel="stylesheet" href="{{ path | url }}">
+{% endfor %}
+{% block amazon %}
+    <div id="amzn-assoc-ad-1d598660-b8ce-40e3-bf6d-571dbfe07544"></div>
+    <script async src="https://z-na.associates-amazon.com/onetag/v2?MarketPlace=US&instanceId=1d598660-b8ce-40e3-bf6d-571dbfe07544"></script> 
+{% endblock %}
+
+  </head>
+  {% set direction = config.theme.direction or lang.t('direction') %}
+  {% if palette.primary or palette.accent %}
+    {% set primary = palette.primary | replace(" ", "-") | lower %}
+    {% set accent  = palette.accent  | replace(" ", "-") | lower %}
+    <body dir="{{ direction }}" data-md-color-primary="{{ primary }}" data-md-color-accent="{{ accent }}">
+  {% else %}
+    <body dir="{{ direction }}">
+  {% endif %}
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      {% if page.toc | first is defined %}
+        {% set skip = page.toc | first %}
+        <a href="{{ skip.url | url }}" class="md-skip">
+          {{ lang.t('skip.link.title') }}
+        </a>
+      {% endif %}
+    </div>
+    {% block header %}
+      {% include "partials/header.html" %}
+    {% endblock %}
+    <div class="md-container" data-md-component="container">
+      {% block tabs %}
+        {% if "tabs" in config.theme.features %}
+          {% include "partials/tabs.html" %}
+        {% endif %}
+      {% endblock %}
+      <main class="md-main main-body" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          {% block site_nav %}
+            {% if nav %}
+              <div class="md-sidebar md-sidebar--primary home-side" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    {% include "partials/nav.html" %}
+                  </div>
+                </div>
+              </div>
+            {% endif %}
+          {% endblock %}
+          
+        <div class="main-article">
+			<div class="callout callout-home">
+				<img src="/assets/images/sfh_logo.png" class="main-logo" />
+			</div>
+		</div>
+
+        <div class="main-buttons">
+            <div class="purchase-link home-link">
+                <a href="/contact">Contact Us</a>
+            </div>
+            <div class="purchase-link home-link">
+                <a href="https://connect.sfhfoundation.com/bf.php?fid=1177">Subscribe</a>
+            </div>
+        </div>
+
+      </main>
+
+        <div class="extra-container">
+            <div class="extra-content">
+                <h1>The Human Story</h1>
+                <p>
+                    This website is the result of several years of sharing a way of life in our uncertain world with people from diverse backgrounds and cultures. This way reduces fear, suffering, and darkness and enables us to face difficulty with equanimity and grace. It has its foundation in awareness of – and constant calibration with – the eternal light of the soul within us, which is the source of all life. 
+                </p>
+                <p>
+                    Awareness of eternal cosmic light will dispel much human discontent and provide hope that is beyond the limitations of birth and death. Our way goes beyond temporary notions of good and bad to reveal and revel in glorious divine presence – the purpose of human life.
+                </p>
+                <div class="home-div">
+                    <img src="/assets/images/sfh_door_crop.jpg" class="home-image" />
+                </div>
+                
+                <div class="home-div">
+                    <h2>Head and Heart</h2>
+                    <p>
+                        The answers to the five questions of Who, What, Where, When and Why are both earthly and heavenly, temporary and perpetual, changing and constant. You are alive because of your soul. You are on this earth to complete your experience of inseparability from the source of life and consciousness. The earth is like a divine nursery for human consciousness to stretch from the physical and material to the infinite and eternal. The completion of evolution is to acknowledge the mind and go beyond it to the original source of life, via the heart.
+                    </p>
+                    <p>
+                        We deal with dualities all the time and are reconciled when we recognize the unity at our origin and final destination. We are middle people caught within space and time, experiencing beginnings and ends, birth and death. We are always in-between. This knowledge can be experienced by transcending the mind and senses. The heart and soul are the seat of this realisation; total honesty the means by which we arrive.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="extra-extra">
+            <div class="callout callout-home">
+                The divine source is the cause of all and is<br/>ever present at heart.
+            </div>
+        </div> 
+          
+        </div>
+      {% block footer %}
+        {% include "partials/footer.html" %}
+      {% endblock %}
+    </div>
+    {% block scripts %}
+      <script src="{{ 'assets/javascripts/vendor.241d0c29.min.js' | url }}"></script>
+      <script src="{{ 'assets/javascripts/bundle.05dbdb2b.min.js' | url }}"></script>
+      {%- set translations = {} -%}
+      {%- for key in [
+        "clipboard.copy",
+        "clipboard.copied",
+        "search.config.lang",
+        "search.config.pipeline",
+        "search.config.separator",
+        "search.result.placeholder",
+        "search.result.none",
+        "search.result.one",
+        "search.result.other"
+      ] -%}
+        {%- set _ = translations.update({ key: lang.t(key) }) -%}
+      {%- endfor -%}
+      <script id="__lang" type="application/json">
+        {{- translations | tojson -}}
+      </script>
+      {% block config %}{% endblock %}
+      <script>
+        app = initialize({
+          base: "{{ base_url }}",
+          features: {{ config.theme.features | tojson }},
+          search: Object.assign({
+            worker: "{{ 'assets/javascripts/worker/search.7f7c8775.min.js' | url }}"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      {% for path in config["extra_javascript"] %}
+        <script src="{{ path | url }}"></script>
+      {% endfor %}
+    {% endblock %}
+  </body>
+</html>
+

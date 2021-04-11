@@ -16,55 +16,6 @@ Here, you can keep up to date with all our latest events. Make sure to subscribe
 [Gatherings](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1173)
 </div>
 
-## [Uncommon Dialogues](../videos/uncommon-dialogues)
-
-This series of virtual talks has been extended due to their warm reception. The discussions have included speakers like Dr. Ali Alawi, Shaykh Saadi Shakur Chisti Neil Douglas Klotz, Richard Eskow, Matthew Green, Syed Haider Mehdi and a number of other friends. Uncommon Dialogues cover a wide range of subjects during this pandemic, providing a message of hope, compassion and light.
-
-Join us from the comfort of your own home for the next talks, which you can find scheduled below. Follow the link provided to set a reminder for yourself when each talk premieres. 
-
-<div markdown="1" class="card article sidebar center">
-
-**Hope is the Elixir to the Eternal**
-
-<div markdown="2" class="article-image">
-![Hope is the Elixir to the Eternal](/videos/img/hope_elixir.png)
-</div>
-
-<div markdown="3" class="article-para">
-**Premiering on Saturday 10th April 2021**<br/>
-
-This amazing dialogue between Shaykh Fadhlalla Haeri, Dr. Adnan AlAdnani, and Muna Haeri Bilgrami is a wonderful discussion not to be missed, meant for all audiences. 
-
-</div>
-
-<div markdown="3" class="article-link">
-<a href="https://www.youtube.com/watch?v=2HhFeG-CJ9U" target="_blank" rel="noopener noreferrer">Set Reminder</a>
-</div>
-
-</div>
-
-### Preparation
-
-Hope is being able to see that there is light despite all of the darkness. Hope is a motivating power that allows Allah's creation to feel delighted when working, provides a stimulus for struggling for the sake of duty, and enlivens heart, body, and soul. Indeed, there was never a night or a problem that could defeat sunrise or hope. 
-
-**"Hope is an elixir of life. It is the engine that propels us forward in our pursuit of countless goals, all of which might otherwise be impossible to undertake if we were bereft of hope" - Gad Saad**
-
-<a href="https://quran.com/12/87" target="_blank" rel="noopener noreferrer">12:87</a>
-
-<img class="quran" src="./img/yusuf_12_87.png" />
-
-<img class="quran-m" src="./img/m_yusuf_12_87.png" />
-
-And despair not of relief from Allah. Indeed, no one despairs of relief from Allah except the disbelieving people
-
-<a href="https://quran.com/15/56" target="_blank" rel="noopener noreferrer">15:56</a>
-
-<img class="quran" src="./img/hijr_15_56.png" />
-
-<img class="quran-m" src="./img/m_hijr_15_56.png" />
-
-And who despairs of the Mercy of his Lord except for those astray?
-
 ## The Month of Ramadan 2021
 
 The blessed month of Ramadan is upon us. We hope and pray this will be a month of healing, contemplation, and joy for all.   
@@ -93,7 +44,34 @@ Shaykh Fadhlalla Haeri will be interviewed at 4 PM CAT by Rick Archer, Host of B
 
 10 AM CAT Thursday 13th May 2021 - Shaykh Fadhlalla will give a Talk and Imam Nusrah Cassim will lead the Eid prayers. 
 
-Please watch out for further announcements for programmes on the SFH Foundation YouTube Channel and the SFH Foundation website.
+Please watch out for further announcements for programmes on this page and the <a href="https://www.youtube.com/channel/UCHiMY_Scws1sB_bn84G-YXg" target="_blank">SFH Foundation YouTube Channel</a>.
+
+## [Uncommon Dialogues](../videos/uncommon-dialogues)
+
+This series of virtual talks has been extended due to their warm reception. The discussions have included speakers like Dr. Ali Alawi, Shaykh Saadi Shakur Chisti Neil Douglas Klotz, Dr Adnan AlAdnani, Prof. Sadiyya Shaikh, Richard Eskow, Matthew Green, Syed Haider Mehdi and a number of other friends. Uncommon Dialogues cover a wide range of subjects during this pandemic, providing a message of hope, compassion and light.
+
+Join us from the comfort of your own home for the next talks, which you can find scheduled below. Follow the link provided to set a reminder for yourself when each talk premieres. 
+
+<div markdown="1" class="card article sidebar center">
+
+**Hope is the Elixir to the Eternal**
+
+<div markdown="2" class="article-image">
+![Hope is the Elixir to the Eternal](/videos/img/hope_elixir.png)
+</div>
+
+<div markdown="3" class="article-para">
+**Premiered on Saturday 10th April 2021**<br/>
+
+This amazing dialogue between Shaykh Fadhlalla Haeri, Dr. Adnan AlAdnani, and Muna Haeri Bilgrami is a wonderful discussion not to be missed, meant for all audiences. 
+
+</div>
+
+<div markdown="3" class="article-link">
+<a href="https://www.youtube.com/watch?v=2HhFeG-CJ9U" target="_blank" rel="noopener noreferrer">Catch Up</a>
+</div>
+
+</div>
 
 <div class="callout">
 You may read the situation more clearly after you lose all of your ambitions and other fictions.

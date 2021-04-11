@@ -20,7 +20,7 @@ We are all driven to experience goodness at every moment and that implies witnes
 
 It is unavoidable to develop and evolve with skills and abilities which lead to a personal identity and individuality. However, Reality encompasses all the known and unknown states of consciousness. To rise or expand into more subtle levels of awareness, it is necessary to transcend identity and individuality. Locality is a mere sample of universality. The micro and the macro are inseparable and Oneness is an aspect of wholeness and total connectedness. Superficially, we distinguish between the observer and observed. In reality, they are part of the same One. 
 
-All of our experiences emerge from cosmic reality through the process of participative emergence.  
+All experience reflects cosmic reality through the process of participative emergence.  
 
 God's light governs the cosmos and an aspect of it is the cause of the soul. Rather than pretending to be a godling, give in totally to the flow of that governance. The way out is the way in and that means do your best and trust in the rest.
 

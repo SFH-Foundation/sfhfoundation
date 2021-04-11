@@ -444,20 +444,6 @@ We make allowance for our earthly limitations whilst evolving towards our origin
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Two Friends](/videos/img/sfh_foundation.jpg)
-</div>
-
-**Two Friends: Conversations in Metaphysics**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=GRMRtyH4GW4">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
 ![Living Transcendence](/videos/img/sfh_foundation.jpg)
 </div>
 
@@ -465,6 +451,34 @@ We make allowance for our earthly limitations whilst evolving towards our origin
 
 <div markdown="3" class="video-link">
 <a href="https://www.youtube.com/watch?v=kBNN7vreFMc" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Hope is the Elixir to the Eternal](/videos/img/sfh_foundation.jpg)
+</div>
+
+**Hope is the Elixir to the Eternal**
+
+<div markdown="3" class="video-link">
+<a href="https://www.youtube.com/watch?v=2HhFeG-CJ9U" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Two Friends](/videos/img/sfh_foundation.jpg)
+</div>
+
+**Two Friends: Conversations in Metaphysics**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=GRMRtyH4GW4">Watch</a>
 </div>
 
 </div>
