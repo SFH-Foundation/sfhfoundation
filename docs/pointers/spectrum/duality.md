@@ -20,15 +20,15 @@ When our sensory world and mind cannot tackle or resolve an issue, leave it, and
 
 <div class="div"></div>
 
-Our consciousness is in two zones; one is the earthly limited zone and is never secure. The other is total consciousness of light and delight.   
-
-<div class="div"></div>
-
 The mind and intellect explores the limits of experience. We want the limitless zone of Oneness upon which everything depends.  
 
 <div class="div"></div>
 
 Human identity forever seeks sacred reality within the creational limitations of space and time. Sacred places are reminders of the nature of our own soul.  
+
+<div class="div"></div>
+
+Our love for winning or receiving gifts or favours echoes the heavenly gift of the soul - the ultimate treasure; given with grace and unconditional love.  
 
 <div class="div"></div>
 

@@ -20,11 +20,11 @@ If you have an identity or roles, you are within the confinement of space and ti
 
 <div class="div"></div>
 
-Our love for winning or receiving gifts or favours echoes the heavenly gift of the soul - the ultimate treasure; given with grace and unconditional love.  
+There are two types of poverty: the first relates to outer needs and desires to reduce human hunger and factors for survival and the second is intrinisc- outer wealth may not eradicate it, as the lower self is always in need of the higher.
 
 <div class="div"></div>
 
-There are two types of poverty: the first relates to outer needs and desires to reduce human hunger and factors for survival and the second is intrinisc- outer wealth may not eradicate it, as the lower self is always in need of the higher.
+Our consciousness is in two zones; one is the earthly limited zone and is never secure. The other is total consciousness of light and delight.   
 
 <div class="div"></div>
 

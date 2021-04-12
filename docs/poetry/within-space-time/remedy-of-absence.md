@@ -1,9 +1,9 @@
 ---
-title: The Rememdy of Absence
+title: The Remedy of Absence
 image:
 ---
 
-# The Rememdy of Absence
+# The Remedy of Absence
 
 <div class="aphorism-text">
 

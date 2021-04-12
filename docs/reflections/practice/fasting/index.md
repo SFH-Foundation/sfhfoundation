@@ -1,5 +1,5 @@
 ---
-title: Fasting in Islan
+title: Fasting in Islam
 description:
 image:
 ---
