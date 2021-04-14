@@ -102,23 +102,24 @@ nav:
     - Hope and Duty: 'hope.md'
     - Infinite and Eternal: 'infinite-eternal.md'
   - Gatherings:
-    - 'Events': 'gatherings-volunteer/index.md'
+    - 'Events': 'gatherings/index.md'
     - Past Events: 
       - 2020: 
-        - 'Reflection & Action': 'gatherings-volunteer/past/2020/reflection-action.md'
+        - 'Reflection & Action': 'gatherings/past/2020/reflection-action.md'
       - 2021:
-        - 'Deep Time & Fulfilment': 'gatherings-volunteer/past/2021/deep-time.md'
-        - 'Two Friends': 'gatherings-volunteer/past/2021/two-friends.md'
-        - 'Inner Satisfaction, Outer Peace': 'gatherings-volunteer/past/2021/inner-satisfaction-outer-peace.md'
-        - 'Human Creation': 'gatherings-volunteer/past/2021/human-creation.md'
-        - 'Human Crisis': 'gatherings-volunteer/past/2021/human-crisis.md'
-        - 'Quran, Faith, Life': 'gatherings-volunteer/past/2021/quran-faith-life.md'
-        - 'Humanity in Unity': 'gatherings-volunteer/past/2021/humanity-unity.md'
-        - 'Experiencing Death Confirms Eternal Life': 'gatherings-volunteer/past/2021/death-eternal-life.md'
-        - 'Living Transcendence': 'gatherings-volunteer/past/2021/living-transcendence.md'
-        - 'Hope - Elixir to the Eternal': 'gatherings-volunteer/past/2021/hope-elixir.md'
+        - 'Deep Time & Fulfilment': 'gatherings/past/2021/deep-time.md'
+        - 'Two Friends': 'gatherings/past/2021/two-friends.md'
+        - 'Inner Satisfaction, Outer Peace': 'gatherings/past/2021/inner-satisfaction-outer-peace.md'
+        - 'Human Creation': 'gatherings/past/2021/human-creation.md'
+        - 'Human Crisis': 'gatherings/past/2021/human-crisis.md'
+        - 'Quran, Faith, Life': 'gatherings/past/2021/quran-faith-life.md'
+        - 'Humanity in Unity': 'gatherings/past/2021/humanity-unity.md'
+        - 'Experiencing Death Confirms Eternal Life': 'gatherings/past/2021/death-eternal-life.md'
+        - 'Living Transcendence': 'gatherings/past/2021/living-transcendence.md'
+        - 'Hope - Elixir to the Eternal': 'gatherings/past/2021/hope-elixir.md'
+        - 'Fasting, Ramadan & Quran - 1': 'gatherings/past/2021/fasting-1.md'
     - Messages:
-      - 'COVID-19': 'gatherings-volunteer/messages/index.md'
+      - 'COVID-19': 'gatherings/messages/index.md'
   - Videos:
     - Videos: 'videos/index.md'
     - Start Now: 'videos/start-now.md'

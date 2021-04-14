@@ -26,7 +26,11 @@ During this month we hope to have a series of events which we are pleased to ann
 
 ### Fasting & Ramadan in the Noble Quran 
 
-1. Saturday 17th April 2021
+<div class="center-text">
+الصوم في القران الكريم
+</div>
+
+1. [Saturday 17th April 2021](./past/2021/fasting-1)
 2. Saturday 24th April 2021
 3. Saturday 8th May 2021
 
@@ -35,6 +39,27 @@ All broadcasts will take place at 11 AM CAT. We will inform you before each live
 We will share with you excerpts from the book entitled _<a href="https://zahrapublications.pub/book-TransformativeWorshipInIslam.php#bookTitle" target="_blank">Transformative Worship: Experiencing Perfection</a>_ on the matter of Fasting or '_Sawm_'. We will be sharing an excerpt from this book each week on Friday. You will find each part below:
 
 - [Part 1](/reflections/practice/fasting)
+
+#### Discussions
+
+<div markdown="1" class="card article sidebar center">
+
+**Fasting & Ramadan in the Noble Quran - Part 1**
+
+<div markdown="2" class="article-image">
+![Fasting & Ramadan in the Noble Quran](/videos/img/fasting_1.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+Live on **Saturday 17th April 2021**<br/>
+Please find the preparatory materials for this discussion on the [full event page](./past/2021/fasting-1).
+</div>
+
+<div markdown="3" class="article-link">
+<a href="https://www.youtube.com/watch?v=dHKzGza5VZ8" target="_blank" rel="noopener noreferrer">Set Reminder</a>
+</div>
+
+</div>
 
 ## Buddha at The Gas Pump
 
