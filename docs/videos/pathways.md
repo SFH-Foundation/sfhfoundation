@@ -15,7 +15,7 @@ Many search for a path to the Divine, though few seem to find one which is durab
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Importance of Choosing a Path](/videos/img/sfh_path_imp.jpg)
+![The Importance of Choosing a Path](/assets/video-img/sfh_path_imp.jpg)
 </div>
 
 **The Importance of Choosing a Path**
@@ -29,7 +29,7 @@ Many search for a path to the Divine, though few seem to find one which is durab
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Presence](/videos/img/sfh_presence.jpg)
+![Presence](/assets/video-img/sfh_presence.jpg)
 </div>
 
 **What is Presence?**
@@ -43,7 +43,7 @@ Many search for a path to the Divine, though few seem to find one which is durab
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Live Fully Knowing You Will Die](/videos/img/sfh_live_die.jpg)
+![Live Fully Knowing You Will Die](/assets/video-img/sfh_live_die.jpg)
 </div>
 
 **Live Fully Knowing You Will Die**
@@ -67,13 +67,13 @@ A tried and tested truth is that the more the self is restricted, the narrower t
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Spiritual path](/videos/img/sfh_path_1.jpg)
+![The Spiritual path](/assets/video-img/sfh_path_1.jpg)
 </div>
 
 **Part 1**
 
 <div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=v_7sGq8fyYg">Watch</a>
+<a target="_blank" href="https://www.youtube.com/watch?v=TgxC0PmcJ2A">Watch</a>
 </div>
 
 </div>
@@ -81,13 +81,13 @@ A tried and tested truth is that the more the self is restricted, the narrower t
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Spiritual path](/videos/img/sfh_path_2.jpg)
+![The Spiritual path](/assets/video-img/sfh_path_2.jpg)
 </div>
 
 **Part 2**
 
 <div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=yawfdD_0jG4">Watch</a>
+<a target="_blank" href="https://www.youtube.com/watch?v=lZwIawSeotA">Watch</a>
 </div>
 
 </div>
@@ -95,13 +95,13 @@ A tried and tested truth is that the more the self is restricted, the narrower t
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Spiritual path](/videos/img/sfh_path_3.jpg)
+![The Spiritual path](/assets/video-img/sfh_path_3.jpg)
 </div>
 
 **Part 3**
 
 <div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=WRCbiNyAmF4">Watch</a>
+<a target="_blank" href="https://www.youtube.com/watch?v=KnWH5Y2fHzg">Watch</a>
 </div>
 
 </div>
@@ -109,13 +109,13 @@ A tried and tested truth is that the more the self is restricted, the narrower t
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Spiritual path](/videos/img/sfh_path_4.jpg)
+![The Spiritual path](/assets/video-img/sfh_path_4.jpg)
 </div>
 
 **Part 4**
 
 <div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=v_7sGq8fyYg">Watch</a>
+<a target="_blank" href="https://www.youtube.com/watch?v=SKt33Aw278k">Watch</a>
 </div>
 
 </div>
@@ -123,7 +123,7 @@ A tried and tested truth is that the more the self is restricted, the narrower t
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Spiritual path](/videos/img/sfh_path_1.jpg)
+![The Spiritual path](/assets/video-img/sfh_path_1.jpg)
 </div>
 
 **Part 5**
