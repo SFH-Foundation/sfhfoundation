@@ -16,7 +16,7 @@ The illusion of duality is a driving force in life towards unity. The awakened p
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Origin of Good and Bad](/videos/img/sfh_good_bad.jpg)
+![The Origin of Good and Bad](/assets/video-img/sfh_good_bad.jpg)
 </div>
 
 **The Origin of Good and Bad**
@@ -30,7 +30,7 @@ The illusion of duality is a driving force in life towards unity. The awakened p
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Way of Muhammad Today](/videos/img/sfh_way_muhammad.jpg)
+![The Way of Muhammad Today](/assets/video-img/sfh_way_muhammad.jpg)
 </div>
 
 **The Way of Muhammad Today**
@@ -44,7 +44,7 @@ The illusion of duality is a driving force in life towards unity. The awakened p
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Role of Men & Women](/videos/img/sfh_role_men_women.jpg)
+![The Role of Men & Women](/assets/video-img/sfh_role_men_women.jpg)
 </div>
 
 **The Role of Men & Women**
@@ -58,7 +58,7 @@ The illusion of duality is a driving force in life towards unity. The awakened p
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Impact of Social Media](/videos/img/sfh_impact_social_media.jpg)
+![The Impact of Social Media](/assets/video-img/sfh_impact_social_media.jpg)
 </div>
 
 **The Impact of Social Media**
@@ -72,7 +72,7 @@ The illusion of duality is a driving force in life towards unity. The awakened p
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Failure of Political Leadership](/videos/img/sfh_political_leadership.jpg)
+![The Failure of Political Leadership](/assets/video-img/sfh_political_leadership.jpg)
 </div>
 
 **The Failure of Political Leadership**
@@ -86,7 +86,7 @@ The illusion of duality is a driving force in life towards unity. The awakened p
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Economism as the New Religion](/videos/img/sfh_economism.jpg)
+![Economism as the New Religion](/assets/video-img/sfh_economism.jpg)
 </div>
 
 **Economism as the New Religion**
@@ -100,7 +100,7 @@ The illusion of duality is a driving force in life towards unity. The awakened p
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Are You Ready to Face the Absolute?](/videos/img/sfh_absolute.jpg)
+![Are You Ready to Face the Absolute?](/assets/video-img/sfh_absolute.jpg)
 </div>
 
 **Are You Ready to Face the Absolute?**
@@ -114,7 +114,7 @@ The illusion of duality is a driving force in life towards unity. The awakened p
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Descriptive & Prescriptive Qur'an](/videos/img/sfh_de_pre.jpg)
+![Descriptive & Prescriptive Qur'an](/assets/video-img/sfh_de_pre.jpg)
 </div>
 
 **Descriptive & Prescriptive Qur'an**
@@ -128,7 +128,7 @@ The illusion of duality is a driving force in life towards unity. The awakened p
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Personality, Rise in Consciousness, 6th Extinction](/videos/img/sfh_issue_personality.jpg)
+![Personality, Rise in Consciousness, 6th Extinction](/assets/video-img/sfh_issue_personality.jpg)
 </div>
 
 **Personality, Consciousness, 6th Extinction**

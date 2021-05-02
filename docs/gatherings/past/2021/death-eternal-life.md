@@ -12,7 +12,7 @@ image: assets/images/sfh_white_sm.jpg
 **Experience of Death Confirms Eternal Life**
 
 <div markdown="2" class="article-image">
-![Experience of Death Confirms Eternal Life](/videos/img/sfh_foundation.jpg)
+![Experience of Death Confirms Eternal Life](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 <div markdown="3" class="article-para">

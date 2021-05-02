@@ -99,7 +99,8 @@ height: 350px;
 .card.video {
 float: left;
 width: 22%;
-height: 270px;
+height: 200px;
+margin-bottom: 20px;
 }
 .card.video p {
 font-size: 14px;

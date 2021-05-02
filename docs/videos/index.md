@@ -33,7 +33,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Islam, Iman, Ihsan](/videos/img/sfh_islam.jpg)
+![Islam, Iman, Ihsan](/assets/video-img/sfh_islam.jpg)
 </div>
 
 **Islam, Iman, Ihsan**
@@ -47,7 +47,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Self Conduct](/videos/img/sfh_conduct.jpg)
+![Self Conduct](/assets/video-img/sfh_conduct.jpg)
 </div>
 
 **Self Conduct**
@@ -61,7 +61,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Differentiated Sameness](/videos/img/sfh_diff_same.jpg)
+![Differentiated Sameness](/assets/video-img/sfh_diff_same.jpg)
 </div>
 
 **Differentiated Sameness**
@@ -75,7 +75,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Perennial Questions](/videos/img/sfh_perennial.jpg)
+![Perennial Questions](/assets/video-img/sfh_perennial.jpg)
 </div>
 
 **Perennial Questions**
@@ -91,7 +91,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Seeking Contentment](/videos/img/sfh_seek_content.jpg)
+![Seeking Contentment](/assets/video-img/sfh_seek_content.jpg)
 </div>
 
 **Seeking Contentment**
@@ -105,7 +105,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Timeless Reality](/videos/img/sfh_soul.jpg)
+![Timeless Reality](/assets/video-img/sfh_soul.jpg)
 </div>
 
 **The Soul's Access to a Timeless Reality**
@@ -119,7 +119,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Land of Nowhere, Na Kuja Abad](/videos/img/sfh_nowhere.jpg)
+![Land of Nowhere, Na Kuja Abad](/assets/video-img/sfh_nowhere.jpg)
 </div>
 
 **Land of Nowhere, Na Kuja Abad**
@@ -133,7 +133,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Zone of The Infinite](/videos/img/sfh_conduct.jpg)
+![The Zone of The Infinite](/assets/video-img/sfh_conduct.jpg)
 </div>
 
 **The Zone of The Infinite**
@@ -149,7 +149,49 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Hope is the Elixir to the Eternal](/videos/img/hope_elixir.png)
+![The Individual & Community](/assets/video-img/fasting_2.png)
+</div>
+
+**Peak Consciousness Living**
+
+<div markdown="3" class="video-link">
+<a href="https://www.youtube.com/watch?v=KwVB3j5c6mk" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Individual & Community](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**The Individual & Community**
+
+<div markdown="3" class="video-link">
+<a href="https://www.youtube.com/watch?v=iOKM-lVQ_T8" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Fasting - Part 1](/assets/video-img/fasting_1.jpg)
+</div>
+
+**Fasting & Ramadan in the Noble Quran - Part 1**
+
+<div markdown="3" class="video-link">
+<a href="https://www.youtube.com/watch?v=dHKzGza5VZ8" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Hope is the Elixir to the Eternal](/assets/video-img/hope_elixir.png)
 </div>
 
 **Hope is the Elixir to the Eternal**
@@ -163,7 +205,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Living Transcendence](/videos/img/living_transcendence.jpg)
+![Living Transcendence](/assets/video-img/living_transcendence.jpg)
 </div>
 
 **Living Transcendence**
@@ -177,7 +219,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Experience of Death Confirms Eternal Life](/videos/img/sfh_foundation.jpg)
+![Experience of Death Confirms Eternal Life](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Experience of Death Confirms Eternal Life**
@@ -191,7 +233,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Humanity in Unity](/videos/img/urgency_journey_unity.jpg)
+![Humanity in Unity](/assets/video-img/urgency_journey_unity.jpg)
 </div>
 
 **Humanity in Unity**
@@ -205,7 +247,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Qur'an, Faith and Life](/videos/img/sfh_quran_faith_life.png)
+![The Qur'an, Faith and Life](/assets/video-img/sfh_quran_faith_life.png)
 </div>
 
 **The Qur'an, Faith and Life**
@@ -219,7 +261,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Human Crisis - Bleakness & Hope](/videos/img/sfh_bleakness_hope.png)
+![The Human Crisis - Bleakness & Hope](/assets/video-img/sfh_bleakness_hope.png)
 </div>
 
 **The Human Crisis - Bleakness & Hope**
@@ -233,7 +275,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Human Creation: Its Nature and Direction](/videos/img/sfh_noble_quran.png)
+![Human Creation: Its Nature and Direction](/assets/video-img/sfh_noble_quran.png)
 </div>
 
 **Human Creation: Its Nature and Direction**
@@ -247,7 +289,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Human Drive To Be Fulfilled](/videos/img/sfh_foundation.jpg)
+![The Human Drive To Be Fulfilled](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **The Human Drive To Be Fulfilled**
@@ -261,55 +303,13 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Achieving Inner Satisfaction & Outer Peace: Embracing Divine Teachings](/videos/img/inner_outer.png)
+![Achieving Inner Satisfaction & Outer Peace: Embracing Divine Teachings](/assets/video-img/inner_outer.png)
 </div>
 
 **Achieving Inner Satisfaction & Outer Peace**
 
 <div markdown="3" class="video-link">
 <a href="https://youtu.be/ftGv_vHCirM" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Deep Time & Human History](/videos/img/sfh_foundation.jpg)
-</div>
-
-**Deep Time & Human History Session 2**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://youtu.be/q1QA3kuT1Gc">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Two Friends](/videos/img/sfh_foundation.jpg)
-</div>
-
-**Two Friends: Conversations in Metaphysics**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=GRMRtyH4GW4">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Deep Time and Human History](/videos/img/sfh_foundation.jpg)
-</div>
-
-**Deep Time and Human History**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=CjzC-spEJ1U">Watch</a>
 </div>
 
 </div>
@@ -321,7 +321,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Sufi Cosmology Of Life - Part 1](/videos/img/sfh_foundation.jpg)
+![Sufi Cosmology Of Life - Part 1](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Sufi Cosmology Of Life - Part 1**
@@ -335,7 +335,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Reflections on Ubudiya & Ruhaniyya](/videos/img/sfh_foundation.jpg)
+![Reflections on Ubudiya & Ruhaniyya](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Service & Living As A Soul - Part 1**
@@ -349,7 +349,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Sufi Encounters - Part 1](/videos/img/sfh_foundation.jpg)
+![Sufi Encounters - Part 1](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Sufi Encounters - Part 1**
@@ -363,7 +363,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Insights of Divinity Through Humanity](/videos/img/sfh_foundation.jpg)
+![Insights of Divinity Through Humanity](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Insights of Divinity Through Humanity**
@@ -381,7 +381,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Livestream](/videos/img/sfh_quran_happiness.jpg)
+![Livestream](/assets/video-img/sfh_quran_happiness.jpg)
 </div>
 
 **Qur'an And Happiness**
@@ -395,7 +395,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Progress, Regress, and Elusive Happiness](/videos/img/sfh_elusive.jpg)
+![Progress, Regress, and Elusive Happiness](/assets/video-img/sfh_elusive.jpg)
 </div>
 
 **Progress, Regress, and Elusive Happiness**
@@ -409,7 +409,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Message to Western Muslims](/videos/img/sfh_message.jpg)
+![Message to Western Muslims](/assets/video-img/sfh_message.jpg)
 </div>
 
 **Message to Western Muslims**
@@ -423,7 +423,7 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Who Am I?](/videos/img/sfh_who.jpg)
+![Who Am I?](/assets/video-img/sfh_who.jpg)
 </div>
 
 **Who Am I?**

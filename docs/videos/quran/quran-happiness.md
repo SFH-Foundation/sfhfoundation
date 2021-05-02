@@ -19,7 +19,7 @@ Nothing and no one brings us happiness, it is the removal of unhappiness that ta
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Livestream](/videos/img/sfh_quran_happiness.jpg)
+![Livestream](/assets/video-img/sfh_quran_happiness.jpg)
 </div>
 
 **Qur'an And Happiness**
@@ -33,7 +33,7 @@ Nothing and no one brings us happiness, it is the removal of unhappiness that ta
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Illumination By The Qur'an Today](/videos/img/sfh_illumination.jpg)
+![Illumination By The Qur'an Today](/assets/video-img/sfh_illumination.jpg)
 </div>
 
 **Illumination By The Qur'an Today**
@@ -47,7 +47,7 @@ Nothing and no one brings us happiness, it is the removal of unhappiness that ta
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Surat al-Asr](/videos/img/sfh_asr_2.jpg)
+![Surat al-Asr](/assets/video-img/sfh_asr_2.jpg)
 </div>
 
 **Surat al-Asr**
@@ -61,7 +61,7 @@ Nothing and no one brings us happiness, it is the removal of unhappiness that ta
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Progress, Regress, and Elusive Happiness](/videos/img/sfh_elusive.jpg)
+![Progress, Regress, and Elusive Happiness](/assets/video-img/sfh_elusive.jpg)
 </div>
 
 **Progress, Regress, and Elusive Happiness**
@@ -75,7 +75,7 @@ Nothing and no one brings us happiness, it is the removal of unhappiness that ta
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Beams of Qur'anic Illumination](/videos/img/sfh_beams.jpg)
+![Beams of Qur'anic Illumination](/assets/video-img/sfh_beams.jpg)
 </div>
 
 **Beams of Qur'anic Illumination**

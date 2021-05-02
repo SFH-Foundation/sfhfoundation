@@ -8,11 +8,10 @@ image: assets/images/20.jpg
 
 > Allah is the Light of the heavens and the earth. The example of His light is like a niche within which is a lamp, the lamp is within glass, the glass as if it were a pearly [white] star lit from [the oil of] a blessed olive tree, neither of the east nor of the west, whose oil would almost glow even if untouched by fire. Light upon light. Allah guides to His light whom He wills. And Allah presents examples for the people, and Allah is Knowing of all things. (24:35)
 
-
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Part 1](/videos/img/light-part1.jpg)
+![Part 1](/assets/video-img/light-part1.jpg)
 </div>
 
 **Part 1**
@@ -26,7 +25,7 @@ image: assets/images/20.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Part 2](/videos/img/light-part2.jpg)
+![Part 2](/assets/video-img/light-part2.jpg)
 </div>
 
 **Part 2**
@@ -40,13 +39,13 @@ image: assets/images/20.jpg
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Part 3](/videos/img/light-part3.jpg)
+![Part 3](/assets/video-img/light-part3.jpg)
 </div>
 
 **Part 3**
 
 <div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=TVUYPOk6np4">Watch</a>
+<a target="_blank" href="https://www.youtube.com/watch?v=pJJufFpWqFo">Watch</a>
 </div>
 
 </div>

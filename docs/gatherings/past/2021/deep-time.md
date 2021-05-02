@@ -18,7 +18,7 @@ We would recommend these two books by Shaykh Fadhlalla that are relevant to this
 **Deep Time & Human Fulfilment**
 
 <div markdown="2" class="article-image">
-![Deep Time & Human Fulfilment](/videos/img/deep_time.png)
+![Deep Time & Human Fulfilment](/assets/video-img/deep_time.png)
 </div>
 
 <div markdown="3" class="article-para">
@@ -37,7 +37,7 @@ This conversation addressed a wide spectrum of key issues of global importance. 
 **Deep Time & Human History Session 2**
 
 <div markdown="2" class="article-image">
-![Deep Time & Human History Session 2](/videos/img/deep_time.png)
+![Deep Time & Human History Session 2](/assets/video-img/deep_time.png)
 </div>
 
 <div markdown="3" class="article-para">

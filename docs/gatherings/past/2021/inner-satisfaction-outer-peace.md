@@ -8,7 +8,7 @@ description:
 **Achieving Inner Satisfaction & Outer Peace: Embracing Divine Teachings**
 
 <div markdown="2" class="article-image">
-![Achieving Inner Satisfaction & Outer Peace: Embracing Divine Teachings](/videos/img/inner_outer.png)
+![Achieving Inner Satisfaction & Outer Peace: Embracing Divine Teachings](/assets/video-img/inner_outer.png)
 </div>
 
 <div markdown="3" class="article-para">

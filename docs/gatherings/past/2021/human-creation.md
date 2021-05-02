@@ -8,7 +8,7 @@ description: In this intimate session, Shaykh Fadhlalla took the audience throug
 **Human Creation: Its Nature and Direction**
 
 <div markdown="2" class="article-image">
-![Human Creation: Its Nature and Direction](/videos/img/sfh_noble_quran.png)
+![Human Creation: Its Nature and Direction](/assets/video-img/sfh_noble_quran.png)
 </div>
 
 <div markdown="3" class="article-para">

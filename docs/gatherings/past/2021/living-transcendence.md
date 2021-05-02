@@ -16,7 +16,7 @@ Amir is the Co-Founder of the Israeli Education & Spirit Movement founded in 200
 **Living Transcendence**
 
 <div markdown="2" class="article-image">
-![Living Transcendence](/videos/img/living_transcendence.jpg)
+![Living Transcendence](/assets/video-img/living_transcendence.jpg)
 </div>
 
 <div markdown="3" class="article-para">

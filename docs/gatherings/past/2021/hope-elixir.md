@@ -15,7 +15,7 @@ Hope is being able to see that there is light despite all of the darkness. Hope 
 **Hope is the Elixir to the Eternal**
 
 <div markdown="2" class="article-image">
-![Hope is the Elixir to the Eternal](/videos/img/hope_elixir.png)
+![Hope is the Elixir to the Eternal](/assets/video-img/hope_elixir.png)
 </div>
 
 <div markdown="3" class="article-para">

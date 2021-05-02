@@ -115,9 +115,11 @@ nav:
         - 'Quran, Faith, Life': 'gatherings/past/2021/quran-faith-life.md'
         - 'Humanity in Unity': 'gatherings/past/2021/humanity-unity.md'
         - 'Experiencing Death Confirms Eternal Life': 'gatherings/past/2021/death-eternal-life.md'
-        - 'Living Transcendence': 'gatherings/past/2021/living-transcendence.md'
+        - 'Living Transcendence 1': 'gatherings/past/2021/living-transcendence.md'
         - 'Hope - Elixir to the Eternal': 'gatherings/past/2021/hope-elixir.md'
-        - 'Fasting, Ramadan & Quran - 1': 'gatherings/past/2021/fasting-1.md'
+        - 'Fasting Part 1': 'gatherings/past/2021/fasting-1.md'
+        - 'Individual & Community': 'gatherings/past/2021/individual-community.md'
+        - 'Fasting Part 2': 'gatherings/past/2021/fasting-2.md'
     - Messages:
       - 'COVID-19': 'gatherings/messages/index.md'
   - Videos:
@@ -132,6 +134,7 @@ nav:
       - 'Qur’an and Happiness': 'videos/quran/quran-happiness.md'
       - 'The Verse of Light': 'videos/quran/verse-of-light.md'
       - 'Surat al-Hadid': 'videos/quran/al-Hadid.md'
+      - 'Fasting & Ramadan': 'videos/quran/fasting-ramadan.md'
     - Conferences:
       - '2013 - Celebrating The Universal Message of the Qur’an': 'videos/conferences/2013.md'
       - '2017 - From Darkness to Light': 'videos/conferences/2017.md'
@@ -246,6 +249,8 @@ nav:
       - 'Witnessing Perfection': 'reflections/practice/witnessing-perfection.md'
       - Fasting:
         - 'Introduction': 'reflections/practice/fasting/index.md'
+        - 'Part 2': 'reflections/practice/fasting/part-2.md'
+        - 'Part 3': 'reflections/practice/fasting/part-3.md'
     - 'What Is It?': 'reflections/what-is-it.md'
     - 'Maps & Models of Self': 'reflections/4-journeys.md'
     - 'Vices, Virtues and Appropriate Conduct': 'reflections/vice-virtue-appropriate-conduct.md'

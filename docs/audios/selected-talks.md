@@ -69,7 +69,7 @@ Finally, he considers the developmental stages of consciousness as is emergent i
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Human Consciousness](../videos/img/sfh_foundation.jpg)
+![Human Consciousness](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Human Consciousness**
@@ -95,7 +95,7 @@ In this recording Shaykh Fadhlalla takes the listener on a journey through an en
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![The Perpetual Now](../videos/img/sfh_foundation.jpg)
+![The Perpetual Now](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **The Perpetual Now**
@@ -127,7 +127,7 @@ Further talks on this topic can be found in [the complete series](./series/enlig
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Enlightenment](../videos/img/sfh_foundation.jpg)
+![Enlightenment](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Enlightenment**
@@ -149,7 +149,7 @@ This framework is built around the application and relatability of essential Isl
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Inner Striving and Joy Are Inseparable](../videos/img/sfh_foundation.jpg)
+![Inner Striving and Joy Are Inseparable](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Inner Striving and Joy Are Inseparable**
@@ -187,7 +187,7 @@ The entire talk is well summarised by this key excerpt:
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Islam and Tawhid](../videos/img/sfh_foundation.jpg)
+![Islam and Tawhid](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Islam and Tawhid**
@@ -215,7 +215,7 @@ An understanding of the complementary nature of the forces of life and death is 
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Die Before You Die](../videos/img/sfh_foundation.jpg)
+![Die Before You Die](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Die Before You Die**
@@ -235,7 +235,7 @@ This is a recording of a webinar on 25 January 2020 with Shaykh Fadhlalla Haeri 
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Sufi XXI Century](../videos/img/sfh_foundation.jpg)
+![Sufi XXI Century](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **What Does It Mean To Be A Sufi In The 21st Century?**

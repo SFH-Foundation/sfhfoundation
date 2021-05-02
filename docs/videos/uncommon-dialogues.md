@@ -20,7 +20,7 @@ The purpose of human life is complete when total harmony between body, mind and 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Sufi Cosmology Of Life - Part 1](/videos/img/sfh_foundation.jpg)
+![Sufi Cosmology Of Life - Part 1](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Part 1**
@@ -34,7 +34,7 @@ The purpose of human life is complete when total harmony between body, mind and 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Sufi Cosmology Of Life - Part 2](/videos/img/sfh_foundation.jpg)
+![Sufi Cosmology Of Life - Part 2](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Part 2**
@@ -48,7 +48,7 @@ The purpose of human life is complete when total harmony between body, mind and 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Sufi Cosmology Of Life - Part 3](/videos/img/sfh_foundation.jpg)
+![Sufi Cosmology Of Life - Part 3](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Part 3**
@@ -72,7 +72,7 @@ This section includes four conversations with Syed Haider Mehdi, most of which r
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Sufi Encounters - A Spiritual Journey](/videos/img/sfh_foundation.jpg)
+![Sufi Encounters - A Spiritual Journey](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Sufi Encounters - A Spiritual Journey**
@@ -86,7 +86,7 @@ This section includes four conversations with Syed Haider Mehdi, most of which r
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Sufi Encounters - Part 2](/videos/img/sfh_foundation.jpg)
+![Sufi Encounters - Part 2](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Sufi Encounters - Part 2**
@@ -100,7 +100,7 @@ This section includes four conversations with Syed Haider Mehdi, most of which r
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Sufi Encounters - Part 3](/videos/img/sfh_foundation.jpg)
+![Sufi Encounters - Part 3](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Sufi Encounters - Part 3**
@@ -114,7 +114,7 @@ This section includes four conversations with Syed Haider Mehdi, most of which r
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Seeking Divine Light](/videos/img/sfh_foundation.jpg)
+![Seeking Divine Light](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Seeking Divine Light**
@@ -133,12 +133,12 @@ This section includes four conversations with Syed Haider Mehdi, most of which r
 Personal awareness of life is the starting point of experiencing life in its infinite boundless reality.
 </div>
 
-Shaykh Fadhlalla's discussions with Dr Adnan Al-Adnani continue in a section of their own, entitled [Living Qur'an](../living-quran).
+Shaykh Fadhlalla's discussions with Dr Adnan Al-Adnani continue in a section of their own, entitled [Living Qur'an](../conversations/living-quran).
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Reflections on Ubudiya & Ruhaniyya](/videos/img/sfh_foundation.jpg)
+![Reflections on Ubudiya & Ruhaniyya](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Part 1**
@@ -152,7 +152,7 @@ Shaykh Fadhlalla's discussions with Dr Adnan Al-Adnani continue in a section of 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Reflections on Ubudiya & Ruhaniyya](/videos/img/sfh_foundation.jpg)
+![Reflections on Ubudiya & Ruhaniyya](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Part 2**
@@ -166,7 +166,7 @@ Shaykh Fadhlalla's discussions with Dr Adnan Al-Adnani continue in a section of 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Selected Āyāt From The Qur'an](/videos/img/sfh_foundation.jpg)
+![Selected Āyāt From The Qur'an](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Selected Āyāt From The Qur'an**
@@ -180,7 +180,7 @@ Shaykh Fadhlalla's discussions with Dr Adnan Al-Adnani continue in a section of 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Qur'an, Faith and Life](/videos/img/sfh_foundation.jpg)
+![The Qur'an, Faith and Life](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **The Qur'an, Faith and Life**
@@ -204,7 +204,7 @@ This section includes a conversation between Shaykh Saadi Dr. Neil Douglas Klotz
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Insights of Divinity Through Humanity](/videos/img/sfh_foundation.jpg)
+![Insights of Divinity Through Humanity](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Divinity Through Humanity**
@@ -218,7 +218,7 @@ This section includes a conversation between Shaykh Saadi Dr. Neil Douglas Klotz
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Insights into Peak Experiences](/videos/img/sfh_foundation.jpg)
+![Insights into Peak Experiences](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Peak Experiences**
@@ -232,7 +232,7 @@ This section includes a conversation between Shaykh Saadi Dr. Neil Douglas Klotz
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Surrender and Transcendence](/videos/img/sfh_foundation.jpg)
+![Surrender and Transcendence](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Surrender and Transcendence in Sufism**
@@ -246,7 +246,7 @@ This section includes a conversation between Shaykh Saadi Dr. Neil Douglas Klotz
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Path To Fulfillment](/videos/img/sfh_foundation.jpg)
+![The Path To Fulfillment](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **The Path To Fulfillment**
@@ -268,7 +268,7 @@ Every human reflects the story of the universe. However, life itself has no begi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Human Crisis - Bleakness & Hope](/videos/img/sfh_foundation.jpg)
+![The Human Crisis - Bleakness & Hope](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **The Human Crisis - Bleakness & Hope**
@@ -282,7 +282,7 @@ Every human reflects the story of the universe. However, life itself has no begi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Human Creation: Its Nature and Direction](/videos/img/sfh_foundation.jpg)
+![Human Creation: Its Nature and Direction](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Human Creation: Its Nature and Direction**
@@ -296,7 +296,7 @@ Every human reflects the story of the universe. However, life itself has no begi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Deep Time and Human History](/videos/img/sfh_foundation.jpg)
+![Deep Time and Human History](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Deep Time and Human History**
@@ -310,7 +310,7 @@ Every human reflects the story of the universe. However, life itself has no begi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Deep Time & Human History](/videos/img/sfh_foundation.jpg)
+![Deep Time & Human History](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Deep Time & Human History Session 2**
@@ -324,7 +324,7 @@ Every human reflects the story of the universe. However, life itself has no begi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Human Drive To Be Fulfilled](/videos/img/sfh_foundation.jpg)
+![The Human Drive To Be Fulfilled](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **The Human Drive To Be Fulfilled**
@@ -338,7 +338,7 @@ Every human reflects the story of the universe. However, life itself has no begi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Faith and Humanity](/videos/img/sfh_foundation.jpg)
+![Faith and Humanity](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Faith and Humanity**
@@ -352,7 +352,7 @@ Every human reflects the story of the universe. However, life itself has no begi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Achieving Inner Satisfaction & Outer Peace: Embracing Divine Teachings](/videos/img/sfh_foundation.jpg)
+![Achieving Inner Satisfaction & Outer Peace: Embracing Divine Teachings](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Achieving Inner Satisfaction & Outer Peace**
@@ -366,13 +366,13 @@ Every human reflects the story of the universe. However, life itself has no begi
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Crisis of Islamic Civilisation](/videos/img/sfh_foundation.jpg)
+![Humanity in Unity](/assets/video-img/sfh_foundation.jpg)
 </div>
 
-**The Crisis of Islamic Civilisation**
+**Humanity in Unity**
 
 <div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=CFaT26y91I8">Watch</a>
+<a href="https://youtu.be/EZGSFY7TJq0" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>
@@ -388,7 +388,7 @@ We make allowance for our earthly limitations whilst evolving towards our origin
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Experience of Death Confirms Eternal Life](/videos/img/sfh_foundation.jpg)
+![Experience of Death Confirms Eternal Life](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Experience of Death Confirms Eternal Life**
@@ -402,49 +402,7 @@ We make allowance for our earthly limitations whilst evolving towards our origin
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Process Of Spiritual Transformation](/videos/img/sfh_foundation.jpg)
-</div>
-
-**The Process Of Spiritual Transformation**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=OjoszYssKSY">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Humanity in Unity](/videos/img/sfh_foundation.jpg)
-</div>
-
-**Humanity in Unity**
-
-<div markdown="3" class="video-link">
-<a href="https://youtu.be/EZGSFY7TJq0" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Real: Faith & Identity On The Path To Awakening](/videos/img/sfh_foundation.jpg)
-</div>
-
-**The Real: Faith & Identity On The Path To Awakening**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=iTTxhb_f8Z0">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Living Transcendence](/videos/img/sfh_foundation.jpg)
+![Living Transcendence](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Living Transcendence**
@@ -458,7 +416,35 @@ We make allowance for our earthly limitations whilst evolving towards our origin
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Hope is the Elixir to the Eternal](/videos/img/sfh_foundation.jpg)
+![The Process Of Spiritual Transformation](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**The Process Of Spiritual Transformation**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=OjoszYssKSY">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Real: Faith & Identity On The Path To Awakening](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**The Real: Faith & Identity On The Path To Awakening**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=iTTxhb_f8Z0">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Hope is the Elixir to the Eternal](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Hope is the Elixir to the Eternal**
@@ -472,7 +458,35 @@ We make allowance for our earthly limitations whilst evolving towards our origin
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Two Friends](/videos/img/sfh_foundation.jpg)
+![The Individual & Community](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**The Individual & Community**
+
+<div markdown="3" class="video-link">
+<a href="https://www.youtube.com/watch?v=iOKM-lVQ_T8" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Crisis of Islamic Civilisation](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**The Crisis of Islamic Civilisation**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=CFaT26y91I8">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Two Friends](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Two Friends: Conversations in Metaphysics**
@@ -486,7 +500,7 @@ We make allowance for our earthly limitations whilst evolving towards our origin
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Impromptu Question and Answer Session](/videos/img/sfh_foundation.jpg)
+![Impromptu Question and Answer Session](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Impromptu Question and Answer Session**

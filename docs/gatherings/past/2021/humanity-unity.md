@@ -9,7 +9,7 @@ image: /assets/images/sfh_door_crop.jpg
 **The Urgency of and Journey Towards “Humanity in Unity”: Exploring the Art & Science of Integral Transformation of Self, Society, and Humanity**
 
 <div markdown="2" class="article-image">
-![Urgency and Journey Humanity Unity](/videos/img/urgency_journey_unity.jpg)
+![Urgency and Journey Humanity Unity](/assets/video-img/urgency_journey_unity.jpg)
 </div>
 
 <div markdown="3" class="article-para">

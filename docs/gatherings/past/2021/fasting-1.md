@@ -3,12 +3,14 @@ title: Fasting & Ramadan in the Noble Quran - Part 1
 description: A discussion between Shaykh Fadhlalla Haeir, Shaykh Saadi Shakur and Dr. Adnan AlAdnani about fasting, conducted during the month of Ramadan.
 ---
 
+# Fasting & Ramadan in the Noble Quran - Part 1
+
 <div class="center-text">
 الصوم في القران الكريم
 </div>
 
 <div markdown="1" class="purchase-link">
-<a href="https://www.youtube.com/watch?v=dHKzGza5VZ8" target="_blank" rel="noopener noreferrer">Set Reminder</a>
+<a href="https://www.youtube.com/watch?v=dHKzGza5VZ8" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 You can find the discussion by clicking on the link above.

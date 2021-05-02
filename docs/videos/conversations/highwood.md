@@ -36,7 +36,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Light of Lights](/videos/img/sfh_lights.jpg)
+![Light of Lights](/assets/video-img/sfh_lights.jpg)
 </div>
 
 **Light of Lights**
@@ -50,7 +50,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Free Will or Predetermination Talk](/videos/img/sfh_free_will.jpg)
+![Free Will or Predetermination Talk](/assets/video-img/sfh_free_will.jpg)
 </div>
 
 **Free Will or Predetermination?**
@@ -64,7 +64,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Forgiveness Talk](/videos/img/sfh_forgiveness.jpg)
+![Forgiveness Talk](/assets/video-img/sfh_forgiveness.jpg)
 </div>
 
 **Forgiveness and What Happens After Death**
@@ -78,7 +78,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Day of Judgement Talk](/videos/img/sfh_judgement.jpg)
+![Day of Judgement Talk](/assets/video-img/sfh_judgement.jpg)
 </div>
 
 **What is The Day of Judgement?**
@@ -92,7 +92,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Reincarnation Talk](/videos/img/sfh_reincarnation.jpg)
+![Reincarnation Talk](/assets/video-img/sfh_reincarnation.jpg)
 </div>
 
 **Is There Reincarnation in Islam?**
@@ -106,7 +106,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Islam and Science](/videos/img/sfh_islam_science.jpg)
+![Islam and Science](/assets/video-img/sfh_islam_science.jpg)
 </div>
 
 **Islam and Science**
@@ -120,7 +120,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Why is the Number 7 Considered Sacred?](/videos/img/sfh_7.jpg)
+![Why is the Number 7 Considered Sacred?](/assets/video-img/sfh_7.jpg)
 </div>
 
 **Why is the Number 7 Considered Sacred?**
@@ -134,7 +134,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Why Is There So Much War Between Religions?](/videos/img/sfh_war_religion.jpg)
+![Why Is There So Much War Between Religions?](/assets/video-img/sfh_war_religion.jpg)
 </div>
 
 **Why Is There So Much War Between Religions?**
@@ -148,7 +148,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Is The Idea of an Islamic State a Myth?](/videos/img/sfh_islamic_state.jpg)
+![Is The Idea of an Islamic State a Myth?](/assets/video-img/sfh_islamic_state.jpg)
 </div>
 
 **Is The Idea of an Islamic State a Myth?**
@@ -162,7 +162,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Will Islam Become Private Like Christianity?](/videos/img/sfh_private.jpg)
+![Will Islam Become Private Like Christianity?](/assets/video-img/sfh_private.jpg)
 </div>
 
 **Will Islam Become Private Like Christianity?**
@@ -176,7 +176,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Is God Male or Female?](/videos/img/sfh_god_gender.jpg)
+![Is God Male or Female?](/assets/video-img/sfh_god_gender.jpg)
 </div>
 
 **Is God Male or Female?**
@@ -190,7 +190,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Why Are There No Female Prophets?](/videos/img/sfh_female_prophets.jpg)
+![Why Are There No Female Prophets?](/assets/video-img/sfh_female_prophets.jpg)
 </div>
 
 **Why Are There No Female Prophets?**
@@ -204,7 +204,7 @@ behind and in front and within all sights — <strong>Allah-Hu</strong>.
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Where is God?](/videos/img/sfh_where_god.jpg)
+![Where is God?](/assets/video-img/sfh_where_god.jpg)
 </div>
 
 **Where is God?**
@@ -226,7 +226,7 @@ The ego serves its purpose by providing a cover for the sacred soul until one is
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Bismillah](/videos/img/sfh_bismillah.jpg)
+![Bismillah](/assets/video-img/sfh_bismillah.jpg)
 </div>
 
 **Bismillah**
@@ -240,7 +240,7 @@ The ego serves its purpose by providing a cover for the sacred soul until one is
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Constant Behind the Changing](/videos/img/sfh_constant_change.jpg)
+![The Constant Behind the Changing](/assets/video-img/sfh_constant_change.jpg)
 </div>
 
 **The Constant Behind the Changing**
@@ -254,7 +254,7 @@ The ego serves its purpose by providing a cover for the sacred soul until one is
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Why Do We Love Free Gifts?](/videos/img/sfh_free_gifts.jpg)
+![Why Do We Love Free Gifts?](/assets/video-img/sfh_free_gifts.jpg)
 </div>
 
 **Why Do We Love Free Gifts?**
@@ -268,7 +268,7 @@ The ego serves its purpose by providing a cover for the sacred soul until one is
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![From Limitations to the Limitless](/videos/img/sfh_limitless.jpg)
+![From Limitations to the Limitless](/assets/video-img/sfh_limitless.jpg)
 </div>
 
 **From Limitations to the Limitless**
@@ -282,7 +282,7 @@ The ego serves its purpose by providing a cover for the sacred soul until one is
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Good Deeds](/videos/img/sfh_good_deeds.jpg)
+![Good Deeds](/assets/video-img/sfh_good_deeds.jpg)
 </div>
 
 **Good Deeds**
@@ -296,7 +296,7 @@ The ego serves its purpose by providing a cover for the sacred soul until one is
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Patience](/videos/img/sfh_patience.jpg)
+![Patience](/assets/video-img/sfh_patience.jpg)
 </div>
 
 **Patience**
@@ -314,7 +314,7 @@ The ego serves its purpose by providing a cover for the sacred soul until one is
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![What is the Sixth Sense?](/videos/img/sfh_sixth_sense.jpg)
+![What is the Sixth Sense?](/assets/video-img/sfh_sixth_sense.jpg)
 </div>
 
 **What is the Sixth Sense?**
@@ -328,7 +328,7 @@ The ego serves its purpose by providing a cover for the sacred soul until one is
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![What Are Angels?](/videos/img/sfh_angels.jpg)
+![What Are Angels?](/assets/video-img/sfh_angels.jpg)
 </div>
 
 **What Are Angels?**

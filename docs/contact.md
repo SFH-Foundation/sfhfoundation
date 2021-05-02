@@ -41,3 +41,65 @@ If you'd like to get involved, learn more about the Foundation's work, and help 
 <div class="callout">
 By working for a greater good or cause, you lift your status as a human being.
 </div>
+
+## Useful Links
+
+### Talks
+
+Our Youtube Channel hosts all of Shaykh Fadhlalla's most recent talks, including his latest series, entitled ["Uncommon Dialogues"](/videos/uncommon-dialogues).
+
+<div markdown="3" class="purchase-link">
+
+<a href="https://www.youtube.com/channel/UCHiMY_Scws1sB_bn84G-YXg" target="_blank">Youtube</a>
+
+</div>
+
+Many of Shaykh Fadhlalla's recent talks can be found on any of the platforms listed below:
+
+<div markdown="1" class="card article sidebar center">
+
+<div markdown="3" class="audio-link">
+<a href="https://anchor.fm/shaykh-fadhlalla-haeri-foundation/" target="_blank" rel="noopener noreferrer">Anchor</a>
+</div>
+
+<div markdown="3" class="audio-link">
+<a href="https://podcasts.apple.com/us/podcast/shaykh-fadhlalla-haeri-foundation/id1454931525" target="_blank" rel="noopener noreferrer">Apple</a>
+</div>
+
+<div markdown="3" class="audio-link">
+<a href="https://open.spotify.com/show/2BEc8M3oNLH12KyWYFDT9N" target="_blank" rel="noopener noreferrer">Spotify</a> 
+</div>
+
+<div markdown="3" class="audio-link">
+<a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy85ODQ1YTQwL3BvZGNhc3QvcnNz" target="_blank" rel="noopener noreferrer">Google</a>
+</div>
+
+<div markdown="3" class="audio-link">
+<a href="https://www.breaker.audio/shaykh-fadhlalla-haeri-foundation" target="_blank" rel="noopener noreferrer">Breaker</a>
+</div>
+
+<div markdown="3" class="audio-link">
+<a href="https://overcast.fm/itunes1454931525/shaykh-fadhlalla-haeri-foundation" target="_blank" rel="noopener noreferrer">Overcast</a>
+</div>
+
+<div markdown="3" class="audio-link">
+<a href="https://pca.st/n80x" target="_blank" rel="noopener noreferrer">Pocket Casts</a>
+</div>
+
+<div markdown="3" class="audio-link">
+<a href="https://radiopublic.com/shaykh-fadhlalla-haeri-foundation-6pw4ma" target="_blank" rel="noopener noreferrer">RadioPublic</a>
+</div>
+
+</div>
+
+<iframe src="https://anchor.fm/shaykh-fadhlalla-haeri-foundation/embed/episodes/The-Perpetual-Now-by-Shaykh-Fadhlalla-Haeri-e3vl3a/a-aej6da" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+
+### Books
+
+Over the last forty years Shaykh Fadhlalla has written more than fifty books and given talks in many countries to share knowledge of Reality. His books are available on:
+
+<div markdown="3" class="purchase-link">
+
+<a href="https://zahrapublications.pub/" target="_blank">Zahra Publications</a>
+
+</div>

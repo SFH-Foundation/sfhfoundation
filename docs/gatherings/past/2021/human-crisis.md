@@ -8,7 +8,7 @@ description: A wide-ranging panel discussion between Shaykh Fadhlalla Haeri, Sha
 **The Human Crisis - Bleakness & Hope**
 
 <div markdown="2" class="article-image">
-![The Human Crisis - Bleakness & Hope](/videos/img/sfh_bleakness_hope.png)
+![The Human Crisis - Bleakness & Hope](/assets/video-img/sfh_bleakness_hope.png)
 </div>
 
 <div markdown="3" class="article-para">

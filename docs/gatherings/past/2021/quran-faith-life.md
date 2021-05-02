@@ -10,7 +10,7 @@ This conversation with Shaykh Fadhlalla Haeri focussed on the meaning of life as
 **The Qur'an, Faith and Life**
 
 <div markdown="2" class="article-image">
-![The Qur'an, Faith and Life](/videos/img/sfh_quran_faith_life.png)
+![The Qur'an, Faith and Life](/assets/video-img/sfh_quran_faith_life.png)
 </div>
 
 <div markdown="3" class="article-para">

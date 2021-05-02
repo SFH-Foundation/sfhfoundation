@@ -25,7 +25,7 @@ Though in reality the past does not exist, we are the product of it. Insofar as 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![part 1](/videos/img/sfh_ult_cont_1.jpg)
+![part 1](/assets/video-img/sfh_ult_cont_1.jpg)
 </div>
 
 **Part 1**
@@ -39,7 +39,7 @@ Though in reality the past does not exist, we are the product of it. Insofar as 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![part 2](/videos/img/sfh_ult_cont_2.jpg)
+![part 2](/assets/video-img/sfh_ult_cont_2.jpg)
 </div>
 
 **Part 2**
@@ -53,7 +53,7 @@ Though in reality the past does not exist, we are the product of it. Insofar as 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![part 3](/videos/img/sfh_ult_cont_3.jpg)
+![part 3](/assets/video-img/sfh_ult_cont_3.jpg)
 </div>
 
 **Part 3**
@@ -67,7 +67,7 @@ Though in reality the past does not exist, we are the product of it. Insofar as 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![part 4](/videos/img/sfh_ult_cont_4.jpg)
+![part 4](/assets/video-img/sfh_ult_cont_4.jpg)
 </div>
 
 **Part 4**
@@ -81,7 +81,7 @@ Though in reality the past does not exist, we are the product of it. Insofar as 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![part 5](/videos/img/sfh_ult_cont_5.jpg)
+![part 5](/assets/video-img/sfh_ult_cont_5.jpg)
 </div>
 
 **Part 5**

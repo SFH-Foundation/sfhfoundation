@@ -8,7 +8,7 @@ description:
 **Two Friends: Conversations in Metaphysics Theology and Anthropology**
 
 <div markdown="2" class="article-image">
-![Two Friends](/videos/img/sfh_foundation.jpg)
+![Two Friends](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 <div markdown="3" class="article-para">

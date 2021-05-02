@@ -21,7 +21,7 @@ The Original Prophetic teachings, allegory and the prescriptive and descriptive 
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![part 1](../../videos/img/sfh_foundation.jpg)
+![part 1](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Die Before You Die**
@@ -49,7 +49,7 @@ An understanding of the parallels of this evolutionary dimension is critical in 
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![part 2](../../videos/img/sfh_foundation.jpg)
+![part 2](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Fear & Hope**
@@ -77,7 +77,7 @@ The appropriate prescriptive steps and descriptive qualifications in, adequately
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![part 3](../../videos/img/sfh_foundation.jpg)
+![part 3](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Good News & Warning**
@@ -105,7 +105,7 @@ Various important descriptive elements are echoed in the Qur’anic revelations:
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![part 4](../../videos/img/sfh_foundation.jpg)
+![part 4](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Human Misery**

@@ -1,6 +1,6 @@
 ---
 title: Fasting in Islam
-description:
+description: Excerpts chosen from the book 'Transformative Woship in Islam - Experiencing Perfection", released during the month of Ramadan 2021.
 image:
 ---
 
@@ -124,9 +124,9 @@ When Adam ate from the tree it remained within his stomach for thirty days, so A
 
 Then he recited the verse:
 
-<img class="quran" src="/gatherings-volunteer/img/cow_2_183.png" />
+<img class="quran" src="/gatherings/img/cow_2_183.png" />
 
-<img class="quran-m" src="/gatherings-volunteer/img/m_cow_2_183.png" />
+<img class="quran-m" src="/gatherings/img/m_cow_2_183.png" />
 
 The fast is prescribed for you as it was prescribed for those before you. <a href="https://quran.com/2/183" target="_blank" rel="noopener noreferrer">2:183</a>
 

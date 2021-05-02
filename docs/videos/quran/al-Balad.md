@@ -17,7 +17,7 @@ On this page, you will find a collection of shorter clips cut from a talk given 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Clip 1](/videos/img/sfh_balad_1.jpg)
+![Clip 1](/assets/video-img/sfh_balad_1.jpg)
 </div>
 
 **Clip 1**
@@ -31,7 +31,7 @@ On this page, you will find a collection of shorter clips cut from a talk given 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Clip 2](/videos/img/sfh_balad_2.jpg)
+![Clip 2](/assets/video-img/sfh_balad_2.jpg)
 </div>
 
 **Clip 2**
@@ -45,7 +45,7 @@ On this page, you will find a collection of shorter clips cut from a talk given 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Clip 3](/videos/img/sfh_balad_3.jpg)
+![Clip 3](/assets/video-img/sfh_balad_3.jpg)
 </div>
 
 **Clip 3**
@@ -59,7 +59,7 @@ On this page, you will find a collection of shorter clips cut from a talk given 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Clip 4](/videos/img/sfh_balad_4.jpg)
+![Clip 4](/assets/video-img/sfh_balad_4.jpg)
 </div>
 
 **Clip 4**
@@ -73,7 +73,7 @@ On this page, you will find a collection of shorter clips cut from a talk given 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Clip 5](/videos/img/sfh_balad_5.jpg)
+![Clip 5](/assets/video-img/sfh_balad_5.jpg)
 </div>
 
 **Clip 5**

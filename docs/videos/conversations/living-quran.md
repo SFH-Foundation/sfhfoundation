@@ -17,7 +17,7 @@ The dot from which creation began is a puzzle. The Qur’an offers us insights i
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Human Consciousness From The Quran](/videos/img/sfh_foundation.jpg)
+![Human Consciousness From The Quran](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Human Consciousness From The Quran**
@@ -35,7 +35,7 @@ A penetrating discussion of insights into the mysteries of our existence and hum
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Creation - The Evolution Of Meaning And Form](/videos/img/sfh_foundation.jpg)
+![Creation - The Evolution Of Meaning And Form](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Creation - The Evolution Of Meaning And Form**
@@ -53,7 +53,7 @@ A penetrating discussion of insights into the mysteries of our existence and hum
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Surah Najm](/videos/img/sfh_foundation.jpg)
+![Surah Najm](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Surah Najm**
@@ -67,7 +67,7 @@ A penetrating discussion of insights into the mysteries of our existence and hum
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Surah Qiyamah & Surah Mursalat](/videos/img/sfh_foundation.jpg)
+![Surah Qiyamah & Surah Mursalat](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Surah Qiyamah & Surah Mursalat**

@@ -59,7 +59,7 @@ Beginning with the question, “What am I?”, this talk illuminates the depths 
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Enlightenment](../../videos/img/sfh_foundation.jpg)
+![Enlightenment](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Episode 1**
@@ -83,7 +83,7 @@ This talk approaches the topic of genuine self-knowledge through the metaphor of
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Enlightenment](../../videos/img/sfh_foundation.jpg)
+![Enlightenment](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Episode 2**
@@ -107,7 +107,7 @@ After exploring how this world manifests as opposites through the metaphor of li
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Enlightenment](../../videos/img/sfh_foundation.jpg)
+![Enlightenment](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Episode 3**
@@ -131,7 +131,7 @@ Having understood that you are the meeting point of light and shadow, and that t
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Enlightenment](../../videos/img/sfh_foundation.jpg)
+![Enlightenment](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Episode 4**
@@ -155,7 +155,7 @@ Know your essential makeup; navigate between light and shadow with constant refe
 <div markdown="1" class="card video sidebar center gemoji center-content center-card">
 
 <div markdown="2" class="video-image">
-![Enlightenment](../../videos/img/sfh_foundation.jpg)
+![Enlightenment](/assets/video-img/sfh_foundation.jpg)
 </div>
 
 **Episode 5**
