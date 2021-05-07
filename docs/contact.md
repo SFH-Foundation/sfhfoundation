@@ -24,7 +24,7 @@ If you have any thoughts on how we can improve, or would like to ask a question 
 
 <div markdown="3" class="purchase-link">
 
-<a href="mailto:info@sfhfoundation.com?subject=SFH%20Foundation%20Website%20Contact">Contact Us</a>
+<a href="mailto:info@sfhfoundation.com?subject=SFH%20Foundation%20Website%20Contact">info@sfhfoundation.com</a>
 
 </div>
 

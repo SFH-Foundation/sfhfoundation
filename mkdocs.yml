@@ -120,6 +120,9 @@ nav:
         - 'Fasting Part 1': 'gatherings/past/2021/fasting-1.md'
         - 'Individual & Community': 'gatherings/past/2021/individual-community.md'
         - 'Fasting Part 2': 'gatherings/past/2021/fasting-2.md'
+    - Upcoming:
+      - 'Fasting Part 3': 'gatherings/upcoming/fasting-3.md'
+      - 'Fasting Part 4': 'gatherings/upcoming/fasting-4.md'
     - Messages:
       - 'COVID-19': 'gatherings/messages/index.md'
   - Videos:
@@ -251,6 +254,7 @@ nav:
         - 'Introduction': 'reflections/practice/fasting/index.md'
         - 'Part 2': 'reflections/practice/fasting/part-2.md'
         - 'Part 3': 'reflections/practice/fasting/part-3.md'
+        - 'Part 4': 'reflections/practice/fasting/part-4.md'
     - 'What Is It?': 'reflections/what-is-it.md'
     - 'Maps & Models of Self': 'reflections/4-journeys.md'
     - 'Vices, Virtues and Appropriate Conduct': 'reflections/vice-virtue-appropriate-conduct.md'

@@ -16,48 +16,6 @@ Here, you can keep up to date with all our latest events. Make sure to subscribe
 [Gatherings](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1173)
 </div>
 
-## [Uncommon Dialogues](../videos/uncommon-dialogues)
-
-This series of virtual talks has been extended due to their warm reception. The discussions have included speakers like Dr. Ali Alawi, Shaykh Saadi Shakur Chisti Neil Douglas Klotz, Dr Adnan AlAdnani, Prof. Sadiyya Shaikh, Richard Eskow, Matthew Green, Syed Haider Mehdi and a number of other friends. Uncommon Dialogues cover a wide range of subjects during this pandemic, providing a message of hope, compassion and light.
-
-Join us from the comfort of your own home for the next talks, which you can find scheduled below. Follow the link provided to set a reminder for yourself when each talk premieres. 
-
-<div markdown="1" class="card article sidebar center">
-
-**Living Transcendence Part 2**
-
-<div markdown="2" class="article-image">
-![Living Transcendence](/assets/video-img/live-transcend.png)
-</div>
-
-<div markdown="3" class="article-para">
-**Premiering on Wednesday 5th May 2021**<br/>
-**8PM Central African Time**<br/>
-
-This is the second session of a conversation between Shaykh Fadhlalla Haeri and Amir Freimann. This session focuses on matters related to wholeness and love. Two most interesting subjects. This wonderful session is worth watching a number of times.
-
-Please note that we had some minor technical matters which were resolved after the first five minutes of the broadcast. We apologise for this. 
-
-</div>
-
-<div markdown="3" class="article-link">
-<a href="https://youtu.be/o33FuXxHdbA" target="_blank" rel="noopener noreferrer">Set Reminder</a>
-</div>
-
-</div>
-
-## Buddha At The Gas Pump
-
-The Shaykh Fadhlalla Haeri Foundation is pleased to announce an interview of Shaykh Fadhlalla by Rick Archer of <a href="https://batgap.com/future-interviews/upcoming-interviews/" target="_blank">Buddha at the Gas Pump</a>. Please join us for what will be an interesting conversation. 
-
-A link to the edited video will be posted in a few days.
-
-![Buddha at the Gas Pump](/assets/video-img/batgap.png)
-
-**Buddha at the Gas Pump Conversations with spiritually awakening people.**  
-
-People everywhere are undergoing a shift to an Awakened state of consciousness which is transforming their understanding of themselves and the world. For some, this shift has been abrupt and dramatic. For others, it has been so gradual that they may not have realized it has occurred. Such shifts, or awakenings, are not new: Christ spoke of the Kingdom of Heaven within, Wahdat al-Wujud amongst the Sufis, Buddhists speak of Nirvana, Zen masters of Satori, Hindus of Moksha, but these traditions generally regard these states as rare and difficult to attain. Many people are therefore skeptical of claims of higher states of consciousness. They find it hard to believe that apparently ordinary friends and neighbors might be experiencing something extraordinary. Maybe they expect Enlightenment to look as remarkable on the outside as it is reputed to be on the inside. These videos enable ordinary people to share their experience of awakening.
-
 ## The Month of Ramadan 2021
 
 The blessed month of Ramadan is upon us. We hope and pray this will be a month of healing, contemplation, and joy for all.   
@@ -73,45 +31,57 @@ During this month we hope to have a series of events which we are pleased to ann
 </div>
 
 1. [Saturday 17th April 2021](./past/2021/fasting-1)
-2. <a href="https://youtu.be/KwVB3j5c6mk" target="_blank">Saturday 24th April 2021</a>
-3. Saturday 8th May 2021
+2. [Saturday 24th April 2021](./past/2021/fasting-2)
+3. [Saturday 8th May 2021](./upcoming/fasting-3)
+4. [Monday 10th May 2021](./upcoming/fasting-4) **4PM CAT**.
 
-All broadcasts will take place at 11 AM CAT. We will inform you before each live broadcast of the verses of the Noble Quran that will be discussed so that you can be able to study these before each session.
+All broadcasts will take place at 11 AM CAT, except for the bonus 4th session. We will inform you before each live broadcast of the verses of the Noble Quran that will be discussed so that you can be able to study these before each session.
 
 We will share with you excerpts from the book entitled _<a href="https://zahrapublications.pub/book-TransformativeWorshipInIslam.php#bookTitle" target="_blank">Transformative Worship: Experiencing Perfection</a>_ on the matter of Fasting or '_Sawm_'. We will be sharing an excerpt from this book each week on Friday. You will find each part below:
 
 - [Part 1](/reflections/practice/fasting)
 - [Part 2](/reflections/practice/fasting/part-2)
 - [Part 3](/reflections/practice/fasting/part-3)
+- [Part 4](/reflections/practice/fasting/part-4)
 
 #### Discussions
 
-> "The fast belongs to Allah… You are merely the place of its manifestation.”
-
-Fasting in Islam removes everything from you, leaves you in a state of annihilation, and then when all you have left is your fasting, Allah takes that too because it belongs to Him. So what are you left with?
-
-Stillness. Peace. Allah’s Infinite Presence. You become an empty vessel, and Allah fills you with light.  
-
-> “The fast belongs to Allah… You are merely the place of its manifestation.” - Ibn Al Arabi
-
 <div markdown="1" class="card article sidebar center">
 
-**Fasting & Ramadan in the Noble Quran - Part 2**<br/>
-_Peak Consciousness Living_
+**Fasting & Ramadan in the Noble Quran - Part 3**<br/>
+_The Ultimate Destiny_
 
 <div markdown="2" class="article-image">
-![Fasting & Ramadan in the Noble Quran](/assets/video-img/fasting_2.png)
+![Fasting & Ramadan in the Noble Quran](/assets/video-img/fasting_3.png)
 </div>
 
 <div markdown="3" class="article-para">
-**Streamed Live on Saturday 24th April 2021**<br/>
-In this second session from the Noble Quran with Shaykh Fadhlalla Haeri, Shaykh Saadi Shakur, and Dr. Adnan Aladnani we will be discussing how to navigate the dynamics of complementary dualities unified by supreme consciousness. 
-
-The seeker or wayfarer (_salik_) is the one who is traveling through the stations by the divine names. In Ramadhan the travel is moving from fasting (_misk_) to breaking it (_fitr_) and from breaking it to fast.
+**Premiering on Saturday 8th May 2021**<br/>
+In the third session, Shaykh Fadhlalla Haeri, Shaykh Saadi Shakur, and Dr. Adnan AlAdnani will be discussing the final destiny of every human being. That is his or her awakening to their permanent non-time reality, from which they have emerged. 
 </div>
 
 <div markdown="3" class="article-link">
-<a href="https://youtu.be/KwVB3j5c6mk" target="_blank" rel="noopener noreferrer">Catch Up</a>
+[Set Reminder](./upcoming/fasting-3)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Fasting & Ramadan in the Noble Quran - Part 4**<br/>
+_The Pathways Towards The Boundless_
+
+<div markdown="2" class="article-image">
+![Fasting & Ramadan in the Noble Quran](/assets/video-img/fasting_4.png)
+</div>
+
+<div markdown="3" class="article-para">
+**Premiering on Monday 10th May 2021**<br/>
+In this fourth and final session, hosted as a special gift at the close of this holy month, Shaykh Fadhlalla Haeri, Shaykh Saadi Shakur, and Dr. Adnan AlAdnani will be discussing _shari’a_: The Pathways to The Boundless.
+</div>
+
+<div markdown="3" class="article-link">
+[Set Reminder](./upcoming/fasting-4)
 </div>
 
 </div>
@@ -121,6 +91,48 @@ The seeker or wayfarer (_salik_) is the one who is traveling through the station
 10 AM CAT Thursday 13th May 2021 - Shaykh Fadhlalla will give a Talk and Imam Nusrah Cassim will lead the Eid prayers. 
 
 Please watch out for further announcements for programmes on this page and the <a href="https://www.youtube.com/channel/UCHiMY_Scws1sB_bn84G-YXg" target="_blank">SFH Foundation YouTube Channel</a>.
+
+## [Uncommon Dialogues](../videos/uncommon-dialogues)
+
+This series of virtual talks has been extended due to their warm reception. The discussions have included speakers like Dr. Ali Alawi, Shaykh Saadi Shakur Chisti Neil Douglas Klotz, Dr Adnan AlAdnani, Prof. Sadiyya Shaikh, Richard Eskow, Matthew Green, Syed Haider Mehdi and a number of other friends. Uncommon Dialogues cover a wide range of subjects during this pandemic, providing a message of hope, compassion and light.
+
+Join us from the comfort of your own home for the next talks, which you can find scheduled below. Follow the link provided to set a reminder for yourself when each talk premieres. 
+
+<div markdown="1" class="card article sidebar center">
+
+**Living Transcendence Part 2**
+
+<div markdown="2" class="article-image">
+![Living Transcendence](/assets/video-img/live-transcend.png)
+</div>
+
+<div markdown="3" class="article-para">
+**Premiered on Wednesday 5th May 2021**<br/>
+**8PM Central African Time**<br/>
+
+This is the second session of a conversation between Shaykh Fadhlalla Haeri and Amir Freimann. This session focuses on matters related to wholeness and love. Two most interesting subjects. This wonderful session is worth watching a number of times.
+
+Please note that we had some minor technical matters which were resolved after the first five minutes of the broadcast. We apologise for this. 
+
+</div>
+
+<div markdown="3" class="article-link">
+<a href="https://youtu.be/o33FuXxHdbA" target="_blank" rel="noopener noreferrer">Catch Up</a>
+</div>
+
+</div>
+
+## Buddha At The Gas Pump
+
+The Shaykh Fadhlalla Haeri Foundation is pleased to announce an interview of Shaykh Fadhlalla by Rick Archer of <a href="https://batgap.com/future-interviews/upcoming-interviews/" target="_blank">Buddha at the Gas Pump</a>. Please join us for what will be an interesting conversation. 
+
+A link to the edited video will be posted in a few days.
+
+![Buddha at the Gas Pump](/assets/video-img/batgap.png)
+
+**Buddha at the Gas Pump Conversations with spiritually awakening people.**  
+
+People everywhere are undergoing a shift to an Awakened state of consciousness which is transforming their understanding of themselves and the world. For some, this shift has been abrupt and dramatic. For others, it has been so gradual that they may not have realized it has occurred. Such shifts, or awakenings, are not new: Christ spoke of the Kingdom of Heaven within, Wahdat al-Wujud amongst the Sufis, Buddhists speak of Nirvana, Zen masters of Satori, Hindus of Moksha, but these traditions generally regard these states as rare and difficult to attain. Many people are therefore skeptical of claims of higher states of consciousness. They find it hard to believe that apparently ordinary friends and neighbors might be experiencing something extraordinary. Maybe they expect Enlightenment to look as remarkable on the outside as it is reputed to be on the inside. These videos enable ordinary people to share their experience of awakening.
 
 <div class="callout">
 You may read the situation more clearly after you lose all of your ambitions and other fictions.
