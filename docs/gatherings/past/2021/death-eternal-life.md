@@ -1,32 +1,15 @@
 ---
 title: Experience of Death Confirms Eternal Life
-description: A conversation between Shaykh Fadhlalla Haeri, Shaykh
-Saadi Shakur and Dr. Adnan AlAdnani on some critical verses from the Noble Quran that will help the believer remember and prepare for death and the hereafter.
+description: A conversation between Shaykh Fadhlalla Haeri, Shaykh Saadi Shakur and Dr. Adnan AlAdnani on some critical verses from the Noble Quran that will help the believer remember and prepare for death and the hereafter.
 image: assets/images/sfh_white_sm.jpg
 ---
 
-## The Experience of Death Confirms Eternal Life
-
-<div markdown="1" class="card article sidebar center">
-
-**Experience of Death Confirms Eternal Life**
-
-<div markdown="2" class="article-image">
-![Experience of Death Confirms Eternal Life](/assets/video-img/sfh_foundation.jpg)
-</div>
-
-<div markdown="3" class="article-para">
-Streamed Live on Sunday 21st March 2021<br/><br/> 
+<iframe class="video-frame" src="https://www.youtube.com/embed/MdTchFnJ-FI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Please enjoy this important conversation between Shaykh Fadhlalla Haeri, Shaykh
 Saadi Shakur and Dr. Adnan AlAdnani on some critical verses from the Noble Quran that will help the believer remember and prepare for death and the hereafter.
-</div>
 
-<div markdown="3" class="article-link">
-<a href="https://www.youtube.com/watch?v=MdTchFnJ-FI" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
+**Streamed Live Sunday 21st March 2021**.
 
 ## Preparation
 

@@ -9,11 +9,9 @@ description: A discussion between Shaykh Fadhlalla Haeir, Shaykh Saadi Shakur an
 الصوم في القران الكريم
 </div>
 
-<div markdown="1" class="purchase-link">
-<a href="https://youtu.be/PMhqc857mbg" target="_blank" rel="noopener noreferrer">Set Reminder</a>
-</div>
+<iframe class="video-frame" src="https://www.youtube.com/embed/PMhqc857mbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-You can find the discussion by clicking on the link above.
+**Streamed Live 8th May 2021**
 
 ## The Ultimate Destiny
 
@@ -25,25 +23,25 @@ Enlightenment is to know the perfection and reliability of God’s plan; with re
 
 <a href="https://quran.com/97/1-5" target="_blank" rel="noopener noreferrer">97:1-5</a>
 
-<img class="quran" src="../../img/qadr_97_1.png" />
+<img class="quran" src="../../../img/qadr_97_1.png" />
 
-<img class="quran-m" src="../../img/m_qadr_97_1.png" />
+<img class="quran-m" src="../../../img/m_qadr_97_1.png" />
 
-<img class="quran" src="../../img/qadr_97_2.png" />
+<img class="quran" src="../../../img/qadr_97_2.png" />
 
-<img class="quran-m" src="../../img/m_qadr_97_2.png" />
+<img class="quran-m" src="../../../img/m_qadr_97_2.png" />
 
-<img class="quran" src="../../img/qadr_97_3.png" />
+<img class="quran" src="../../../img/qadr_97_3.png" />
 
-<img class="quran-m" src="../../img/m_qadr_97_3.png" />
+<img class="quran-m" src="../../../img/m_qadr_97_3.png" />
 
-<img class="quran" src="../../img/qadr_97_4.png" />
+<img class="quran" src="../../../img/qadr_97_4.png" />
 
-<img class="quran-m" src="../../img/m_qadr_97_4.png" />
+<img class="quran-m" src="../../../img/m_qadr_97_4.png" />
 
-<img class="quran" src="../../img/qadr_97_5.png" />
+<img class="quran" src="../../../img/qadr_97_5.png" />
 
-<img class="quran-m" src="../../img/m_qadr_97_5.png" />
+<img class="quran-m" src="../../../img/m_qadr_97_5.png" />
 
 Indeed, We sent the Qur'an down during the Night of Decree.
 
@@ -128,7 +126,7 @@ Similarly, for the person who is exploring the shores of an ocean, the correct c
 
 When it is said that affairs are all by the judgment of God, or by God’s knowledge, it means that the matter is decreed concerning us who will experience it. God knows the situation and acts according to His perfect justice.
 
-The Prophet says (pbuh):
+The Prophet (pbuh) says:
 
 > ‘Truly Allah has created mankind and He knew in which direction they were heading; He bade them and forbade them. Whatever He ordered them to do, He had made it possible for them to fulfill it. Whatever He had forbidden them to do, He had made it possible for them to abstain from.’
 
@@ -145,88 +143,88 @@ Imam `Ali ibn Abi Talib (pbuh) said:
 
 <a href="https://quran.com/20/50" target="_blank" rel="noopener noreferrer">20:50</a>
 
-<img class="quran" src="../../img/taha_20_50.png" />
+<img class="quran" src="../../../img/taha_20_50.png" />
 
-<img class="quran-m" src="../../img/m_taha_20_50.png" />
+<img class="quran-m" src="../../../img/m_taha_20_50.png" />
 
 He said, 'Our Lord is He who gave everything its form, then guides'
 
 <a href="https://quran.com/22/50" target="_blank" rel="noopener noreferrer">22:74</a>
 
-<img class="quran" src="../../img/hajj_22_74.png" />
+<img class="quran" src="../../../img/hajj_22_74.png" />
 
-<img class="quran-m" src="../../img/m_hajj_22_74.png" />
+<img class="quran-m" src="../../../img/m_hajj_22_74.png" />
 
 They measure not Allah with His true measure; surely Allah is All-strong, All-mighty.
 
 <a href="https://quran.com/54/12" target="_blank" rel="noopener noreferrer">54:12</a>
 
-<img class="quran" src="../../img/qamar_54_12.png" />
+<img class="quran" src="../../../img/qamar_54_12.png" />
 
-<img class="quran-m" src="../../img/m_qamar_54_12.png" />
+<img class="quran-m" src="../../../img/m_qamar_54_12.png" />
 
 and made the earth to gush with fountains, and the waters met for a matter decreed.
 
 <a href="https://quran.com/3/154" target="_blank" rel="noopener noreferrer">3:154</a>
 
-<img class="quran" src="../../img/imran_3_154.png" />
+<img class="quran" src="../../../img/imran_3_154.png" />
 
-<img class="quran-m" src="../../img/m_imran_3_154.png" />
+<img class="quran-m" src="../../../img/m_imran_3_154.png" />
 
 ...they entertained about Allah thoughts of ignorance quite unjustly, saying: We have no hand in the affair. Say: Surely the affair is wholly (in the hands) of Allah...
 
 <a href="https://quran.com/65/3" target="_blank" rel="noopener noreferrer">65:3</a>
 
-<img class="quran" src="../../img/talaq_65_3.png" />
+<img class="quran" src="../../../img/talaq_65_3.png" />
 
-<img class="quran-m" src="../../img/m_talaq_65_3.png" />
+<img class="quran-m" src="../../../img/m_talaq_65_3.png" />
 
 And give him sustenance from whence he thinks not. And whoever trusts in Allah, He is sufficient for him. Surely Allah attains His purpose. Allah indeed has appointed a measure for everything.
 
 <a href="https://quran.com/13/31" target="_blank" rel="noopener noreferrer">13:31</a>
 
-<img class="quran" src="../../img/rad_13_31.png" />
+<img class="quran" src="../../../img/rad_13_31.png" />
 
-<img class="quran-m" src="../../img/m_rad_13_31.png" />
+<img class="quran-m" src="../../../img/m_rad_13_31.png" />
 
 And even if there were a Qur’an with which the mountains were made to pass away, or the earth were travelled over with it, or the dead were made to speak thereby; nay! The commandment is wholly Allah’s, Have not yet those who believe known that if Allah please He would certainly guide all the people? And (as for) those who disbelieve, there will not cease to afflict them because of what they do a repelling calamity, or it will alight close by their abodes, until the promise of Allah comes about; surely Allah will not fail in (His) promise.
 
 <a href="https://quran.com/6/2" target="_blank" rel="noopener noreferrer">6:2</a>
 
-<img class="quran" src="../../img/cattle_6_2.png" />
+<img class="quran" src="../../../img/cattle_6_2.png" />
 
-<img class="quran-m" src="../../img/m_cattle_6_2.png" />
+<img class="quran-m" src="../../../img/m_cattle_6_2.png" />
 
 He it is Who created you from clay, then He decreed a term. And there is a term named with Him; still you doubt.
 
 <a href="https://quran.com/7/34" target="_blank" rel="noopener noreferrer">7:34</a>
 
-<img class="quran" src="../../img/araf_7_34.png" />
+<img class="quran" src="../../../img/araf_7_34.png" />
 
-<img class="quran-m" src="../../img/m_araf_7_34.png" />
+<img class="quran-m" src="../../../img/m_araf_7_34.png" />
 
 And for every nation there is a term, so when their term is come they shall not remain behind the least while, nor shall they go before.
 
 <a href="https://quran.com/10/49" target="_blank" rel="noopener noreferrer">10:49</a>
 
-<img class="quran" src="../../img/yunus_10_49.png" />
+<img class="quran" src="../../../img/yunus_10_49.png" />
 
-<img class="quran-m" src="../../img/m_yunus_10_49.png" />
+<img class="quran-m" src="../../../img/m_yunus_10_49.png" />
 
 Say: I do not control for myself any harm, nor any benefit except what Allah pleases. Every nation has a term. When their term comes, they shall not then remain behind for an hour, nor can they go before (their time).
 
 <a href="https://quran.com/71/4" target="_blank" rel="noopener noreferrer">71:4</a>
 
-<img class="quran" src="../../img/nuh_71_4.png" />
+<img class="quran" src="../../../img/nuh_71_4.png" />
 
-<img class="quran-m" src="../../img/m_nuh_71_4.png" />
+<img class="quran-m" src="../../../img/m_nuh_71_4.png" />
 
 He will cover for you some of your faults and grant you a delay to an appointed term. Surely the term of Allah when it comes is not postponed, did you but know.
 
 <a href="https://quran.com/35/11" target="_blank" rel="noopener noreferrer">35:11</a>
 
-<img class="quran" src="../../img/fatir_35_11.png" />
+<img class="quran" src="../../../img/fatir_35_11.png" />
 
-<img class="quran-m" src="../../img/m_fatir_35_11.png" />
+<img class="quran-m" src="../../../img/m_fatir_35_11.png" />
 
 And Allah created you from dust, then from the life-germ, then He made you pairs. And no female bears, nor does she bring forth, except with His knowledge. And no one whose life is lengthened has his life lengthened, nor is aught diminished of one’s life, but it is all in a book. Surely this is easy for Allah.

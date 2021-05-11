@@ -9,6 +9,8 @@ description: A discussion between Shaykh Fadhlalla Haeir, Shaykh Saadi Shakur an
 الصوم في القران الكريم
 </div>
 
+**Tuesday May 11th 2021 4PM CAT**
+
 <div markdown="1" class="purchase-link">
 <a href="https://youtu.be/w8y6XYxvSdU" target="_blank" rel="noopener noreferrer">Set Reminder</a>
 </div>

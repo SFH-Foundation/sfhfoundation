@@ -3,24 +3,11 @@ title: Human Creation - It's Nature and Direction
 description: In this intimate session, Shaykh Fadhlalla took the audience through a penetrating commentary of a series of powerful verses from The Noble Qur'an
 ---
 
-<div markdown="1" class="card article sidebar center">
+In this intimate session, Shaykh Fadhlalla took the audience through a penetrating commentary of a series of powerful verses from The Noble Qur'an. He was inspired to select these key verses and share them with commentary in the company of friends.
 
-**Human Creation: Its Nature and Direction**
+<iframe class="video-frame" src="https://www.youtube.com/embed/GIcbm7YO640" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div markdown="2" class="article-image">
-![Human Creation: Its Nature and Direction](/assets/video-img/sfh_noble_quran.png)
-</div>
-
-<div markdown="3" class="article-para">
-Premiered on Saturday 20th February 2021<br/><br/>
-In this intimate session, Shaykh Fadhlalla took the audience through a penetrating commentary of a series of powerful verses from The Noble Qur'an. He was inspired to select these key verses and share them with commentary in the company of friends.    
-</div>
-
-<div markdown="3" class="article-link">
-<a href="https://www.youtube.com/watch?v=GIcbm7YO640" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
+**Premiered on Saturday 20th February 2021**
 
 ## Relevant Ayat
 

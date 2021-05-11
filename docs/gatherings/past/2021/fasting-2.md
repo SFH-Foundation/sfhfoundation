@@ -9,11 +9,9 @@ description: A discussion between Shaykh Fadhlalla Haeir, Shaykh Saadi Shakur an
 الصوم في القران الكريم
 </div>
 
-<div markdown="1" class="purchase-link">
-<a href="https://www.youtube.com/watch?v=KwVB3j5c6mk" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
+<iframe class="video-frame" src="https://www.youtube.com/embed/KwVB3j5c6mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-You can find the discussion by clicking on the link above.
+**Streamed Live 24th April 2021**
 
 ## Peak Consciousness Living
 

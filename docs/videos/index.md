@@ -149,7 +149,35 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Individual & Community](/assets/video-img/fasting_2.png)
+![The Ultimate Destiny](/assets/video-img/fasting_3.png)
+</div>
+
+**The Ultimate Destiny**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/PMhqc857mbg" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Living Transcendence](/assets/video-img/live-transcend.png)
+</div>
+
+**Living Transcendence Part 2**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/o33FuXxHdbA" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Peak Consciousness Living](/assets/video-img/fasting_2.png)
 </div>
 
 **Peak Consciousness Living**
@@ -282,34 +310,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 <div markdown="3" class="video-link">
 <a href="https://www.youtube.com/watch?v=GIcbm7YO640" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Human Drive To Be Fulfilled](/assets/video-img/sfh_foundation.jpg)
-</div>
-
-**The Human Drive To Be Fulfilled**
-
-<div markdown="3" class="video-link">
-<a href="https://www.youtube.com/watch?v=tvGZLiBGyRo" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Achieving Inner Satisfaction & Outer Peace: Embracing Divine Teachings](/assets/video-img/inner_outer.png)
-</div>
-
-**Achieving Inner Satisfaction & Outer Peace**
-
-<div markdown="3" class="video-link">
-<a href="https://youtu.be/ftGv_vHCirM" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>

@@ -3,24 +3,11 @@ title: The Human Crisis - Bleakness & Hope
 description: A wide-ranging panel discussion between Shaykh Fadhlalla Haeri, Shaykh Saadi Shakur Chishti, Prof. Sadiyya Shaikh and Dr. Adnan Aladnani
 ---
 
-<div markdown="1" class="card article sidebar center">
+A live panel discussion between Shaykh Fadhlalla Haeri, Shaykh Saadi Shakur Chishti (Dr. Neil Douglas Klotz), Prof. Sadiyya Shaikh and Dr. Adnan Aladnani. The panelists discussed the prevailing human crises and sought the positive in the bleakness that is all around us. A discussion not to be missed.
 
-**The Human Crisis - Bleakness & Hope**
+<iframe class="video-frame" src="https://www.youtube.com/embed/_cuDO8kAsBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div markdown="2" class="article-image">
-![The Human Crisis - Bleakness & Hope](/assets/video-img/sfh_bleakness_hope.png)
-</div>
-
-<div markdown="3" class="article-para">
-Streamed live on Sunday 21st February 2021<br/><br/>
-This was a live panel discussion between Shaykh Fadhlalla Haeri, Shaykh Saadi Shakur Chishti (Dr. Neil Douglas Klotz), Prof. Sadiyya Shaikh and Dr. Adnan Aladnani. The panelists discussed the prevailing human crises and sought the positive in the bleakness that is all around us. A discussion not to be missed.  
-</div>
-
-<div markdown="3" class="article-link">
-<a href="https://www.youtube.com/watch?v=_cuDO8kAsBI" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
+**Streamed live on Sunday 21st February 2021**
 
 Shaykh Saadi Shakur Chishti (Dr. Neil Douglas Klotz) holds a Ph.D. in religious studies (comparative Semitic hermeneutics) and psychology and an M.A. in somatic psychology. He is an independent scholar with a background in hermeneutics, Middle Eastern languages, and sacred movement. For 8 years he served as co-chair of the Mysticism Group of the American Academy of Religion and was the first practicing mystic to hold this position.
 

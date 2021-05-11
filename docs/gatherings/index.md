@@ -33,9 +33,9 @@ During this month we hope to have a series of events which we are pleased to ann
 1. [Saturday 17th April 2021](./past/2021/fasting-1)
 2. [Saturday 24th April 2021](./past/2021/fasting-2)
 3. [Saturday 8th May 2021](./upcoming/fasting-3)
-4. [Monday 10th May 2021](./upcoming/fasting-4) **4PM CAT**.
+4. [Tuesday May 11th 2021](./upcoming/fasting-4) **4PM CAT**.
 
-All broadcasts will take place at 11 AM CAT, except for the bonus 4th session. We will inform you before each live broadcast of the verses of the Noble Quran that will be discussed so that you can be able to study these before each session.
+All broadcasts will take place at 11 AM CAT, except for the final session. We will inform you before each live broadcast of the verses of the Noble Quran that will be discussed so that you can be able to study these before each session.
 
 We will share with you excerpts from the book entitled _<a href="https://zahrapublications.pub/book-TransformativeWorshipInIslam.php#bookTitle" target="_blank">Transformative Worship: Experiencing Perfection</a>_ on the matter of Fasting or '_Sawm_'. We will be sharing an excerpt from this book each week on Friday. You will find each part below:
 
@@ -48,26 +48,6 @@ We will share with you excerpts from the book entitled _<a href="https://zahrapu
 
 <div markdown="1" class="card article sidebar center">
 
-**Fasting & Ramadan in the Noble Quran - Part 3**<br/>
-_The Ultimate Destiny_
-
-<div markdown="2" class="article-image">
-![Fasting & Ramadan in the Noble Quran](/assets/video-img/fasting_3.png)
-</div>
-
-<div markdown="3" class="article-para">
-**Premiering on Saturday 8th May 2021**<br/>
-In the third session, Shaykh Fadhlalla Haeri, Shaykh Saadi Shakur, and Dr. Adnan AlAdnani will be discussing the final destiny of every human being. That is his or her awakening to their permanent non-time reality, from which they have emerged. 
-</div>
-
-<div markdown="3" class="article-link">
-[Set Reminder](./upcoming/fasting-3)
-</div>
-
-</div>
-
-<div markdown="1" class="card article sidebar center">
-
 **Fasting & Ramadan in the Noble Quran - Part 4**<br/>
 _The Pathways Towards The Boundless_
 
@@ -76,12 +56,12 @@ _The Pathways Towards The Boundless_
 </div>
 
 <div markdown="3" class="article-para">
-**Premiering on Monday 10th May 2021**<br/>
-In this fourth and final session, hosted as a special gift at the close of this holy month, Shaykh Fadhlalla Haeri, Shaykh Saadi Shakur, and Dr. Adnan AlAdnani will be discussing _shari’a_: The Pathways to The Boundless.
+**Premiering Tuesday May 11th 2021**<br/>
+In this fourth and final session, Shaykh Fadhlalla Haeri, Shaykh Saadi Shakur, and Dr. Adnan AlAdnani will be discussing _shari’a_: The Pathways to The Boundless.
 </div>
 
 <div markdown="3" class="article-link">
-[Set Reminder](./upcoming/fasting-4)
+[Prepare](./upcoming/fasting-4)
 </div>
 
 </div>
@@ -94,7 +74,7 @@ Please watch out for further announcements for programmes on this page and the <
 
 ## [Uncommon Dialogues](../videos/uncommon-dialogues)
 
-This series of virtual talks has been extended due to their warm reception. The discussions have included speakers like Dr. Ali Alawi, Shaykh Saadi Shakur Chisti Neil Douglas Klotz, Dr Adnan AlAdnani, Prof. Sadiyya Shaikh, Richard Eskow, Matthew Green, Syed Haider Mehdi and a number of other friends. Uncommon Dialogues cover a wide range of subjects during this pandemic, providing a message of hope, compassion and light.
+This series of virtual talks has been extended due to their warm reception. The discussions have included speakers like Dr. Ali Allawi, Shaykh Saadi Shakur Chisti Neil Douglas Klotz, Dr Adnan AlAdnani, Prof. Sadiyya Shaikh, Richard Eskow, Matthew Green, Syed Haider Mehdi and a number of other friends. Uncommon Dialogues cover a wide range of subjects during this pandemic, providing a message of hope, compassion and light.
 
 Join us from the comfort of your own home for the next talks, which you can find scheduled below. Follow the link provided to set a reminder for yourself when each talk premieres. 
 
@@ -126,7 +106,9 @@ Please note that we had some minor technical matters which were resolved after t
 
 The Shaykh Fadhlalla Haeri Foundation is pleased to announce an interview of Shaykh Fadhlalla by Rick Archer of <a href="https://batgap.com/future-interviews/upcoming-interviews/" target="_blank">Buddha at the Gas Pump</a>. Please join us for what will be an interesting conversation. 
 
-A link to the edited video will be posted in a few days.
+<div markdown="3" class="article-link">
+<a href="https://www.youtube.com/watch?v=7DqJ1g2qp_M" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
 
 ![Buddha at the Gas Pump](/assets/video-img/batgap.png)
 
