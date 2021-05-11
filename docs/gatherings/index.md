@@ -24,6 +24,26 @@ Fasting is deeply rooted in our consciousness and a means of maintaining physica
 
 During this month we hope to have a series of events which we are pleased to announce. We will have some sessions from the Noble Quran with Shaykh Fadhlalla Haeri, Shaykh Saadi Shakur, and Dr. Adnan AlAdnani. In addition, we have some important conversations that we hope to have with Shaykh Kabir Helminski, Rick Archer, and other eminent scholars and renowned philosophers and teachers.
 
+### Special Broadcast for Eid ul Fitr
+
+With the state of the COVID pandemic in South Africa and internationally we would highly recommend taking all necessary social distance precautions in doing the Eid ul Fitr Prayers. While these are best done as congregational prayers, we are giving our subscribers the option of doing this online. 
+
+Eid ul Fitr in 2021 is a time of reflection, rejoicing, and gratitude. Ramadan 2021 has been a time to renew our commitment to service. Please ensure you give your Fitrah or set it aside which in South Africa is R48 & Fidayah R12 per member of your household before you commence your prayer.  
+
+While traditionally we would start with prayers followed by a short sermon, this year we will start with a brief talk by Shaykh Fadhlalla Haeri, followed by the prayer and a short Khutbah led by Imam Nusrah Cassiem. 
+
+We will make a further announcement on the evening of May 12, 2021 as to when Eid ul Fitr will be celebrated on the <a href="https://www.youtube.com/channel/UCHiMY_Scws1sB_bn84G-YXg" target="_blank">SFH Foundation YouTube Channel</a>.
+
+The programme will start at Central African Time:
+
+10:00 AM Call to Prayer by Imam Nusrah Cassiem<br/>
+10:05 AM Introduction by Muna Haeri Bilgrami<br/>
+10:08 AM Talk by Shaykh Fadhlalla Haeri<br/>
+10:25 AM Prayer and Khutbah by Imam Nusrah Cassiem<br/>
+Closing  
+
+We would recommend that you do your prayers outside under the open sky and follow the prayer on your laptop or mobile device. 
+
 ### Fasting & Ramadan in the Noble Quran 
 
 <div class="center-text">
@@ -32,8 +52,8 @@ During this month we hope to have a series of events which we are pleased to ann
 
 1. [Saturday 17th April 2021](./past/2021/fasting-1)
 2. [Saturday 24th April 2021](./past/2021/fasting-2)
-3. [Saturday 8th May 2021](./upcoming/fasting-3)
-4. [Tuesday May 11th 2021](./upcoming/fasting-4) **4PM CAT**.
+3. [Saturday 8th May 2021](./past/2021/fasting-3)
+4. [Tuesday May 11th 2021](./past/2021/fasting-4)
 
 All broadcasts will take place at 11 AM CAT, except for the final session. We will inform you before each live broadcast of the verses of the Noble Quran that will be discussed so that you can be able to study these before each session.
 
@@ -61,16 +81,10 @@ In this fourth and final session, Shaykh Fadhlalla Haeri, Shaykh Saadi Shakur, a
 </div>
 
 <div markdown="3" class="article-link">
-[Prepare](./upcoming/fasting-4)
+[Catch Up](./upcoming/fasting-4)
 </div>
 
 </div>
-
-## Special Broadcast for Eid ul Fitr
-
-10 AM CAT Thursday 13th May 2021 - Shaykh Fadhlalla will give a Talk and Imam Nusrah Cassim will lead the Eid prayers. 
-
-Please watch out for further announcements for programmes on this page and the <a href="https://www.youtube.com/channel/UCHiMY_Scws1sB_bn84G-YXg" target="_blank">SFH Foundation YouTube Channel</a>.
 
 ## [Uncommon Dialogues](../videos/uncommon-dialogues)
 
@@ -111,10 +125,6 @@ The Shaykh Fadhlalla Haeri Foundation is pleased to announce an interview of Sha
 </div>
 
 ![Buddha at the Gas Pump](/assets/video-img/batgap.png)
-
-**Buddha at the Gas Pump Conversations with spiritually awakening people.**  
-
-People everywhere are undergoing a shift to an Awakened state of consciousness which is transforming their understanding of themselves and the world. For some, this shift has been abrupt and dramatic. For others, it has been so gradual that they may not have realized it has occurred. Such shifts, or awakenings, are not new: Christ spoke of the Kingdom of Heaven within, Wahdat al-Wujud amongst the Sufis, Buddhists speak of Nirvana, Zen masters of Satori, Hindus of Moksha, but these traditions generally regard these states as rare and difficult to attain. Many people are therefore skeptical of claims of higher states of consciousness. They find it hard to believe that apparently ordinary friends and neighbors might be experiencing something extraordinary. Maybe they expect Enlightenment to look as remarkable on the outside as it is reputed to be on the inside. These videos enable ordinary people to share their experience of awakening.
 
 <div class="callout">
 You may read the situation more clearly after you lose all of your ambitions and other fictions.

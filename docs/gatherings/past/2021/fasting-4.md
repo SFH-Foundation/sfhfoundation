@@ -9,13 +9,9 @@ description: A discussion between Shaykh Fadhlalla Haeir, Shaykh Saadi Shakur an
 الصوم في القران الكريم
 </div>
 
-**Tuesday May 11th 2021 4PM CAT**
+<iframe class="video-frame" src="https://www.youtube.com/embed/w8y6XYxvSdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div markdown="1" class="purchase-link">
-<a href="https://youtu.be/w8y6XYxvSdU" target="_blank" rel="noopener noreferrer">Set Reminder</a>
-</div>
-
-You can find the discussion by clicking on the link above.
+**Streamed Live Tuesday May 11th 2021**
 
 ## The Pathways To The Boundless
 
@@ -103,160 +99,160 @@ The spiritual path is based upon making the self subservient to the soul which w
 
 <a href="https://quran.com/42/13" target="_blank" rel="noopener noreferrer">42:13</a>
 
-<img class="quran" src="../../img/x_shura_42_13.png" />
+<img class="quran" src="../../../img/x_shura_42_13.png" />
 
-<img class="quran-m" src="../../img/m_shura_42_13.png" />
+<img class="quran-m" src="../../../img/m_shura_42_13.png" />
 
 He has laid down for you as religion that He charged Noah with, and that We have revealed to thee, and that We charged Abraham with, Moses and Jesus: 'Perform the religion, and scatter not regarding it. Very hateful is that for the idolaters, that thou callest them to. God chooses unto Himself whomsoever He will, and He guides to Himself whosoever turns, penitent.
 
 <a href="https://quran.com/5/48" target="_blank" rel="noopener noreferrer">5:48</a>
 
-<img class="quran" src="../../img/x_maidah_5_48.png" />
+<img class="quran" src="../../../img/x_maidah_5_48.png" />
 
-<img class="quran-m" src="../../img/m_maidah_5_48.png" />
+<img class="quran-m" src="../../../img/m_maidah_5_48.png" />
 
 And We have sent down to thee the Book with the truth, confirming the Book that was before it, and assuring it. So judge between them according to what God has sent down, and do not follow their caprices, to forsake the truth that has come to thee. To every one of you We have appointed a right way and an open road. If God had willed, He would have made you one nation; but that He may try you in what has come to you. So be you forward in good works; unto God shall you return, all together; and He will tell you of that whereon you were at variance.
 
 <a href="https://quran.com/45/18" target="_blank" rel="noopener noreferrer">45:18</a>
 
-<img class="quran" src="../../img/x_jathiyah_45_18.png" />
+<img class="quran" src="../../../img/x_jathiyah_45_18.png" />
 
-<img class="quran-m" src="../../img/m_jathiyah_45_18.png" />
+<img class="quran-m" src="../../../img/m_jathiyah_45_18.png" />
 
 Then We set thee upon an open way of the Command; therefore follow it, and follow not the caprices of those who do not know.
 
 <a href="https://quran.com/9/122" target="_blank" rel="noopener noreferrer">9:122</a>
 
-<img class="quran" src="../../img/x_tawbah_9_122.png" />
+<img class="quran" src="../../../img/x_tawbah_9_122.png" />
 
-<img class="quran-m" src="../../img/m_tawbah_9_122.png" />
+<img class="quran-m" src="../../../img/m_tawbah_9_122.png" />
 
 And it is not for the believers to go forth [to battle] all at once. For there should separate from every division of them a group [remaining] to obtain understanding in the religion and warn their people when they return to them that they might be cautious.
 
 <a href="https://quran.com/7/179" target="_blank" rel="noopener noreferrer">7:179</a>
 
-<img class="quran" src="../../img/x_araf_7_179.png" />
+<img class="quran" src="../../../img/x_araf_7_179.png" />
 
-<img class="quran-m" src="../../img/m_araf_7_179.png" />
+<img class="quran-m" src="../../../img/m_araf_7_179.png" />
 
 And We have certainly created for Hell many of the jinn and mankind. They have hearts with which they do not understand, they have eyes with which they do not see, and they have ears with which they do not hear. Those are like livestock; rather, they are more astray. It is they who are the heedless.
 
 <a href="https://quran.com/72/16" target="_blank" rel="noopener noreferrer">72:16</a>
 
-<img class="quran" src="../../img/x_jinn_72_16.png" />
+<img class="quran" src="../../../img/x_jinn_72_16.png" />
 
-<img class="quran-m" src="../../img/m_jinn_72_16.png" />
+<img class="quran-m" src="../../../img/m_jinn_72_16.png" />
 
 And that if they should keep to the (right) way, We would certainly give them to drink of abundant water,
 
 <a href="https://quran.com/46/30" target="_blank" rel="noopener noreferrer">46:30</a>
 
-<img class="quran" src="../../img/x_ahqaf_46_30.png" />
+<img class="quran" src="../../../img/x_ahqaf_46_30.png" />
 
-<img class="quran-m" src="../../img/m_ahqaf_46_30.png" />
+<img class="quran-m" src="../../../img/m_ahqaf_46_30.png" />
 
 They said, 'Our people, we have heard a Book that was sent down after Moses, confirming what was before it, guiding to the truth and to a straight path.
 
 <a href="https://quran.com/33/38" target="_blank" rel="noopener noreferrer">33:38</a>
 
-<img class="quran" src="../../img/x_ahzab_33_38.png" />
+<img class="quran" src="../../../img/x_ahzab_33_38.png" />
 
-<img class="quran-m" src="../../img/m_ahzab_33_38.png" />
+<img class="quran-m" src="../../../img/m_ahzab_33_38.png" />
 
 There is not to be upon the Prophet any discomfort concerning that which Allah has imposed upon him. [This is] the established way of Allah with those [prophets] who have passed on before. And ever is the command of Allah a destiny decreed.
 
 <a href="https://quran.com/28/85" target="_blank" rel="noopener noreferrer">28:85</a>
 
-<img class="quran" src="../../img/x_qasas_28_85.png" />
+<img class="quran" src="../../../img/x_qasas_28_85.png" />
 
-<img class="quran-m" src="../../img/m_qasas_28_85.png" />
+<img class="quran-m" src="../../../img/m_qasas_28_85.png" />
 
 Most surely He Who has made the Quran binding on you will bring you back to the destination. Say: My Lord knows best him who has brought the guidance and him who is in manifest error.
 
 <a href="https://quran.com/2/183" target="_blank" rel="noopener noreferrer">2:183</a>
 
-<img class="quran" src="../../img/x_cow_2_183.png" />
+<img class="quran" src="../../../img/x_cow_2_183.png" />
 
-<img class="quran-m" src="../../img/m_cow_2_183.png" />
+<img class="quran-m" src="../../../img/m_cow_2_183.png" />
 
 O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become reverent
 
 <a href="https://quran.com/2/110" target="_blank" rel="noopener noreferrer">2:110</a>
 
-<img class="quran" src="../../img/x_cow_2_110.png" />
+<img class="quran" src="../../../img/x_cow_2_110.png" />
 
-<img class="quran-m" src="../../img/m_cow_2_110.png" />
+<img class="quran-m" src="../../../img/m_cow_2_110.png" />
 
 And establish prayer and give zakah, and whatever good you put forward for yourselves - you will find it with Allah. Indeed, Allah of what you do, is Seeing.
 
 <a href="https://quran.com/5/6" target="_blank" rel="noopener noreferrer">5:6</a>
 
-<img class="quran" src="../../img/x_maidah_5_6.png" />
+<img class="quran" src="../../../img/x_maidah_5_6.png" />
 
-<img class="quran-m" src="../../img/m_maidah_5_6.png" />
+<img class="quran-m" src="../../../img/m_maidah_5_6.png" />
 
 O you who have believed, when you rise to [perform] prayer, wash your faces and your forearms to the elbows and wipe over your heads and wash your feet to the ankles. And if you are in a state of janabah, then purify yourselves. But if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women and do not find water, then seek clean earth and wipe over your faces and hands with it. Allah does not intend to make difficulty for you, but He intends to purify you and complete His favor upon you that you may be grateful.
 
 <a href="https://quran.com/2/177" target="_blank" rel="noopener noreferrer">2:177</a>
 
-<img class="quran" src="../../img/x_cow_2_177.png" />
+<img class="quran" src="../../../img/x_cow_2_177.png" />
 
-<img class="quran-m" src="../../img/m_cow_2_177.png" />
+<img class="quran-m" src="../../../img/m_cow_2_177.png" />
 
 Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allah , the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakah; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
 
 <a href="https://quran.com/98/5" target="_blank" rel="noopener noreferrer">98:5</a>
 
-<img class="quran" src="../../img/x_bayinah_98_5.png" />
+<img class="quran" src="../../../img/x_bayinah_98_5.png" />
 
-<img class="quran-m" src="../../img/m_bayinah_98_5.png" />
+<img class="quran-m" src="../../../img/m_bayinah_98_5.png" />
 
 And they were not commanded except to worship Allah, [being] sincere to Him in religion, inclining to truth, and to establish prayer and to give zakah. And that is the correct religion.
 
 <a href="https://quran.com/7/29" target="_blank" rel="noopener noreferrer">7:29</a>
 
-<img class="quran" src="../../img/x_araf_7_29.png" />
+<img class="quran" src="../../../img/x_araf_7_29.png" />
 
-<img class="quran-m" src="../../img/m_araf_7_29.png" />
+<img class="quran-m" src="../../../img/m_araf_7_29.png" />
 
 Say: 'My Lord has commanded justice. Set your faces in every place of worship and call on Him, making your religion sincerely His. As He originated you so you will return;
 
 <a href="https://quran.com/16/90" target="_blank" rel="noopener noreferrer">16:90</a>
 
-<img class="quran" src="../../img/x_nahl_16_90.png" />
+<img class="quran" src="../../../img/x_nahl_16_90.png" />
 
-<img class="quran-m" src="../../img/m_nahl_16_90.png" />
+<img class="quran-m" src="../../../img/m_nahl_16_90.png" />
 
 Indeed, Allah orders justice and good conduct and giving to relatives and forbids immorality and bad conduct and oppression. He admonishes you that perhaps you will be reminded.
 
 <a href="https://quran.com/2/187" target="_blank" rel="noopener noreferrer">2:187</a>
 
-<img class="quran" src="../../img/x_cow_2_187.png" />
+<img class="quran" src="../../../img/x_cow_2_187.png" />
 
-<img class="quran-m" src="../../img/m_cow_2_187.png" />
+<img class="quran-m" src="../../../img/m_cow_2_187.png" />
 
 Permitted to you, upon the night of the Fast, is to go in to your wives; -- they are a vestment for you, and you are a vestment for them. God knows that you have been betraying yourselves, and has turned to you and pardoned you. So now lie with them, and seek what God has prescribed for you. And eat and drink, until the white thread shows clearly to you from the black thread at the dawn; then complete the Fast unto the night, and do not lie with them while you cleave to the mosques. Those are God's bounds; keep well within them. So God makes clear His signs to men; haply they will be reverent.
 
 <a href="https://quran.com/2/173" target="_blank" rel="noopener noreferrer">2:173</a>
 
-<img class="quran" src="../../img/x_cow_2_173.png" />
+<img class="quran" src="../../../img/x_cow_2_173.png" />
 
-<img class="quran-m" src="../../img/m_cow_2_173.png" />
+<img class="quran-m" src="../../../img/m_cow_2_173.png" />
 
 He has only forbidden to you dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allah. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit], there is no sin upon him. Indeed, Allah is Forgiving and Merciful.
 
 <a href="https://quran.com/2/275" target="_blank" rel="noopener noreferrer">2:275</a>
 
-<img class="quran" src="../../img/x_cow_2_275.png" />
+<img class="quran" src="../../../img/x_cow_2_275.png" />
 
-<img class="quran-m" src="../../img/m_cow_2_275.png" />
+<img class="quran-m" src="../../../img/m_cow_2_275.png" />
 
 Those who devour usury shall not rise again except as he rises, whom Satan of the touch prostrates; that is because they say, 'Trafficking (trade) is like usury.' God has permitted trafficking, and forbidden usury. Whosoever receives an admonition from his Lord and gives over, he shall have his past gains, and his affair is committed to God; but whosoever reverts -- those are the inhabitants of the Fire, therein dwelling forever.
 
 <a href="https://quran.com/6/151" target="_blank" rel="noopener noreferrer">6:151</a>
 
-<img class="quran" src="../../img/x_cattle_6_151.png" />
+<img class="quran" src="../../../img/x_cattle_6_151.png" />
 
-<img class="quran-m" src="../../img/m_cattle_6_151.png" />
+<img class="quran-m" src="../../../img/m_cattle_6_151.png" />
 
 Say, "Come, I will recite what your Lord has prohibited to you. [He commands] that you not associate anything with Him, and to parents, good treatment, and do not kill your children out of poverty; We will provide for you and them. And do not approach immoralities - what is apparent of them and what is concealed. And do not kill the soul which Allah has forbidden [to be killed] except by [legal] right. This has He instructed you that you may use reason."
