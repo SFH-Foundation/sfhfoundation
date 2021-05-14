@@ -16,13 +16,30 @@ Here, you can keep up to date with all our latest events. Make sure to subscribe
 [Gatherings](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1173)
 </div>
 
-## The Month of Ramadan 2021
+## Universal Qur’an
 
-The blessed month of Ramadan is upon us. We hope and pray this will be a month of healing, contemplation, and joy for all.   
+<img src="/assets/images/uq.png" />
 
-Fasting is deeply rooted in our consciousness and a means of maintaining physical and mental health for cultural and political reasons. Fasting has been a devotional practice in most religious and spiritual movements through the ages. Islam has prescribed the practice of abstinence and fasting as a means of self-purification and worship. The act of restraining the self from fulfilling its desires purifies and enhances awareness physically, mentally, and spiritually and sensitizes human consciousness. The seeker realizes the weakness of the self and is gratified by the discipline, restriction, and prohibitions, for these limitations, are windows to Allah’s limitlessness. 
+This is the age where we need regular spiritual recharge and awakening to the truth within our hearts.
 
-During this month we hope to have a series of events which we are pleased to announce. We will have some sessions from the Noble Quran with Shaykh Fadhlalla Haeri, Shaykh Saadi Shakur, and Dr. Adnan AlAdnani. In addition, we have some important conversations that we hope to have with Shaykh Kabir Helminski, Rick Archer, and other eminent scholars and renowned philosophers and teachers.
+The Noble Qur’an is universal and useful at all times and for all people. This belief motivated Shaykh Fadhlalla Haeri to select the verses that are clearly universal. Shaykh Fadhlalla rendered the meanings of the verses in an easily accessible way for the modern reader. The verses selected are renderings of the inner meaning, rather than a traditional translation.
+
+The present needs of human beings in this day and age require more reference to the Source of creation, and Divine Light – which are largely Meccan verses, of which this book presents a selection.
+
+The selected verses help with personal transformation and the rise in consciousness and Universal Truth, rather than with relationship, community, law, and other aspects of conduct to help recharge spiritually.
+
+The miracle of the Noble Qur’an is that its verses repeatedly reveal the seamless connection between the infinite, unseen, cosmic lights with finite, relative, and limited earthly consciousness. This selection of key verses is universally useful for all times and for all people for every moment in the human journey.  
+
+This book will be discussed over two sessions, where Shaykh Saadi Shakur, Syed Haider Mehdi, and Dr. Adnan AlAdnani will engage with Shaykh Fadhlalla to discuss the 'wise commentary and rendering of these verses as a wake-up call for all humanity, regardless of belief or philosophy of life'.
+
+**May 16 & 23, 2021**
+12 PM Central African Time
+
+The video will be accessible using the link below on May 16th.
+
+<div markdown="3" class="article-link">
+<a href="https://youtu.be/FnLUqkqlHRI" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
 
 ### Special Broadcast for Eid ul Fitr
 
@@ -32,17 +49,11 @@ Eid ul Fitr in 2021 is a time of reflection, rejoicing, and gratitude. Ramadan 2
 
 While traditionally we would start with prayers followed by a short sermon, this year we will start with a brief talk by Shaykh Fadhlalla Haeri, followed by the prayer and a short Khutbah led by Imam Nusrah Cassiem. 
 
-We will make a further announcement on the evening of May 12, 2021 as to when Eid ul Fitr will be celebrated on the <a href="https://www.youtube.com/channel/UCHiMY_Scws1sB_bn84G-YXg" target="_blank">SFH Foundation YouTube Channel</a>.
+You can rewatch the Eid ul Fitr celebrations by clicking below:
 
-The programme will start at Central African Time:
-
-10:00 AM Call to Prayer by Imam Nusrah Cassiem<br/>
-10:05 AM Introduction by Muna Haeri Bilgrami<br/>
-10:08 AM Talk by Shaykh Fadhlalla Haeri<br/>
-10:25 AM Prayer and Khutbah by Imam Nusrah Cassiem<br/>
-Closing  
-
-We would recommend that you do your prayers outside under the open sky and follow the prayer on your laptop or mobile device. 
+<div markdown="3" class="article-link">
+<a href="https://www.youtube.com/watch?v=_PREo7ZBWuY" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
 
 ### Fasting & Ramadan in the Noble Quran 
 
