@@ -21,7 +21,13 @@ The next verse refers to the fast of Mary, mother of Jesus, who was ordered to r
 
 **So eat and drink and refresh the eye. Then if you see any mortal, say: Surely I have vowed a fast to the Beneficent God, so I shall not speak to any man today. (19:26)**.
 
-You can find additional verses specific to each talk on the [events page](/gatherings/past/2021/fasting-1) for each discussion.
+> "The fast belongs to Allah… You are merely the place of its manifestation.”
+
+Fasting in Islam removes everything from you, leaves you in a state of annihilation, and then when all you have left is your fasting, Allah takes that too because it belongs to Him. So what are you left with?
+
+Stillness. Peace. Allah’s Infinite Presence. You become an empty vessel, and Allah fills you with light.  
+
+> “The fast belongs to Allah… You are merely the place of its manifestation.” - Ibn Al Arabi
 
 ## Videos
 
@@ -34,7 +40,7 @@ You can find additional verses specific to each talk on the [events page](/gathe
 **Part 1 - Introduction**
 
 <div markdown="3" class="video-link">
-<a href="https://www.youtube.com/watch?v=dHKzGza5VZ8" target="_blank" rel="noopener noreferrer">Watch</a>
+<a href="/gatherings/past/2021/fasting-1" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>
@@ -48,7 +54,35 @@ You can find additional verses specific to each talk on the [events page](/gathe
 **Part 2 - Peak Consciousness Living**
 
 <div markdown="3" class="video-link">
-<a href="https://www.youtube.com/watch?v=KwVB3j5c6mk" target="_blank" rel="noopener noreferrer">Watch</a>
+<a href="/gatherings/past/2021/fasting-2" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Ultimate Destiny](/assets/video-img/fasting_3.png)
+</div>
+
+**Part 3 - The Ultimate Destiny**
+
+<div markdown="3" class="video-link">
+<a href="/gatherings/past/2021/fasting-3" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Pathways To The Boundless](/assets/video-img/fasting_4.png)
+</div>
+
+**Part 4 - The Pathways To The Boundless**
+
+<div markdown="3" class="video-link">
+<a href="/gatherings/past/2021/fasting-4" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>

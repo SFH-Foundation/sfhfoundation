@@ -16,6 +16,31 @@ Here, you can keep up to date with all our latest events. Make sure to subscribe
 [Gatherings](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1173)
 </div>
 
+## When Two Oceans Meet
+
+### A Conversation Between Seyyed Hossein Nasr & Shaykh Fadhlalla Haeri
+
+Shaykh Fadhlalla and Seyyed Hossein Nasr have been friends for many years. They both share interesting parallels in their lives. Both come from families with strong connections to religious and spiritual backgrounds. Both started their educational careers in the sciences. Both found their way to Sufism through their spiritual journeys.
+
+Shaykh Fadhlalla has long been an admirer of Seyyed Hossein Nasr whom he requested to write a brief biography of the Prophet (PBUH) Muhammad, entitled _Man of Allah_. This book was originally published by the Muhammadi Trust on behalf of Zahra Publications. Seyyed Hossein Nasr has also kindly written the introductions for a number of books written by Shaykh Fadhlalla.
+
+The relationship between these individuals is of mutual respect and admiration. As a friend of Shaykh Fadhlalla said, this is a ‘meeting of the two oceans’, hence the title 'When Two Oceans Meet'.
+
+Muna Haeri Bilgrami will be the host and moderator of this dialogue, leading the conversation, under the umbrella of Sufism in the East & West, through related subjects like Islam and the environment; death as a transition of states; and advice for the younger seeker.
+
+Do join us for this most important conversation between spiritual masters.
+
+The live session will be broadcast on:  
+
+**May 20, 2021**  
+**11 AM US Eastern Time, and 05:00 PM Central African Time.**
+
+<div markdown="3" class="article-link">
+<a href="https://youtu.be/QsDGX3LIRp0" target="_blank" rel="noopener noreferrer">Set Reminder</a>
+</div>
+
+After the live broadcast, the edited programme will Premiere on May 29, 2021 at 12:00 PM Central African Time.
+
 ## Universal Qur’an
 
 <img src="/assets/images/uq.png" />
@@ -32,16 +57,14 @@ The miracle of the Noble Qur’an is that its verses repeatedly reveal the seaml
 
 This book will be discussed over two sessions, where Shaykh Saadi Shakur, Syed Haider Mehdi, and Dr. Adnan AlAdnani will engage with Shaykh Fadhlalla to discuss the 'wise commentary and rendering of these verses as a wake-up call for all humanity, regardless of belief or philosophy of life'.
 
-**May 16 & 23, 2021**
+**May 16 & 23, 2021**<br/>
 12 PM Central African Time
 
-The video will be accessible using the link below on May 16th.
-
 <div markdown="3" class="article-link">
-<a href="https://youtu.be/FnLUqkqlHRI" target="_blank" rel="noopener noreferrer">Watch</a>
+<a href="./past/2021/universal-quran">Watch</a>
 </div>
 
-### Special Broadcast for Eid ul Fitr
+## Special Broadcast for Eid ul Fitr
 
 With the state of the COVID pandemic in South Africa and internationally we would highly recommend taking all necessary social distance precautions in doing the Eid ul Fitr Prayers. While these are best done as congregational prayers, we are giving our subscribers the option of doing this online. 
 
@@ -52,10 +75,10 @@ While traditionally we would start with prayers followed by a short sermon, this
 You can rewatch the Eid ul Fitr celebrations by clicking below:
 
 <div markdown="3" class="article-link">
-<a href="https://www.youtube.com/watch?v=_PREo7ZBWuY" target="_blank" rel="noopener noreferrer">Watch</a>
+<a href="./past/2021/eid-ul-fitr">Watch</a>
 </div>
 
-### Fasting & Ramadan in the Noble Quran 
+## Fasting & Ramadan in the Noble Quran 
 
 <div class="center-text">
 الصوم في القران الكريم
@@ -66,36 +89,12 @@ You can rewatch the Eid ul Fitr celebrations by clicking below:
 3. [Saturday 8th May 2021](./past/2021/fasting-3)
 4. [Tuesday May 11th 2021](./past/2021/fasting-4)
 
-All broadcasts will take place at 11 AM CAT, except for the final session. We will inform you before each live broadcast of the verses of the Noble Quran that will be discussed so that you can be able to study these before each session.
-
-We will share with you excerpts from the book entitled _<a href="https://zahrapublications.pub/book-TransformativeWorshipInIslam.php#bookTitle" target="_blank">Transformative Worship: Experiencing Perfection</a>_ on the matter of Fasting or '_Sawm_'. We will be sharing an excerpt from this book each week on Friday. You will find each part below:
+During the month of Ramadan, we shared excerpts from the book _<a href="https://zahrapublications.pub/book-TransformativeWorshipInIslam.php#bookTitle" target="_blank">Transformative Worship: Experiencing Perfection</a>_ on the matter of Fasting or '_Sawm_'. You can find each part below:
 
 - [Part 1](/reflections/practice/fasting)
 - [Part 2](/reflections/practice/fasting/part-2)
 - [Part 3](/reflections/practice/fasting/part-3)
 - [Part 4](/reflections/practice/fasting/part-4)
-
-#### Discussions
-
-<div markdown="1" class="card article sidebar center">
-
-**Fasting & Ramadan in the Noble Quran - Part 4**<br/>
-_The Pathways Towards The Boundless_
-
-<div markdown="2" class="article-image">
-![Fasting & Ramadan in the Noble Quran](/assets/video-img/fasting_4.png)
-</div>
-
-<div markdown="3" class="article-para">
-**Premiering Tuesday May 11th 2021**<br/>
-In this fourth and final session, Shaykh Fadhlalla Haeri, Shaykh Saadi Shakur, and Dr. Adnan AlAdnani will be discussing _shari’a_: The Pathways to The Boundless.
-</div>
-
-<div markdown="3" class="article-link">
-[Catch Up](./upcoming/fasting-4)
-</div>
-
-</div>
 
 ## [Uncommon Dialogues](../videos/uncommon-dialogues)
 

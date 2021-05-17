@@ -123,6 +123,8 @@ nav:
         - 'Buddha at the Gas Pump': 'gatherings/past/2021/batgap.md'
         - 'Fasting Part 3': 'gatherings/past/2021/fasting-3.md'
         - 'Fasting Part 4': 'gatherings/past/2021/fasting-4.md'
+        - 'Eid ul Fitr': 'gatherings/past/2021/eid-ul-fitr.md'
+        - 'Universal Quran 1': 'gatherings/past/2021/universal-quran.md'
     - Messages:
       - 'COVID-19': 'gatherings/messages/index.md'
   - Videos:
@@ -133,6 +135,7 @@ nav:
     - Review: 'videos/review.md'
     - Uncommon Dialogues: 'videos/uncommon-dialogues.md'
     - Qur’an:
+      - 'The Universal Message': 'videos/quran/universal-message.md'
       - 'Human Duty and Destiny': 'videos/quran/duty-destiny.md'
       - 'Qur’an and Happiness': 'videos/quran/quran-happiness.md'
       - 'The Verse of Light': 'videos/quran/verse-of-light.md'
@@ -146,7 +149,6 @@ nav:
       - '2020 - Reflections and Actions': 'videos/conferences/2020.md'
     - Conversations:
         - 'Highwood': 'videos/conversations/highwood.md'
-        - 'Living Qur’an': 'videos/conversations/living-quran.md'
         - 'Collected Interactions': 'videos/conversations/collected.md'
         - 'Ultimate Contentment': 'videos/conversations/ultimate-contentment.md'
   - Audios:

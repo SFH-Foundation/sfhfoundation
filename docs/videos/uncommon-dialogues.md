@@ -127,79 +127,13 @@ This section includes four conversations with Syed Haider Mehdi, most of which r
 
 <div markdown="1" class="clear"></div>
 
-## Ubudiya and Ruhaniyya
-
-<div class="callout">
-Personal awareness of life is the starting point of experiencing life in its infinite boundless reality.
-</div>
-
-Shaykh Fadhlalla's discussions with Dr Adnan Al-Adnani continue in a section of their own, entitled [Living Qur'an](../conversations/living-quran).
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Reflections on Ubudiya & Ruhaniyya](/assets/video-img/sfh_foundation.jpg)
-</div>
-
-**Part 1**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=Q_TF_U8jKX8">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Reflections on Ubudiya & Ruhaniyya](/assets/video-img/sfh_foundation.jpg)
-</div>
-
-**Part 2**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=cyVqbbMSop0">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Selected Āyāt From The Qur'an](/assets/video-img/sfh_foundation.jpg)
-</div>
-
-**Selected Āyāt From The Qur'an**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=Gzj7mO8ejrg">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Qur'an, Faith and Life](/assets/video-img/sfh_foundation.jpg)
-</div>
-
-**The Qur'an, Faith and Life**
-
-<div markdown="3" class="video-link">
-<a href="https://youtu.be/iMLektJvhrE" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="clear"></div>
-
 ## Clear Insight
 
 <div class="callout">
 The more insight we have, the greater will be our foresight.
 </div>
 
-This section includes a conversation between Shaykh Saadi Dr. Neil Douglas Klotz, two discussions with Amir Freiman, and another dialogue with Haider Mehdi.
+This section includes a conversation with Shaykh Saadi Dr. Neil Douglas Klotz, many discussions with Amir Freiman, and another dialogue with Haider Mehdi.
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -232,6 +166,20 @@ This section includes a conversation between Shaykh Saadi Dr. Neil Douglas Klotz
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![The Path To Fulfillment](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**The Path To Fulfillment**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=MfuW7HswOpk">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Surrender and Transcendence](/assets/video-img/sfh_foundation.jpg)
 </div>
 
@@ -246,13 +194,27 @@ This section includes a conversation between Shaykh Saadi Dr. Neil Douglas Klotz
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Path To Fulfillment](/assets/video-img/sfh_foundation.jpg)
+![Living Transcendence](/assets/video-img/sfh_foundation.jpg)
 </div>
 
-**The Path To Fulfillment**
+**Living Transcendence**
 
 <div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=MfuW7HswOpk">Watch</a>
+<a href="https://www.youtube.com/watch?v=kBNN7vreFMc" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Living Transcendence](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**Living Transcendence Part 2**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/o33FuXxHdbA" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>
@@ -402,20 +364,6 @@ We make allowance for our earthly limitations whilst evolving towards our origin
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Living Transcendence](/assets/video-img/sfh_foundation.jpg)
-</div>
-
-**Living Transcendence**
-
-<div markdown="3" class="video-link">
-<a href="https://www.youtube.com/watch?v=kBNN7vreFMc" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
 ![The Process Of Spiritual Transformation](/assets/video-img/sfh_foundation.jpg)
 </div>
 
@@ -507,6 +455,72 @@ We make allowance for our earthly limitations whilst evolving towards our origin
 
 <div markdown="3" class="video-link">
 <a target="_blank" href="https://www.youtube.com/watch?v=biriCpNfZ8s">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
+
+## Ubudiya and Ruhaniyya
+
+<div class="callout">
+Personal awareness of life is the starting point of experiencing life in its infinite boundless reality.
+</div>
+
+Shaykh Fadhlalla's discussions with Dr Adnan Al-Adnani continue in a section of their own, entitled [Living Qur'an](../conversations/living-quran).
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Reflections on Ubudiya & Ruhaniyya](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**Part 1**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=Q_TF_U8jKX8">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Reflections on Ubudiya & Ruhaniyya](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**Part 2**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=cyVqbbMSop0">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Selected Āyāt From The Qur'an](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**Selected Āyāt From The Qur'an**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=Gzj7mO8ejrg">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Qur'an, Faith and Life](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**The Qur'an, Faith and Life**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/iMLektJvhrE" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>

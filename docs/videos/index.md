@@ -149,6 +149,48 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![Universal Qu'ran](/assets/video-img/uq.jpg)
+</div>
+
+**Universal Qu'ran Part 1**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/FnLUqkqlHRI" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Pathways To The Boundless](/assets/video-img/fasting_4.png)
+</div>
+
+**The Pathways To The Boundless**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/w8y6XYxvSdU" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Buddha At The Gas Pump](/assets/video-img/batgap.png)
+</div>
+
+**Buddha At The Gas Pump**
+
+<div markdown="3" class="video-link">
+<a href="https://www.youtube.com/watch?v=7DqJ1g2qp_M" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![The Ultimate Destiny](/assets/video-img/fasting_3.png)
 </div>
 
@@ -268,48 +310,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 <div markdown="3" class="video-link">
 <a href="https://youtu.be/EZGSFY7TJq0" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Qur'an, Faith and Life](/assets/video-img/sfh_quran_faith_life.png)
-</div>
-
-**The Qur'an, Faith and Life**
-
-<div markdown="3" class="video-link">
-<a href="https://youtu.be/iMLektJvhrE" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Human Crisis - Bleakness & Hope](/assets/video-img/sfh_bleakness_hope.png)
-</div>
-
-**The Human Crisis - Bleakness & Hope**
-
-<div markdown="3" class="video-link">
-<a href="https://www.youtube.com/watch?v=_cuDO8kAsBI" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Human Creation: Its Nature and Direction](/assets/video-img/sfh_noble_quran.png)
-</div>
-
-**Human Creation: Its Nature and Direction**
-
-<div markdown="3" class="video-link">
-<a href="https://www.youtube.com/watch?v=GIcbm7YO640" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>
