@@ -149,6 +149,20 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![When Two Oceans Meet](/assets/video-img/two-oceans.jpg)
+</div>
+
+**When Two Oceans Meet**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/QsDGX3LIRp0" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Universal Qu'ran](/assets/video-img/uq.jpg)
 </div>
 
@@ -296,20 +310,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 <div markdown="3" class="video-link">
 <a href="https://www.youtube.com/watch?v=MdTchFnJ-FI" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Humanity in Unity](/assets/video-img/urgency_journey_unity.jpg)
-</div>
-
-**Humanity in Unity**
-
-<div markdown="3" class="video-link">
-<a href="https://youtu.be/EZGSFY7TJq0" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>

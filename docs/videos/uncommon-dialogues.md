@@ -59,6 +59,20 @@ The purpose of human life is complete when total harmony between body, mind and 
 
 </div>
 
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![When Two Oceans Meet](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**When Two Oceans Meet**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/QsDGX3LIRp0" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
 <div markdown="1" class="clear"></div>
 
 ## Sufi Encounters

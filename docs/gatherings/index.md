@@ -22,24 +22,11 @@ Here, you can keep up to date with all our latest events. Make sure to subscribe
 
 Shaykh Fadhlalla and Seyyed Hossein Nasr have been friends for many years. They both share interesting parallels in their lives. Both come from families with strong connections to religious and spiritual backgrounds. Both started their educational careers in the sciences. Both found their way to Sufism through their spiritual journeys.
 
-Shaykh Fadhlalla has long been an admirer of Seyyed Hossein Nasr whom he requested to write a brief biography of the Prophet (PBUH) Muhammad, entitled _Man of Allah_. This book was originally published by the Muhammadi Trust on behalf of Zahra Publications. Seyyed Hossein Nasr has also kindly written the introductions for a number of books written by Shaykh Fadhlalla.
-
-The relationship between these individuals is of mutual respect and admiration. As a friend of Shaykh Fadhlalla said, this is a ‘meeting of the two oceans’, hence the title 'When Two Oceans Meet'.
-
-Muna Haeri Bilgrami will be the host and moderator of this dialogue, leading the conversation, under the umbrella of Sufism in the East & West, through related subjects like Islam and the environment; death as a transition of states; and advice for the younger seeker.
-
-Do join us for this most important conversation between spiritual masters.
-
-The live session will be broadcast on:  
-
-**May 20, 2021**  
-**11 AM US Eastern Time, and 05:00 PM Central African Time.**
+Please savour this most important conversation between spiritual masters.
 
 <div markdown="3" class="article-link">
-<a href="https://youtu.be/QsDGX3LIRp0" target="_blank" rel="noopener noreferrer">Set Reminder</a>
+<a href="./past/2021/two-oceans-meet">Watch Now</a>
 </div>
-
-After the live broadcast, the edited programme will Premiere on May 29, 2021 at 12:00 PM Central African Time.
 
 ## Universal Qur’an
 
