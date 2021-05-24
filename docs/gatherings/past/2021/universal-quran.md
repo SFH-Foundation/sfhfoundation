@@ -4,9 +4,11 @@ description: Two talks focused on the launch of the book 'Universal Quran'. Shay
 image: /assets/images/uq.png
 ---
 
-<iframe class="video-frame" src="https://www.youtube.com/embed/FnLUqkqlHRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video-frame-half" src="https://www.youtube.com/embed/FnLUqkqlHRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Livestreamed on May 16th 2021***
+<iframe class="video-frame-half" src="https://www.youtube.com/embed/np9bvFWqVnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Livestreamed on May 16th and May 23rd 2021**
 
 This is the age where we need regular spiritual recharge and awakening to the truth within our hearts.
 
@@ -20,4 +22,6 @@ The miracle of the Noble Qur’an is that its verses repeatedly reveal the seaml
 
 This book will be discussed over two sessions, where Shaykh Saadi Shakur, Syed Haider Mehdi, and Dr. Adnan AlAdnani will engage with Shaykh Fadhlalla to discuss the 'wise commentary and rendering of these verses as a wake-up call for all humanity, regardless of belief or philosophy of life'.
 
-<img src="/assets/images/uq.png" />
+<a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/uq.png" />
+</a>

@@ -42,13 +42,10 @@ The selected verses help with personal transformation and the rise in consciousn
 
 The miracle of the Noble Qur’an is that its verses repeatedly reveal the seamless connection between the infinite, unseen, cosmic lights with finite, relative, and limited earthly consciousness. This selection of key verses is universally useful for all times and for all people for every moment in the human journey.  
 
-This book will be discussed over two sessions, where Shaykh Saadi Shakur, Syed Haider Mehdi, and Dr. Adnan AlAdnani will engage with Shaykh Fadhlalla to discuss the 'wise commentary and rendering of these verses as a wake-up call for all humanity, regardless of belief or philosophy of life'.
-
-**May 16 & 23, 2021**<br/>
-12 PM Central African Time
+This book was discussed over two sessions, where Shaykh Saadi Shakur, Syed Haider Mehdi, and Dr. Adnan AlAdnani engaged with Shaykh Fadhlalla to discuss the 'wise commentary and rendering of these verses as a wake-up call for all humanity, regardless of belief or philosophy of life'.
 
 <div markdown="3" class="article-link">
-<a href="./past/2021/universal-quran">Watch</a>
+<a href="./past/2021/universal-quran">Catch Up</a>
 </div>
 
 ## Special Broadcast for Eid ul Fitr

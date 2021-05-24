@@ -149,6 +149,20 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![Universal Qu'ran](/assets/video-img/uq.jpg)
+</div>
+
+**Universal Qu'ran Part 2**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/np9bvFWqVnU" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![When Two Oceans Meet](/assets/video-img/two-oceans.jpg)
 </div>
 
@@ -296,20 +310,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 <div markdown="3" class="video-link">
 <a href="https://www.youtube.com/watch?v=kBNN7vreFMc" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Experience of Death Confirms Eternal Life](/assets/video-img/sfh_foundation.jpg)
-</div>
-
-**Experience of Death Confirms Eternal Life**
-
-<div markdown="3" class="video-link">
-<a href="https://www.youtube.com/watch?v=MdTchFnJ-FI" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>

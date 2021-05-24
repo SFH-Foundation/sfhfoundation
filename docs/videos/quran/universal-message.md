@@ -52,13 +52,13 @@ A penetrating discussion of insights into the mysteries of our existence and hum
 
 The Noble Qur’an is universal and useful at all times and for all people. This belief motivated Shaykh Fadhlalla Haeri to select the verses that are clearly universal. Shaykh Fadhlalla rendered the meanings of the verses in an easily accessible way for the modern reader. The verses selected are renderings of the inner meaning, rather than a traditional translation.
 
-The present needs of human beings in this day and age require more reference to the Source of creation, and Divine Light – which are largely Meccan verses, of which this book presents a selection.
+The present needs of human beings in this day and age require more reference to the Source of creation, and Divine Light – which are largely Meccan verses, of which <a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">The Universal Quran</a> presents a selection.
 
 The selected verses help with personal transformation and the rise in consciousness and Universal Truth, rather than with relationship, community, law, and other aspects of conduct to help recharge spiritually.
 
 The miracle of the Noble Qur’an is that its verses repeatedly reveal the seamless connection between the infinite, unseen, cosmic lights with finite, relative, and limited earthly consciousness. This selection of key verses is universally useful for all times and for all people for every moment in the human journey. 
 
-<div markdown="1" class="card video sidebar center gemoji center-content center-card">
+<div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
 ![Universal Qu'ran](/assets/video-img/uq.jpg)
@@ -68,6 +68,20 @@ The miracle of the Noble Qur’an is that its verses repeatedly reveal the seaml
 
 <div markdown="3" class="video-link">
 <a href="https://youtu.be/FnLUqkqlHRI" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Universal Qu'ran](/assets/video-img/uq.jpg)
+</div>
+
+**Universal Qu'ran Part 2**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/np9bvFWqVnU" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>
@@ -108,4 +122,7 @@ The quest for excellence and perfection emanates from the soul, whose nature and
 
 </div>
 
+<a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/uq.png" />
+</a>
 
