@@ -16,6 +16,53 @@ Here, you can keep up to date with all our latest events. Make sure to subscribe
 [Gatherings](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1173)
 </div>
 
+## Universal Qur’an
+
+This is the age where we need regular spiritual recharge and awakening to the truth within our hearts.
+
+The Noble Qur’an is universal and useful at all times and for all people. This belief motivated Shaykh Fadhlalla Haeri to select the verses that are clearly universal. Shaykh Fadhlalla rendered the meanings of the verses in an easily accessible way for the modern reader. The verses selected are renderings of the inner meaning, rather than a traditional translation.
+
+The present needs of human beings in this day and age require more reference to the Source of creation, and Divine Light – which are largely Meccan verses, of which this book presents a selection.
+
+The selected verses help with personal transformation and the rise in consciousness and Universal Truth, rather than with relationship, community, law, and other aspects of conduct to help recharge spiritually.
+
+The miracle of the Noble Qur’an is that its verses repeatedly reveal the seamless connection between the infinite, unseen, cosmic lights with finite, relative, and limited earthly consciousness. This selection of key verses is universally useful for all times and for all people for every moment in the human journey.  
+
+### Next Talk
+
+Shaykh Saadi Shakur, Syed Haider Mehdi, and Dr. Adnan AlAdnani will continue to engage with Shaykh Fadhlalla, discussing the 'wise commentary and rendering of these verses as a wake-up call for all humanity, regardless of belief or philosophy of life'. You can set a reminder for the next talk, or catch up with previous ones by following the links below. The next talk is scheduled for:
+
+**June 5, 2021**<br/>
+**12pm Central African Time**
+
+<div markdown="3" class="article-link">
+<a href="https://youtu.be/ybWUDWe8pso">Set Reminder</a>
+</div>
+
+This third session of the ongoing conversation with Shaykh Fadhlalla Haeri on the <a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">Universal Quran</a> will again be moderated by Syed Haider Mehdi. Shaykh Fadhlalla will outline some key matters framing the future series of discussions on the <a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">Universal Quran</a> in which the six chapters of this book will be unpacked.
+
+In our contemporary world where race, religion, culture, and other human characteristics meet, connect, fuse, overlap and clash, so many challenges regarding faith, belief, and metaphysical issues present themselves.
+
+The Abrahamic traditions are the result of thousands of prophets and messengers coming to guide humankind, culminating with the Prophet Muhammad (PBUH), whose gift of the Noble Qur’an is of universal value.
+
+The potent message of the Qur’an connects infinite, unseen, cosmic lights with finite, relative, and limited earthly consciousness.
+
+The miracle of the Qur’an is that its verses repeatedly reveal the seamless connection between heavenly powers and earthly limitations.
+
+The <a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">Universal Quran: Selected Verses for All Times</a> is an attempt to present key verses which are universally useful for all times and for all people for every moment in the human journey.
+
+The selections made reflect the major themes of existential reality – eternal life manifesting in cyclicality and dualities, the layered consciousness and the arc of its trajectory, the keys to wholesome living, all embedded in the web of cosmic oneness and reflected in the human embodiment of awakening.
+
+### Previous Talks
+
+<div markdown="3" class="article-link">
+<a href="./past/2021/universal-quran">Catch Up</a>
+</div>
+
+<a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/uq.png" />
+</a>
+
 ## When Two Oceans Meet
 
 ### A Conversation Between Seyyed Hossein Nasr & Shaykh Fadhlalla Haeri
@@ -28,40 +75,6 @@ Please savour this most important conversation between spiritual masters.
 <a href="./past/2021/two-oceans-meet">Watch Now</a>
 </div>
 
-## Universal Qur’an
-
-<img src="/assets/images/uq.png" />
-
-This is the age where we need regular spiritual recharge and awakening to the truth within our hearts.
-
-The Noble Qur’an is universal and useful at all times and for all people. This belief motivated Shaykh Fadhlalla Haeri to select the verses that are clearly universal. Shaykh Fadhlalla rendered the meanings of the verses in an easily accessible way for the modern reader. The verses selected are renderings of the inner meaning, rather than a traditional translation.
-
-The present needs of human beings in this day and age require more reference to the Source of creation, and Divine Light – which are largely Meccan verses, of which this book presents a selection.
-
-The selected verses help with personal transformation and the rise in consciousness and Universal Truth, rather than with relationship, community, law, and other aspects of conduct to help recharge spiritually.
-
-The miracle of the Noble Qur’an is that its verses repeatedly reveal the seamless connection between the infinite, unseen, cosmic lights with finite, relative, and limited earthly consciousness. This selection of key verses is universally useful for all times and for all people for every moment in the human journey.  
-
-This book was discussed over two sessions, where Shaykh Saadi Shakur, Syed Haider Mehdi, and Dr. Adnan AlAdnani engaged with Shaykh Fadhlalla to discuss the 'wise commentary and rendering of these verses as a wake-up call for all humanity, regardless of belief or philosophy of life'.
-
-<div markdown="3" class="article-link">
-<a href="./past/2021/universal-quran">Catch Up</a>
-</div>
-
-## Special Broadcast for Eid ul Fitr
-
-With the state of the COVID pandemic in South Africa and internationally we would highly recommend taking all necessary social distance precautions in doing the Eid ul Fitr Prayers. While these are best done as congregational prayers, we are giving our subscribers the option of doing this online. 
-
-Eid ul Fitr in 2021 is a time of reflection, rejoicing, and gratitude. Ramadan 2021 has been a time to renew our commitment to service. Please ensure you give your Fitrah or set it aside which in South Africa is R48 & Fidayah R12 per member of your household before you commence your prayer.  
-
-While traditionally we would start with prayers followed by a short sermon, this year we will start with a brief talk by Shaykh Fadhlalla Haeri, followed by the prayer and a short Khutbah led by Imam Nusrah Cassiem. 
-
-You can rewatch the Eid ul Fitr celebrations by clicking below:
-
-<div markdown="3" class="article-link">
-<a href="./past/2021/eid-ul-fitr">Watch</a>
-</div>
-
 ## Fasting & Ramadan in the Noble Quran 
 
 <div class="center-text">
@@ -72,13 +85,6 @@ You can rewatch the Eid ul Fitr celebrations by clicking below:
 2. [Saturday 24th April 2021](./past/2021/fasting-2)
 3. [Saturday 8th May 2021](./past/2021/fasting-3)
 4. [Tuesday May 11th 2021](./past/2021/fasting-4)
-
-During the month of Ramadan, we shared excerpts from the book _<a href="https://zahrapublications.pub/book-TransformativeWorshipInIslam.php#bookTitle" target="_blank">Transformative Worship: Experiencing Perfection</a>_ on the matter of Fasting or '_Sawm_'. You can find each part below:
-
-- [Part 1](/reflections/practice/fasting)
-- [Part 2](/reflections/practice/fasting/part-2)
-- [Part 3](/reflections/practice/fasting/part-3)
-- [Part 4](/reflections/practice/fasting/part-4)
 
 ## [Uncommon Dialogues](../videos/uncommon-dialogues)
 

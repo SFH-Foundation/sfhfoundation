@@ -32,7 +32,16 @@ The next verse refers to the fast of Mary, mother of Jesus, who was ordered to r
 
 **So eat and drink and refresh the eye. Then if you see any mortal, say: Surely I have vowed a fast to the Beneficent God, so I shall not speak to any man today. (19:26)**
 
-## Ramadan Fast verses
+## Resources
+
+During the month of Ramadan, we shared excerpts from the book _<a href="https://zahrapublications.pub/book-TransformativeWorshipInIslam.php#bookTitle" target="_blank">Transformative Worship: Experiencing Perfection</a>_ on the matter of Fasting or '_Sawm_'. You can find each part below:
+
+- [Part 1](/reflections/practice/fasting)
+- [Part 2](/reflections/practice/fasting/part-2)
+- [Part 3](/reflections/practice/fasting/part-3)
+- [Part 4](/reflections/practice/fasting/part-4)
+
+## Ramadan Fast Verses
 
 <a href="https://quran.com/2/183" target="_blank" rel="noopener noreferrer">2:183</a>
 
