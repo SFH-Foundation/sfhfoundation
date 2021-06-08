@@ -26,34 +26,7 @@ The present needs of human beings in this day and age require more reference to 
 
 The selected verses help with personal transformation and the rise in consciousness and Universal Truth, rather than with relationship, community, law, and other aspects of conduct to help recharge spiritually.
 
-The miracle of the Noble Qur’an is that its verses repeatedly reveal the seamless connection between the infinite, unseen, cosmic lights with finite, relative, and limited earthly consciousness. This selection of key verses is universally useful for all times and for all people for every moment in the human journey.  
-
-### Next Talk
-
-Shaykh Saadi Shakur, Syed Haider Mehdi, and Dr. Adnan AlAdnani will continue to engage with Shaykh Fadhlalla, discussing the 'wise commentary and rendering of these verses as a wake-up call for all humanity, regardless of belief or philosophy of life'. You can set a reminder for the next talk, or catch up with previous ones by following the links below. The next talk is scheduled for:
-
-**June 5, 2021**<br/>
-**12pm Central African Time**
-
-<div markdown="3" class="article-link">
-<a href="https://youtu.be/ybWUDWe8pso">Set Reminder</a>
-</div>
-
-This third session of the ongoing conversation with Shaykh Fadhlalla Haeri on the <a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">Universal Quran</a> will again be moderated by Syed Haider Mehdi. Shaykh Fadhlalla will outline some key matters framing the future series of discussions on the <a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">Universal Quran</a> in which the six chapters of this book will be unpacked.
-
-In our contemporary world where race, religion, culture, and other human characteristics meet, connect, fuse, overlap and clash, so many challenges regarding faith, belief, and metaphysical issues present themselves.
-
-The Abrahamic traditions are the result of thousands of prophets and messengers coming to guide humankind, culminating with the Prophet Muhammad (PBUH), whose gift of the Noble Qur’an is of universal value.
-
-The potent message of the Qur’an connects infinite, unseen, cosmic lights with finite, relative, and limited earthly consciousness.
-
-The miracle of the Qur’an is that its verses repeatedly reveal the seamless connection between heavenly powers and earthly limitations.
-
-The <a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">Universal Quran: Selected Verses for All Times</a> is an attempt to present key verses which are universally useful for all times and for all people for every moment in the human journey.
-
-The selections made reflect the major themes of existential reality – eternal life manifesting in cyclicality and dualities, the layered consciousness and the arc of its trajectory, the keys to wholesome living, all embedded in the web of cosmic oneness and reflected in the human embodiment of awakening.
-
-### Previous Talks
+The miracle of the Noble Qur’an is that its verses repeatedly reveal the seamless connection between the infinite, unseen, cosmic lights with finite, relative, and limited earthly consciousness. This selection of key verses is universally useful for all times and for all people for every moment in the human journey. 
 
 <div markdown="3" class="article-link">
 <a href="./past/2021/universal-quran">Catch Up</a>

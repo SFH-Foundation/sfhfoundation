@@ -4,11 +4,31 @@ description: Two talks focused on the launch of the book 'Universal Quran'. Shay
 image: /assets/images/uq.png
 ---
 
+In our contemporary world where race, religion, culture, and other human characteristics meet, connect, fuse, overlap and clash, so many challenges regarding faith, belief, and metaphysical issues present themselves.
+
+The Abrahamic traditions are the result of thousands of prophets and messengers coming to guide humankind, culminating with the Prophet Muhammad (PBUH), whose gift of the Noble Qur’an is of universal value.
+
+The potent message of the Qur’an connects infinite, unseen, cosmic lights with finite, relative, and limited earthly consciousness.
+
+The miracle of the Qur’an is that its verses repeatedly reveal the seamless connection between heavenly powers and earthly limitations.
+
+The <a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">Universal Quran: Selected Verses for All Times</a> is an attempt to present key verses which are universally useful for all times and for all people for every moment in the human journey.
+
+The selections made reflect the major themes of existential reality – eternal life manifesting in cyclicality and dualities, the layered consciousness and the arc of its trajectory, the keys to wholesome living, all embedded in the web of cosmic oneness and reflected in the human embodiment of awakening.
+
 <iframe class="video-frame-half" src="https://www.youtube.com/embed/FnLUqkqlHRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe class="video-frame-half" src="https://www.youtube.com/embed/np9bvFWqVnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Livestreamed on May 16th and May 23rd 2021**
+Shaykh Saadi Shakur, Syed Haider Mehdi, and Dr. Adnan AlAdnani continued to engage with Shaykh Fadhlalla, discussing the 'wise commentary and rendering of these verses as a wake-up call for all humanity, regardless of belief or philosophy of life'.
+
+Shaykh Fadhlalla outlined some key matters framing the future series of discussions on the <a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">Universal Quran</a> in which the six chapters of this book will be unpacked.
+
+<iframe class="video-frame" src="https://www.youtube.com/embed/ybWUDWe8pso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Livestreamed on May 16th, May 23rd, and June 5th 2021**
+
+## Background
 
 This is the age where we need regular spiritual recharge and awakening to the truth within our hearts.
 

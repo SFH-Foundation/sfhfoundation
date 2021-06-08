@@ -152,6 +152,20 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 ![Universal Qu'ran](/assets/video-img/uq.jpg)
 </div>
 
+**Universal Qu'ran Part 3**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/ybWUDWe8pso" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Universal Qu'ran](/assets/video-img/uq.jpg)
+</div>
+
 **Universal Qu'ran Part 2**
 
 <div markdown="3" class="video-link">
@@ -296,20 +310,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 <div markdown="3" class="video-link">
 <a href="https://www.youtube.com/watch?v=2HhFeG-CJ9U" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Living Transcendence](/assets/video-img/living_transcendence.jpg)
-</div>
-
-**Living Transcendence**
-
-<div markdown="3" class="video-link">
-<a href="https://www.youtube.com/watch?v=kBNN7vreFMc" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>
