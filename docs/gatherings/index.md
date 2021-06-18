@@ -16,6 +16,36 @@ Here, you can keep up to date with all our latest events. Make sure to subscribe
 [Gatherings](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1173)
 </div>
 
+## [Uncommon Dialogues](../videos/uncommon-dialogues)
+
+This series of virtual talks has been extended due to their warm reception. The discussions have included speakers like Dr. Ali Allawi, Shaykh Saadi Shakur Chisti Neil Douglas Klotz, Dr Adnan AlAdnani, Prof. Sadiyya Shaikh, Richard Eskow, Matthew Green, Syed Haider Mehdi and a number of other friends. Uncommon Dialogues cover a wide range of subjects during this pandemic, providing a message of hope, compassion and light.
+
+Join us from the comfort of your own home for the next talks, which you can find scheduled below. Follow the link provided to set a reminder for yourself when each talk premieres. 
+
+<div markdown="1" class="card article sidebar center">
+
+**Divine Love**
+
+<div markdown="2" class="article-image">
+![Living Transcendence](/assets/video-img/live-transcend.png)
+</div>
+
+<div markdown="3" class="article-para">
+**Premiering on Friday 18th June 2021**<br/>
+**2h30PM Central African Time**<br/>
+
+As part of the Uncommon Dialogue Series of talks the SFH Foundation is very pleased to announce a very special conversation between Shaykh Fadhlalla Haeri and <a href="https://www.illuminatedcourses.com" target="_blank" rel="noopener noreferrer">Prof. Omid Safi</a>. This is a session in which the passages of the Qur’an, and the mystical sayings of the Prophet, will be discussed in the context of “Divine Love.” 
+
+The conversation will be moderated by Muna Haeri Bilgrami.
+
+</div>
+
+<div markdown="3" class="article-link">
+<a href="https://youtu.be/wPDt0Fk4-nw" target="_blank" rel="noopener noreferrer">Set Reminder</a>
+</div>
+
+</div>
+
 ## Universal Qur’an
 
 This is the age where we need regular spiritual recharge and awakening to the truth within our hearts.
@@ -26,10 +56,22 @@ The present needs of human beings in this day and age require more reference to 
 
 The selected verses help with personal transformation and the rise in consciousness and Universal Truth, rather than with relationship, community, law, and other aspects of conduct to help recharge spiritually.
 
-The miracle of the Noble Qur’an is that its verses repeatedly reveal the seamless connection between the infinite, unseen, cosmic lights with finite, relative, and limited earthly consciousness. This selection of key verses is universally useful for all times and for all people for every moment in the human journey. 
+The miracle of the Noble Qur’an is that its verses repeatedly reveal the seamless connection between the infinite, unseen, cosmic lights with finite, relative, and limited earthly consciousness. This selection of key verses is universally useful for all times and for all people for every moment in the human journey.
+
+### Previous Sessions
 
 <div markdown="3" class="article-link">
 <a href="./past/2021/universal-quran">Catch Up</a>
+</div>
+
+### Session 4
+
+The next talk will take place on **Saturday 19th June 2021** at **12PM CAT**.
+
+This talk will be devoted to unpacking verses from the six chapters of the Universal Quran. Do join us for this important session in which the conversation will cover relevant issues facing humankind and the importance and relevance of the Noble Quran. 
+
+<div markdown="3" class="article-link">
+<a href="https://youtu.be/pC0v6ymlcJI" target="_blank">Set Reminder</a>
 </div>
 
 <a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">
@@ -58,36 +100,6 @@ Please savour this most important conversation between spiritual masters.
 2. [Saturday 24th April 2021](./past/2021/fasting-2)
 3. [Saturday 8th May 2021](./past/2021/fasting-3)
 4. [Tuesday May 11th 2021](./past/2021/fasting-4)
-
-## [Uncommon Dialogues](../videos/uncommon-dialogues)
-
-This series of virtual talks has been extended due to their warm reception. The discussions have included speakers like Dr. Ali Allawi, Shaykh Saadi Shakur Chisti Neil Douglas Klotz, Dr Adnan AlAdnani, Prof. Sadiyya Shaikh, Richard Eskow, Matthew Green, Syed Haider Mehdi and a number of other friends. Uncommon Dialogues cover a wide range of subjects during this pandemic, providing a message of hope, compassion and light.
-
-Join us from the comfort of your own home for the next talks, which you can find scheduled below. Follow the link provided to set a reminder for yourself when each talk premieres. 
-
-<div markdown="1" class="card article sidebar center">
-
-**Living Transcendence Part 2**
-
-<div markdown="2" class="article-image">
-![Living Transcendence](/assets/video-img/live-transcend.png)
-</div>
-
-<div markdown="3" class="article-para">
-**Premiered on Wednesday 5th May 2021**<br/>
-**8PM Central African Time**<br/>
-
-This is the second session of a conversation between Shaykh Fadhlalla Haeri and Amir Freimann. This session focuses on matters related to wholeness and love. Two most interesting subjects. This wonderful session is worth watching a number of times.
-
-Please note that we had some minor technical matters which were resolved after the first five minutes of the broadcast. We apologise for this. 
-
-</div>
-
-<div markdown="3" class="article-link">
-<a href="https://youtu.be/o33FuXxHdbA" target="_blank" rel="noopener noreferrer">Catch Up</a>
-</div>
-
-</div>
 
 ## Buddha At The Gas Pump
 
