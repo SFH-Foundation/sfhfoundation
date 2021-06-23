@@ -147,21 +147,7 @@ This section includes four conversations with Syed Haider Mehdi, most of which r
 The more insight we have, the greater will be our foresight.
 </div>
 
-This section includes a conversation with Shaykh Saadi Dr. Neil Douglas Klotz, many discussions with Amir Freiman, and another dialogue with Haider Mehdi.
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Insights of Divinity Through Humanity](/assets/video-img/sfh_foundation.jpg)
-</div>
-
-**Divinity Through Humanity**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=mEDEk0Pjato">Watch</a>
-</div>
-
-</div>
+This section includes a conversation with Shaykh Saadi Dr. Neil Douglas Klotz, many discussions with Amir Freiman, and dialogues with Professor Omid Safi and Syed Haider Mehdi.
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -229,6 +215,34 @@ This section includes a conversation with Shaykh Saadi Dr. Neil Douglas Klotz, m
 
 <div markdown="3" class="video-link">
 <a href="https://youtu.be/o33FuXxHdbA" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Insights of Divinity Through Humanity](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**Divinity Through Humanity**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=mEDEk0Pjato">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Divine Love](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**Divine Love**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/wPDt0Fk4-nw" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>

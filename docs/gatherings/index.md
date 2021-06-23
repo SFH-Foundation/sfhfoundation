@@ -27,21 +27,20 @@ Join us from the comfort of your own home for the next talks, which you can find
 **Divine Love**
 
 <div markdown="2" class="article-image">
-![Living Transcendence](/assets/video-img/live-transcend.png)
+![Living Transcendence](/assets/video-img/divine_love.png)
 </div>
 
 <div markdown="3" class="article-para">
-**Premiering on Friday 18th June 2021**<br/>
-**2h30PM Central African Time**<br/>
+**Premiered on Friday 18th June 2021**<br/>
 
-As part of the Uncommon Dialogue Series of talks the SFH Foundation is very pleased to announce a very special conversation between Shaykh Fadhlalla Haeri and <a href="https://www.illuminatedcourses.com" target="_blank" rel="noopener noreferrer">Prof. Omid Safi</a>. This is a session in which the passages of the Qur’an, and the mystical sayings of the Prophet, will be discussed in the context of “Divine Love.” 
+As part of the Uncommon Dialogue Series of talks the SFH Foundation hosted a very special conversation between Shaykh Fadhlalla Haeri and <a href="https://www.illuminatedcourses.com" target="_blank" rel="noopener noreferrer">Prof. Omid Safi</a>. This was a session in which the passages of the Qur’an, and the mystical sayings of the Prophet, were discussed in the context of “Divine Love.” 
 
-The conversation will be moderated by Muna Haeri Bilgrami.
+The conversation was be moderated by Muna Haeri Bilgrami.
 
 </div>
 
 <div markdown="3" class="article-link">
-<a href="https://youtu.be/wPDt0Fk4-nw" target="_blank" rel="noopener noreferrer">Set Reminder</a>
+<a href="https://youtu.be/wPDt0Fk4-nw" target="_blank" rel="noopener noreferrer">Catch Up</a>
 </div>
 
 </div>
@@ -66,12 +65,12 @@ The miracle of the Noble Qur’an is that its verses repeatedly reveal the seaml
 
 ### Session 4
 
-The next talk will take place on **Saturday 19th June 2021** at **12PM CAT**.
+The last talk took place on **Saturday 19th June 2021**.
 
-This talk will be devoted to unpacking verses from the six chapters of the Universal Quran. Do join us for this important session in which the conversation will cover relevant issues facing humankind and the importance and relevance of the Noble Quran. 
+This talk was devoted to unpacking verses from the six chapters of the Universal Quran. 
 
 <div markdown="3" class="article-link">
-<a href="https://youtu.be/pC0v6ymlcJI" target="_blank">Set Reminder</a>
+<a href="https://youtu.be/pC0v6ymlcJI" target="_blank">Catch Up</a>
 </div>
 
 <a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">

@@ -22,11 +22,13 @@ The selections made reflect the major themes of existential reality – eternal 
 
 Shaykh Saadi Shakur, Syed Haider Mehdi, and Dr. Adnan AlAdnani continued to engage with Shaykh Fadhlalla, discussing the 'wise commentary and rendering of these verses as a wake-up call for all humanity, regardless of belief or philosophy of life'.
 
-Shaykh Fadhlalla outlined some key matters framing the future series of discussions on the <a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">Universal Quran</a> in which the six chapters of this book will be unpacked.
+Shaykh Fadhlalla outlined some key matters framing the future series of discussions on the <a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">Universal Quran</a>. The fourth talk then began to unpack the six chapters of this unique book.
 
-<iframe class="video-frame" src="https://www.youtube.com/embed/ybWUDWe8pso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video-frame-half" src="https://www.youtube.com/embed/ybWUDWe8pso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Livestreamed on May 16th, May 23rd, and June 5th 2021**
+<iframe class="video-frame-half" src="https://www.youtube.com/embed/pC0v6ymlcJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Livestreamed on May 16th, May 23rd, June 5th, and June 19th 2021**
 
 ## Background
 

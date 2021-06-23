@@ -152,6 +152,34 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 ![Universal Qu'ran](/assets/video-img/uq.jpg)
 </div>
 
+**Universal Qu'ran Part 4**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/pC0v6ymlcJI" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Divine Love](/assets/video-img/divine_love.png)
+</div>
+
+**Divine Love**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/wPDt0Fk4-nw" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Universal Qu'ran](/assets/video-img/uq.jpg)
+</div>
+
 **Universal Qu'ran Part 3**
 
 <div markdown="3" class="video-link">
@@ -282,34 +310,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 <div markdown="3" class="video-link">
 <a href="https://www.youtube.com/watch?v=iOKM-lVQ_T8" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Fasting - Part 1](/assets/video-img/fasting_1.jpg)
-</div>
-
-**Fasting & Ramadan in the Noble Quran - Part 1**
-
-<div markdown="3" class="video-link">
-<a href="https://www.youtube.com/watch?v=dHKzGza5VZ8" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Hope is the Elixir to the Eternal](/assets/video-img/hope_elixir.png)
-</div>
-
-**Hope is the Elixir to the Eternal**
-
-<div markdown="3" class="video-link">
-<a href="https://www.youtube.com/watch?v=2HhFeG-CJ9U" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>
