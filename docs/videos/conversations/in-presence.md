@@ -1,0 +1,53 @@
+---
+title: In Presence - Private Talks
+description: A selection of personal dialogues for close students.
+image: assets/images/sfh_door.jpg
+---
+
+These talks occurred in a less public context and were conducted between Shayklh Fadhlalla and some close friends. Please do not share these widely, but rather use them only as aids to awaken to the light of your own soul.
+
+## Videos
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![In Presence](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**Honesty, Loyalty and You**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=pNkWjuWa1mQ">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![In Presence](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**Questions To Ask Before You Die**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=20bK6XqX6F0">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![In Presence](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**Celebrating the Infinite and Eternal**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=z0wnPGPd2Bc">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
