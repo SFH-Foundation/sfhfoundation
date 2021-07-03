@@ -28,7 +28,11 @@ Shaykh Fadhlalla outlined some key matters framing the future series of discussi
 
 <iframe class="video-frame-half" src="https://www.youtube.com/embed/pC0v6ymlcJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Livestreamed on May 16th, May 23rd, June 5th, and June 19th 2021**
+The format for the fifth talk changed slightly, revolving around specific verses from the six chapters of the Universal Quran selected by Syed Haider Mehdi.
+
+<iframe class="video-frame-half" src="https://www.youtube.com/embed/IT3vmzIaPHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Livestreamed on May 16th, May 23rd, June 5th, June 19th, July 3rd 2021**
 
 ## Background
 

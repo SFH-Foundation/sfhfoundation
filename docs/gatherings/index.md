@@ -16,6 +16,28 @@ Here, you can keep up to date with all our latest events. Make sure to subscribe
 [Gatherings](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1173)
 </div>
 
+## Universal Qur’an
+
+This is the age where we need regular spiritual recharge and awakening to the truth within our hearts.
+
+The Noble Qur’an is universal and useful at all times and for all people. This belief motivated Shaykh Fadhlalla Haeri to select the verses that are clearly universal. Shaykh Fadhlalla rendered the meanings of the verses in an easily accessible way for the modern reader. The verses selected are renderings of the inner meaning, rather than a traditional translation.
+
+The present needs of human beings in this day and age require more reference to the Source of creation, and Divine Light – which are largely Meccan verses, of which this book presents a selection.
+
+The selected verses help with personal transformation and the rise in consciousness and Universal Truth, rather than with relationship, community, law, and other aspects of conduct to help recharge spiritually.
+
+The miracle of the Noble Qur’an is that its verses repeatedly reveal the seamless connection between the infinite, unseen, cosmic lights with finite, relative, and limited earthly consciousness. This selection of key verses is universally useful for all times and for all people for every moment in the human journey.
+
+<a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/uq.png" />
+</a>
+
+### Previous Sessions
+
+<div markdown="3" class="article-link">
+<a href="./past/2021/universal-quran">Catch Up</a>
+</div>
+
 ## [Uncommon Dialogues](../videos/uncommon-dialogues)
 
 This series of virtual talks has been extended due to their warm reception. The discussions have included speakers like Dr. Ali Allawi, Shaykh Saadi Shakur Chisti Neil Douglas Klotz, Dr Adnan AlAdnani, Prof. Sadiyya Shaikh, Richard Eskow, Matthew Green, Syed Haider Mehdi and a number of other friends. Uncommon Dialogues cover a wide range of subjects during this pandemic, providing a message of hope, compassion and light.
@@ -44,38 +66,6 @@ The conversation was be moderated by Muna Haeri Bilgrami.
 </div>
 
 </div>
-
-## Universal Qur’an
-
-This is the age where we need regular spiritual recharge and awakening to the truth within our hearts.
-
-The Noble Qur’an is universal and useful at all times and for all people. This belief motivated Shaykh Fadhlalla Haeri to select the verses that are clearly universal. Shaykh Fadhlalla rendered the meanings of the verses in an easily accessible way for the modern reader. The verses selected are renderings of the inner meaning, rather than a traditional translation.
-
-The present needs of human beings in this day and age require more reference to the Source of creation, and Divine Light – which are largely Meccan verses, of which this book presents a selection.
-
-The selected verses help with personal transformation and the rise in consciousness and Universal Truth, rather than with relationship, community, law, and other aspects of conduct to help recharge spiritually.
-
-The miracle of the Noble Qur’an is that its verses repeatedly reveal the seamless connection between the infinite, unseen, cosmic lights with finite, relative, and limited earthly consciousness. This selection of key verses is universally useful for all times and for all people for every moment in the human journey.
-
-### Previous Sessions
-
-<div markdown="3" class="article-link">
-<a href="./past/2021/universal-quran">Catch Up</a>
-</div>
-
-### Session 4
-
-The last talk took place on **Saturday 19th June 2021**.
-
-This talk was devoted to unpacking verses from the six chapters of the Universal Quran. 
-
-<div markdown="3" class="article-link">
-<a href="https://youtu.be/pC0v6ymlcJI" target="_blank">Catch Up</a>
-</div>
-
-<a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/uq.png" />
-</a>
 
 ## When Two Oceans Meet
 

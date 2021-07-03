@@ -114,6 +114,20 @@ The miracle of the Noble Qur’an is that its verses repeatedly reveal the seaml
 
 </div>
 
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Universal Qu'ran](/assets/video-img/uq.jpg)
+</div>
+
+**Universal Qu'ran Part 5**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/IT3vmzIaPHk" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
 <div markdown="1" class="clear"></div>
 
 ## Selected Surahs
