@@ -149,6 +149,20 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![The Tripod](/assets/video-img/tripod.png)
+</div>
+
+**The Tripod Part 1**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/JHV5_Wh-TlQ" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Universal Qu'ran](/assets/video-img/uq.jpg)
 </div>
 
@@ -296,20 +310,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 <div markdown="3" class="video-link">
 <a href="https://youtu.be/o33FuXxHdbA" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Peak Consciousness Living](/assets/video-img/fasting_2.png)
-</div>
-
-**Peak Consciousness Living**
-
-<div markdown="3" class="video-link">
-<a href="https://www.youtube.com/watch?v=KwVB3j5c6mk" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>

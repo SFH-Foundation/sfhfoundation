@@ -164,7 +164,9 @@ The quest for excellence and perfection emanates from the soul, whose nature and
 
 </div>
 
+<div markdown="1" class="clear"></div>
+
 <a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/uq.png" />
+    <img src="/assets/images/uq.png" class="uq-img" />
 </a>
 

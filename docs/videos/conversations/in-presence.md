@@ -4,11 +4,11 @@ description: A selection of personal dialogues for close students.
 image: assets/images/sfh_door.jpg
 ---
 
-These talks occurred in a less public context and were conducted between Shayklh Fadhlalla and some close friends. Please do not share these widely, but rather use them only as aids to awaken to the light of your own soul.
+These talks occurred in a less public context and were conducted between Shayklh Fadhlalla and some close friends. Please do not share these widely.
 
 ## In Presence Shorts
 
-The first two YouTube shorts describe the Tripod to bring us each into the infinitude of this moment right now, and a further dive into the very nature of time itself.
+The first two YouTube shorts describe the Tripod to bring us each into the infinitude of this moment right now, and a further dive into the nature of time.
 
 <iframe class="video-frame-half" src="https://www.youtube.com/embed/n26ZnSTwvgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -24,4 +24,6 @@ PoeKu is an unrhymed poem that Shaykh Fadhlalla created using Haiku-like form. I
 
 ## Short Videos
 
-<iframe class="video-frame" src="https://www.youtube.com/embed/0emlEE3sgXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video-frame-half" src="https://www.youtube.com/embed/0emlEE3sgXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe class="video-frame-half" src="https://www.youtube.com/embed/Y1TKQRT85lY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

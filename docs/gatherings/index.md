@@ -16,6 +16,43 @@ Here, you can keep up to date with all our latest events. Make sure to subscribe
 [Gatherings](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1173)
 </div>
 
+## Universal Qur’an
+
+This is the age where we need regular spiritual recharge and awakening to the truth within our hearts.
+
+The Noble Qur’an is universal and useful at all times and for all people. This belief motivated Shaykh Fadhlalla Haeri to select the verses that are clearly universal. Shaykh Fadhlalla rendered the meanings of the verses in an easily accessible way for the modern reader. The verses selected are renderings of the inner meaning, rather than a traditional translation.
+
+The present needs of human beings in this day and age require more reference to the Source of creation, and Divine Light – which are largely Meccan verses, of which this book presents a selection.
+
+The selected verses help with personal transformation and the rise in consciousness and Universal Truth, rather than with relationship, community, law, and other aspects of conduct to help recharge spiritually.
+
+The miracle of the Noble Qur’an is that its verses repeatedly reveal the seamless connection between the infinite, unseen, cosmic lights with finite, relative, and limited earthly consciousness. This selection of key verses is universally useful for all times and for all people for every moment in the human journey.
+
+<a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">
+    <img src="/assets/images/uq.png" class="uq-img" />
+</a>
+
+### Previous Sessions
+
+<div markdown="3" class="article-link">
+<a href="./past/2021/universal-quran">Catch Up</a>
+</div>
+
+### Next Session
+
+The panel for our next session will again include Shaykh Fadhlalla Haeri, Shaykh Saadi Shakur, Dr. Adnan Al Adnani and Muna Haeri Bilgrami. Syed Haider Mehdi will moderate the session.  
+
+The session will discuss selected verses from the book <a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">_Universal Quran Selected Verses for All Times_</a>.
+
+Do join us for this session which will be held on
+
+**Saturday, July 17, 2021**  
+**12 PM Central African Time**
+
+<div markdown="3" class="article-link">
+<a href="https://youtu.be/DH9squjy3IU" target="_blank">Catch Up</a>
+</div>
+
 ## The Tripod
 
 The Tripod consists of:
@@ -35,35 +72,10 @@ The Tripod brings you to the instant. The perfect infinitude of this moment. Tha
 
 > “Whatever you’re doing, know that it has equal and opposite cause and effect, action and reaction. Nothing ever escapes, so you need to be truly accountable, responsible, and aware that nothing ever is missed. So (be) present, present, present, in the moment. Do what you like to do, whatever you can do that’s helpful, but be sure that your action is as good as your accountability for people growing back to where they came from or to discover their own goals”.
 
-Richard Eskow will interview Shaykh Fadhlalla who has agreed to unpack The Tripod over three sessions. This first session will focus on being present and being accountable. Do join us for what promises to be an interesting series of talks.
-
-**Saturday, July 10, 2021**  
-**12 PM Central African Time**  
+Richard Eskow will interview Shaykh Fadhlalla who has agreed to unpack The Tripod over three sessions. This first session focused on being present and being accountable. You can catch up by clicking the link below.
 
 <div markdown="3" class="article-link">
-<a href="https://youtu.be/JHV5_Wh-TlQ" target="_blank">Set Reminder</a>
-</div>
-
-## Universal Qur’an
-
-This is the age where we need regular spiritual recharge and awakening to the truth within our hearts.
-
-The Noble Qur’an is universal and useful at all times and for all people. This belief motivated Shaykh Fadhlalla Haeri to select the verses that are clearly universal. Shaykh Fadhlalla rendered the meanings of the verses in an easily accessible way for the modern reader. The verses selected are renderings of the inner meaning, rather than a traditional translation.
-
-The present needs of human beings in this day and age require more reference to the Source of creation, and Divine Light – which are largely Meccan verses, of which this book presents a selection.
-
-The selected verses help with personal transformation and the rise in consciousness and Universal Truth, rather than with relationship, community, law, and other aspects of conduct to help recharge spiritually.
-
-The miracle of the Noble Qur’an is that its verses repeatedly reveal the seamless connection between the infinite, unseen, cosmic lights with finite, relative, and limited earthly consciousness. This selection of key verses is universally useful for all times and for all people for every moment in the human journey.
-
-<a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">
-    <img src="/assets/images/uq.png" />
-</a>
-
-### Previous Sessions
-
-<div markdown="3" class="article-link">
-<a href="./past/2021/universal-quran">Catch Up</a>
+<a href="https://youtu.be/JHV5_Wh-TlQ" target="_blank">Catch Up</a>
 </div>
 
 ## [Uncommon Dialogues](../videos/uncommon-dialogues)
@@ -85,7 +97,7 @@ Join us from the comfort of your own home for the next talks, which you can find
 
 As part of the Uncommon Dialogue Series of talks the SFH Foundation hosted a very special conversation between Shaykh Fadhlalla Haeri and <a href="https://www.illuminatedcourses.com" target="_blank" rel="noopener noreferrer">Prof. Omid Safi</a>. This was a session in which the passages of the Qur’an, and the mystical sayings of the Prophet, were discussed in the context of “Divine Love.” 
 
-The conversation was be moderated by Muna Haeri Bilgrami.
+The conversation was moderated by Muna Haeri Bilgrami.
 
 </div>
 

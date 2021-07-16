@@ -126,6 +126,7 @@ nav:
         - 'Eid ul Fitr': 'gatherings/past/2021/eid-ul-fitr.md'
         - 'Universal Quran': 'gatherings/past/2021/universal-quran.md'
         - 'When Two Oceans Meet': 'gatherings/past/2021/two-oceans-meet.md'
+        - 'The Tripod': 'gatherings/past/2021/the-tripod.md'
     - Messages:
       - 'COVID-19': 'gatherings/messages/index.md'
   - Videos:
@@ -150,7 +151,7 @@ nav:
       - '2020 - Reflections and Actions': 'videos/conferences/2020.md'
     - Conversations:
         - 'Highwood': 'videos/conversations/highwood.md'
-        - 'Collected Interactions': 'videos/conversations/collected.md'
+        - 'Presents': 'videos/conversations/collected.md'
         - 'Ultimate Contentment': 'videos/conversations/ultimate-contentment.md'
   - Audios:
     - 'Guide': 'audios/index.md'
