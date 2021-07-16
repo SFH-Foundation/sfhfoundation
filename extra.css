@@ -289,9 +289,19 @@
   }
 }
 
+.uq-img {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+}
+
 @media (max-width: 761px) {
   .hero-img {
     height: 16vh;
+  }
+
+  .uq-img {
+    width: 90%;
   }
 
   .quran {
