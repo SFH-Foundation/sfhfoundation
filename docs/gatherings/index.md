@@ -38,21 +38,6 @@ The miracle of the Noble Qur’an is that its verses repeatedly reveal the seaml
 <a href="./past/2021/universal-quran">Catch Up</a>
 </div>
 
-### Next Session
-
-The panel for our next session will again include Shaykh Fadhlalla Haeri, Shaykh Saadi Shakur, Dr. Adnan Al Adnani and Muna Haeri Bilgrami. Syed Haider Mehdi will moderate the session.  
-
-The session will discuss selected verses from the book <a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">_Universal Quran Selected Verses for All Times_</a>.
-
-Do join us for this session which will be held on
-
-**Saturday, July 17, 2021**  
-**12 PM Central African Time**
-
-<div markdown="3" class="article-link">
-<a href="https://youtu.be/DH9squjy3IU" target="_blank">Catch Up</a>
-</div>
-
 ## The Tripod
 
 The Tripod consists of:
