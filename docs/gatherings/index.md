@@ -16,6 +16,38 @@ Here, you can keep up to date with all our latest events. Make sure to subscribe
 [Gatherings](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1173)
 </div>
 
+## [Uncommon Dialogues](../videos/uncommon-dialogues)
+
+This series of virtual talks has been extended due to their warm reception. The discussions have included speakers like Dr. Ali Allawi, Shaykh Saadi Shakur Chisti Neil Douglas Klotz, Dr Adnan AlAdnani, Prof. Sadiyya Shaikh, Richard Eskow, Matthew Green, Syed Haider Mehdi and a number of other friends. Uncommon Dialogues cover a wide range of subjects during this pandemic, providing a message of hope, compassion and light.
+
+Join us from the comfort of your own home for the next talks, which you can find scheduled below. Follow the link provided to set a reminder for yourself when each talk premieres. 
+
+<div markdown="1" class="card article sidebar center">
+
+**Celebrating the Eternal**
+
+<div markdown="2" class="article-image">
+![Celebrating the Eternal](/assets/video-img/celebrating_eternal.png)
+</div>
+
+<div markdown="3" class="article-para">
+**Streaming Live on Saturday 31st July 2021**<br/>
+**4 PM Central African Time, 3 PM UK, 10 AM EST**<br/>
+
+We are pleased to announce a conversation between Shaykh Fadhlalla Haeri and Haji Mustafa Ali. 
+
+This powerful and free flowing conversation between Shaykh Fadhlalla & Haji Mustafa will cover faith & spirituality from a universal and comprehensive viewpoint. The discussion will consider the world today, the story of creation, life and death and how to find greater goodness and thereby reduce suffering while celebrating the Eternal. 
+
+The conversation will be moderated by Muna Haeri Bilgrami.
+
+</div>
+
+<div markdown="3" class="article-link">
+<a href="https://youtu.be/yALNAy3FmjA" target="_blank" rel="noopener noreferrer">Set Reminder</a>
+</div>
+
+</div>
+
 ## Universal Qur’an
 
 This is the age where we need regular spiritual recharge and awakening to the truth within our hearts.
@@ -61,35 +93,6 @@ Richard Eskow will interview Shaykh Fadhlalla who has agreed to unpack The Tripo
 
 <div markdown="3" class="article-link">
 <a href="https://youtu.be/JHV5_Wh-TlQ" target="_blank">Catch Up</a>
-</div>
-
-## [Uncommon Dialogues](../videos/uncommon-dialogues)
-
-This series of virtual talks has been extended due to their warm reception. The discussions have included speakers like Dr. Ali Allawi, Shaykh Saadi Shakur Chisti Neil Douglas Klotz, Dr Adnan AlAdnani, Prof. Sadiyya Shaikh, Richard Eskow, Matthew Green, Syed Haider Mehdi and a number of other friends. Uncommon Dialogues cover a wide range of subjects during this pandemic, providing a message of hope, compassion and light.
-
-Join us from the comfort of your own home for the next talks, which you can find scheduled below. Follow the link provided to set a reminder for yourself when each talk premieres. 
-
-<div markdown="1" class="card article sidebar center">
-
-**Divine Love**
-
-<div markdown="2" class="article-image">
-![Living Transcendence](/assets/video-img/divine_love.png)
-</div>
-
-<div markdown="3" class="article-para">
-**Premiered on Friday 18th June 2021**<br/>
-
-As part of the Uncommon Dialogue Series of talks the SFH Foundation hosted a very special conversation between Shaykh Fadhlalla Haeri and <a href="https://www.illuminatedcourses.com" target="_blank" rel="noopener noreferrer">Prof. Omid Safi</a>. This was a session in which the passages of the Qur’an, and the mystical sayings of the Prophet, were discussed in the context of “Divine Love.” 
-
-The conversation was moderated by Muna Haeri Bilgrami.
-
-</div>
-
-<div markdown="3" class="article-link">
-<a href="https://youtu.be/wPDt0Fk4-nw" target="_blank" rel="noopener noreferrer">Catch Up</a>
-</div>
-
 </div>
 
 ## When Two Oceans Meet
