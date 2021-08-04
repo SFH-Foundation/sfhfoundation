@@ -147,7 +147,7 @@ This section includes four conversations with Syed Haider Mehdi, most of which r
 The more insight we have, the greater will be our foresight.
 </div>
 
-This section includes a conversation with Shaykh Saadi Dr. Neil Douglas Klotz, many discussions with Amir Freiman, and dialogues with Professor Omid Safi and Syed Haider Mehdi.
+This section includes a conversation with Shaykh Saadi Dr. Neil Douglas Klotz, many discussions with Amir Freiman, and dialogues with Professor Omid Safi, Syed Haider Mehdi, and Haji Mustafa Ali.
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
@@ -243,6 +243,20 @@ This section includes a conversation with Shaykh Saadi Dr. Neil Douglas Klotz, m
 
 <div markdown="3" class="video-link">
 <a href="https://youtu.be/wPDt0Fk4-nw" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Celebrating the Eternal](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**Celebrating the Eternal**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/yALNAy3FmjA" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>

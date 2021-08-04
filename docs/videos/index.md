@@ -149,6 +149,20 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![Celebrating the Eternal](/assets/video-img/celebrating_eternal.png)
+</div>
+
+**Celebrating the Eternal**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/yALNAy3FmjA" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Universal Quran](/assets/video-img/uq.jpg)
 </div>
 
@@ -296,20 +310,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 <div markdown="3" class="video-link">
 <a href="https://www.youtube.com/watch?v=7DqJ1g2qp_M" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![The Ultimate Destiny](/assets/video-img/fasting_3.png)
-</div>
-
-**The Ultimate Destiny**
-
-<div markdown="3" class="video-link">
-<a href="https://youtu.be/PMhqc857mbg" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>

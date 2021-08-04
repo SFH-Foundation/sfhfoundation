@@ -31,19 +31,17 @@ Join us from the comfort of your own home for the next talks, which you can find
 </div>
 
 <div markdown="3" class="article-para">
-**Streaming Live on Saturday 31st July 2021**<br/>
+**Streamed Live on Saturday 31st July 2021**<br/>
 **4 PM Central African Time, 3 PM UK, 10 AM EST**<br/>
 
-We are pleased to announce a conversation between Shaykh Fadhlalla Haeri and Haji Mustafa Ali. 
+This powerful and free flowing conversation between Shaykh Fadhlalla & Haji Mustafa covered faith & spirituality from a universal and comprehensive viewpoint. The discussion considered the world today, the story of creation, life and death and how to find greater goodness and thereby reduce suffering while celebrating the Eternal. 
 
-This powerful and free flowing conversation between Shaykh Fadhlalla & Haji Mustafa will cover faith & spirituality from a universal and comprehensive viewpoint. The discussion will consider the world today, the story of creation, life and death and how to find greater goodness and thereby reduce suffering while celebrating the Eternal. 
-
-The conversation will be moderated by Muna Haeri Bilgrami.
+The conversation was be moderated by Muna Haeri Bilgrami.
 
 </div>
 
 <div markdown="3" class="article-link">
-<a href="https://youtu.be/yALNAy3FmjA" target="_blank" rel="noopener noreferrer">Set Reminder</a>
+<a href="https://youtu.be/yALNAy3FmjA" target="_blank" rel="noopener noreferrer">Catch up</a>
 </div>
 
 </div>
