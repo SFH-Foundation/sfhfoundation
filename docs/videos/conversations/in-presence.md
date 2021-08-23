@@ -14,6 +14,9 @@ The first two YouTube shorts describe the Tripod to bring us each into the infin
 
 <iframe class="video-frame-half" src="https://www.youtube.com/embed/XadiifGe4XA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+These were followed by a brief conversation with Shaykh Fadhlalla on contentment and connection to the Eternal.
+
+<iframe class="video-frame-half" src="https://www.youtube.com/embed/CyM6sM9FEno" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Longer Dialogues
 
 <div markdown="1" class="card video sidebar center gemoji center-content">

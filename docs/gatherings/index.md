@@ -16,6 +16,18 @@ Here, you can keep up to date with all our latest events. Make sure to subscribe
 [Gatherings](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1173)
 </div>
 
+## Calibrating Muslim Mental Health
+
+<img src="/assets/images/muslim_mental_health.png" class="uq-img" />
+
+The SFH Foundation is pleased to announce this first talk which will be lead by Muna Bilgrami, and will extend into a series of conversations to be announced after this first pilot.
+
+This live broadcast is scheduled for **26 August 2021 at 12pm (South Africa) or 11am (UK)**.
+
+<div markdown="3" class="article-link">
+<a href="https://www.youtube.com/watch?v=DV5DdyQDwhg" target="_blank">Set Reminder</a>
+</div>
+
 ## [Uncommon Dialogues](../videos/uncommon-dialogues)
 
 This series of virtual talks has been extended due to their warm reception. The discussions have included speakers like Dr. Ali Allawi, Shaykh Saadi Shakur Chisti Neil Douglas Klotz, Dr Adnan AlAdnani, Prof. Sadiyya Shaikh, Richard Eskow, Matthew Green, Syed Haider Mehdi and a number of other friends. Uncommon Dialogues cover a wide range of subjects during this pandemic, providing a message of hope, compassion and light.
