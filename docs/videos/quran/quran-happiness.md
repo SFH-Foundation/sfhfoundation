@@ -10,7 +10,7 @@ These selected talks provide clarity and insight into the Qur'anic notions of il
 
 We all want happiness and we define happiness as desires achieved. When all desires are achieved, we say, ‘I am tranquil.’ Well, why can’t we be tranquil to begin with? Who made me have all these multitudinous desires? There are basic needs, but we don’t suffer from the lack of those basic things now, things such as shelter, clothes, food. It is ingrained in us, in our chromosomes, to keep the body alive as well as we can, in order to discover the purpose of it all – that is the purpose of living.    
 
-Man is the seeker of his cause. The closer he gets to it, the more he realizes that the basis of happiness is self-fulfilment. I am the one who decided that unless I have a job, with a good salary and a house, then I am not fulfilled. A man on the island off Malaysia different desires to mine, yet it is the same process in essence. It is the individual who decides. Fulfilled desires may brings us temporarily to a point of tranquility, but we want lasting tranquility. We all want peace. But if we do not have peace from within ourselves, we cannot have peace outside.
+Man is the seeker of his cause. The closer he gets to it, the more he realizes that the basis of happiness is self-fulfilment. I am the one who decided that unless I have a job, with a good salary and a house, then I am not fulfilled. A man on the island off Malaysia has different desires to mine, yet it is the same process in essence. It is the individual who decides. Fulfilled desires may bring us temporarily to a point of tranquility, but we want lasting tranquility. We all want peace. But if we do not have peace from within ourselves, we cannot have peace outside.
 
 Nothing and no one brings us happiness, it is the removal of unhappiness that takes place. I am poor. Now I inherit a fortune, and what happens? Poverty is removed. Money did not bring me happiness, it removed unhappiness. My unhappiness is different from anyone else’s. If I do not want belongings, then I suffer from having an excess of belongings, which is another way, more subtle and more difficult. ‘I don’t want anything. I’m going up to the mountain and I’m leaving all this behind!’ But you cannot run away from the world. You cannot run away from yourself. It all hinges on our relationship with the world, our mental attitude towards the world, our mental attachment to the world.
 
@@ -85,6 +85,8 @@ Nothing and no one brings us happiness, it is the removal of unhappiness that ta
 </div>
 
 </div>
+
+<div markdown="1" class="clear"></div>
 
 <div class="callout">
 Humanity is obsessed with its original nature—divinity and singularity. That is the root of all desires, passions and obsessions.

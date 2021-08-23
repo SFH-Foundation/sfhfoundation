@@ -106,7 +106,7 @@ The complete playlist can be found <a href="https://www.youtube.com/watch?v=kRMT
 
 Your Lord is the Ever-forgiving. Look at how much He loves you, that He gives you the option, but does not give Himself an option! You have the option of being an idiot, selfish, desirous, and leaving the inner joy of abandonment, of _jannah_ – you are allowed all this. But Allah will never reject you the moment you say, _‘Astaghfirullah’_ (beseeching His forgiveness). It all hinges on approaching your Lord with a wholesome heart. "_‘Idh jā’a rabbahu biqalbin salīm’_: When he (‘Ibrāhīm) came to his Lord with a sound heart" (Qur'an 37:84). A sound heart is a heart that is not attached, not stuck.
 
-<div markdown="1" class="card video sidebar center gemoji center-content">
+<div markdown="1" class="card video sidebar center gemoji  center-content center-card">
 
 <div markdown="2" class="video-image">
 ![State of Humanity](/assets/video-img/sfh_state_humanity.jpg)
@@ -119,6 +119,8 @@ Your Lord is the Ever-forgiving. Look at how much He loves you, that He gives yo
 </div>
 
 </div>
+
+<div markdown="1" class="clear"></div>
 
 <div class="callout">
 Human life is a short bridge that leads to the experience of the eternal nature of one’s own soul.
