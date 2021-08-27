@@ -47,20 +47,6 @@ Nothing and no one brings us happiness, it is the removal of unhappiness that ta
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![Surat al-Asr](/assets/video-img/sfh_asr_2.jpg)
-</div>
-
-**Surat al-Asr**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=PkRC0FXce1c&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=46">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
 ![Progress, Regress, and Elusive Happiness](/assets/video-img/sfh_elusive.jpg)
 </div>
 

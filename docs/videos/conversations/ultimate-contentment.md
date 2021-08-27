@@ -16,6 +16,22 @@ On this page, you will find 5 longer talks given by Shaykh Fadhlalla in Sweden i
 
 Some time ago, I was asked to give my first public talk on Muharram to a crowd of British Muslims. I prayed for inspiration, and that night had a wonderful dream. There was a fine black tent, stretching towards the horizon. I was taken inside and saw the Prophet (pbuh) and his family scattered in different parts of the tent. Imam Ali beckoned to me and said, ‘You wanted to talk to my sons, and here they are.’ Both Imam Hassan and Imam Hussein appeared, as young men, cheerfully exchanging pleasantries. I cautiously approached Imam Hussein and asked, ‘Do I have your permission to talk about your martyrdom?’ ‘Of course you can’, he replied, ‘but only if you depict me as you see me now; in perfect joy, in timeless bliss – not in any other way.’ 
 
+<div markdown="1" class="card video sidebar center gemoji  center-content center-card">
+
+<div markdown="2" class="video-image">
+![State of Humanity](/assets/video-img/sfh_timeless.jpg)
+</div>
+
+**The Quest for Contentment**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=ec4JwJWE-xE&list=PLzFr0xRIkb3gVfjRtai2-XBlvWVprgHqP&index=47">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
+
 ## Now – The Gateway of Eternity  
 
 Allah’s protection and care is forever covering us. It is only we who go to the past and resurrect the dead. That is why the true _mu’min_ regrets at the time, asks Allah’s forgiveness and moves on. We don’t constantly go and visit the scene of the crime. Expect the best of Allah and remember that one of His qualities as it is described in the Qur’an is _al-‘Afuw_. It is from the word _‘afā_. It means effacing, obliterating, or wiping out, and hence, to pardon. From the same root _‘afuw_ comes _‘āfiyah_, meaning wellbeing. The past doesn’t exist anymore because time, in reality, doesn’t exist. It is only as part of His ‘catchment’, so that we are in time and space yearning for non-time and non-space.      

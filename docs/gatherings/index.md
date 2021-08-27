@@ -18,14 +18,12 @@ Here, you can keep up to date with all our latest events. Make sure to subscribe
 
 ## Calibrating Muslim Mental Health
 
-<img src="/assets/images/muslim_mental_health.png" class="uq-img" />
+The SFH Foundation is pleased to present this first talk, which was be led by Muna Bilgrami, and will extend into a series of conversations to be announced soon.
 
-The SFH Foundation is pleased to announce this first talk which will be lead by Muna Bilgrami, and will extend into a series of conversations to be announced after this first pilot.
-
-This live broadcast is scheduled for **26 August 2021 at 12pm (South Africa) or 11am (UK)**.
+This talk was broadcast on **26 August 2021**.
 
 <div markdown="3" class="article-link">
-<a href="https://www.youtube.com/watch?v=DV5DdyQDwhg" target="_blank">Set Reminder</a>
+<a href="https://www.youtube.com/watch?v=Q8BhNYHPoXM" target="_blank">Catch Up</a>
 </div>
 
 ## [Uncommon Dialogues](../videos/uncommon-dialogues)
@@ -44,7 +42,6 @@ Join us from the comfort of your own home for the next talks, which you can find
 
 <div markdown="3" class="article-para">
 **Streamed Live on Saturday 31st July 2021**<br/>
-**4 PM Central African Time, 3 PM UK, 10 AM EST**<br/>
 
 This powerful and free flowing conversation between Shaykh Fadhlalla & Haji Mustafa covered faith & spirituality from a universal and comprehensive viewpoint. The discussion considered the world today, the story of creation, life and death and how to find greater goodness and thereby reduce suffering while celebrating the Eternal. 
 
@@ -70,15 +67,13 @@ The selected verses help with personal transformation and the rise in consciousn
 
 The miracle of the Noble Qur’an is that its verses repeatedly reveal the seamless connection between the infinite, unseen, cosmic lights with finite, relative, and limited earthly consciousness. This selection of key verses is universally useful for all times and for all people for every moment in the human journey.
 
+<div markdown="3" class="article-link">
+<a href="./past/2021/universal-quran">Previous Sessions</a>
+</div>
+
 <a href="https://zahrapublications.pub/book-UniversalQuran.php#bookTitle" target="_blank" rel="noopener noreferrer">
     <img src="/assets/images/uq.png" class="uq-img" />
 </a>
-
-### Previous Sessions
-
-<div markdown="3" class="article-link">
-<a href="./past/2021/universal-quran">Catch Up</a>
-</div>
 
 ## The Tripod
 
