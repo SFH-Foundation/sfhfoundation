@@ -39,6 +39,21 @@ This book is unique in that it has been narrated by Shaykh Fadhlalla Haeri, so i
     <img src="/assets/images/diff_same.jpg" class="uq-img" />
 </a>
 
+## Wholesome Life
+
+The Rasooli Centre on behalf of the SFH Foundation is pleased to invite you to a special discussion and Question & Answer session on:
+
+**“Wholesome Life“** with Shaykh Fadlalla Haeri and Advocate A B Mohamed SC, Yunus Ismail, Shameera Ayob; moderated and introduced by Ismail Kalla.
+
+This session was recorded live on Sunday, October 24, 2021 and is now available by clicking the button below.
+
+<div markdown="3" class="article-link">
+<a href="https://youtu.be/eJjdTflyKgI" target="_blank" rel="noopener noreferrer">Watch now</a>
+</div>
+
+We look forward to your feedback on this session.
+
+
 ## [Uncommon Dialogues](../videos/uncommon-dialogues)
 
 This series of virtual talks has been extended due to their warm reception. The discussions have included speakers like Dr. Ali Allawi, Shaykh Saadi Shakur Chisti Neil Douglas Klotz, Dr Adnan AlAdnani, Prof. Sadiyya Shaikh, Richard Eskow, Matthew Green, Syed Haider Mehdi and a number of other friends. Uncommon Dialogues cover a wide range of subjects during this pandemic, providing a message of hope, compassion and light.

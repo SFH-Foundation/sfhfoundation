@@ -55,6 +55,8 @@ This book is unique in that it has been narrated by Shaykh Fadhlalla Haeri, so i
     <img src="/assets/images/diff_same.jpg" class="uq-img" />
 </a>
 
+## All Titles
+
 <div markdown="1" class="zp-logo">
 ![All Book Titles](/assets/images/all-books.png)
 </div>
