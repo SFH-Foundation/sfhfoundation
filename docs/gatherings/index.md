@@ -16,6 +16,28 @@ Here, you can keep up to date with all our latest events. Make sure to subscribe
 [Gatherings](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1173)
 </div>
 
+## Transformation
+
+We would like to invite you to an event featuring Shaykh Fadhlalla Haeri hosted by *The Beyond Initiative of the Dances of Universal Peace*. 
+
+The event will have leaders from India, Iran, Israel and Turkey sharing a Dance of Universal Peace practice and a glimpse of the local spiritual flavour. Thereafter a Sohbet Panel with guides to deep dive into the subject of *Spiritual Bypass* and the cultivation of real transformational processes. 
+
+### Order of Events
+
+Thursday, December 2nd, starting 5pm GMT, or 7pm South African time. 
+
+5-6pm (GMT) - Auspicious Beginnings from India and Turkish Meshk.
+
+6-7:30pm (GMT) - Panel Discussion with Shaykh Fadhlallah Haeri/SFH Foundation/South Africa, Issa Baba/Chishti Order/Turkey, Saadi Neil Douglas Klotz/Abwoon Center/Scotland, Darvesha,/Sufi Ruhaniat/USA.
+
+7:30-8:30pm (GMT)- Persian ma’am and Sama from Iran and Hanukkah closing from Israel.
+
+In order to attend, you have to register. Please use the link below:
+
+<div markdown="3" class="article-link">
+<a href="https://us02web.zoom.us/meeting/register/tZMvcOutqz0tG9NeHTKHLHGpoSJj3Idh7aez" target="_blank" rel="noopener noreferrer">Register</a>
+</div>
+
 ## Differentiated Sameness
 
 We are pleased to announce the first Audiobook by Zahra Publications:
@@ -52,7 +74,6 @@ This session was recorded live on Sunday, October 24, 2021 and is now available 
 </div>
 
 We look forward to your feedback on this session.
-
 
 ## [Uncommon Dialogues](../videos/uncommon-dialogues)
 
