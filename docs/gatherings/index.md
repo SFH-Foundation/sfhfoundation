@@ -16,27 +16,28 @@ Here, you can keep up to date with all our latest events. Make sure to subscribe
 [Gatherings](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1173)
 </div>
 
-## Transformation
+## Path to Eternal Life
 
-We would like to invite you to an event featuring Shaykh Fadhlalla Haeri hosted by *The Beyond Initiative of the Dances of Universal Peace*. 
+Do join us for this most powerful and timely talk on the two aspects of life: the temporary and the eternal.
 
-The event will have leaders from India, Iran, Israel and Turkey sharing a Dance of Universal Peace practice and a glimpse of the local spiritual flavour. Thereafter a Sohbet Panel with guides to deep dive into the subject of *Spiritual Bypass* and the cultivation of real transformational processes. 
+In this brief but powerful talk on the light of The Holy Qur’an, Shaykh Fadhlalla Haeri uses <a target="_blank" href="https://quran.com/103">Surah Al-Asr</a>, the Chapter of Time, and two other powerful verses to provide a summation, conclusion, prescription and description of the Path to Eternal Life.
 
-### Order of Events
+Life appears in two zones: the earthly zone is temporary and begins with birth and ends in death. 
 
-Thursday, December 2nd, starting 5pm GMT, or 7pm South African time. 
+The second zone is one of permanence in which Life is forever because God is forever. 
 
-5-6pm (GMT) - Auspicious Beginnings from India and Turkish Meshk.
+Shaykh Fadhlalla explains the need to take reference from and calibrate with The Author, God. For unless you do that your role is that of the usurper. 
 
-6-7:30pm (GMT) - Panel Discussion with Shaykh Fadhlallah Haeri/SFH Foundation/South Africa, Issa Baba/Chishti Order/Turkey, Saadi Neil Douglas Klotz/Abwoon Center/Scotland, Darvesha,/Sufi Ruhaniat/USA.
+The Prescription on the Prophetic path is decoded from <a target="_blank" href="https://quran.com/33/45-46">Surah Ahzab, Ayat 45, 46</a>.
 
-7:30-8:30pm (GMT)- Persian ma’am and Sama from Iran and Hanukkah closing from Israel.
+The balance is accepting humanity but recognising felicity, joy & bliss - <a target="_blank" href="https://quran.com/11/108">Surah Hud, Ayat 108</a>.
 
-In order to attend, you have to register. Please use the link below:
+This talk will be broadcast on **Sunday, February 13, 2022** on YouTube at **2PM CAT, 12PM London and 7AM EST (US)**.
 
 <div markdown="3" class="article-link">
-<a href="https://us02web.zoom.us/meeting/register/tZMvcOutqz0tG9NeHTKHLHGpoSJj3Idh7aez" target="_blank" rel="noopener noreferrer">Register</a>
+<a href="https://youtu.be/QmUD2T1lbiA" target="_blank" rel="noopener noreferrer">Set Reminder</a>
 </div>
+
 
 ## Differentiated Sameness
 
