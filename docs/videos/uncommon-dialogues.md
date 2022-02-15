@@ -166,20 +166,6 @@ This section includes a conversation with Shaykh Saadi Dr. Neil Douglas Klotz, m
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
-![The Path To Fulfillment](/assets/video-img/sfh_foundation.jpg)
-</div>
-
-**The Path To Fulfillment**
-
-<div markdown="3" class="video-link">
-<a target="_blank" href="https://www.youtube.com/watch?v=MfuW7HswOpk">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
 ![Surrender and Transcendence](/assets/video-img/sfh_foundation.jpg)
 </div>
 
@@ -243,20 +229,6 @@ This section includes a conversation with Shaykh Saadi Dr. Neil Douglas Klotz, m
 
 <div markdown="3" class="video-link">
 <a href="https://youtu.be/wPDt0Fk4-nw" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Celebrating the Eternal](/assets/video-img/sfh_foundation.jpg)
-</div>
-
-**Celebrating the Eternal**
-
-<div markdown="3" class="video-link">
-<a href="https://youtu.be/yALNAy3FmjA" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>
@@ -563,6 +535,66 @@ Shaykh Fadhlalla's discussions with Dr Adnan Al-Adnani continue in a section of 
 
 <div markdown="3" class="video-link">
 <a href="https://youtu.be/iMLektJvhrE" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="clear"></div>
+
+## The Eternal Path
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Path To Fulfillment](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**The Path To Fulfillment**
+
+<div markdown="3" class="video-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=MfuW7HswOpk">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Pathways To The Boundless](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**The Pathways To The Boundless**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/w8y6XYxvSdU" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![The Path to Eternal Life](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**The Path to Eternal Life**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/QmUD2T1lbiA" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
+![Celebrating the Eternal](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**Celebrating the Eternal**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/yALNAy3FmjA" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>

@@ -149,6 +149,20 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 <div markdown="1" class="card video sidebar center gemoji center-content">
 
 <div markdown="2" class="video-image">
+![The Path to Eternal Life](/assets/video-img/sfh_foundation.jpg)
+</div>
+
+**The Path to Eternal Life**
+
+<div markdown="3" class="video-link">
+<a href="https://youtu.be/QmUD2T1lbiA" target="_blank" rel="noopener noreferrer">Watch</a>
+</div>
+
+</div>
+
+<div markdown="1" class="card video sidebar center gemoji center-content">
+
+<div markdown="2" class="video-image">
 ![Celebrating the Eternal](/assets/video-img/celebrating_eternal.png)
 </div>
 
@@ -296,20 +310,6 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 <div markdown="3" class="video-link">
 <a href="https://youtu.be/w8y6XYxvSdU" target="_blank" rel="noopener noreferrer">Watch</a>
-</div>
-
-</div>
-
-<div markdown="1" class="card video sidebar center gemoji center-content">
-
-<div markdown="2" class="video-image">
-![Buddha At The Gas Pump](/assets/video-img/batgap.png)
-</div>
-
-**Buddha At The Gas Pump**
-
-<div markdown="3" class="video-link">
-<a href="https://www.youtube.com/watch?v=7DqJ1g2qp_M" target="_blank" rel="noopener noreferrer">Watch</a>
 </div>
 
 </div>

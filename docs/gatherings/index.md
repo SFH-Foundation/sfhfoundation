@@ -16,6 +16,32 @@ Here, you can keep up to date with all our latest events. Make sure to subscribe
 [Gatherings](https://secure.majesticinteractive.co.za/agency3/bf.php?fid=1173)
 </div>
 
+## The "Nature Of" Series
+
+We are pleased to announce three conversations between Shaykh Fadhlalla Haeri and Haji Mustafa Ali David Sterling. **The Nature of the Self - The Confinement of Space & Time** will be the first of a series of talks in the 'Nature of' series.
+
+<div markdown="1" class="card article sidebar center">
+
+**The Nature of the Self**
+
+<div markdown="2" class="article-image">
+![The Nature of the Self](/assets/video-img/nature_of_self.png)
+</div>
+
+<div markdown="3" class="article-para">
+**Premiering on Sunday 20th February 2022**<br/>
+**4 PM Central African Time, 2 PM UK and 10 AM EST**<br/>
+
+This first session in the series is a particularly powerful conversation in which Shaykh Fadhlalla unpacks the Nature of the Self specifically within the confinement of Space & Time.
+
+</div>
+
+<div markdown="3" class="article-link">
+<a href="https://youtu.be/oY9QU3FreTc" target="_blank" rel="noopener noreferrer">Set Reminder</a>
+</div>
+
+</div>
+
 ## Path to Eternal Life
 
 Do join us for this most powerful and timely talk on the two aspects of life: the temporary and the eternal.
@@ -32,10 +58,10 @@ The Prescription on the Prophetic path is decoded from <a target="_blank" href="
 
 The balance is accepting humanity but recognising felicity, joy & bliss - <a target="_blank" href="https://quran.com/11/108">Surah Hud, Ayat 108</a>.
 
-This talk will be broadcast on **Sunday, February 13, 2022** on YouTube at **2PM CAT, 12PM London and 7AM EST (US)**.
+This talk was broadcast on **Sunday, February 13, 2022** on YouTube.
 
 <div markdown="3" class="article-link">
-<a href="https://youtu.be/QmUD2T1lbiA" target="_blank" rel="noopener noreferrer">Set Reminder</a>
+<a href="https://youtu.be/QmUD2T1lbiA" target="_blank" rel="noopener noreferrer">Watch Now</a>
 </div>
 
 
