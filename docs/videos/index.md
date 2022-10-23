@@ -28,6 +28,22 @@ This short series of 9 videos will give you a good introduction to Shaykh Fadhla
 
 </div>
 
+<div markdown="1" class="card article sidebar center">
+
+<div markdown="2" class="article-image">
+![Journeys](../reflections/img/sfh_journeys.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+This longer playlist is made up of 2-3 minute short videos meant to distill critical insights that will help you reflect on the truth and teachings inherent in your own experience.
+</div>
+
+<div markdown="3" class="article-link">
+<a target="_blank" href="https://www.youtube.com/watch?v=ZOQo6AjK7HQ&list=PL-Swj8fEF85KPX641HuPFNGkXSb2HJb8O">Reflect</a>
+</div>
+
+</div>
+
 ## [Reflect](./reflect)
 
 <div markdown="1" class="card video sidebar center gemoji center-content">
