@@ -278,6 +278,10 @@
     background-color: #fff;
   }
 
+  .md-tabs__inner {
+    text-align: center;
+  }
+
 @media (max-width: 1100px) {
   .home-side {
     display: block !important;
