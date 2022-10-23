@@ -18,7 +18,47 @@ Here, you can keep up to date with all our latest events. Make sure to subscribe
 
 ## The "Nature Of" Series
 
-We are pleased to announce three conversations between Shaykh Fadhlalla Haeri and Haji Mustafa Ali David Sterling. **The Nature of the Self - The Confinement of Space & Time** will be the first of a series of talks in the 'Nature of' series.
+We are pleased to announce three conversations between Shaykh Fadhlalla Haeri, Haji Mustafa Ali David Sterling.
+
+### The Nature of the World
+
+We are pleased to announce the second session in the three-part conversations between Shaykh Fadhlalla Haeri and Haji Mustafa Ali entitled 'The Nature of' Series. In this session Shaykh Fadhlalla Haeri and Haji Mustafa Ali are joined by Richard Eskow.  
+
+<div markdown="1" class="card article sidebar center">
+
+**The Nature of the World**
+
+<div markdown="2" class="article-image">
+![The Nature of the World](/assets/video-img/nature_world.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+**Premiering on Sunday, April 3, 2022**<br/>
+**5PM Central African Time, 4 PM UK and 11AM EST (US)**<br/>
+
+In this particularly powerful conversation Shaykh Fadhlalla unpacks **the Nature of the World specifically to do with the Reflective Book**.
+
+</div>
+
+<div markdown="3" class="article-link">
+<a href="https://youtu.be/XucDks7mehk" target="_blank" rel="noopener noreferrer">Set Reminder</a>
+</div>
+
+</div>
+
+The recording of this session had some minor technical issues due to the internet but we hope that you will benefit from this wonderful session on this most profound subject. 
+
+Sufi, mystic and visionary, Shaykh Fadhlalla Haeri is an enlightened spiritual master. His life and works serve as a reminder that spirituality is a science and an art vitally relevant to our times. 
+
+Hajj Mustafa Ali is an American Muslim, born of Jewish heritage, who has been devoted to the discovery of unity for over four decades. He has been a long-time student of Shaykh Fadhlalla Haeri and remained under his loving guidance and generous instruction. He has travelled throughout the world in search of truth and lived abroad, teaching and heading communities of seekers in Canada, the US, Pakistan, and South Africa. Haji Mustafa currently resides in Durham, North Carolina, USA. 
+
+Richard (RJ) Eskow is a freelance writer and the host of The Zero Hour, a weekly radio and TV program. He is also Senior Advisor for Health & Economic Justice at Social Security Works. He was the lead writer and editor for Bernie Sanders' 2016 presidential campaign. Richard is a former consultant, public policy advisor, and senior executive in the US and more than 20 foreign countries. His writings have appeared in a number of print and digital publications. 
+
+Do join us for this most interesting session.
+
+### The Nature of the Self
+
+This was the first of a series of talks in the 'Nature of' series.
 
 <div markdown="1" class="card article sidebar center">
 
@@ -29,7 +69,7 @@ We are pleased to announce three conversations between Shaykh Fadhlalla Haeri an
 </div>
 
 <div markdown="3" class="article-para">
-**Premiering on Sunday 20th February 2022**<br/>
+**Premiered on Sunday 20th February 2022**<br/>
 **4 PM Central African Time, 2 PM UK and 10 AM EST**<br/>
 
 This first session in the series is a particularly powerful conversation in which Shaykh Fadhlalla unpacks the Nature of the Self specifically within the confinement of Space & Time.
@@ -37,7 +77,7 @@ This first session in the series is a particularly powerful conversation in whic
 </div>
 
 <div markdown="3" class="article-link">
-<a href="https://youtu.be/oY9QU3FreTc" target="_blank" rel="noopener noreferrer">Set Reminder</a>
+<a href="https://youtu.be/oY9QU3FreTc" target="_blank" rel="noopener noreferrer">Watch Now</a>
 </div>
 
 </div>

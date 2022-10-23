@@ -12,13 +12,13 @@ For centuries human beings have clearly been pursuing a way of life that enables
 
 We are living in a world where the challenges we face as humanity are increasingly complex. Yet, our continuous drive towards higher consciousness and the desire to connect with others and live meaningful lives remains constant. We hope to present here how you can live a balanced existence, while experiencing higher consciousness. Every human being is a soul or spirit far greater than the limitations of the spacetime in which we must act.
 
-If you would like to subscribe to our mailing list and receive updates about our latest events, book releases, videos, podcasts and other gatherings, please fill in the form below:
+<!-- If you would like to subscribe to our mailing list and receive updates about our latest events, book releases, videos, podcasts and other gatherings, please fill in the form below:
 
 <div markdown="3" class="purchase-link">
 
 <a href="https://connect.sfhfoundation.com/bf.php?fid=1177" target="_blank">Subscribe</a>
 
-</div>
+</div> -->
 
 If you have any thoughts on how we can improve, or would like to ask a question and connect with us, please email us using the link below:
 
@@ -28,7 +28,7 @@ If you have any thoughts on how we can improve, or would like to ask a question 
 
 </div>
 
-# Join Our Community of Volunteers
+<!-- # Join Our Community of Volunteers
 
 The SFH Foundation is run on a volunteer basis. All this knowledge has been curated by a group of people committed to enlivening the hearts of any who happen across us. To stay up-to-date with our latest news, please subscribe here:
 
@@ -40,7 +40,7 @@ If you'd like to get involved, learn more about the Foundation's work, and help 
 
 <div class="callout">
 By working for a greater good or cause, you lift your status as a human being.
-</div>
+</div> -->
 
 ## Useful Links
 
