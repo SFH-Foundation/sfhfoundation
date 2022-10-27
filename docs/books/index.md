@@ -26,11 +26,11 @@ If you'd like to get further information about all the books we have available, 
 
 </div>
 
-<div markdown="3" class="purchase-link">
+<!-- <div markdown="3" class="purchase-link">
 
 <a href="mailto:zp@sfhfoundation.com?subject=SFH%20Foundation%20Website%20Contact">zp@sfhfoundation.com</a>
 
-</div>
+</div> -->
 
 ## Differentiated Sameness
 

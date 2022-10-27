@@ -43,12 +43,12 @@ The cosmology of the Self is predicated on the knowledge and experience of the i
     - discover the immensity and perfection of the moment 
     - navigate towards the lived application of the essential driving forces of life and their interplay.  
 
-For further information about The Academy of Self Knowledge and its activities, please send an email to:
+<!-- For further information about The Academy of Self Knowledge and its activities, please send an email to:
 
 <div markdown="3" class="purchase-link">
 
 <a href="mailto:ask@sfhfoundation.com?subject=SFH%20Foundation%20Website%20Contact">ask@sfhfoundation.com</a>
 
-</div>
+</div> -->
 
 ![Touching light](../assets/images/p21.jpeg)
