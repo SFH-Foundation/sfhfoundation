@@ -1,5 +1,5 @@
 # Project information
-site_name: SFH Foundation
+site_name: Shaykh Fadhlalla Haeri
 site_description: Self, soul, and joyful surrender
 
 # Specific to set up
@@ -49,9 +49,7 @@ plugins:
 extra:
   social:
     - type: 'facebook'
-      link: 'https://www.facebook.com/sfhfoundation/'
-    - type: 'twitter'
-      link: 'https://twitter.com/SFH_Foundation'
+      link: 'https://www.facebook.com/shaykhfadhlallahaeri?mibextid=ZbWKwL'
     - type: 'github'
       link: 'https://github.com/SFH-Foundation/sfhfoundation'
 
@@ -140,6 +138,7 @@ nav:
     - Pathways: 'videos/pathways.md'
     - Reflect: 'videos/reflect.md'
     - Review: 'videos/review.md'
+    - Patterns of Existence: 'videos/patterns-of-existence.md'
     - Uncommon Dialogues: 'videos/uncommon-dialogues.md'
     - Qur’an:
       - 'The Universal Message': 'videos/quran/universal-message.md'
@@ -291,11 +290,11 @@ nav:
   #   - 'Universality, Locality & The Human': 'articles/universality-locality-human.md'
   - Books:
     - Overview: 'books/index.md'
-  - ASK:
-    - 'Academy of Self Knowledge': 'ask/index.md'
-    - Glossary:
-      - 'Arabic Terms': 'glossary/index.md'
-      - 'Key Words': 'glossary/key-words.md'
-      - 'Journey Words': 'glossary/journey-words.md' 
+  # - ASK:
+  #   - 'Academy of Self Knowledge': 'ask/index.md'
+  #   - Glossary:
+  #     - 'Arabic Terms': 'glossary/index.md'
+  #     - 'Key Words': 'glossary/key-words.md'
+  #     - 'Journey Words': 'glossary/journey-words.md' 
   - Contact: 
     - 'Connect With Us': 'contact.md'

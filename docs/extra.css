@@ -204,8 +204,8 @@
   }
 
   .main-logo {
-    margin-top: -130px;
-    width: 95%;
+    margin-top: -250px;
+    width: 45%;
   }
 
   .callout-home {
@@ -369,6 +369,7 @@
   /* New Home styles */
   .main-logo {
     margin-top: 100px;
+    width: 80%;
   }
 
   .callout-home {
